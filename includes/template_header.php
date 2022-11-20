@@ -3,6 +3,16 @@ echo <<<EOT
 <!doctype html>
 <html lang="en">
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script data-ad-client="ca-pub-3289216252944204" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-620NT16SCQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-620NT16SCQ');
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=0.6">
 $metaKeywords 

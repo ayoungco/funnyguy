@@ -9,11 +9,11 @@ $metaDesc = '<meta name="description" content="Stick-figure comics about Funny G
 // switches and flags
 $activateArrowKeys = false;
 
-define("ROOT",	 "http://www.fgcomics.com/");
-define("DB_ADDRESS",	"interversal.chpbdpdleafb.us-east-2.rds.amazonaws.com");
-define("DB_USER",		"fgcomics");
-define("DB_PASS",		"i34tT6yH");
-define("DB_SCHEMA",		"fgcomics");
+define("ROOT",	 	"https://www.fgcomics.com/");
+define("DB_ADDRESS",	"dock.core.index.one:33306");
+define("DB_USER",	"http");
+define("DB_PASS",	"78iKp89");
+define("DB_SCHEMA",	"fgcomics");
 
 function getPreviousComic($row) {
 	// first check to make sure if it's the first comic
