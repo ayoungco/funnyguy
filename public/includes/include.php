@@ -10,10 +10,10 @@ $metaDesc = '<meta name="description" content="Stick-figure comics about Funny G
 $activateArrowKeys = false;
 
 define("ROOT",	 	"https://www.fgcomics.com/");
-define("DB_ADDRESS",	"dock.core.index.one:33306");
-define("DB_USER",	"http");
-define("DB_PASS",	"78iKp89");
-define("DB_SCHEMA",	"fgcomics");
+define("DB_ADDRESS",	"");
+define("DB_USER",	"");
+define("DB_PASS",	"");
+define("DB_SCHEMA",	"");
 
 function getPreviousComic($row) {
 	// first check to make sure if it's the first comic
