@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+    {{ with .Description }}<meta name="description" content="{{ . }}">{{ else }}{{ with site.Params.siteDescription }}<meta name="description" content="{{ . }}">{{ end }}{{ end }}
+    {{ with resources.Get "css/site.css" | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
+    {{ end }}
+    <link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a href="{{ relLangURL "" }}" class="brand">Funny Guy Comics</a>
+        <nav class="main-nav" aria-label="Primary">
+          <ul>
+            <li><a href="{{ relLangURL "comics/" }}">Comics</a></li>
+            <li><a href="{{ relLangURL "archive/" }}">Archive</a></li>
+            <li><a href="{{ relLangURL "game/" }}">FGRPG</a></li>
+            <li><a href="{{ relLangURL "history/" }}">History</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+    <footer class="site-footer">
+      <div class="site-footer__inner">
+        <div>&copy; 2000-2005 Funny Guy Comics. Original art by Adam Young, Steve Kohler, and friends.</div>
+        <div>Site preserved with Hugo {{ hugo.Version }}.</div>
+      </div>
+    </footer>
+  </body>
+</html>

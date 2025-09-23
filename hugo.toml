@@ -1,0 +1,23 @@
+baseURL = 'https://www.fgcomics.com/'
+languageCode = 'en-us'
+title = 'Funny Guy Comics'
+publishDir = 'public-hugo'
+summaryLength = 70
+
+disableKinds = ['taxonomy']
+
+[pagination]
+  pagerSize = 20
+
+[params]
+siteDescription = 'Stick-figure comics about Funny Guy, his friends, and their antics.'
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML']
+  page = ['HTML']

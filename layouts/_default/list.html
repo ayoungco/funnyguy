@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <div class="container">
+    <div class="panel" style="margin-bottom: 2rem;">
+      <h1>{{ .Title }}</h1>
+      {{ with .Content }}{{ . }}{{ end }}
+    </div>
+    <div class="archive-grid">
+      {{ range .Paginator.Pages }}
+        <article class="archive-card">
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          {{ with .Summary }}<p>{{ . }}</p>{{ end }}
+          {{ if eq .Section "comics" }}
+            <div class="archive-links">Comic {{ printf "%03d" (.Params.comic_number | int) }}</div>
+          {{ end }}
+        </article>
+      {{ end }}
+    </div>
+    {{ partial "pagination.html" .Paginator }}
+  </div>
+{{ end }}

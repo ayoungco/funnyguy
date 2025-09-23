@@ -1,0 +1,20 @@
+{{ $pages := sort (where .Site.RegularPages "Section" "comics") "Params.comic_number" }}
+{{ $current := .Params.comic_number }}
+{{ $prevCandidates := where $pages "Params.comic_number" "lt" $current }}
+{{ $nextCandidates := where $pages "Params.comic_number" "gt" $current }}
+<div class="comic-navigation">
+  {{ if gt (len $prevCandidates) 0 }}
+    {{ $prev := index (last 1 $prevCandidates) 0 }}
+    <a href="{{ $prev.RelPermalink }}">Previous</a>
+  {{ else }}
+    <span>Previous</span>
+  {{ end }}
+  <a href="{{ relLangURL "comics/" }}">All Comics</a>
+  <a href="{{ relLangURL "random/" }}">Random</a>
+  {{ if gt (len $nextCandidates) 0 }}
+    {{ $next := index (first 1 $nextCandidates) 0 }}
+    <a href="{{ $next.RelPermalink }}">Next</a>
+  {{ else }}
+    <span>Next</span>
+  {{ end }}
+</div>

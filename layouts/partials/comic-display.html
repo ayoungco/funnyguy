@@ -1,0 +1,25 @@
+<div class="panel comic-wrapper">
+  <div class="comic-meta">
+    <div class="comic-meta__title">{{ .Title }}</div>
+    <div class="comic-meta__details">
+      Comic {{ printf "%03d" (.Params.comic_number | int) }}{{ with .Date }} · {{ .Format "January 2, 2006" }}{{ end }}
+    </div>
+    {{ with .Params.authors }}
+      <div class="comic-meta__details">By {{ delimit . ", " " & " }}</div>
+    {{ end }}
+  </div>
+  {{ range sort .Params.pages "page" }}
+    <div class="comic-image">
+      {{ if gt (len $.Params.pages) 1 }}
+        <div class="comic-meta__details">Page {{ add .page 1 }}</div>
+      {{ end }}
+      <img src="{{ (printf "comics/%s" .file) | relURL }}" alt="{{ $.Title }}">
+    </div>
+  {{ end }}
+  {{ with .Params.transcript }}
+    <div class="transcript-block">
+      <h2>Transcript</h2>
+      <p>{{ replace . "\n" "<br>" | safeHTML }}</p>
+    </div>
+  {{ end }}
+</div>

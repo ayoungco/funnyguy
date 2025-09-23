@@ -1,0 +1,16 @@
+{{ define "main" }}
+  {{ $comics := shuffle (where .Site.RegularPages "Section" "comics") }}
+  <div class="container">
+    <div class="panel">
+      <h1>{{ .Title }}</h1>
+      <p>Hold tight, we're grabbing something unexpected from the archives…</p>
+    </div>
+  </div>
+  <script>
+    const picks = [{{ range $index, $page := $comics }}{{ if $index }},{{ end }}"{{ $page.RelPermalink }}"{{ end }}];
+    if (picks.length) {
+      const target = picks[Math.floor(Math.random() * picks.length)];
+      window.location.href = target;
+    }
+  </script>
+{{ end }}
