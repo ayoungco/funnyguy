@@ -1,7 +1,6 @@
 baseURL = 'https://www.fgcomics.com/'
 languageCode = 'en-us'
 title = 'Funny Guy Comics'
-publishDir = 'public-hugo'
 summaryLength = 70
 
 disableKinds = ['taxonomy']
