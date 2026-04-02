@@ -1,0 +1,432 @@
+/* All CSS style sheets are made with the use of "fgcomics.css" 
+as a template. Colors are changed only by changing hue.
+
+Change: Blue > Red
+Hue Change: +150
+-----------------------------------
+Any text/link color that equals the first hex number: #002449 > #480002
+Any mouseOver'd link (hover state): #004182 > #820003
+
+/* (FORUM) Private messages resizer */
+.pm_resizer {
+	font-size: 6px;
+}
+
+/* News headline */
+.newsheadline {
+	color: #480002;
+	font-weight: bold;
+	font-family:Arial;
+	font-size : 18px;
+}
+
+/* Default text type [REMEMBER TO APPLY] */
+.default_text {
+	font-family:Tahoma;
+	font-size:12px;
+	color:#806C59;
+}
+
+/* Top cell background image */
+.logocellbg {
+	background-image: url(http://www.fgcomics.com/images/red/logobg_red.jpg);
+}
+
+/* Largest table's background image */
+.bigtablebg {
+	background-image: url(http://www.fgcomics.com/images/layout/mainbackground.gif);
+}
+
+/* Page background image */
+.pagebgimg { 
+    background-image: url(http://www.fgcomics.com/images/layout/pagebg.jpg);
+}
+
+/* Tag mods */
+a:link { font-family:Verdana, Arial, Helvetica, sans-serif; color:#480002; text-decoration: none; }
+a:visited { font-family:Verdana, Arial, Helvetica, sans-serif; color:#480002; text-decoration: none; }
+a:hover { font-family:Verdana, Arial, Helvetica, sans-serif; color:#820003; text-decoration: underline; }
+
+form {
+	margin:0px;
+}
+
+H1 {
+	color: #480002;
+	font-weight: bold;
+	font-family:Arial;
+	font-size : 18px;
+}
+
+/* Text styles */
+
+.copyright {
+	text-align: center;
+	vertical-align: middle;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color:#806C59;
+	letter-spacing: -1px;
+	line-height: 13px;
+}
+
+.copyright2 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color:#806C59;
+	letter-spacing: -1px;
+	line-height: 13px;
+}
+
+/* Copyright link styles */
+a.copyrightlink:link { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; text-decoration: none; font-weight: lighter; color:#480002; letter-spacing:-1px; }
+a.copyrightlink:visited { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; text-decoration: none; font-weight: lighter; color:#480002; letter-spacing:-1px; }
+a.copyrightlink:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; text-decoration: underline; font-weight: lighter; color:#820003; letter-spacing:-1px; }
+
+/* Side links */
+a.mainlinks { font-family:Arial; font-size:13px; text-decoration: none; font-weight: bold; color:#480002; }
+a.mainlinks:hover { color : #480002; text-decoration : underline; }
+
+/* Nuller for linked images */
+a.nulllink {}
+a.nulllink:hover {}
+
+/* Logo CSS */
+.logo {   
+  display: block;
+  width: 450px;
+  height: 120px;
+  background: url(http://www.fgcomics.com/images/red/logo_red.jpg); 
+}
+
+/* Top left skin curve */
+.topskincurve {   
+  display: block;
+  width: 169px; 
+  height: 42px;
+  background: url(http://www.fgcomics.com/images/layout/left1.jpg) no-repeat; }
+
+/* Windows-like grooves in nav bar */
+.navgroove {
+  display: block;
+  width: 150px; 
+  height: 6px;
+  background-image: url(http://www.fgcomics.com/images/layout/menudivider.jpg); 
+}
+
+/* Bottom left skin curve */
+.btmskincurve {   
+  display: block;
+  width: 169px; 
+  height: 65px;
+  background: url(http://www.fgcomics.com/images/layout/left2.jpg) no-repeat; }
+
+/* Background image of second table down */
+.table2bg {
+  background: url(http://www.fgcomics.com/images/layout/left1bg.jpg); 
+}
+  
+/* Background image of fourth table down */
+.table4bg {
+  background: url(http://www.fgcomics.com/images/layout/left2bg.jpg); 
+}
+  
+/* MAIN NAVIGATION BUTTON: HOME */
+a.mainlinks_home {
+  background: url(http://www.fgcomics.com/images/red/home_red.gif) 0 0 no-repeat;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_home:hover {
+  background-position: -130px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+   
+/* MAIN NAVIGATION BUTTON: SAGAS */
+a.mainlinks_sagas {
+  background: url(http://www.fgcomics.com/images/red/sagas_red.gif) 0 0 no-repeat;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_sagas:hover {
+  background-position: -130px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+   
+/* MAIN NAVIGATION BUTTON: GAMES */
+a.mainlinks_games {
+  background: url(http://www.fgcomics.com/images/red/games_red.gif) 0 0 no-repeat;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_games:hover {
+  background-position: -130px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+   
+/* MAIN NAVIGATION BUTTON: TOONS & ECOMICS */
+a.mainlinks_toons {
+  background: url(http://www.fgcomics.com/images/red/toons_red.gif) 0 0 no-repeat;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_toons:hover {
+  background-position: -130px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+   
+/* MAIN NAVIGATION BUTTON: FORUMS */
+a.mainlinks_forums {
+  background: url(http://www.fgcomics.com/images/red/forums_red.gif) 0 0 no-repeat;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_forums:hover {
+  background-position: -130px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+   
+/* Browser-wide main links spacing (CSS bottom margin) */
+.mainlinks_margin {
+	margin: 0 0 3px 0;
+}
+   
+/* Drop-down skin changer background */
+.skinchanger_bg {
+	background-attachment: fixed;
+	background-image: url(http://www.fgcomics.com/images/layout/skin_changer_bg.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+
+/*
+ ______ ____  _____  _    _ __  __    _____ _______ _    _ ______ ______ 
+|  ____/ __ \|  __ \| |  | |  \/  |  / ____|__   __| |  | |  ____|  ____|
+| |__ | |  | | |__) | |  | | \  / | | (___    | |  | |  | | |__  | |__   
+|  __|| |  | |  _  /| |  | | |\/| |  \___ \   | |  | |  | |  __| |  __|  
+| |   | |__| | | \ \| |__| | |  | |  ____) |  | |  | |__| | |    | |     
+|_|    \____/|_|  \_\\____/|_|  |_| |_____/   |_|   \____/|_|    |_|     
+
+*/
+
+/* General font families for common tags */
+font,th,td,p { font-family: {T_FONTFACE1} }
+a:link,a:active,a:visited { color : {T_BODY_LINK}; }
+a:hover		{ text-decoration: underline; color : {T_BODY_HLINK}; }
+hr	{ height: 0px; border: solid {T_TR_COLOR3} 0px; border-top-width: 1px;}
+
+/* This is the border line & background colour round the entire page */
+.bodyline	{ background-color: {T_TD_COLOR2}; border: 1px {T_TH_COLOR1} solid; }
+
+/* This is the outline round the main forum tables */
+.forumline	{ background-color: {T_TD_COLOR2}; border: 2px {T_TH_COLOR2} solid; }
+
+/* Main table cell colours and backgrounds */
+td.row1	{ background-color: {T_TR_COLOR1}; }
+td.row2	{ background-color: {T_TR_COLOR2}; }
+td.row3	{ background-color: {T_TR_COLOR3}; }
+
+/*
+  This is for the table cell above the Topics, Post & Last posts on the index.php page
+  By default this is the fading out gradiated silver background.
+  However, you could replace this with a bitmap specific for each forum
+*/
+td.rowpic {
+		background-color: {T_TD_COLOR2};
+		background-image: url(templates/Elemental/images/{T_TH_CLASS3});
+		background-repeat: repeat;
+}
+
+/* Header cells - the blue and silver gradient backgrounds */
+th	{
+	color: {T_FONTCOLOR3}; font-size: {T_FONTSIZE2}px; font-weight : bold; 
+	background-color: {T_BODY_LINK}; height: 25px;
+	background-image: url(templates/Elemental/images/{T_TH_CLASS2});
+}
+
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
+			background-image: url(templates/Elemental/images/{T_TH_CLASS1});
+			background-color:{T_TR_COLOR3}; border: {T_TH_COLOR3}; border-style: solid; height: 28px;
+}
+
+/*
+  Setting additional nice inner borders for the main table cells.
+  The names indicate which sides the border will be on.
+  Don't worry if you don't understand this, just ignore it :-)
+*/
+td.cat,td.catHead,td.catBottom {
+	height: 29px;
+	border-width: 0px 0px 0px 0px;
+}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
+	font-weight: bold; border: {T_TD_COLOR2}; border-style: solid; height: 28px;
+}
+td.row3Right,td.spaceRow {
+	background-color: {T_TR_COLOR3}; border: {T_TH_COLOR3}; border-style: solid;
+}
+
+th.thHead,td.catHead { font-size: {T_FONTSIZE3}px; border-width: 1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow	 { border-width: 0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right	 { border-width: 0px 1px 0px 0px; }
+th.thLeft,td.catLeft	  { border-width: 0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width: 0px 1px 1px 1px; }
+th.thTop	 { border-width: 1px 0px 0px 0px; }
+th.thCornerL { border-width: 1px 0px 0px 1px; }
+th.thCornerR { border-width: 1px 1px 0px 0px; }
+
+/* The largest text used in the index page title and toptic title etc. */
+.maintitle	{
+	font-weight: bold; font-size: 22px; font-family: "{T_FONTFACE2}",{T_FONTFACE1};
+	text-decoration: none; line-height : 120%; color : {T_BODY_TEXT};
+}
+
+/* General text */
+.gen { font-size : {T_FONTSIZE3}px; }
+.genmed { font-size : {T_FONTSIZE2}px; }
+.gensmall { font-size : {T_FONTSIZE1}px; }
+.gen,.genmed,.gensmall { color : {T_BODY_TEXT}; }
+a.gen,a.genmed,a.gensmall { color: {T_BODY_LINK}; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover	{ color: {T_BODY_HLINK}; text-decoration: underline; }
+
+/* The register, login, search etc on the side of the page */
+.mainmenu		{ font-size : {T_FONTSIZE2}px; color : {T_BODY_TEXT} }
+a.mainmenu		{ text-decoration: none; color : {T_BODY_LINK};  }
+a.mainmenu:hover{ text-decoration: underline; color : {T_BODY_HLINK}; }
+
+.mainmenu_small		{ font-size : 10px; line-height: 10px; letter-spacing: -1px; color : {T_BODY_TEXT} }
+a.mainmenu_small		{ text-decoration: none; color : {T_BODY_LINK};  }
+a.mainmenu_small:hover{ text-decoration: underline; color : {T_BODY_HLINK}; }
+
+/* Forum category titles */
+.cattitle		{ font-weight: bold; font-size: {T_FONTSIZE3}px ; letter-spacing: 1px; color : {T_BODY_LINK}}
+a.cattitle		{ text-decoration: none; color : {T_BODY_LINK}; }
+a.cattitle:hover{ text-decoration: underline; }
+
+/* Forum title: Text and link to the forums used in: index.php */
+.forumlink		{ font-weight: bold; font-size: {T_FONTSIZE3}px; color : {T_BODY_LINK}; }
+a.forumlink 	{ text-decoration: none; color : {T_BODY_LINK}; }
+a.forumlink:hover{ text-decoration: underline; color : {T_BODY_HLINK}; }
+
+/* Used for the navigation text, (Page 1,2,3 etc) and the navigation bar when in a forum */
+.nav			{ font-weight: bold; font-size: {T_FONTSIZE2}px; color : {T_BODY_TEXT};}
+a.nav			{ text-decoration: none; color : {T_BODY_LINK}; }
+a.nav:hover		{ text-decoration: underline; }
+
+/* titles for the topics: could specify viewed link colour too */
+.topictitle,h1,h2	{ font-weight: bold; font-size: {T_FONTSIZE2}px; color : {T_BODY_TEXT}; }
+a.topictitle:link   { text-decoration: none; color : {T_BODY_LINK}; }
+a.topictitle:visited { text-decoration: none; color : {T_BODY_VLINK}; }
+a.topictitle:hover	{ text-decoration: underline; color : {T_BODY_HLINK}; }
+
+/* Name of poster in viewmsg.php and viewtopic.php and other places */
+.name			{ font-size : {T_FONTSIZE2}px; color : {T_BODY_TEXT};}
+
+/* Location, number of posts, post date etc */
+.postdetails		{ font-size : {T_FONTSIZE1}px; color : {T_BODY_TEXT}; }
+
+/* The content of the posts (body of text) */
+.postbody { font-size : {T_FONTSIZE3}px; line-height: 18px}
+a.postlink:link	{ text-decoration: none; color : {T_BODY_LINK} }
+a.postlink:visited { text-decoration: none; color : {T_BODY_VLINK}; }
+a.postlink:hover { text-decoration: underline; color : {T_BODY_HLINK}}
+
+/* Quote & Code blocks */
+.code { 
+	font-family: {T_FONTFACE3}; font-size: {T_FONTSIZE2}px; color: {T_FONTCOLOR2};
+	background-color: {T_TD_COLOR1}; border: {T_TR_COLOR3}; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.quote {
+	font-family: {T_FONTFACE1}; font-size: {T_FONTSIZE2}px; color: {T_FONTCOLOR1}; line-height: 125%;
+	background-color: {T_TD_COLOR1}; border: {T_TR_COLOR3}; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+/* Copyright and bottom info */
+.copyright		{ font-size: {T_FONTSIZE1}px; font-family: {T_FONTFACE1}; color: {T_FONTCOLOR1}; letter-spacing: -1px;}
+a.copyright		{ color: {T_FONTCOLOR1}; text-decoration: none;}
+a.copyright:hover { color: {T_BODY_TEXT}; text-decoration: underline;}
+
+/* Form elements */
+input,textarea, select {
+	color : {T_BODY_TEXT};
+	font: normal {T_FONTSIZE2}px {T_FONTFACE1};
+	border-color : {T_BODY_TEXT};
+}
+
+/* The text input fields background colour */
+input.post, textarea.post, select {
+	background-color : {T_TD_COLOR2};
+}
+
+input { text-indent : 2px; }
+
+/* The buttons used for bbCode styling in message post */
+input.button {
+	background-color : {T_TR_COLOR1};
+	color : {T_BODY_TEXT};
+	font-size: {T_FONTSIZE2}px; font-family: {T_FONTFACE1};
+}
+
+/* The main submit button option */
+input.mainoption {
+	background-color : {T_TD_COLOR1};
+	font-weight : bold;
+}
+
+/* None-bold submit button */
+input.liteoption {
+	background-color : {T_TD_COLOR1};
+	font-weight : normal;
+}
+
+/* This is the line in the posting page which shows the rollover
+  help line. This is actually a text box, but if set to be the same
+  colour as the background no one will know ;)
+*/
+.helpline { background-color: {T_TR_COLOR2}; border-style: none; }
+
+/* Import the fancy styles for IE only (NS4.x doesn't use the @import function) */
+@import url("templates/Elemental/formIE.css"); 
+
+/*
+ ______ _   _ _____    ______ ____  _____  _    _ __  __ 
+|  ____| \ | |  __ \  |  ____/ __ \|  __ \| |  | |  \/  |
+| |__  |  \| | |  | | | |__ | |  | | |__) | |  | | \  / |
+|  __| | . ` | |  | | |  __|| |  | |  _  /| |  | | |\/| |
+| |____| |\  | |__| | | |   | |__| | | \ \| |__| | |  | |
+|______|_| \_|_____/  |_|    \____/|_|  \_\\____/|_|  |_|                                                     
+  _____ _______ _    _ ______ ______ 
+ / ____|__   __| |  | |  ____|  ____|
+| (___    | |  | |  | | |__  | |__   
+ \___ \   | |  | |  | |  __| |  __|  
+ ____) |  | |  | |__| | |    | |     
+|_____/   |_|   \____/|_|    |_|    
+
+*/
