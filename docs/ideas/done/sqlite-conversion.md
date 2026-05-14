@@ -21,7 +21,6 @@ Use a converter, then load into SQLite:
 curl -L https://raw.githubusercontent.com/dumblob/mysql2sqlite/master/mysql2sqlite | \
   bash -s -- mysql.sql | sqlite3 output.sqlite
 
-
 	•	Or Python tool (very reliable): db-to-sqlite from the sqlite-utils ecosystem
 
 pip install sqlite-utils

@@ -1,3 +1,8 @@
 /vendor/*
 .DS_Store
 public/
+.venv/
+__pycache__/
+.pytest_cache/
+panel-output/
+video-output/
