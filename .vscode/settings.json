@@ -1,6 +1,6 @@
 {
   "window.title": "Funny Guy Comics - ${activeEditorShort}",
-  "workbench.colorTheme": "Default Light Modern",
+  "workbench.colorTheme": "Light Modern",
   "workbench.editor.labelFormat": "medium",
   "workbench.tree.indent": 16,
   "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
