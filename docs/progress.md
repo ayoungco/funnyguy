@@ -2,6 +2,36 @@
 
 Running narrative of work on this project. Newest entries at the top.
 
+## 2026-08-23 — Panel segmentation + slideshow videos
+
+Decided the comic archive is worth turning into rough animated shorts:
+segment each page into its individual panels, then assemble a
+slideshow-style video per issue (panel held on screen, gentle zoom,
+crossfade to the next). Chose geometric panel-border detection over a
+fixed grid assumption, since panel layout drifts across 20+ years of
+hand-drawn pages — a fixed grid would misalign on plenty of issues.
+Validated on a clean 6-panel page and a 42-panel page (both segmented
+perfectly) and a genuinely irregular 5-column/variable-height page (still
+usable, but the ornate logo box in that one fragments into a few junk
+crops — a known, accepted limitation rather than something worth
+special-casing).
+
+## 2026-08-23 — Cataloging source material before generating anything
+
+Decided nothing gets generated until there's a full picture of what
+already exists — otherwise prompt/reference work risks treating RPG
+Maker's stock resource sheets as if they were Funny Guy art, or missing
+usable material buried in the legacy dump. `scripts/discover_assets.py`
+now catalogs all three source locations into `references/asset_manifest.csv`,
+tagged by origin (original comic art / original RPG art / RPG Maker stock
+/ unsorted legacy / hand-picked canonical). See README for how it works.
+
+Decided generated content belongs with the source material it's derived
+from — on the NAS at `/mnt/creative/projects/funnyguy/generated/` —
+rather than in git or in a new location split off from the existing
+archive. The repo stays config-and-pipeline only. (Currently blocked by
+a NAS mount permission issue — see README.)
+
 ## 2026-08-23 — Project scaffolded
 
 Created the repo to hold AI-generated Funny Guy content, separate from the
