@@ -96,7 +96,7 @@ def build_video(slug: str, panel_seconds: float, xfade_seconds: float):
         filter_complex = ";".join(filter_parts)
 
         cmd = [
-            "ffmpeg", "-y",
+            "ffmpeg", "-y", "-nostdin",
             *inputs,
             "-filter_complex", filter_complex,
             "-map", "[vout]",

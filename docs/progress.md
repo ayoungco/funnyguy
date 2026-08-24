@@ -2,6 +2,35 @@
 
 Running narrative of work on this project. Newest entries at the top.
 
+## 2026-08-23 — First real generation: SDXL pipeline, img2img over txt2img
+
+Built the actual generation pipeline the project is named for (nothing
+had been generated before now). Decided to drive SDXL via the `diffusers`
+library directly rather than a ComfyUI server: the local checkpoint is
+checked out in native diffusers layout, and converting it to the
+single-file format ComfyUI's loader expects would be extra fragile
+machinery just to run a batch script. `workflows/` stays for an
+interactive ComfyUI session later if that's ever wanted.
+
+Confirmed the risk `references/style.md` already called out: plain
+text-to-image drifted off-model (a polished coloring-book illustration
+instead of a crude stick figure; a grid of generic anime sprites instead
+of one consistent character). Fixed by switching to img2img against real
+reference material instead of generating from noise — and specifically
+against a single *segmented panel* rather than the whole comic page or
+the raw reference file, since a whole 6-panel page doesn't match what a
+character-portrait prompt is asking for. That fix produced genuinely
+on-model results in both styles on the first real test. Nice unplanned
+payoff from the panel segmentation work above — it turned out to be the
+right source-prep step for generation too, not just for slideshows.
+
+Also noted (not built): the same img2img approach won't work as-is on
+`funnyguyrpg/ChipSet/*.png` tile atlases — those need pixel-exact
+alignment between adjacent tiles for RPG Maker's autotiling to still
+work, which a whole-image diffusion pass would break. See
+`references/tileset_restyling.md` for the per-tile, low-strength approach
+proposed instead.
+
 ## 2026-08-23 — Panel segmentation + slideshow videos
 
 Decided the comic archive is worth turning into rough animated shorts:
