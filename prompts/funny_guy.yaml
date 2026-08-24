@@ -1,0 +1,24 @@
+# Starting prompt templates for the title character.
+# Edit freely — these are seeds, not final prompts. See ../references/style.md
+# for why the two styles are kept separate.
+
+comic_style:
+  positive: >
+    crude stick-figure cartoon character, notebook doodle style, dot eyes,
+    wild undefined scribbly hair sticking out to the sides, long hair,
+    simple black ink linework, kid-drawn comic strip aesthetic, flat
+    coloring, six-panel comic grid energy
+  negative: >
+    photorealistic, detailed rendering, polished digital art, anime,
+    3d render, smooth shading, realistic proportions
+  reference_image: ../../funnyguycomics/static/comics/001_the_funny_guy.png
+
+rpg_sprite_style:
+  positive: >
+    16-bit JRPG character sprite, pixel art, chibi proportions,
+    RPG Maker 2003 style overworld sprite, wild spiky hair sticking out to
+    the sides, small simple face
+  negative: >
+    photorealistic, 3d render, high resolution, modern game engine,
+    smooth gradients
+  reference_image: ../../funnyguyrpg/CharSet/fg2.png
