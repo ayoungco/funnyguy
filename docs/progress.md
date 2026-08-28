@@ -2,6 +2,70 @@
 
 Running narrative of work on this project. Newest entries at the top.
 
+## 2026-08-28 — Legacy dump reorganized; panel segmentation status corrected; more uncatalogued material flagged
+
+Reorganized the ~690 loose files that used to sit at the top level of
+`/mnt/creative/projects/funnyguy` into folders (`scripts/organize_legacy_dump.py`,
+dry-run by default, undo manifest on `--execute`) and refreshed
+`references/asset_manifest.csv` against the new layout. See README/script
+docstring for how it classifies.
+
+**More material in the legacy dump than the manifest shows.** By design
+`discover_assets.py` only catalogs image/design extensions and prunes
+`Trash`, `Website Backups`, and `Playthrough` entirely at the top level —
+worth calling out explicitly since it's easy to assume the manifest is a
+complete inventory:
+
+- `Playthrough/` (9.2 GB, pruned) — actual gameplay capture: 7 `.mkv` +
+  3 `.mp4` recordings, a `.prproj` Premiere project, raw audio. Potential
+  source material for something (trailer? reference for pacing/VO?) but
+  currently invisible to every tool in `scripts/`.
+- `Website Backups/` (0.7 GB, pruned) — old site archives (`.zip`/`.7z`)
+  and a server `.conf`. Historical-only, but not nothing.
+- `Trash/` (pruned) — 2 stray `.psd`, genuinely trash.
+- 682 non-image files inside the folders that *are* cataloged, invisible
+  because `discover_assets.py` filters to `ASSET_EXTS` by default (rerun
+  with `--all-files` to see them). The bulk (600) is under `RPG_RT/` —
+  `.lmu` map files, `.wav`/`.mid` audio — which is the actual RPG Maker
+  project/engine data, not art, so it's a different kind of asset than
+  anything currently modeled in the manifest's `origin` scheme. The rest
+  (`Documents/`, `Guide/`, etc.) is mostly design docs/text.
+
+None of this blocks current work, but neither `references/asset_manifest.csv`
+nor `references/legacy_triage.csv` should be read as "everything in the
+dump" — treat them as "the image/design assets we've looked at so far."
+
+**Panel segmentation: actual corpus results are rougher than the
+2026-08-23 entry below implies.** That entry validated
+`segment_panels.py` against three hand-picked pages (a clean 6-panel, a
+clean 42-panel, one irregular page) and called the geometric
+border-detection approach good. The full run since then
+(`output/panels/segmentation_manifest.csv`, 338 comics) tells a less rosy
+story:
+
+- 55 comics (16%) segmented at the top confidence threshold (0.85)
+- 195 comics (58%) only succeeded at the lowest threshold (0.4) —
+  `ok_low_confidence`, meaning the border-detection had to get
+  permissive enough that panel boxes are worth spot-checking
+- 88 comics (26%) failed outright — no usable grid lines found at any
+  threshold, no panels produced
+
+So a quarter of the archive isn't segmented at all, and more than half of
+what *did* segment is flagged low-confidence rather than clean. This
+wasn't visible from the 3-page spot check. `make_slideshow.py` has since
+run over the successful 250 and produced videos in `output/videos/`
+(matches 55+195), so the pipeline is otherwise working end-to-end for
+whatever did segment — the gap is specifically in the border-detection
+step for the harder ~26%+58% of pages. Worth a closer look (e.g. logging
+example failures, or trying a lower fourth threshold / different dark-pixel
+cutoff for that subset) before leaning on this corpus for anything beyond
+rough slideshow output. Not investigated further this session.
+
+`scripts/make_slideshow.py` also has an uncommitted, untested fix in the
+working tree (nvenc retry-once-then-fall-back-to-libvpx-vp9, since this
+ffmpeg build has no software libx264) — pre-existing before this session,
+still pending.
+
 ## 2026-08-23 — First real generation: SDXL pipeline, img2img over txt2img
 
 Built the actual generation pipeline the project is named for (nothing
