@@ -105,6 +105,11 @@ def build_video(slug: str, panel_seconds: float, xfade_seconds: float):
         ]
         result = subprocess.run(cmd, capture_output=True, text=True)
         if result.returncode != 0:
+            # nvenc intermittently fails to init when it's contending with other
+            # GPU work (e.g. a concurrent SDXL batch) -- retry it once before
+            # falling back, since it's usually transient.
+            result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode != 0:
             # fall back to CPU encode if nvenc isn't usable in this environment
             cmd[cmd.index("h264_nvenc")] = "libx264"
             result = subprocess.run(cmd, capture_output=True, text=True)

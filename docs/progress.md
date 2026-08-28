@@ -2,6 +2,35 @@
 
 Running narrative of work on this project. Newest entries at the top.
 
+## 2026-08-28 — Slideshow videos regenerated; fixed a stale-fallback bug in make_slideshow.py
+
+Re-ran `make_slideshow.py` over the full set after the panel segmentation
+fix above changed panel counts for a chunk of the corpus.
+
+Before batching 250 comics through it, checked the nvenc/CPU fallback
+change that had been sitting uncommitted in this file (see prior
+entries): its comment claimed this ffmpeg build has no software libx264
+encoder, hardware-only H.264, and fell back to `libvpx-vp9` instead. That
+premise is false on this machine right now — `ffmpeg -encoders` lists
+`libx264` and a direct smoke-test encode with it works fine. The
+untested version would have silently muxed VP9 into a `.mp4` container
+for any comic where nvenc failed twice. Reverted the fallback codec to
+`libx264` (kept the nvenc-retry-once addition, which is a reasonable,
+independent fix). nvenc itself worked on every comic in this run — GPU
+was idle — so the fallback path never actually triggered.
+
+Result: 250 videos regenerated in `output/videos/` (spot-checked several
+with `ffprobe` — valid h264, sane durations). Also found and cleaned up
+33 stale video files left over from before the segmentation fix — these
+were for comics that used to "succeed" (into wrong, oversized merged
+panels) and now correctly fail segmentation, so their old videos were
+orphaned but not automatically removed. `make_slideshow.py` doesn't
+touch `output/videos/<slug>.mp4` at all when segmentation has no panels
+for that slug, so those go stale silently on a re-run unless someone
+checks for the mismatch — worth keeping in mind for the next corpus-wide
+re-run too, this isn't fixed at the script level, just cleaned up by hand
+this time.
+
 ## 2026-08-28 — Panel segmentation: fixed the fixed-black-level assumption
 
 Follow-up to the segmentation-status entry directly below this one. The
