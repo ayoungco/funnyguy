@@ -2,6 +2,60 @@
 
 Running narrative of work on this project. Newest entries at the top.
 
+## 2026-08-28 — Panel segmentation: fixed the fixed-black-level assumption
+
+Follow-up to the segmentation-status entry directly below this one. The
+hypothesis raised for the 26%-fail/58%-low-confidence numbers: these are
+pencil drawings, not inked linework, so a page's "black" isn't one fixed
+value — checked it empirically before changing anything.
+
+Confirmed: `segment_panels.py` was thresholding on a single fixed
+darkness cutoff (`arr < 128`) to find border lines. Per-page percentile
+stats (p1/p99) showed almost every page already has near-black content
+somewhere (heavy shading, bold outline) even when the specific
+panel-divider lines are a much lighter pencil gray — so a global
+per-page contrast stretch made no difference (the extremes were already
+near 0/255) while the fixed cutoff still missed the actual divider
+lines. What worked: outer-looping over progressively lighter darkness
+cutoffs (128 → 160 → 190) before giving up, the same pattern already
+used for the row/column fraction threshold.
+
+That alone over-rescued: some pages got "successfully" split into 60-80
+postage-stamp fragments (internal shading misread as grid lines) instead
+of real panels. Added a size guard — reject any split where a panel's
+shorter side is under 5% of the page's matching dimension — which
+forces those cases back to a lighter cutoff or an honest failure instead
+of silently returning garbage.
+
+Net result re-running all 338 comics: **the aggregate counts are
+unchanged** (55 ok / 195 low-confidence / 88 failed) — same numbers as
+before, but not the same *set*. 33 comics that previously failed
+outright now segment cleanly (verified sane panel counts, 2-20 range).
+33 different comics that were previously counted "successful" now fail
+instead — checked two of these by eye
+(`056_bomb_bash`, `156_spaghetti_confetti`) and both are dense ~30-40
+panel pages that the old fixed-cutoff code had silently mangled into 5-6
+oversized merged blobs, not legitimate small-panel layouts. So this
+isn't a wash: it's roughly 33 real fixes plus 33 silent-wrong-answers
+turned into honest failures the manifest now surfaces for a manual look,
+same "still a rough pipeline" philosophy already in the script's
+docstring. The 88 still failing after this need a different fix, not
+more of this one.
+
+Also fixed a real bug hit while re-running: `segment_panels.py` never
+cleared a comic's output directory before writing, so a comic whose
+panel count changed between runs kept stale extra crops from the
+previous run alongside the new ones (63 directories had this after the
+above change, before the fix). Now clears `panel_*.png` before writing,
+whether the new run succeeds or fails.
+
+`output/videos/` (from `make_slideshow.py`) is now stale for every
+comic whose panel set changed — not re-rendered as part of this, since
+that's a separate, slower batch step and `make_slideshow.py` still has
+its own pending untested nvenc-fallback change sitting in the working
+tree (see entry below). Re-run `make_slideshow.py` over the full set
+when that's wanted.
+
 ## 2026-08-28 — Legacy dump reorganized; panel segmentation status corrected; more uncatalogued material flagged
 
 Reorganized the ~690 loose files that used to sit at the top level of
