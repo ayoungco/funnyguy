@@ -11,26 +11,36 @@
     <link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
   </head>
   <body>
-    <header class="site-header">
-      <div class="site-header__inner">
-        <a href="{{ relLangURL "" }}" class="brand">Funny Guy Comics</a>
-        <nav class="main-nav" aria-label="Primary">
-          <ul>
-            <li><a href="{{ relLangURL "comics/" }}">Comics</a></li>
-            <li><a href="{{ relLangURL "archive/" }}">Archive</a></li>
-            <li><a href="{{ relLangURL "game/" }}">FGRPG</a></li>
-            <li><a href="{{ relLangURL "history/" }}">History</a></li>
-          </ul>
-        </nav>
-      </div>
+    <header id="header">
+      <a href="{{ relLangURL "" }}" id="logo" aria-label="Funny Guy Comics home"></a>
+      <nav class="main-nav" aria-label="Primary">
+        <ul>
+          <li><a href="{{ relLangURL "comics/" }}">Comics</a></li>
+          <li><a href="{{ relLangURL "archive/" }}">Archive</a></li>
+          <li><a href="{{ relLangURL "game/" }}">FGRPG Game</a></li>
+          <li><a href="{{ relLangURL "history/" }}">History</a></li>
+        </ul>
+      </nav>
     </header>
-    <main>
-      {{ block "main" . }}{{ end }}
-    </main>
-    <footer class="site-footer">
-      <div class="site-footer__inner">
-        <div>&copy; 2000-2005 Funny Guy Comics. Original art by Adam Young, Steve Kohler, and friends.</div>
-        <div>Site preserved with Hugo {{ hugo.Version }}.</div>
+    <div id="page">
+      <div id="page_nest">
+        <main>
+          {{ block "main" . }}{{ end }}
+        </main>
+      </div>
+    </div>
+    <footer>
+      <div id="footer-layer">
+        <ul>
+          <li><a href="{{ relLangURL "comics/" }}">Comics</a></li>
+          <li><a href="{{ relLangURL "archive/" }}">Archive</a></li>
+          <li><a href="{{ relLangURL "game/" }}">FGRPG Game</a></li>
+          <li><a href="{{ relLangURL "history/" }}">History</a></li>
+        </ul>
+        <div class="bottomtext">
+          FGComics was started in 2000 as a simple pastime in your typical elementary school. What's happened since then has been quite unexpected.
+          <div class="copyright">&copy; 2000-2005 FGComics. Original art by Adam Young, Steve Kohler, and friends. Site preserved with Hugo {{ hugo.Version }}.</div>
+        </div>
       </div>
     </footer>
   </body>
