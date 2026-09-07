@@ -28,14 +28,25 @@ point.
 
 - `references/` — character bible, style notes, and `asset_manifest.csv`
   (see below), pulled from the archive with pointers to real source files
-  for visual reference.
+  for visual reference. Also `story_bible.md` (fuller lore recovered from
+  unread legacy-dump documents — history, full cast bios, the official
+  book/season structure, unproduced scripts), `remix_material_audit.md`
+  (what in `/mnt/creative` is usable for generative remix work and why),
+  and `remix_style.md` (target tone for remixed/generated content).
 - `prompts/` — reusable SDXL prompt templates per character/style.
 - `workflows/` — ComfyUI workflow JSON exports.
 - `scripts/` — pipeline helpers: `discover_assets.py`, `render_thumbnails.py`
   + `classify_assets.py` (legacy-dump triage), `segment_panels.py` +
   `make_slideshow.py` (comic pages → panels → slideshow video),
   `generate_sdxl.py` + `generate_sdxl_img2img.py` (SDXL generation — see
-  "Generation stack" below).
+  "Generation stack" below), `describe_panels.py` (local VLM → per-panel
+  descriptive transcript), `make_short.py` (panels → captioned vertical
+  short for TikTok/Reels/Shorts), `build_schedule.py` (shorts → dated
+  posting queue — see `docs/social_release_plan.md`), `remix_psd.py`
+  (swaps real dialogue on layered `Raw/*.psd` originals for generated
+  lines — see `references/remix_style.md`), `embed_panels.py` (CLIP
+  visual-similarity index over every panel), `transcribe_playthrough.py`
+  (Whisper transcription of `Playthrough/` gameplay recordings).
 - `output/` — local scratch/staging for generated results. Gitignored;
   nothing here is source of truth. **Intended long-term home for generated
   content is `/mnt/creative/projects/funnyguy/generated/`, not this repo**

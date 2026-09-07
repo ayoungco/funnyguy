@@ -2,6 +2,162 @@
 
 Running narrative of work on this project. Newest entries at the top.
 
+## 2026-08-29 — PSD-layer remix clips; CLIP visual index; gameplay transcription started
+
+**Remix proof of concept** (`scripts/remix_psd.py`): hand-picked 5 spots
+across 3 comics where a `Raw/*.psd`'s dialogue is a real, separate
+Photoshop type layer (confirmed by hiding the layer and diffing against
+the full composite — not assumed) rather than baked into the scanned
+pencil. Hides the original line, crops to just that panel, and adds a new
+generated line as a caption card underneath (reusing `make_short.py`'s
+letterboxing so it looks like the same series). All 5 rendered clean;
+two are honest partial cases worth remembering: `047_dinner`'s "ending"
+panel is pure text with no independent art (swap leaves a blank card),
+and its "splash" panel turned out to be a full 10-cell action montage
+that the page-level segmentation lumped into one region, not a single
+clean panel. Confirms the technique works but only where a panel happens
+to have a separate type layer — not automated/scaled beyond these 5 yet.
+
+**CLIP visual index** (`scripts/embed_panels.py`): embedded all 2,854
+segmented panels with `openai/clip-vit-base-patch32` (already cached
+locally, no download) in 15s on the RTX 3060. Immediately useful, not
+just a "why not" exercise: nearest-neighbor search over the embeddings
+surfaced `159_road_rash` and `136_kamikaze` opening with the literal same
+reused drawing across two different comics, and separately flagged 116
+near-blank/junk panel crops (segmentation artifacts) via low pixel
+variance — both real findings a text-only pass (`describe_panels.py`)
+wouldn't have caught, since "identical drawing" and "this crop is
+accidentally blank" are visual-similarity questions, not description
+questions. Hit one API surprise along the way: this transformers version
+(5.8.0) wraps `CLIPModel.get_image_features()`'s result in a
+`BaseModelOutputWithPooling` instead of returning the embedding tensor
+directly — the actual 512-dim projected embedding is in `.pooler_output`
+despite the name suggesting otherwise (verified by shape against
+`config.projection_dim`, not assumed).
+
+**Gameplay audio transcription** (`scripts/transcribe_playthrough.py`):
+`Playthrough/` (9GB, invisible to `discover_assets.py`) turned out to
+hold two different kinds of recording, not one — worth being careful
+about, since the folder name doesn't tell you which: two files clearly
+named `FGRPG Walkthrough Recording`/`2020-10-12 19-20-46` (~75-77 min
+each, near-duplicate exports of the same session, confirmed different
+files by hash) that are genuinely Funny Guy RPG content, and several
+files named "Phil's House," "Sound Check," "Room Noise Sample" that read
+as an unrelated personal recording session — left untouched pending a
+decision on whether they're even in scope, not transcribed by default.
+Kicked off `faster-whisper` (large-v3, GPU, via `../superfamily`'s
+existing transcription venv per `references/audio_narration.md`) on the
+`FGRPG Walkthrough Recording` file; result not in yet as of this entry.
+
+## 2026-08-29 — Recovered story context + remix material from the legacy dump
+
+`references/characters.md`/`asset_manifest.csv` only ever covered
+image/design files and pruned several top-level `/mnt/creative` folders
+entirely (per the 2026-08-28 entry below). Went back through with the
+explicit goal of finding (a) real series lore beyond the short existing
+character bible, and (b) material actually usable for *generative* remix
+work, not just more slideshow/description source.
+
+Found much more than expected sitting in `Documents/`, never opened by
+any script: real character bios (`FGComics Character Bios.docx`), two
+history write-ups of the series' actual schoolyard origin (`FGComics
+History.odt`, `FGOAC History.docx`), a `Documents/fgcomics_Collections.sql`
+dump with the *official* book/season structure (8 numbered books with
+exact comic-number ranges and real blurb copy, plus 3 standalone
+specials) that was never reflected anywhere in this repo, and two
+unproduced/never-illustrated comic scripts (`322.txt`, `325.txt`) plus a
+long raw gag-fragment list (`FGComics Notebook.docx`) that's usable
+directly as new-content source material. Everything creative got pulled
+into a new `references/story_bible.md`; legal/business documents and
+personal emails in the same folder were seen but deliberately not
+summarized (not creative material, not this project's business).
+
+Also audited `/mnt/creative` more broadly for remix-usable material
+(`references/remix_material_audit.md`): confirmed `Raw/*.psd` (the
+higher-res layered originals already used for the DPI/segmentation test)
+have real separable layers via `psd_tools` — checked `020_barney.psd`,
+got 12 named layers including independent text layers per speech bubble,
+separate from the line art — meaning clean-art extraction and
+dialogue-swapping are both possible per panel, not just whole-panel
+img2img against the flattened PNG. Also flagged: 9GB of `funnyguyrpg`
+gameplay capture in `Playthrough/` (video/audio, B-roll potential),
+recently-rescanned (2025-dated) sketchbook pages sitting in `Unsorted/`,
+and several undocumented spin-off properties (a physical card game, an
+"FG Jam" crossover, Koven's original pre-handoff Repair Man comics, an
+Anti-Drug PSA one-off) — none referenced anywhere else in this project.
+
+Wrote `references/remix_style.md` for the requested creative direction
+on generated content (Eric Andre non-sequitur commitment + Homestar
+Runner sincere-lo-fi + Stephen Wright flat delivery) — noted that the
+Notebook gag list and the two unproduced scripts already read in almost
+exactly that register unprompted, so the direction is closer to "use
+what's already on file" than inventing a new voice from scratch.
+
+## 2026-08-29 — Ruled out resolution as the cause of the 88 segmentation failures
+
+Tested the hypothesis that `segment_panels.py`'s 88 `failed` comics fail
+because the 900px-wide `funnyguycomics/static/comics/*.png` web exports
+are too downsampled/blurred for the border-line darkness threshold to
+catch — i.e. whether re-running against higher-resolution source (the
+raw scans in `/mnt/creative/projects/funnyguy/Raw/*.psd`, ~2.6x the pixel
+width, e.g. 2393x1816 vs 900x683 for `020_barney`) would fix them.
+
+Ran `segment_comic()` directly against the native-resolution `.psd` for
+all 88 failed slugs (all have a `Raw/<slug>.psd` counterpart). Result:
+**1 of 88 newly succeeded.** Resolution is not the bottleneck.
+
+Root cause (confirmed on `020_barney`): at native resolution the border
+lines *are* crisp and unambiguous (6 rows hit ~100% dark-pixel fraction
+vs. only 3 in the downsampled version) — but segmentation still fails,
+because the page's actual layout has a title/logo box in column 1
+spanning the vertical height of two separately-divided panels in columns
+2-8. `segment_panels.py`'s recursive guillotine split assumes row
+dividers run edge-to-edge across the full page width before it ever
+looks at columns; this layout has no such row divider at all in that
+region, at any resolution. The other 87 fall into two buckets already
+visible in the docstring/manifest: no full-width grid lines anywhere
+(single/free-form-panel pages, or the same title-box-shaped irregular
+layout), or over-fragmentation into dozens of postage-stamp crops at
+every cutoff (internal shading misread as grid lines) — neither is a
+faint-line/resolution problem.
+
+Conclusion: don't spend GPU/IO time re-segmenting from higher-DPI raw
+scans. A real fix needs the algorithm to represent non-uniform grids
+(e.g. per-column independent row splits, or line-segment detection
+instead of full-width row/column averaging) — a genuine algorithm
+change, not an input-quality one.
+
+## 2026-08-29 — Descriptive transcripts via local VLM (Ollama, qwen2.5vl:7b)
+
+Built `scripts/describe_panels.py`: reads `segment_panels.py`'s panel crops
+and produces a panel-by-panel *descriptive* transcript per comic (visual
+description of characters/poses/gags, plus a verbatim read of any
+handwritten speech-bubble text) — distinct from the dialogue-only
+`transcript` field already in `../funnyguycomics` frontmatter, which the
+original author typed by hand and which drops the visual half of the joke
+entirely.
+
+Runs against a local Ollama vision model (`qwen2.5vl:7b`, already pulled)
+rather than any cloud API — GPU-accelerated on the RTX 3060 (~6.9GB VRAM,
+82% util), no extra Python deps since the script only does HTTP+base64
+and lets Ollama do inference. Unlike the other scripts here it needs no
+venv — plain system `python3`, stdlib only.
+
+Spot-checked on a clean 6-panel comic (`001_the_funny_guy`) and a
+16-panel `ok_low_confidence` one (`027_dork_inc`): character labels,
+poses, and handwritten dialogue all came through accurately. One
+low-confidence-segmentation panel (a merged multi-frame crop) produced a
+run-on description spanning several beats instead of one — expected
+given the segmentation manifest already flagged it, not a VLM problem.
+
+Kicked off the full batch over all 250 segmented comics (55 `ok` + 195
+`ok_low_confidence`; the 88 `failed` have no panels to describe) — 2,854
+panels total, ~2.5hr estimated at the observed ~3s/panel warm-inference
+rate. Output lands in `output/transcripts/<slug>.md` +
+`output/transcripts/manifest.csv`; skips comics that already have a
+transcript unless `--force` is passed, same resume-friendly pattern as
+this project's other batch scripts.
+
 ## 2026-08-28 — Slideshow videos regenerated; fixed a stale-fallback bug in make_slideshow.py
 
 Re-ran `make_slideshow.py` over the full set after the panel segmentation
