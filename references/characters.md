@@ -44,7 +44,7 @@ after Koven left the class.
    16-bit RPG sprites. Note `fg2.png` and `FG-GrayCharas.png` in `CharSet/`
    and `fgs.png` in `FaceSet/` as the closest existing "canonical" sprite
    renditions of the cast.
-3. **Legacy raw art dump** — `/mnt/creative/projects/funnyguy` has PSDs and
+3. **Legacy raw art dump** — `/mnt/creative/funnyguy` has PSDs and
    scans spanning both eras plus unreleased/experimental art. Worth
    searching before assuming something doesn't have prior art.
 

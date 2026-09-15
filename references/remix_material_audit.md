@@ -3,7 +3,7 @@
 `scripts/discover_assets.py` only catalogs image/design extensions and
 prunes several top-level folders entirely (see `docs/progress.md`,
 2026-08-28 entry) — `references/asset_manifest.csv` was never a full
-inventory of `/mnt/creative/projects/funnyguy`. This is the fuller pass,
+inventory of `/mnt/creative/funnyguy`. This is the fuller pass,
 done specifically to find material worth pulling into generative remix
 work (new comic-panel generations, mashup video, alt-dialogue, etc.), not
 just images. Full top-level byte/file counts are reproducible with

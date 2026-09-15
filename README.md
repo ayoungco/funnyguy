@@ -9,7 +9,7 @@ existing archive and game rather than replacing them.
   webcomic (2000–2003). Source of characters, lore, and transcripts.
 - [`../funnyguyrpg`](../funnyguyrpg) — RPG Maker 2000/2003 game built on the
   Funny Guy IP. Source of sprites, tilesets, and battle assets.
-- `/mnt/creative/projects/funnyguy` — legacy asset dump (PSDs, scans, raw
+- `/mnt/creative/funnyguy` — legacy asset dump (PSDs, scans, raw
   art). Treated as read-only source material; nothing here copies it into
   git. Point tools at it directly, or mount/symlink locally if that's more
   convenient for a given session. Generated output goes in a `generated/`
@@ -49,14 +49,14 @@ point.
   (Whisper transcription of `Playthrough/` gameplay recordings).
 - `output/` — local scratch/staging for generated results. Gitignored;
   nothing here is source of truth. **Intended long-term home for generated
-  content is `/mnt/creative/projects/funnyguy/generated/`, not this repo**
+  content is `/mnt/creative/funnyguy/generated/`, not this repo**
   — see "Generated output location" below. `output/` stays as the working
   dir until that path is writable.
 
 ## Asset discovery
 
 `scripts/discover_assets.py` walks the three source locations
-(`../funnyguycomics`, `../funnyguyrpg`, `/mnt/creative/projects/funnyguy`)
+(`../funnyguycomics`, `../funnyguyrpg`, `/mnt/creative/funnyguy`)
 and writes `references/asset_manifest.csv` — path, size, mtime, extension,
 and an `origin` guess (`original-comic`, `original-rpg`, `stock-rpgmaker`,
 `legacy-unsorted`, or `canonical` for the handful of files already named in
@@ -72,14 +72,14 @@ resources (`DH-*`, `FX-*` in `funnyguyrpg/CharSet` etc.), not Funny Guy art
 ## Generated output location
 
 Generated content (rendered images, batches, anything `scripts/` produces)
-should land on the NAS at `/mnt/creative/projects/funnyguy/generated/` —
+should land on the NAS at `/mnt/creative/funnyguy/generated/` —
 alongside the existing legacy dump, not a new sibling location. Config —
 prompts, workflows, the character bible, the asset manifest — stays in
 git.
 
 This isn't wired up yet: `/mnt/creative` is a CIFS mount owned by
 `root:root` with `dir_mode=0755` (see `systemctl cat mnt-creative.mount`),
-so the current user can't create `/mnt/creative/projects/funnyguy/generated/`
+so the current user can't create `/mnt/creative/funnyguy/generated/`
 or write into it. Fixing this means adding `uid=`/`gid=` (or a looser
 `dir_mode`) to the `mnt-creative.mount` unit — it's a local mount-option
 fix, not a permissions change needed on the NAS itself. Until then,

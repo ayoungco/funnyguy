@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Transcribe recordings from /mnt/creative/projects/funnyguy/Playthrough/ --
+Transcribe recordings from /mnt/creative/funnyguy/Playthrough/ --
 9GB of video previously invisible to every tool in this repo (discover_assets.py
 only catalogs image/design extensions). Only the two files with "FGRPG" /
 walkthrough naming are run here -- the "Phil's House"/"Room Noise Sample"

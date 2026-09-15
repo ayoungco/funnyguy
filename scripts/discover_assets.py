@@ -7,7 +7,7 @@ or a human to re-browse 21GB of legacy files each time.
 Sources (see ../README.md):
   - ../../funnyguycomics   (Hugo archive, original webcomic)
   - ../../funnyguyrpg      (RPG Maker 2000/2003 game)
-  - /mnt/creative/projects/funnyguy   (legacy raw dump, read-only)
+  - /mnt/creative/funnyguy   (legacy raw dump, read-only)
 
 Usage:
     python3 discover_assets.py [--out ../references/asset_manifest.csv]
@@ -27,7 +27,7 @@ REPO_ROOT = SCRIPT_DIR.parent
 SOURCES = {
     "funnyguycomics": REPO_ROOT.parent / "funnyguycomics",
     "funnyguyrpg": REPO_ROOT.parent / "funnyguyrpg",
-    "legacy_dump": Path("/mnt/creative/projects/funnyguy"),
+    "legacy_dump": Path("/mnt/creative/funnyguy"),
 }
 
 # Legacy-dump top-level dirs that are backups/junk/unrelated, not source

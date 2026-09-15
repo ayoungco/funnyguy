@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Sort the ~690 loose files sitting at the top level of the legacy dump
-(/mnt/creative/projects/funnyguy) into folders, so the directory is
+(/mnt/creative/funnyguy) into folders, so the directory is
 browsable again. The dump already has ~19 subfolders (Art, Books, Comics,
 Covers, etc.) from earlier manual organizing; this only touches files
 currently at the top level and either files into an existing folder when
@@ -41,7 +41,7 @@ from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parent
-LEGACY_ROOT = Path("/mnt/creative/projects/funnyguy")
+LEGACY_ROOT = Path("/mnt/creative/funnyguy")
 PLAN_CSV = REPO_ROOT / "references" / "legacy_reorg_plan.csv"
 UNDO_CSV = REPO_ROOT / "references" / "legacy_reorg_undo.csv"
 

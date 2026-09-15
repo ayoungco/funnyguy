@@ -25,7 +25,7 @@ swappable already took manual PSD inspection per comic, so there's no
 Run with the ComfyUI venv's interpreter (has PIL, psd_tools):
     /home/adamyoung/src/ComfyUI/.venv/bin/python3 remix_psd.py
 
-Input:  /mnt/creative/projects/funnyguy/Raw/<slug>.psd
+Input:  /mnt/creative/funnyguy/Raw/<slug>.psd
 Output: ../output/remixes/<name>.mp4
 """
 import subprocess
@@ -39,7 +39,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR))
 from make_short import CANVAS, FPS, ZOOM_END, letterbox  # reuse the established look
 
-RAW_DIR = Path("/mnt/creative/projects/funnyguy/Raw")
+RAW_DIR = Path("/mnt/creative/funnyguy/Raw")
 OUT_DIR = SCRIPT_DIR.parent / "output" / "remixes"
 
 BEAT_SECONDS = 1.6
