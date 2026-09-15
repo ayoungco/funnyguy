@@ -2,6 +2,98 @@
 
 Running narrative of work on this project. Newest entries at the top.
 
+## 2026-09-11 — Fuller Documents/ triage landed in git; character-crop prototyping started
+
+**Legacy text material moved into git.** Per a direct ask to pull useful
+`/mnt/creative/funnyguy` content into the repo, scoped down (after
+flagging the tension with this README's own "nothing here copies it into
+git" policy) to text/lore only, not the large binary assets. New
+`references/legacy_text/` holds full-text copies of everything
+`references/story_bible.md` had only summarized, plus several
+previously-undocumented files found during a closer pass through
+`Documents/`: a second bios draft, an in-universe "Assimilation Document"
+(the real text behind the Repair Man handoff), two more gag/idea scratch
+lists (one of which is the creator's own articulated craft philosophy —
+"don't be afraid to mix up the panes," "Humor first, story SECOND"), and
+13 cleaned public news posts (2005-2007) with embedded email addresses
+stripped from the raw IPB export. Deliberately excluded (see that
+directory's own README): two US Copyright Office circulars, an unrelated
+third-party academic thesis that happened to be in the same folder, the
+personal `.eml` files, all legal/contract docs, a confirmed-corrupt file,
+and a redundant SQL dump.
+
+Two more scanned-notebook PDFs (`FGComics Ideas.pdf` / `FGComics
+Notes.pdf`, no text layer) got OCR'd via the local `qwen2.5vl:7b` VLM
+instead of skipped. First attempt at 150 DPI with the full descriptive
+prompt hit `400 exceed_context_size_error` (Ollama's default 4096-token
+context) on every page. Bumping `num_ctx` to 8192 fixed the error but
+ballooned the model's resident memory enough that a background OCR run
+got killed by a low-memory watchdog on this 15GB-RAM machine (already
+running a desktop session, Steam, etc. — swap hit 8/8GB used). Re-rendering
+the smaller PDF at 100 DPI instead, at default context, fixed it without
+the memory cost — the actual fix was lowering token count going in, not
+raising the ceiling. One page (`fgcomics_ideas_ocr.md` p-2, a
+nine-levels-deep nested bullet list) came back mostly `[illegible]` and
+was kept as-is rather than dropped. The most valuable single result: a
+primary-source list of comedic influences (Weird Al, Steven Wright,
+Demetri Martin, Bill Hicks, George Carlin, Tommy Blacha, Danny Antonucci,
+etc.) that confirms and extends `references/remix_style.md`'s Wright
+framing with an actual source — folded into that file.
+
+**Character/object segmentation prototype started.** In response to
+wanting a "master character palette" (drawn from memory each time, so no
+existing consistent reference), tested whether the local `qwen2.5vl:7b`
+model — already used for panel descriptions — could localize individual
+figures within a panel via a grounding prompt (bounding boxes), not just
+describe them. Confirmed empirically: it returns real per-figure boxes,
+but on a **0-1000 normalized coordinate scale relative to the displayed
+image**, not raw pixels of the source file — verified by converting and
+checking the resulting crop regions made sense on a real panel before
+trusting it. New `scripts/segment_characters.py` prototype built on this.
+
+First working version's prompt (prose description of the "NAME:
+[x1,y1,x2,y2]" format) had a ~50% failure rate — the model sometimes
+output "NAME: Funny Guy" literally, or listed quoted panel dialogue as if
+it were a character. A few-shot example fixed format compliance, but the
+first attempt at that reused suspiciously identical coordinates from the
+example for a second real figure in the panel — anchoring on the example
+numbers instead of deriving real ones. Fixed with varied, obviously-
+fictional example coordinates plus an explicit "don't reuse these
+numbers" instruction, then verified by actually cropping and looking at
+the result rather than trusting that the output format looked plausible.
+
+**Prototype run, 3 comics** (`python3 scripts/segment_characters.py
+--comics 001_the_funny_guy,002_foulness,003_hungry` — system python3 has
+Pillow already, no venv needed): 44 crops across 20 panels, every panel
+got at least one. Spot-checked several crops directly: `Funny Guy` crops
+from two different comics are both correctly isolated and recognizable,
+and visibly *not* identical — different arm/gesture rendering between
+them, which is exactly the from-memory drift a model-sheet is meant to
+surface, not hide. `Tornado` and `ROAR!` turned out to be real drawn
+objects/monster faces the model named after their onomatopoeia, not text
+mistakenly boxed as an object — a legitimate call. One real failure
+found: a `Misty` crop that's just blank scribble lines, no recognizable
+figure — a bad detection, not a bad label. Same kind of low-content junk
+crop `embed_panels.py`'s CLIP pass already catches for whole panels (116
+near-blank/junk panels flagged via low pixel variance, 2026-08-29 entry
+below) — the same technique should catch these too; not yet added here.
+
+Cost check before considering a full-corpus run: ~22s/panel including
+retries in one timed batch, so the full ~2,854-panel corpus would be on
+the order of 17 hours of sequential local GPU time — worth deciding
+deliberately when/whether to run that, not defaulting into it.
+
+## 2026-09-11 — Fixed stale NAS path after `/mnt/creative` reorg
+
+The NAS dropped the `projects/` segment (`/mnt/creative/projects/funnyguy`
+→ `/mnt/creative/funnyguy`); the old path stopped resolving. Updated the
+`LEGACY_ROOT`/`RAW_DIR` constants in `render_thumbnails.py`,
+`discover_assets.py`, `organize_legacy_dump.py`, and `remix_psd.py`, plus
+the matching references in `README.md`, `references/characters.md`,
+`references/story_bible.md`, and `references/remix_material_audit.md`.
+Dated entries above that mention the old path are left as written — they
+describe what was true at the time.
+
 ## 2026-08-29 — PSD-layer remix clips; CLIP visual index; gameplay transcription started
 
 **Remix proof of concept** (`scripts/remix_psd.py`): hand-picked 5 spots
