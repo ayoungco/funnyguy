@@ -22,6 +22,22 @@ comic's real transcribed dialogue for that).
   between tone and content do the work. Good model for burned-in caption
   copy and any narration track.
 
+## Confirmed by a primary source, not just inferred
+
+A scanned notebook page (`references/legacy_text/fgcomics_notes_ocr.md`,
+p-4) turned up an actual list, in the creator's own hand, of comedic
+influences: Weird Al, **Steven Wright**, Demetri Martin, Lewis Black, Bill
+Hicks, George Carlin, Emo Philips, Larry the Cable Guy, Tommy Blacha,
+Brendan Smull, Danny Antonucci. That's real confirmation for the Wright
+influence above (not an outside comparison this project invented), plus
+several more flat-delivery/absurdist stand-ups worth drawing on for the
+same effect (Demetri Martin's one-line-plus-drawing structure in
+particular maps well onto this project's own panel-plus-caption format),
+and two animation names — Tommy Blacha (*Metalocalypse*, *Perfect Hair
+Forever*) and Danny Antonucci (*Ed, Edd n Eddy*) — that suggest the target
+register also has an adult-animation, not just stand-up-comedy, side worth
+keeping in mind for pacing/timing in video remixes specifically.
+
 ## This isn't an artificial style graft
 
 The legacy dump's own unpublished material (`references/story_bible.md`,

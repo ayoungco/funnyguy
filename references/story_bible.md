@@ -1,7 +1,7 @@
 # Story bible
 
 Consolidated lore, pulled from material that was sitting unread in the
-legacy dump (`/mnt/creative/projects/funnyguy/Documents/`) — never in
+legacy dump (`/mnt/creative/funnyguy/Documents/`) — never in
 git, never in `characters.md`. See `references/remix_material_audit.md`
 for where each source file lives and what else is in the dump.
 `characters.md` stays as the original short version; this is the fuller
@@ -22,7 +22,12 @@ The whole thing runs on real schoolyard history treated as continuity:
   of... since he was kind of a douche" — a real kid who got mad enough
   to start his own rival comic (wordless, starring "Repair Man," whose
   gimmick was killing Funny Guy by dipping him in lava) and declared war,
-  which the comics dramatize as **the Koven Wars**.
+  which the comics dramatize as **the Koven Wars**. The actual in-universe
+  "contract" text for Repair Man's later handoff survives verbatim in
+  `references/legacy_text/assimilation_document.txt` — mock-legalese
+  ("It has briefly come to our attention over a smidgeon of
+  hydrogen-oxygen mix...") declaring Repair Man "now property of Funny
+  Guy Comix Corporation."
 - **Repair Man** started as Koven's character, got "acquired" by the
   Funny Guy side once Koven lost interest (an in-universe "contract" was
   drafted and signed by the whole class), and is now a Funny Guy
@@ -157,6 +162,34 @@ raw material for *new* generative content, not just historical color:
   political tangents crashing into toilet humor, Modest-Proposal-style
   fake sincerity. Good to sample from directly for new captions/scripts
   rather than inventing new one-liners from scratch.
+- **`FGCOMICS.docx` / `Ideas_Notes.docx`** — two more scratch idea lists in
+  the same folder, missed by the first pass through `Documents/`, now at
+  `references/legacy_text/fgcomics_idea_scratch.txt` and
+  `references/legacy_text/design_notes_and_ideas.txt`. More gag fragments
+  and unused character ideas (Roger Wilco, Grampa Funny Guy, a Cop
+  "terrible at being undercover"), but `design_notes_and_ideas.txt` is the
+  more valuable find: it's the creator's own articulated craft philosophy
+  for the comic, not just gag material — "The GRID can make things boring
+  sometimes, don't be afraid to mix up the panes," "the frame that begins
+  a new line seems to work well for punchlines," "Humor first, story
+  SECOND," "BE RELATABLE." Worth treating as a design constraint for any
+  new generated panel layouts, the same way `references/remix_style.md`
+  treats the Notebook's tone as already-on-file rather than something to
+  invent.
+
+## Public site history (from `Documents/FGComics News (2005).txt`)
+
+13 public news-post announcements from the fgcomics.com homepage,
+2005–2007, cleaned up and dated at
+`references/legacy_text/fgcomics_news_2005-2007.md`. Mostly FGRPG release/
+patch history and site-maintenance chatter, but two are worth knowing
+about directly: the 2005-12-24 "Conversion Update" post is the creator
+describing, in real time, salvaging the original FGOAC character bios
+after a hosting hack — corroborates `character_bios_2012_draft.txt`
+existing as a separate draft from the main bios doc — and the 2007-01-02
+post is the creator's own account of the "p3stil" defacement already
+flagged in `references/remix_material_audit.md` via the `Turkish Hackers
+Response` PSD.
 
 ## What's deliberately left out here
 
