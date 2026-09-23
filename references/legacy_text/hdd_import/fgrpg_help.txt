@@ -1,0 +1,86 @@
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+----------------------------------------------------
+|                FGRPG Help File                   |
+----------------------------------------------------
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+Game version: 1.0.00
+----------------------------------------------------
+|                  WARNING(S)(READ):               |
+----------------------------------------------------
+A known fatal glitch in the game is related to the
+activation of the QuestMenu. DO NOT activate the
+QuestMenu with the number keys(0-9) while talking 
+to a person, reading something, or while a cutscene
+is running. Doing so will result in the game
+experiencing an error that will close the application.
+
+----------------------------------------------------
+|                    Controls:                     |
+----------------------------------------------------
+
+Key(s): Function
+
+Enter/Spacebar: Confirm/Action
+
+Esc(When in field): Open Main Menu
+
+Esc(When at menu): Go back/Cancel
+
+Number Keys(0-9)(When on field): Open QuestMenu
+
+F4: Toggle Fullscreen/Window
+
+F5(When in Window mode): Toggle Normal Size/High-Resolution
+
+Alt+F4: Terminate game
+
+----------------------------------------------------
+|                       Menus                      |
+----------------------------------------------------
+
+Main Menu: You use the Main Menu to customize your
+Funny Guys' armor, use items, view your party's
+status and skills, and of course quit the game.
+
+Quest Menu: This menu has special options not included
+on the Main Menu...
+
+	Master Skills: Once you have obtained one or
+	more Skill Scrolls, you can activate them 
+	using this menu- just choose the Funny Guy
+	you want to give the scroll, then activate
+	it. The employment of this menu is necessary
+	for the completion of the game.
+
+	Lineup: After you obtain 5 Funny Guys, you
+	can switch out FGs for other FGs in "storage"
+	using this menu.
+
+	Cheats: This menu, when activated with the 
+	correct code, allows the player to activate
+	special cheats that enhance the FGs' battle 
+	performance or field appearance. The code is 
+	revealed after the game is completed, so the 
+	player may start a new game with the cheats.
+
+	Exit: Return to the field
+
+----------------------------------------------------
+|                      Items:                      |
+----------------------------------------------------
+
+Just like any RPG, items heal your characters, give
+you access to certain places in the game, and allow
+you to teach your FGs skills. They also count as 
+weapons and armor, which you should be sure to save 
+enough money to buy.
+
+----------------------------------------------------
+|                  Additional Help                 |
+----------------------------------------------------
+
+If you need professional or additional help on the 
+FGRPG, head on over to http://www.fgcomics.com and
+sign up at our discussion forums. You'll also be able
+to find online comics and more!

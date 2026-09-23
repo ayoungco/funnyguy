@@ -1,0 +1,50 @@
+Notes
+
+$A Sword $a Smiling face
+$B Shield $b Neutral face
+$C Star of Salomon $c Sad face
+$D Sun $d Sweat 1
+$E Moon $e Sweat 2
+$F Mercury $f Spade(clear)
+$G Venus $g Hearth(clear)
+$H Venus(inversed) $h Stand(clear)
+$I Mars $i Club(clear)
+$J Jupiter $j Spade(filled)
+$K Saturn $k Hearth(filled)
+$L Uranus $l Stand(filled)
+$M Neptune $m Club(filled)
+$N Pluto $n Skull
+$O Aries $o A X
+$P Taurus $p Sun
+$Q Gemini $q Moon
+$R Cancer $r Dot
+$S Leo $s Up arrow
+$T Virgo $t Right arrow
+$U Libra $u Down arrow
+$V Scorpio $v Left arrow
+$W Sagitarius $w Up-right arrow
+$X Capricorn $x Down-right arrow
+$Y Aquarius $y Down-left arrow
+
+Colors
+
+\C[0] - Default Color
+\C[1] - Blue
+\C[2] - Orange
+\C[3] - Grey
+\C[4] - Yellow
+\C[5] - Dark Red
+\C[6] - Purple
+\C[7] - Pink
+\C[8] - Golden Orange
+\C[9] - Green
+\C[10] - Dark Blue
+\C[11] - Red
+\C[12] - Ugly Green
+\C[13] - Dark Purple
+\C[14] - Gold
+\C[15] - Light Green
+\C[16] - Dark Purple (Different shade then #13)
+\C[17] - Grey-Blue
+\C[18] - Dark Green
+\C[19] - Brown

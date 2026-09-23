@@ -1,0 +1,10 @@
+RPG Maker 2003 Obfuscation
+
+All references to "lmu" in RPG_RT .exe replaced with "map"
+Change all "lmu" file extensions to "map"
+
+All references to "ldb" in RPG_RT .exe replaced with "xr1"
+Change all "ldb" file extensions to "xr1"
+
+All references to "lmt" in RPG_RT .exe replaced with "xr2"
+Change all "lmt" file extensions to "xr2"

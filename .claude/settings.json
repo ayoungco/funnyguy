@@ -1,0 +1,8 @@
+{
+    "permissions": {
+      "allow": [
+        "Bash(cp /mnt/hdd/funnyguy/*)",
+        "Bash(antiword /mnt/hdd/funnyguy/*)"
+      ]
+    }
+}
