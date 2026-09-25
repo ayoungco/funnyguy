@@ -2,6 +2,48 @@
 
 Running narrative of work on this project. Newest entries at the top.
 
+## 2026-09-24 — Repo roles split: funnyguy is the factory, comics is publishing-only
+
+**Decision:** all workflow/"factory" work for the whole franchise (rescans,
+panel/character segmentation, video, generation, story and lore research)
+lives in this repo. `funnyguycomics` is only the Hugo publishing website,
+and `funnyguyrpg` is the game. Anything that produces or processes assets
+belongs here; the other two only consume the results.
+
+**Comics repo cleaned up.** Rebased its local restyle commit onto
+`origin/main` (it had diverged by 2 upstream commits) and resolved a
+half-finished `fgcomics.sql` -> `data/` move; the stray untracked copy
+differed from upstream only by CRLF line endings, so it was discarded.
+Removed the factory material from it: `tools/video/` (a prototype panel
+segmenter, superseded by `scripts/segment_panels.py` here and left in that
+repo's git history rather than copied), the video/rescan/AI/social idea
+docs, the segmentation notes, and the "goal 00" pipeline brief. Its
+`TODO.md` is down to the publishing item.
+
+**Imported here:**
+- `docs/ideas/` — `ai-possibilities`, `rescans`, `social-media`, `video`,
+  and `segmentation` (from the comics repo).
+- `docs/goals/00-elevate.md` — the pipeline brief (n8n + ComfyUI + SAM/SVD
+  + ffmpeg architecture); an aspirational plan, none of it built as
+  described yet.
+- `docs/goals/TODO.md` — franchise-level items: flatbed rescan of the
+  original binder at max resolution, unify PSDs and original scans, extract
+  characters for generative training and a character-gallery page on the
+  site.
+
+**Catching up the log.** Landed since the last entry, without their own
+write-ups: character/object segmentation prototype (VLM bounding-box
+crops) and the `/mnt/creative` path fix after the NAS reorg (2026-09-15),
+plus the FGRPG help/guide, RPG Maker notes, forum rules and Steam research
+imported from `/mnt/hdd` (2026-09-23).
+
+**RPG repo state (no changes made).** `funnyguyrpg` has 2 unpushed commits
+(cloud-saves/Auth0 evaluation for the web release, and a TODO note on a UI
+redo and OGG compatibility) and one untracked
+`.github/workflows/release.yml` (a semantic-release workflow). It looks
+intentionally disabled since actions were turned off in April, so it was
+left untracked.
+
 ## 2026-09-11 — Fuller Documents/ triage landed in git; character-crop prototyping started
 
 **Legacy text material moved into git.** Per a direct ask to pull useful
