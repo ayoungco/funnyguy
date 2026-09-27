@@ -1,7 +1,30 @@
-# Funny Guy — Generative Content
+# Funny Guy — Franchise Root
 
-AI-generated art and assets for the Funny Guy universe, built on top of the
-existing archive and game rather than replacing them.
+This is the home for the Funny Guy franchise: shared canon, extracted game data,
+asset catalogs, creative tools, and future games. The original RPG and comic
+archive remain in their sibling repositories.
+
+## RPG extraction
+
+The original RPG is now exported into reusable JSON and searchable text under
+[`data/rpg/`](data/rpg/): 315 maps, 2,945 message blocks (4,808 lines), six playable
+actors, 190 skills, 140 items, 121 enemy records, and 17,098 event commands.
+
+- [Methods, reproducibility, schema, and limitations](docs/rpg-extraction.md)
+- [Characters and artwork links](data/rpg/characters.json)
+- [Readable dialogue](data/rpg/dialogue.txt)
+- [Grouped messages](data/rpg/messages.jsonl)
+- [Extraction summary](data/rpg/summary.json)
+
+Run `python3 scripts/extract_rpg.py` from this repository to regenerate. Run
+`python3 -m unittest discover -s tests -v` to validate.
+
+Legacy assets are now at **`/mnt/hdd/assets`**. Older documents may cite a mounted
+share and folder layout that no longer exists. Use the current
+[`legacy_asset_index.json`](data/rpg/legacy_asset_index.json) and
+[historical-reference candidates](data/rpg/legacy_reference_resolution.json)
+instead of reconstructing old paths. New generated media belongs in `output/`;
+shared, reproducible data and methods belong in `data/` and `docs/`.
 
 ## Related repos
 
@@ -9,13 +32,11 @@ existing archive and game rather than replacing them.
   webcomic (2000–2003). Source of characters, lore, and transcripts.
 - [`../funnyguyrpg`](../funnyguyrpg) — RPG Maker 2000/2003 game built on the
   Funny Guy IP. Source of sprites, tilesets, and battle assets.
-- `/mnt/creative/funnyguy` — legacy asset dump (PSDs, scans, raw
-  art). Treated as read-only source material; nothing here copies it into
-  git. Point tools at it directly, or mount/symlink locally if that's more
-  convenient for a given session. Generated output goes in a `generated/`
-  subfolder here too — see "Generated output location" below.
+- `/mnt/hdd/assets` — current legacy asset collection (PSDs, scans, raw art).
+  Source material stays in place; generated output belongs in this repository's
+  ignored `output/` directory.
 
-## Purpose
+## Creative tooling
 
 Generate new Funny Guy art (character portraits, comic panels, RPG-style
 sprites/tilesets) that's consistent with the established look: crude,
@@ -26,12 +47,15 @@ point.
 
 ## Layout
 
+- `data/rpg/` — reproducible RPG content exports with source IDs and asset links.
+- `docs/` — franchise methods, extraction notes, and project planning.
+
 - `references/` — character bible, style notes, and `asset_manifest.csv`
   (see below), pulled from the archive with pointers to real source files
   for visual reference. Also `story_bible.md` (fuller lore recovered from
   unread legacy-dump documents — history, full cast bios, the official
   book/season structure, unproduced scripts), `remix_material_audit.md`
-  (what in `/mnt/creative` is usable for generative remix work and why),
+  (historical audit of reusable legacy material),
   and `remix_style.md` (target tone for remixed/generated content).
 - `prompts/` — reusable SDXL prompt templates per character/style.
 - `workflows/` — ComfyUI workflow JSON exports.
@@ -48,42 +72,31 @@ point.
   visual-similarity index over every panel), `transcribe_playthrough.py`
   (Whisper transcription of `Playthrough/` gameplay recordings).
 - `output/` — local scratch/staging for generated results. Gitignored;
-  nothing here is source of truth. **Intended long-term home for generated
-  content is `/mnt/creative/funnyguy/generated/`, not this repo**
-  — see "Generated output location" below. `output/` stays as the working
-  dir until that path is writable.
+  nothing here is source of truth. Generated media stays here; reproducible extracted records live in `data/`.
 
 ## Asset discovery
 
 `scripts/discover_assets.py` walks the three source locations
-(`../funnyguycomics`, `../funnyguyrpg`, `/mnt/creative/funnyguy`)
+(`../funnyguycomics`, `../funnyguyrpg`, `/mnt/hdd/assets`)
 and writes `references/asset_manifest.csv` — path, size, mtime, extension,
-and an `origin` guess (`original-comic`, `original-rpg`, `stock-rpgmaker`,
+and an `origin` guess (`original-comic`, `rpg-unreviewed`, `stock-rpgmaker`,
 `legacy-unsorted`, or `canonical` for the handful of files already named in
 `references/characters.md`). It only reads file metadata, never opens or
-hashes files, since the legacy dump is 21GB over a slow CIFS mount.
+hashes files, to keep discovery lightweight.
 
 The manifest is checked into git (it's small, machine-readable, and useful
 without the NAS mount online) — re-run the script and commit the diff when
-source material changes. `stock-rpgmaker` rows are RPG Maker's bundled
-resources (`DH-*`, `FX-*` in `funnyguyrpg/CharSet` etc.), not Funny Guy art
-— don't use them as character style reference, per `references/style.md`.
+source material changes. `stock-rpgmaker` is a filename-prefix heuristic for `DH-*` / `FX-*` resources;
+other game media is `rpg-unreviewed`, not automatically original artwork.
+See `references/style.md` before selecting character references.
 
 ## Generated output location
 
-Generated content (rendered images, batches, anything `scripts/` produces)
-should land on the NAS at `/mnt/creative/funnyguy/generated/` —
-alongside the existing legacy dump, not a new sibling location. Config —
-prompts, workflows, the character bible, the asset manifest — stays in
-git.
-
-This isn't wired up yet: `/mnt/creative` is a CIFS mount owned by
-`root:root` with `dir_mode=0755` (see `systemctl cat mnt-creative.mount`),
-so the current user can't create `/mnt/creative/funnyguy/generated/`
-or write into it. Fixing this means adding `uid=`/`gid=` (or a looser
-`dir_mode`) to the `mnt-creative.mount` unit — it's a local mount-option
-fix, not a permissions change needed on the NAS itself. Until then,
-generated output stays in the gitignored local `output/`.
+Use `output/` for generated media and scratch results (gitignored). Keep shared
+canon in `references/`, reproducible extracted data in `data/`, and methods in
+`docs/`. The `/mnt/hdd/assets` collection is an input, not an output destination.
+Historical audits retain original paths as provenance; see the extraction methods
+for migration limits and tools that still need individual path updates.
 
 ## Generation stack
 

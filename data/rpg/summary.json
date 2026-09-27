@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "liblcf_revision": "6854310c3432e553fd4ae672ce861899c80c3bd0",
+  "encoding": "cp1252",
+  "game_root": "/home/adamyoung/src/funnyguyrpg/game",
+  "legacy_assets_root": "/mnt/hdd/assets",
+  "maps": 315,
+  "event_pages": 6915,
+  "commands": 17098,
+  "dialogue_records": 5266,
+  "message_lines": 4808,
+  "message_blocks": 2945,
+  "actors": 6,
+  "skills": 190,
+  "items": 140,
+  "enemies": 121,
+  "game_asset_files": 523,
+  "legacy_asset_files": 3448,
+  "legacy_reference_status": {
+    "unique_basename_candidate": 663,
+    "ambiguous": 14,
+    "unresolved": 1159
+  },
+  "opaque_fields": {
+    "EmptyBlock": 3
+  },
+  "unknown_command_codes": []
+}

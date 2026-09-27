@@ -1,0 +1,8984 @@
+{
+  "maps": [
+    {
+      "id": 0,
+      "name": "The Funny Guy RPG",
+      "type": 0,
+      "expanded_node": true,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 1,
+      "name": "Funnytown",
+      "indentation": 1,
+      "type": 1,
+      "scrollbar_x": 3060,
+      "scrollbar_y": 4470,
+      "music_type": 2,
+      "music": {
+        "name": "adventure"
+      },
+      "background_type": 2,
+      "background_name": "forest1",
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 1
+        },
+        {
+          "id": 2,
+          "troop_id": 2
+        },
+        {
+          "id": 3,
+          "troop_id": 3
+        }
+      ],
+      "encounter_steps": 100,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 2,
+      "name": "GasTown",
+      "parent_map": 1,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 12,
+      "scrollbar_y": 18,
+      "music_type": 2,
+      "music": {
+        "name": "town2"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 3,
+      "name": "SilentCreekForest",
+      "parent_map": 1,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_y": 1866,
+      "music_type": 2,
+      "music": {
+        "name": "Ta-Wahi Forest"
+      },
+      "background_type": 2,
+      "background_name": "forest1",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 1
+        },
+        {
+          "id": 2,
+          "troop_id": 2
+        },
+        {
+          "id": 3,
+          "troop_id": 3
+        }
+      ],
+      "encounter_steps": 75,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 4,
+      "name": "FG'sHouse",
+      "parent_map": 2,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": -160,
+      "scrollbar_y": -24,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 5,
+      "name": "PottyP's",
+      "parent_map": 2,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 392,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 6,
+      "name": "Basement",
+      "parent_map": 2,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 448,
+      "scrollbar_y": 328,
+      "music_type": 2,
+      "music": {
+        "name": "shop3"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 7,
+      "name": "Shed",
+      "parent_map": 4,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 8,
+      "name": "Sacred Tomb",
+      "parent_map": 3,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Caverns"
+      },
+      "background_type": 2,
+      "background_name": "lunarS",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 41
+        },
+        {
+          "id": 2,
+          "troop_id": 42
+        }
+      ],
+      "encounter_steps": 65,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 9,
+      "name": "Oblivion Castle",
+      "parent_map": 3,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 173,
+      "scrollbar_y": 164,
+      "music_type": 2,
+      "music": {
+        "name": "se-torrent"
+      },
+      "background_type": 2,
+      "background_name": "wasteland",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 10,
+      "name": "Throne Room",
+      "parent_map": 13,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 51,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Royal Meeting",
+        "volume": 80
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 11,
+      "name": "GasTownStore",
+      "parent_map": 2,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 192,
+      "scrollbar_y": 232,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 12,
+      "name": "House",
+      "parent_map": 2,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": -96,
+      "scrollbar_y": 168,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 13,
+      "name": "ToiletCity",
+      "parent_map": 1,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 375,
+      "scrollbar_y": 225,
+      "music_type": 2,
+      "music": {
+        "name": "malice"
+      },
+      "background_type": 2,
+      "background_name": "ghost-town",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 1
+        }
+      ],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 14,
+      "name": "ToiletCityInn",
+      "parent_map": 13,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "thief"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 15,
+      "name": "Castle Locks",
+      "parent_map": 13,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 160,
+      "scrollbar_y": 1128,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Castle"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 16,
+      "name": "Docks",
+      "parent_map": 29,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 17,
+      "name": "DungeonsHub",
+      "parent_map": 15,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 12,
+      "music_type": 2,
+      "music": {
+        "name": "dungeon1"
+      },
+      "background_type": 2,
+      "background_name": "dungeon5",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 41
+        },
+        {
+          "id": 2,
+          "troop_id": 42
+        },
+        {
+          "id": 3,
+          "troop_id": 43
+        }
+      ],
+      "encounter_steps": 30,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 18,
+      "name": "Cell",
+      "parent_map": 17,
+      "indentation": 5,
+      "type": 1,
+      "scrollbar_x": 224,
+      "scrollbar_y": 72,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 1
+        }
+      ],
+      "encounter_steps": 35,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 19,
+      "name": "MagmaHall",
+      "parent_map": 17,
+      "indentation": 5,
+      "type": 1,
+      "scrollbar_y": 1010,
+      "music_type": 2,
+      "music": {
+        "name": "tension"
+      },
+      "background_type": 2,
+      "background_name": "dungeon2",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 20,
+      "name": "LavaCave",
+      "parent_map": 17,
+      "indentation": 5,
+      "type": 1,
+      "scrollbar_y": 3,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Demonic Activity"
+      },
+      "background_type": 2,
+      "background_name": "dungeon2",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 35,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 21,
+      "name": "ToiletCityItem",
+      "parent_map": 13,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 32,
+      "scrollbar_y": 296,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 22,
+      "name": "LaughJungle",
+      "indentation": 1,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "se-torrent"
+      },
+      "background_type": 2,
+      "background_name": "forest2",
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 5
+        },
+        {
+          "id": 2,
+          "troop_id": 6
+        },
+        {
+          "id": 3,
+          "troop_id": 4
+        }
+      ],
+      "encounter_steps": 80,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 23,
+      "name": "BromiliadCity",
+      "parent_map": 22,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 431,
+      "scrollbar_y": 282,
+      "music_type": 2,
+      "music": {
+        "name": "se-torrent"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 24,
+      "name": "BCInnPub",
+      "parent_map": 23,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 328,
+      "music_type": 2,
+      "music": {
+        "name": "rainroof"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 25,
+      "name": "BCInnPub2",
+      "parent_map": 24,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 140,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 26,
+      "name": "Hidden Garden",
+      "parent_map": 22,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "se-torrent"
+      },
+      "background_type": 2,
+      "background_name": "forest2",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 4
+        }
+      ],
+      "encounter_steps": 70,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 27,
+      "name": "LibraryBC",
+      "parent_map": 23,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 296,
+      "music_type": 2,
+      "music": {
+        "name": "rainroof"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 28,
+      "name": "BCShop",
+      "parent_map": 23,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 64,
+      "scrollbar_y": 232,
+      "music_type": 2,
+      "music": {
+        "name": "rainroof"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 29,
+      "name": "Stronghold",
+      "parent_map": 26,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Dungeon"
+      },
+      "background_type": 2,
+      "background_name": "dungeon5",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 42
+        },
+        {
+          "id": 2,
+          "troop_id": 43
+        },
+        {
+          "id": 3,
+          "troop_id": 44
+        }
+      ],
+      "encounter_steps": 37,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 30,
+      "name": "HouseP1",
+      "parent_map": 23,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 96,
+      "scrollbar_y": 264,
+      "music_type": 2,
+      "music": {
+        "name": "rainroof"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 31,
+      "name": "Tunnel",
+      "parent_map": 30,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 384,
+      "scrollbar_y": 296,
+      "music_type": 2,
+      "music": {
+        "name": "rainroof",
+        "volume": 60
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 32,
+      "name": "HouseP2",
+      "parent_map": 30,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 33,
+      "name": "Waterfall Cavern",
+      "parent_map": 29,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 978,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 43
+        },
+        {
+          "id": 2,
+          "troop_id": 42
+        },
+        {
+          "id": 3,
+          "troop_id": 44
+        }
+      ],
+      "encounter_steps": 45,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 34,
+      "name": "Treasure Room",
+      "parent_map": 29,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 74,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 35,
+      "name": "EntranceSTR",
+      "parent_map": 29,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 160,
+      "scrollbar_y": 104,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Dungeon"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 36,
+      "name": "ElevatorDown",
+      "parent_map": 35,
+      "indentation": 5,
+      "type": 1,
+      "scrollbar_x": 160,
+      "scrollbar_y": 40,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 37,
+      "name": "ElevatorUp",
+      "parent_map": 35,
+      "indentation": 5,
+      "type": 1,
+      "scrollbar_x": 160,
+      "scrollbar_y": 40,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 38,
+      "name": "Water Cave",
+      "parent_map": 22,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "dungeon3"
+      },
+      "background_type": 2,
+      "background_name": "dungeon5",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 41
+        },
+        {
+          "id": 2,
+          "troop_id": 42
+        },
+        {
+          "id": 3,
+          "troop_id": 43
+        },
+        {
+          "id": 4,
+          "troop_id": 44
+        }
+      ],
+      "encounter_steps": 30,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 39,
+      "name": "Path",
+      "parent_map": 22,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 5194,
+      "music_type": 2,
+      "music": {
+        "name": "boss1",
+        "tempo": 150
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 40,
+      "name": "Lab Path",
+      "parent_map": 22,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "mecha-base"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 41,
+      "name": "Lab",
+      "parent_map": 40,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 332,
+      "scrollbar_y": 887,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 2,
+      "background_name": "dungeon5",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 45
+        },
+        {
+          "id": 2,
+          "troop_id": 44
+        },
+        {
+          "id": 3,
+          "troop_id": 43
+        }
+      ],
+      "encounter_steps": 80,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 42,
+      "name": "Storage",
+      "parent_map": 41,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 480,
+      "scrollbar_y": 648,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 43,
+      "name": "Experiment Hall",
+      "parent_map": 41,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 44,
+      "name": "LabBasement",
+      "parent_map": 41,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 136,
+      "music_type": 2,
+      "music": {
+        "name": "jackpot"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 45,
+      "name": "Sunburn Desert",
+      "indentation": 1,
+      "type": 1,
+      "scrollbar_x": 12652,
+      "scrollbar_y": 11350,
+      "music_type": 2,
+      "music": {
+        "name": "Po-Wahi",
+        "volume": 50
+      },
+      "background_type": 2,
+      "background_name": "desert",
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 7
+        },
+        {
+          "id": 2,
+          "troop_id": 8
+        },
+        {
+          "id": 3,
+          "troop_id": 9
+        }
+      ],
+      "encounter_steps": 120,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 46,
+      "name": "Ocean City",
+      "parent_map": 45,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_y": 248,
+      "music_type": 2,
+      "music": {
+        "name": "town-square"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 47,
+      "name": "OCCasino",
+      "parent_map": 46,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 332,
+      "scrollbar_y": 335,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 48,
+      "name": "InnOC",
+      "parent_map": 47,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 32,
+      "scrollbar_y": 8,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 49,
+      "name": "Attic",
+      "parent_map": 47,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 320,
+      "scrollbar_y": 8,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 51,
+      "name": "OCStore",
+      "parent_map": 46,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 96,
+      "scrollbar_y": 296,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 52,
+      "name": "Intro",
+      "indentation": 1,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "airborne"
+      },
+      "background_type": 1,
+      "teleport": 1,
+      "escape": 1,
+      "save": 1,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 53,
+      "name": "Houses",
+      "parent_map": 46,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 672,
+      "scrollbar_y": 104,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 54,
+      "name": "Tunnels",
+      "parent_map": 45,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 801,
+      "music_type": 2,
+      "music": {
+        "name": "Caves"
+      },
+      "background_type": 2,
+      "background_name": "dungeon1",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 41
+        },
+        {
+          "id": 2,
+          "troop_id": 42
+        },
+        {
+          "id": 3,
+          "troop_id": 43
+        },
+        {
+          "id": 4,
+          "troop_id": 44
+        },
+        {
+          "id": 5,
+          "troop_id": 45
+        }
+      ],
+      "encounter_steps": 73,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 55,
+      "name": "Entrance",
+      "parent_map": 54,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 288,
+      "scrollbar_y": 200,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 56,
+      "name": "Pre-Entrance",
+      "parent_map": 54,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 232,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 57,
+      "name": "Post-Entrance",
+      "parent_map": 54,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 64,
+      "scrollbar_y": 232,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 58,
+      "name": "L.O.P. Butter Factory",
+      "parent_map": 45,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 492,
+      "scrollbar_y": 1298,
+      "music_type": 2,
+      "music": {
+        "name": "vehicle2"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 59,
+      "name": "Tunnels2",
+      "parent_map": 54,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 676,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 41
+        },
+        {
+          "id": 2,
+          "troop_id": 42
+        },
+        {
+          "id": 3,
+          "troop_id": 43
+        },
+        {
+          "id": 4,
+          "troop_id": 44
+        },
+        {
+          "id": 5,
+          "troop_id": 45
+        }
+      ],
+      "encounter_steps": 80,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 60,
+      "name": "Stairs",
+      "parent_map": 59,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 978,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 61,
+      "name": "Cliff",
+      "parent_map": 59,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 149,
+      "scrollbar_y": 195,
+      "music_type": 2,
+      "music": {
+        "name": "moonlight"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 62,
+      "name": "Boulder Cave",
+      "parent_map": 59,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 13,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 63,
+      "name": "Boulder House",
+      "parent_map": 62,
+      "indentation": 5,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "jackpot"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 64,
+      "name": "LOPShop",
+      "parent_map": 58,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 64,
+      "scrollbar_y": 456,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 65,
+      "name": "Tunnels3",
+      "parent_map": 54,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 594,
+      "music_type": 2,
+      "music": {
+        "name": "Caves"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 66,
+      "name": "BH Cellar",
+      "parent_map": 63,
+      "indentation": 6,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 67,
+      "name": "Joey's House",
+      "parent_map": 58,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 172,
+      "scrollbar_y": 335,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 68,
+      "name": "2nd Floor",
+      "parent_map": 67,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "vehicle2"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 69,
+      "name": "Flashback",
+      "parent_map": 67,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 130,
+      "music_type": 2,
+      "music": {
+        "name": "solace3"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 70,
+      "name": "Flshbk2",
+      "parent_map": 69,
+      "indentation": 5,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "thief"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 71,
+      "name": "Inn/Pub",
+      "parent_map": 58,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": -64,
+      "scrollbar_y": 328,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 72,
+      "name": "House 4",
+      "parent_map": 58,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 172,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 73,
+      "name": "House 3",
+      "parent_map": 58,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 32,
+      "scrollbar_y": 296,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 74,
+      "name": "Crack",
+      "parent_map": 58,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 178,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Devious"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 75,
+      "name": "Conference",
+      "parent_map": 74,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 76,
+      "name": "Tunnels4",
+      "parent_map": 54,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 4418,
+      "music_type": 2,
+      "music": {
+        "name": "KH_nightfate"
+      },
+      "background_type": 2,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 77,
+      "name": "Tracks",
+      "parent_map": 65,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "dungeon1"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 78,
+      "name": "End1",
+      "parent_map": 77,
+      "indentation": 5,
+      "type": 1,
+      "scrollbar_x": 896,
+      "scrollbar_y": 200,
+      "music_type": 2,
+      "music": {
+        "name": "shop2"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 79,
+      "name": "Tunnel2SC",
+      "parent_map": 80,
+      "indentation": 6,
+      "type": 1,
+      "scrollbar_x": 362,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 80,
+      "name": "End2",
+      "parent_map": 77,
+      "indentation": 5,
+      "type": 1,
+      "scrollbar_x": 74,
+      "scrollbar_y": 4,
+      "music_type": 2,
+      "music": {
+        "name": "strangetown"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 81,
+      "name": "Seagull City",
+      "parent_map": 45,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_y": 498,
+      "music_type": 2,
+      "music": {
+        "name": "vehicle3"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 82,
+      "name": "SCStore",
+      "parent_map": 81,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 296,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 83,
+      "name": "SCInn",
+      "parent_map": 81,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 32,
+      "scrollbar_y": 328,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 84,
+      "name": "SCHouses",
+      "parent_map": 81,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 12,
+      "scrollbar_y": 70,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 85,
+      "name": "Basement",
+      "parent_map": 187,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 86,
+      "name": "Ship House",
+      "parent_map": 87,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 18,
+      "music_type": 2,
+      "music": {
+        "name": "shop3"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 87,
+      "name": "Dan's House",
+      "parent_map": 81,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 18,
+      "music_type": 2,
+      "music": {
+        "name": "shop3"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 88,
+      "name": "2nd Floor (New)",
+      "parent_map": 67,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 178,
+      "music_type": 2,
+      "music": {
+        "name": "vehicle2"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 89,
+      "name": "Chapel",
+      "parent_map": 9,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 138,
+      "music_type": 2,
+      "music": {
+        "name": "rainroof"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 90,
+      "name": "Ship",
+      "parent_map": 45,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": -64,
+      "scrollbar_y": 8,
+      "music_type": 2,
+      "music": {
+        "name": "rainroof"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 91,
+      "name": "Ship Deck",
+      "parent_map": 90,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 192,
+      "scrollbar_y": 200,
+      "music_type": 2,
+      "music": {
+        "name": "se-torrent"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 92,
+      "name": "Message",
+      "parent_map": 90,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 2,
+      "scrollbar_y": 70,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 93,
+      "name": "Ship Deck (Arrived)",
+      "parent_map": 90,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 116,
+      "music_type": 2,
+      "music": {
+        "name": "Erave - RTPs Death - Pirate 1"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 94,
+      "name": "Ship (Arrived)",
+      "parent_map": 90,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": -64,
+      "scrollbar_y": 8,
+      "music_type": 2,
+      "music": {
+        "name": "Erave - RTPs Death - Pirate 1"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 95,
+      "name": "HLCaverns",
+      "parent_map": 45,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_y": 1423,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Ancient truths and Lies"
+      },
+      "background_type": 2,
+      "background_name": "ruins2",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 43
+        },
+        {
+          "id": 2,
+          "troop_id": 44
+        },
+        {
+          "id": 3,
+          "troop_id": 45
+        },
+        {
+          "id": 4,
+          "troop_id": 46
+        }
+      ],
+      "encounter_steps": 55,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 96,
+      "name": "SwitchRoom1",
+      "parent_map": 95,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 97,
+      "name": "Main Room",
+      "parent_map": 95,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 98,
+      "name": "PusherHall",
+      "parent_map": 95,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 924,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 99,
+      "name": "Switch Room",
+      "parent_map": 95,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 96,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 100,
+      "name": "InnerSR",
+      "parent_map": 99,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 296,
+      "music_type": 2,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 102,
+      "name": "QuestMenu",
+      "indentation": 1,
+      "type": 1,
+      "music_type": 1,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 1,
+      "teleport": 1,
+      "escape": 1,
+      "save": 1,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 103,
+      "name": "Master Skills",
+      "parent_map": 102,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 104,
+      "name": "Junior Skills",
+      "parent_map": 103,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 105,
+      "name": "Funny Guy Skills",
+      "parent_map": 103,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 106,
+      "name": "Warp Room",
+      "parent_map": 95,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 107,
+      "name": "Pond Village",
+      "parent_map": 22,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "se-torrent"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 108,
+      "name": "Hermit's House",
+      "parent_map": 107,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 288,
+      "scrollbar_y": 72,
+      "music_type": 2,
+      "music": {
+        "name": "rainroof"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 109,
+      "name": "Caves of Learning",
+      "parent_map": 108,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 256,
+      "scrollbar_y": 104,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Caverns"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 110,
+      "name": "Razor Skills",
+      "parent_map": 103,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 111,
+      "name": "HeadingBack",
+      "parent_map": 90,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "se-ocean"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 112,
+      "name": "OCCelebration",
+      "parent_map": 46,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 1,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 113,
+      "name": "Gorge Canyon",
+      "indentation": 1,
+      "type": 1,
+      "scrollbar_x": 4332,
+      "scrollbar_y": 380,
+      "music_type": 2,
+      "music": {
+        "name": "On our way!"
+      },
+      "background_type": 2,
+      "background_name": "lunar4",
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 10
+        },
+        {
+          "id": 2,
+          "troop_id": 11
+        },
+        {
+          "id": 3,
+          "troop_id": 12
+        }
+      ],
+      "encounter_steps": 70,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 114,
+      "name": "TimeT Skills",
+      "parent_map": 103,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 8,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 115,
+      "name": "Olympian Skills",
+      "parent_map": 103,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 96,
+      "scrollbar_y": 104,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 116,
+      "name": "Target Skills",
+      "parent_map": 103,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 8,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 118,
+      "name": "2nd Elevation",
+      "parent_map": 178,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 676,
+      "scrollbar_y": 696,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale"
+      },
+      "background_type": 2,
+      "background_name": "bg018",
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 19
+        },
+        {
+          "id": 2,
+          "troop_id": 20
+        },
+        {
+          "id": 3,
+          "troop_id": 21
+        },
+        {
+          "id": 4,
+          "troop_id": 22
+        }
+      ],
+      "encounter_steps": 60,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 119,
+      "name": "Target's House",
+      "parent_map": 113,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_y": 40,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Caverns"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 120,
+      "name": "Dwelling",
+      "parent_map": 119,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 172,
+      "scrollbar_y": 370,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Thieve's Guild"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 121,
+      "name": "Breeze City",
+      "parent_map": 113,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 247,
+      "scrollbar_y": 183,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Enemy Attack"
+      },
+      "background_type": 2,
+      "background_name": "lunar068",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 16
+        },
+        {
+          "id": 2,
+          "troop_id": 17
+        },
+        {
+          "id": 3,
+          "troop_id": 18
+        }
+      ],
+      "encounter_steps": 50,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 122,
+      "name": "Tunnel",
+      "parent_map": 121,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 564,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 2,
+      "background_name": "lunarS",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 16
+        },
+        {
+          "id": 2,
+          "troop_id": 11
+        }
+      ],
+      "encounter_steps": 75,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 123,
+      "name": "Building",
+      "parent_map": 121,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 320,
+      "scrollbar_y": 328,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 124,
+      "name": "Tunnel2",
+      "parent_map": 122,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 318,
+      "scrollbar_y": 488,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 11
+        },
+        {
+          "id": 2,
+          "troop_id": 16
+        }
+      ],
+      "encounter_steps": 60,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 125,
+      "name": "Temple",
+      "parent_map": 121,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 172,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Ancient truths and Lies"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 126,
+      "name": "Grand Room",
+      "parent_map": 125,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 95,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Ancient truths and Lies"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 127,
+      "name": "Sewer",
+      "parent_map": 126,
+      "indentation": 5,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Enemy Attack"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 128,
+      "name": "Tower",
+      "parent_map": 125,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "se-bird",
+        "volume": 80
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 129,
+      "name": "Office",
+      "parent_map": 125,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 296,
+      "music_type": 2,
+      "music": {
+        "name": "shop1"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 130,
+      "name": "B.C. Cooled Off",
+      "parent_map": 121,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 222,
+      "scrollbar_y": 130,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale",
+        "volume": 70
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 131,
+      "name": "Tunnel",
+      "parent_map": 113,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 31,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Caverns"
+      },
+      "background_type": 2,
+      "background_name": "lunarS",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 10
+        },
+        {
+          "id": 2,
+          "troop_id": 11
+        },
+        {
+          "id": 3,
+          "troop_id": 12
+        },
+        {
+          "id": 4,
+          "troop_id": 46
+        },
+        {
+          "id": 5,
+          "troop_id": 45
+        }
+      ],
+      "encounter_steps": 55,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 132,
+      "name": "The Elevator",
+      "parent_map": 113,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 288,
+      "scrollbar_y": 264,
+      "music_type": 2,
+      "music": {
+        "name": "Caves"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 133,
+      "name": "Stairs1",
+      "parent_map": 132,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 256,
+      "scrollbar_y": 264,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 134,
+      "name": "Stairs2",
+      "parent_map": 132,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 288,
+      "scrollbar_y": 264,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 135,
+      "name": "TunnelA1",
+      "parent_map": 131,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 136,
+      "name": "Chamber",
+      "parent_map": 131,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Devious"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 137,
+      "name": "Stairs3",
+      "parent_map": 132,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 256,
+      "scrollbar_y": 264,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 138,
+      "name": "Stairs4",
+      "parent_map": 132,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": -56,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 139,
+      "name": "Stairs5",
+      "parent_map": 132,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": -56,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 140,
+      "name": "Stairs6",
+      "parent_map": 132,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": -32,
+      "scrollbar_y": -56,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 141,
+      "name": "Stairs7",
+      "parent_map": 132,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": -56,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 142,
+      "name": "End Room",
+      "parent_map": 132,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 127,
+      "music_type": 2,
+      "music": {
+        "name": "se-crowd",
+        "volume": 80
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 143,
+      "name": "The Gorge",
+      "parent_map": 113,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 640,
+      "scrollbar_y": 776,
+      "music_type": 2,
+      "music": {
+        "name": "Swamps of Kauae Bay"
+      },
+      "background_type": 2,
+      "background_name": "lunarS",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 13
+        },
+        {
+          "id": 2,
+          "troop_id": 14
+        },
+        {
+          "id": 3,
+          "troop_id": 15
+        },
+        {
+          "id": 4,
+          "troop_id": 12
+        }
+      ],
+      "encounter_steps": 55,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 144,
+      "name": "Entrance",
+      "parent_map": 143,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 83,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 145,
+      "name": "Inn",
+      "parent_map": 142,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 448,
+      "scrollbar_y": 136,
+      "music_type": 2,
+      "music": {
+        "name": "se-crowd",
+        "volume": 40
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 146,
+      "name": "Hall",
+      "parent_map": 145,
+      "indentation": 5,
+      "type": 1,
+      "scrollbar_x": -128,
+      "scrollbar_y": 104,
+      "music_type": 2,
+      "music": {
+        "name": "se-crowd",
+        "volume": 60
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 147,
+      "name": "Tracks",
+      "parent_map": 146,
+      "indentation": 6,
+      "type": 1,
+      "scrollbar_x": 160,
+      "scrollbar_y": 168,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Peacefull"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 148,
+      "name": "Shield City",
+      "parent_map": 113,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 313,
+      "scrollbar_y": 529,
+      "music_type": 2,
+      "music": {
+        "name": "se-crowd"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 149,
+      "name": "SCEntrance",
+      "parent_map": 143,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 16,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 150,
+      "name": "Gate",
+      "parent_map": 148,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 98,
+      "scrollbar_y": 786,
+      "music_type": 2,
+      "music": {
+        "name": "se-crowd",
+        "volume": 70
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 151,
+      "name": "Good Pub",
+      "parent_map": 148,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 12,
+      "music_type": 2,
+      "music": {
+        "name": "se-crowd",
+        "volume": 70
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 152,
+      "name": "Bad Pub",
+      "parent_map": 148,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 92,
+      "music_type": 2,
+      "music": {
+        "name": "se-crowd",
+        "volume": 70
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 153,
+      "name": "Sell Shop",
+      "parent_map": 148,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 160,
+      "scrollbar_y": 296,
+      "music_type": 2,
+      "music": {
+        "name": "se-crowd",
+        "volume": 70
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 154,
+      "name": "Magic Shop",
+      "parent_map": 148,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 74,
+      "scrollbar_y": 70,
+      "music_type": 2,
+      "music": {
+        "name": "se-crowd",
+        "volume": 80
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 155,
+      "name": "Room",
+      "parent_map": 154,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 156,
+      "name": "Houses",
+      "parent_map": 148,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 978,
+      "music_type": 2,
+      "music": {
+        "name": "se-crowd",
+        "volume": 70
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 157,
+      "name": "North Hall",
+      "parent_map": 158,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 70,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 158,
+      "name": "Capital Building",
+      "parent_map": 148,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 33,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Castle"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 159,
+      "name": "Throne Room",
+      "parent_map": 158,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 268,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Royal Meeting"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 160,
+      "name": "Rooms",
+      "parent_map": 158,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 161,
+      "name": "Kitchen/Mess",
+      "parent_map": 158,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 512,
+      "scrollbar_y": 226,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 162,
+      "name": "East Hall",
+      "parent_map": 158,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 224,
+      "scrollbar_y": 136,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 163,
+      "name": "Armory",
+      "parent_map": 158,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 448,
+      "scrollbar_y": 102,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 164,
+      "name": "Library",
+      "parent_map": 158,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 63,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 165,
+      "name": "Royal Rooms",
+      "parent_map": 158,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 172,
+      "scrollbar_y": 631,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 166,
+      "name": "Shack",
+      "parent_map": 148,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 70,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Peacefull"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 167,
+      "name": "Pumps",
+      "parent_map": 148,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 327,
+      "scrollbar_y": 85,
+      "music_type": 2,
+      "music": {
+        "name": "DH-SewerSE"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 168,
+      "name": "Hub",
+      "parent_map": 167,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 642,
+      "music_type": 2,
+      "music": {
+        "name": "Onu-Koro"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 169,
+      "name": "Secret Passage",
+      "parent_map": 167,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 338,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 170,
+      "name": "Warp Room",
+      "parent_map": 169,
+      "indentation": 5,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": -120,
+      "music_type": 2,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 171,
+      "name": "Humorless Cave",
+      "parent_map": 113,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 332,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Ancient truths and Lies"
+      },
+      "background_type": 2,
+      "background_name": "dungeon5",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 13
+        },
+        {
+          "id": 2,
+          "troop_id": 14
+        },
+        {
+          "id": 3,
+          "troop_id": 15
+        }
+      ],
+      "encounter_steps": 70,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 172,
+      "name": "Chamber",
+      "parent_map": 171,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 70,
+      "music_type": 2,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 173,
+      "name": "Throne Room(2)",
+      "parent_map": 172,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 268,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Royal Meeting"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 174,
+      "name": "Path2IM",
+      "parent_map": 168,
+      "indentation": 5,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale",
+        "volume": 50,
+        "tempo": 90
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 175,
+      "name": "Servant's Rooms",
+      "parent_map": 158,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 70,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 176,
+      "name": "Soldier's Bunks",
+      "parent_map": 158,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 248,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 177,
+      "name": "Path2IM2",
+      "parent_map": 168,
+      "indentation": 5,
+      "type": 1,
+      "scrollbar_y": 70,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale",
+        "volume": 70,
+        "tempo": 90
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 178,
+      "name": "Ice Mountains",
+      "indentation": 1,
+      "type": 1,
+      "scrollbar_y": 1931,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale"
+      },
+      "background_type": 2,
+      "background_name": "bg018",
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 19
+        },
+        {
+          "id": 2,
+          "troop_id": 20
+        },
+        {
+          "id": 3,
+          "troop_id": 21
+        },
+        {
+          "id": 4,
+          "troop_id": 22
+        }
+      ],
+      "encounter_steps": 80,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 179,
+      "name": "ForkInTheRoad",
+      "parent_map": 178,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 172,
+      "expanded_node": true,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 180,
+      "name": "Path2SV",
+      "parent_map": 179,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale",
+        "volume": 80
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 181,
+      "name": "Snow Village",
+      "parent_map": 178,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": -32,
+      "scrollbar_y": 360,
+      "expanded_node": true,
+      "music_type": 2,
+      "music": {
+        "name": "Justin - RTPs Death - Snow"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 182,
+      "name": "The Elks",
+      "parent_map": 181,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 192,
+      "scrollbar_y": 360,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 183,
+      "name": "SVShop",
+      "parent_map": 181,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 102,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 184,
+      "name": "Cozy Inn",
+      "parent_map": 181,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 70,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 185,
+      "name": "Floor 2",
+      "parent_map": 4,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 70,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 186,
+      "name": "Halo Peak",
+      "parent_map": 178,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 607,
+      "scrollbar_y": 1317,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Destruction"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 187,
+      "name": "Andy\"s House",
+      "parent_map": 181,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 72,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Peacefull"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 188,
+      "name": "Hole",
+      "parent_map": 118,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 136,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale",
+        "volume": 20
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 189,
+      "name": "Tunnel",
+      "parent_map": 118,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 324,
+      "scrollbar_y": 76,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Peacefull",
+        "volume": 80
+      },
+      "background_type": 2,
+      "background_name": "dungeon5",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 23
+        },
+        {
+          "id": 2,
+          "troop_id": 24
+        },
+        {
+          "id": 3,
+          "troop_id": 25
+        }
+      ],
+      "encounter_steps": 50,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 190,
+      "name": "Fork2",
+      "parent_map": 118,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 338,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale",
+        "volume": 80
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 191,
+      "name": "Tunnel2Lift",
+      "parent_map": 190,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 40,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Peacefull"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 192,
+      "name": "Path2MT",
+      "parent_map": 190,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": -160,
+      "scrollbar_y": 8,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale",
+        "volume": 40
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 193,
+      "name": "Midnight Town",
+      "parent_map": 178,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_y": 196,
+      "expanded_node": true,
+      "music_type": 2,
+      "music": {
+        "name": "Justin - RTPs Death - Snow"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 194,
+      "name": "Lone Tower",
+      "parent_map": 193,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale",
+        "volume": 70
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 195,
+      "name": "MTShop",
+      "parent_map": 193,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 70,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 196,
+      "name": "Houses",
+      "parent_map": 193,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 76,
+      "scrollbar_y": 25,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 197,
+      "name": "Oxy-Studio",
+      "parent_map": 193,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 18,
+      "music_type": 2,
+      "music": {
+        "name": "jackpot"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 198,
+      "name": "Studio",
+      "parent_map": 197,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 199,
+      "name": "Lineup",
+      "parent_map": 102,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 96,
+      "scrollbar_y": 8,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 200,
+      "name": "Lineup 2",
+      "parent_map": 199,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 201,
+      "name": "Rec Room",
+      "parent_map": 197,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 202,
+      "name": "Cart Shed",
+      "parent_map": 197,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 203,
+      "name": "ShopTunnel",
+      "parent_map": 195,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale",
+        "volume": 50
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 204,
+      "name": "Lift Grounds",
+      "parent_map": 178,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 168,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale",
+        "volume": 80
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 205,
+      "name": "LiftBtm",
+      "parent_map": 204,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 70,
+      "music_type": 2,
+      "music": {
+        "name": "strangetown"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 206,
+      "name": "ElevatorUp",
+      "parent_map": 205,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 104,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 207,
+      "name": "LiftTop",
+      "parent_map": 204,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 140,
+      "music_type": 2,
+      "music": {
+        "name": "strangetown"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 208,
+      "name": "ElevatorDown",
+      "parent_map": 207,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 104,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 209,
+      "name": "LiftExitTop",
+      "parent_map": 186,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 482,
+      "scrollbar_y": 70,
+      "music_type": 2,
+      "music": {
+        "name": "se-gale",
+        "volume": 70
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 210,
+      "name": "ENCOUNTER",
+      "parent_map": 186,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 211,
+      "name": "Final Stretch!!",
+      "parent_map": 186,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 96,
+      "scrollbar_y": 488,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 212,
+      "name": "Humotacia",
+      "indentation": 1,
+      "type": 1,
+      "scrollbar_y": 1686,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Destruction"
+      },
+      "background_type": 2,
+      "background_name": "wasteland",
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 27
+        },
+        {
+          "id": 2,
+          "troop_id": 28
+        },
+        {
+          "id": 3,
+          "troop_id": 29
+        },
+        {
+          "id": 4,
+          "troop_id": 30
+        }
+      ],
+      "encounter_steps": 60,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 213,
+      "name": "Inn",
+      "parent_map": 193,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 70,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 214,
+      "name": "Outpost",
+      "parent_map": 212,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 320,
+      "scrollbar_y": 520,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 215,
+      "name": "Humorless",
+      "parent_map": 212,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Devious"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 216,
+      "name": "West Jungle",
+      "indentation": 1,
+      "type": 1,
+      "expanded_node": true,
+      "music_type": 2,
+      "music": {
+        "name": "se-bird"
+      },
+      "background_type": 2,
+      "background_name": "forest1",
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 31
+        },
+        {
+          "id": 2,
+          "troop_id": 32
+        },
+        {
+          "id": 3,
+          "troop_id": 33
+        },
+        {
+          "id": 4,
+          "troop_id": 34
+        }
+      ],
+      "encounter_steps": 50,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 217,
+      "name": "Woods 2",
+      "parent_map": 216,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 12,
+      "scrollbar_y": 658,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 31
+        },
+        {
+          "id": 2,
+          "troop_id": 32
+        },
+        {
+          "id": 3,
+          "troop_id": 33
+        },
+        {
+          "id": 4,
+          "troop_id": 34
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 218,
+      "name": "Woods 1",
+      "parent_map": 216,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 332,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 31
+        },
+        {
+          "id": 2,
+          "troop_id": 32
+        },
+        {
+          "id": 3,
+          "troop_id": 33
+        },
+        {
+          "id": 4,
+          "troop_id": 34
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 219,
+      "name": "Woods 3",
+      "parent_map": 216,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 31
+        },
+        {
+          "id": 2,
+          "troop_id": 32
+        },
+        {
+          "id": 3,
+          "troop_id": 33
+        },
+        {
+          "id": 4,
+          "troop_id": 34
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 220,
+      "name": "Woods R1",
+      "parent_map": 219,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 818,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 31
+        },
+        {
+          "id": 2,
+          "troop_id": 32
+        },
+        {
+          "id": 3,
+          "troop_id": 33
+        },
+        {
+          "id": 4,
+          "troop_id": 34
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 221,
+      "name": "Woods R2",
+      "parent_map": 219,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 402,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 31
+        },
+        {
+          "id": 2,
+          "troop_id": 32
+        },
+        {
+          "id": 3,
+          "troop_id": 33
+        },
+        {
+          "id": 4,
+          "troop_id": 34
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 222,
+      "name": "Woods R3",
+      "parent_map": 219,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 258,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 223,
+      "name": "Woods R4",
+      "parent_map": 219,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 102,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 31
+        },
+        {
+          "id": 2,
+          "troop_id": 32
+        },
+        {
+          "id": 3,
+          "troop_id": 33
+        },
+        {
+          "id": 4,
+          "troop_id": 34
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 224,
+      "name": "Archer's Camp",
+      "parent_map": 216,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 53,
+      "scrollbar_y": 338,
+      "music_type": 2,
+      "music": {
+        "name": "Po-Koro"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 225,
+      "name": "Item Tent",
+      "parent_map": 224,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 296,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 226,
+      "name": "Gem Spot",
+      "parent_map": 220,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 227,
+      "name": "Woods L1",
+      "parent_map": 219,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 386,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 31
+        },
+        {
+          "id": 2,
+          "troop_id": 32
+        },
+        {
+          "id": 3,
+          "troop_id": 33
+        },
+        {
+          "id": 4,
+          "troop_id": 34
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 228,
+      "name": "Woods L2",
+      "parent_map": 219,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 12,
+      "scrollbar_y": 538,
+      "music_type": 2,
+      "music": {
+        "name": "se-bird"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 31
+        },
+        {
+          "id": 2,
+          "troop_id": 32
+        },
+        {
+          "id": 3,
+          "troop_id": 33
+        },
+        {
+          "id": 4,
+          "troop_id": 34
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 229,
+      "name": "Woods L3",
+      "parent_map": 219,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 338,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 230,
+      "name": "Tent1",
+      "parent_map": 224,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 296,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 231,
+      "name": "Woods 4",
+      "parent_map": 216,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_y": 178,
+      "music_type": 2,
+      "music": {
+        "name": "se-rain"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 31
+        },
+        {
+          "id": 2,
+          "troop_id": 32
+        },
+        {
+          "id": 3,
+          "troop_id": 33
+        },
+        {
+          "id": 4,
+          "troop_id": 34
+        }
+      ],
+      "encounter_steps": 75,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 232,
+      "name": "Oblivion Road 1",
+      "parent_map": 216,
+      "indentation": 2,
+      "type": 1,
+      "expanded_node": true,
+      "music_type": 2,
+      "music": {
+        "name": "ordeal"
+      },
+      "background_type": 2,
+      "background_name": "mountain",
+      "teleport": 0,
+      "escape": 0,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 35
+        },
+        {
+          "id": 2,
+          "troop_id": 36
+        },
+        {
+          "id": 3,
+          "troop_id": 37
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 233,
+      "name": "Humorless Temple",
+      "parent_map": 231,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 208,
+      "scrollbar_y": 498,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 234,
+      "name": "Road to Temple",
+      "parent_map": 231,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 31
+        },
+        {
+          "id": 2,
+          "troop_id": 32
+        },
+        {
+          "id": 3,
+          "troop_id": 33
+        },
+        {
+          "id": 4,
+          "troop_id": 34
+        }
+      ],
+      "encounter_steps": 60,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 235,
+      "name": "Oblivion Road 2",
+      "parent_map": 232,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 2892,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 35
+        },
+        {
+          "id": 2,
+          "troop_id": 36
+        },
+        {
+          "id": 3,
+          "troop_id": 37
+        }
+      ],
+      "encounter_steps": 20,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 236,
+      "name": "Boss's Tent",
+      "parent_map": 224,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 140,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 237,
+      "name": "Party Tent",
+      "parent_map": 224,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 296,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 238,
+      "name": "Temple",
+      "parent_map": 233,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 978,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Ancient Temple"
+      },
+      "background_type": 2,
+      "background_name": "lunarQ",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 31
+        },
+        {
+          "id": 2,
+          "troop_id": 32
+        },
+        {
+          "id": 3,
+          "troop_id": 33
+        },
+        {
+          "id": 4,
+          "troop_id": 34
+        }
+      ],
+      "encounter_steps": 65,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 239,
+      "name": "Temple 2",
+      "parent_map": 233,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 76,
+      "scrollbar_y": 18,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Ancient Temple"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 2,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 240,
+      "name": "Temple 3",
+      "parent_map": 233,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 32,
+      "scrollbar_y": 40,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Ancient Temple"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 241,
+      "name": "Humorless Encounter",
+      "parent_map": 233,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 76,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Ancient Temple"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 242,
+      "name": "Humortopica City",
+      "indentation": 1,
+      "type": 1,
+      "scrollbar_x": 1886,
+      "scrollbar_y": 2542,
+      "expanded_node": true,
+      "music_type": 2,
+      "music": {
+        "name": "bustling-city"
+      },
+      "background_type": 2,
+      "background_name": "ghost-town",
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 243,
+      "name": "Oblivion Road 3",
+      "parent_map": 232,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 244,
+      "name": "Entrance",
+      "parent_map": 242,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 12,
+      "scrollbar_y": 498,
+      "music_type": 2,
+      "music": {
+        "name": "ordeal"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 2,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 245,
+      "name": "Capital Building",
+      "parent_map": 242,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_y": 487,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Castle"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 246,
+      "name": "Inn",
+      "parent_map": 242,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": -32,
+      "scrollbar_y": 296,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 247,
+      "name": "ElevatorUp",
+      "parent_map": 245,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 136,
+      "music_type": 2,
+      "music": {
+        "name": "Junior's Boombox - Nintendo - Nintendo Elevator Music"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 248,
+      "name": "ElevatorDown",
+      "parent_map": 245,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 136,
+      "music_type": 2,
+      "music": {
+        "name": "Junior's Boombox - Nintendo - Nintendo Elevator Music"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 249,
+      "name": "Top Hall",
+      "parent_map": 245,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "calm",
+        "volume": 80
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 250,
+      "name": "Middle Top Hall",
+      "parent_map": 245,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 482,
+      "scrollbar_y": 180,
+      "music_type": 2,
+      "music": {
+        "name": "calm"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 23,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 251,
+      "name": "PM's Quarters",
+      "parent_map": 245,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 18,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Castle"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 252,
+      "name": "CS-Guest Room",
+      "parent_map": 245,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 160,
+      "scrollbar_y": 136,
+      "music_type": 2,
+      "music": {
+        "name": "calm"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 253,
+      "name": "Sewers",
+      "parent_map": 242,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "DH-SewerSE"
+      },
+      "background_type": 2,
+      "background_name": "lunarQ",
+      "teleport": 0,
+      "escape": 0,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 254,
+      "name": "Sewers 2",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 178,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 255,
+      "name": "Haven",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 332,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 256,
+      "name": "Sewers 3",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 230,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 257,
+      "name": "Sewers 4",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 482,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 258,
+      "name": "Sewers 5",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": -128,
+      "scrollbar_y": 194,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 259,
+      "name": "Sewers 6",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 260,
+      "name": "Sewers 7",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 102,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 261,
+      "name": "Sewers 8",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 262,
+      "name": "Sewers 9",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 242,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 263,
+      "name": "Sewers 10",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 18,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 264,
+      "name": "Sewers 11",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 265,
+      "name": "Sewers 12",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 266,
+      "name": "Sewers 13",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 812,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 38
+        },
+        {
+          "id": 2,
+          "troop_id": 39
+        },
+        {
+          "id": 3,
+          "troop_id": 40
+        }
+      ],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 267,
+      "name": "Humorless Room",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 18,
+      "music_type": 2,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 268,
+      "name": "Haven 2",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 70,
+      "music_type": 2,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 269,
+      "name": "Haven 2B",
+      "parent_map": 253,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 70,
+      "music_type": 2,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 270,
+      "name": "CS-Evilies",
+      "parent_map": 252,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 18,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Oracle of Dark"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 271,
+      "name": "CS-GR2",
+      "parent_map": 252,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_x": 160,
+      "scrollbar_y": 136,
+      "music_type": 2,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 272,
+      "name": "CS-PM",
+      "parent_map": 252,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Devious"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 273,
+      "name": "The Great Escape",
+      "parent_map": 242,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_y": 294,
+      "music_type": 2,
+      "music": {
+        "name": "Junior's Boombox - U2 - Mission Impossible Theme"
+      },
+      "background_type": 2,
+      "background_name": "lunarO",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 274,
+      "name": "Escape 2",
+      "parent_map": 273,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 275,
+      "name": "Escape 3",
+      "parent_map": 273,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 136,
+      "music_type": 2,
+      "music": {
+        "name": "Junior's Boombox - Nintendo - Nintendo Elevator Music"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 276,
+      "name": "Escape 4",
+      "parent_map": 273,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 288,
+      "scrollbar_y": 40,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 277,
+      "name": "Escape 5",
+      "parent_map": 273,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 394,
+      "scrollbar_y": 2907,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 2,
+      "background_name": "town",
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 278,
+      "name": "Escape 6",
+      "parent_map": 273,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 498,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 2,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 279,
+      "name": "Escape 7",
+      "parent_map": 273,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 280,
+      "name": "Escape 8",
+      "parent_map": 273,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 20,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 281,
+      "name": "Escape 9",
+      "parent_map": 273,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 12,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 2,
+      "encounters": [],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 282,
+      "name": "Junior's Chamber",
+      "parent_map": 283,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 98,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 283,
+      "name": "Temple Of Power",
+      "parent_map": 22,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 239,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Ancient Temple"
+      },
+      "background_type": 2,
+      "background_name": "lunar006",
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 284,
+      "name": "Item Shop",
+      "parent_map": 242,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 32,
+      "scrollbar_y": 456,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 285,
+      "name": "Pub",
+      "parent_map": 242,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 296,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 286,
+      "name": "Razor's Chamber",
+      "parent_map": 283,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 328,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 287,
+      "name": "Target's Chamber",
+      "parent_map": 283,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 328,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 288,
+      "name": "Olymp's Chamber",
+      "parent_map": 283,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 328,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 289,
+      "name": "TimeT's Chamber",
+      "parent_map": 283,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 328,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 290,
+      "name": "Element's Chamber",
+      "parent_map": 283,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 303,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 291,
+      "name": "Item Shop",
+      "parent_map": 283,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 104,
+      "music_type": 2,
+      "music": {
+        "name": "calm"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 292,
+      "name": "CS-Spaceship",
+      "parent_map": 87,
+      "indentation": 4,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "shop3"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 293,
+      "name": "CS-Spaceship (Inner)",
+      "parent_map": 87,
+      "indentation": 4,
+      "type": 1,
+      "scrollbar_y": 374,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 294,
+      "name": "The Spaceship",
+      "indentation": 1,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "hero2",
+        "tempo": 120
+      },
+      "background_type": 1,
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 295,
+      "name": "Spaceship Inside",
+      "parent_map": 294,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 296,
+      "name": "Spaceship Bottom",
+      "parent_map": 294,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_y": 218,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 297,
+      "name": "Save Room",
+      "parent_map": 300,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 128,
+      "scrollbar_y": 328,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 298,
+      "name": "Spaceship Arrived",
+      "parent_map": 294,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 448,
+      "scrollbar_y": 200,
+      "music_type": 2,
+      "music": {
+        "name": "Erave - RTPs Death - Pirate 1"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 299,
+      "name": "Satellite 2",
+      "parent_map": 307,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 448,
+      "scrollbar_y": 520,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 52
+        },
+        {
+          "id": 2,
+          "troop_id": 53
+        },
+        {
+          "id": 3,
+          "troop_id": 54
+        },
+        {
+          "id": 4,
+          "troop_id": 55
+        },
+        {
+          "id": 5,
+          "troop_id": 56
+        },
+        {
+          "id": 6,
+          "troop_id": 57
+        },
+        {
+          "id": 7,
+          "troop_id": 58
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 300,
+      "name": "Satellite 3",
+      "parent_map": 307,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 1056,
+      "scrollbar_y": 136,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 52
+        },
+        {
+          "id": 2,
+          "troop_id": 53
+        },
+        {
+          "id": 3,
+          "troop_id": 54
+        },
+        {
+          "id": 4,
+          "troop_id": 55
+        },
+        {
+          "id": 5,
+          "troop_id": 56
+        },
+        {
+          "id": 6,
+          "troop_id": 57
+        },
+        {
+          "id": 7,
+          "troop_id": 58
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 301,
+      "name": "Satellite 4",
+      "parent_map": 307,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 832,
+      "scrollbar_y": 72,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 52
+        },
+        {
+          "id": 2,
+          "troop_id": 53
+        },
+        {
+          "id": 3,
+          "troop_id": 54
+        },
+        {
+          "id": 4,
+          "troop_id": 55
+        },
+        {
+          "id": 5,
+          "troop_id": 56
+        },
+        {
+          "id": 6,
+          "troop_id": 57
+        },
+        {
+          "id": 7,
+          "troop_id": 58
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 302,
+      "name": "Satellite 5",
+      "parent_map": 307,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 288,
+      "scrollbar_y": 712,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 52
+        },
+        {
+          "id": 2,
+          "troop_id": 53
+        },
+        {
+          "id": 3,
+          "troop_id": 54
+        },
+        {
+          "id": 4,
+          "troop_id": 55
+        },
+        {
+          "id": 5,
+          "troop_id": 56
+        },
+        {
+          "id": 6,
+          "troop_id": 57
+        },
+        {
+          "id": 7,
+          "troop_id": 58
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 303,
+      "name": "Satellite 6",
+      "parent_map": 307,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 52
+        },
+        {
+          "id": 2,
+          "troop_id": 53
+        },
+        {
+          "id": 3,
+          "troop_id": 54
+        },
+        {
+          "id": 4,
+          "troop_id": 55
+        },
+        {
+          "id": 5,
+          "troop_id": 56
+        },
+        {
+          "id": 6,
+          "troop_id": 58
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 304,
+      "name": "Satellite 7",
+      "parent_map": 307,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 352,
+      "scrollbar_y": 528,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 52
+        },
+        {
+          "id": 2,
+          "troop_id": 53
+        },
+        {
+          "id": 3,
+          "troop_id": 54
+        },
+        {
+          "id": 4,
+          "troop_id": 55
+        },
+        {
+          "id": 5,
+          "troop_id": 56
+        },
+        {
+          "id": 6,
+          "troop_id": 57
+        },
+        {
+          "id": 7,
+          "troop_id": 58
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 305,
+      "name": "Satellite 8",
+      "parent_map": 307,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 52
+        },
+        {
+          "id": 2,
+          "troop_id": 53
+        },
+        {
+          "id": 3,
+          "troop_id": 54
+        },
+        {
+          "id": 4,
+          "troop_id": 55
+        },
+        {
+          "id": 5,
+          "troop_id": 57
+        },
+        {
+          "id": 6,
+          "troop_id": 58
+        },
+        {
+          "id": 7,
+          "troop_id": 56
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 306,
+      "name": "The Final Battle",
+      "parent_map": 307,
+      "indentation": 2,
+      "type": 1,
+      "scrollbar_x": 135,
+      "scrollbar_y": 498,
+      "music_type": 2,
+      "music": {
+        "name": "(OFF)",
+        "volume": 60
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 307,
+      "name": "Satellite Cannon",
+      "indentation": 1,
+      "type": 1,
+      "scrollbar_x": 262,
+      "scrollbar_y": 632,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Black Tower"
+      },
+      "background_type": 2,
+      "background_name": "lunarO",
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [
+        {
+          "id": 1,
+          "troop_id": 52
+        },
+        {
+          "id": 2,
+          "troop_id": 53
+        },
+        {
+          "id": 3,
+          "troop_id": 54
+        },
+        {
+          "id": 4,
+          "troop_id": 55
+        },
+        {
+          "id": 5,
+          "troop_id": 56
+        },
+        {
+          "id": 6,
+          "troop_id": 57
+        },
+        {
+          "id": 7,
+          "troop_id": 58
+        }
+      ],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 308,
+      "name": "The Great Escape 2",
+      "parent_map": 307,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 2,
+      "music": {
+        "name": "Junior's Boombox - U2 - Mission Impossible Theme (CUT)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 309,
+      "name": "GE2 2",
+      "parent_map": 308,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 352,
+      "scrollbar_y": 494,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 310,
+      "name": "GE2 3",
+      "parent_map": 308,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 311,
+      "name": "GE2 4",
+      "parent_map": 308,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 288,
+      "scrollbar_y": 712,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 312,
+      "name": "GE2 5",
+      "parent_map": 308,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 222,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 313,
+      "name": "GE2 6",
+      "parent_map": 308,
+      "indentation": 3,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 314,
+      "name": "GE2 7",
+      "parent_map": 308,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 172,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 315,
+      "name": "GE2 8",
+      "parent_map": 308,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_x": 273,
+      "scrollbar_y": 978,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 1,
+      "escape": 1,
+      "save": 2,
+      "encounters": [],
+      "encounter_steps": 40,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 316,
+      "name": "Time To GO!",
+      "parent_map": 308,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 69,
+      "music_type": 2,
+      "music": {
+        "name": "u2 - mission impossible theme"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 317,
+      "name": "CS-Victory",
+      "parent_map": 2,
+      "indentation": 3,
+      "type": 1,
+      "scrollbar_y": 622,
+      "music_type": 2,
+      "music": {
+        "name": "DH-Heroes"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    },
+    {
+      "id": 318,
+      "name": "Cheats",
+      "parent_map": 102,
+      "indentation": 2,
+      "type": 1,
+      "music_type": 0,
+      "music": {
+        "name": "(OFF)"
+      },
+      "background_type": 0,
+      "teleport": 0,
+      "escape": 0,
+      "save": 0,
+      "encounters": [],
+      "encounter_steps": 0,
+      "area_rect": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    }
+  ],
+  "tree_order": [
+    0,
+    52,
+    102,
+    103,
+    104,
+    105,
+    110,
+    114,
+    115,
+    116,
+    199,
+    200,
+    318,
+    1,
+    2,
+    4,
+    7,
+    185,
+    5,
+    6,
+    11,
+    12,
+    317,
+    3,
+    8,
+    9,
+    89,
+    13,
+    14,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21,
+    10,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    30,
+    31,
+    32,
+    26,
+    29,
+    33,
+    34,
+    35,
+    36,
+    37,
+    16,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    107,
+    108,
+    109,
+    283,
+    282,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    45,
+    46,
+    47,
+    48,
+    49,
+    51,
+    53,
+    112,
+    54,
+    55,
+    56,
+    57,
+    59,
+    60,
+    61,
+    62,
+    63,
+    66,
+    65,
+    77,
+    78,
+    80,
+    79,
+    76,
+    58,
+    64,
+    67,
+    68,
+    69,
+    70,
+    88,
+    71,
+    73,
+    72,
+    74,
+    75,
+    81,
+    82,
+    83,
+    84,
+    87,
+    86,
+    292,
+    293,
+    90,
+    91,
+    92,
+    93,
+    94,
+    111,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    106,
+    113,
+    119,
+    120,
+    121,
+    123,
+    122,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    135,
+    136,
+    132,
+    133,
+    134,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    145,
+    146,
+    147,
+    143,
+    144,
+    149,
+    148,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    158,
+    157,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    175,
+    176,
+    166,
+    167,
+    168,
+    174,
+    177,
+    169,
+    170,
+    171,
+    172,
+    173,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    187,
+    85,
+    118,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    203,
+    196,
+    197,
+    198,
+    201,
+    202,
+    213,
+    204,
+    205,
+    206,
+    207,
+    208,
+    186,
+    209,
+    210,
+    211,
+    212,
+    214,
+    215,
+    216,
+    218,
+    217,
+    219,
+    220,
+    226,
+    221,
+    222,
+    223,
+    227,
+    228,
+    229,
+    224,
+    225,
+    230,
+    236,
+    237,
+    231,
+    233,
+    238,
+    239,
+    240,
+    241,
+    234,
+    232,
+    235,
+    243,
+    242,
+    244,
+    246,
+    245,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    270,
+    271,
+    272,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    284,
+    285,
+    294,
+    295,
+    296,
+    298,
+    307,
+    299,
+    300,
+    297,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316
+  ],
+  "active_node": 285,
+  "start": {
+    "party_map_id": 52,
+    "party_x": 17,
+    "party_y": 5,
+    "boat_map_id": 22,
+    "boat_x": 203,
+    "boat_y": 19
+  }
+}

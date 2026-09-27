@@ -1,0 +1,3251 @@
+{
+  "chipset_id": 3,
+  "height": 30,
+  "scroll_type": 0,
+  "generator_height": 2,
+  "generator_x": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_y": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_tile_ids": [
+    49,
+    49,
+    49,
+    49,
+    49,
+    49,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007
+  ],
+  "lower_layer": [
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4404,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4408,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4404,
+    4438,
+    5033,
+    5124,
+    5033,
+    5124,
+    5124,
+    5033,
+    5124,
+    5033,
+    4440,
+    4408,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4404,
+    4438,
+    5034,
+    5033,
+    5130,
+    5033,
+    5130,
+    5130,
+    5033,
+    5130,
+    5033,
+    5032,
+    4440,
+    4408,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5034,
+    5034,
+    5033,
+    5136,
+    5033,
+    5136,
+    5136,
+    5033,
+    5136,
+    5033,
+    5032,
+    5032,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5034,
+    5034,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5032,
+    5032,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4402,
+    4436,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    4434,
+    4401,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4402,
+    4436,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    4434,
+    4401,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4402,
+    4420,
+    4420,
+    4436,
+    5074,
+    5074,
+    4434,
+    4420,
+    4420,
+    4401,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4404,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4438,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5124,
+    5033,
+    5124,
+    5033,
+    5124,
+    5033,
+    5034,
+    5117,
+    5117,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5130,
+    5033,
+    5130,
+    5033,
+    5130,
+    5033,
+    5034,
+    5117,
+    5117,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5136,
+    5033,
+    5136,
+    5033,
+    5136,
+    5033,
+    5034,
+    5117,
+    5117,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    4434,
+    4436,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    4416,
+    4424,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    4416,
+    4424,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4402,
+    4420,
+    4420,
+    4420,
+    4420,
+    4420,
+    4401,
+    4424,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    4440,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4408,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    5032,
+    5033,
+    5124,
+    5033,
+    5124,
+    5033,
+    5124,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    5032,
+    5033,
+    5130,
+    5033,
+    5130,
+    5033,
+    5130,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    5032,
+    5033,
+    5136,
+    5033,
+    5136,
+    5033,
+    5136,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    4434,
+    4436,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    4416,
+    4424,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    4416,
+    4424,
+    5074,
+    5074,
+    5074,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    4416,
+    4402,
+    4420,
+    4420,
+    4420,
+    4420,
+    4420,
+    4401,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5074,
+    5074,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400
+  ],
+  "upper_layer": [
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10065,
+    10000,
+    10000,
+    10065,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10071,
+    10000,
+    10000,
+    10071,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10065,
+    10000,
+    10000,
+    10065,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10127,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "EV0001",
+      "x": 9,
+      "y": 11,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 1,
+            "actor_id": 1
+          },
+          "character_name": "fg2",
+          "character_index": 2,
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EV0002",
+      "x": 10,
+      "y": 11,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 1,
+            "actor_id": 1
+          },
+          "character_name": "fg2",
+          "character_index": 5,
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "EV0003",
+      "x": 9,
+      "y": 29,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 13,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                29,
+                9,
+                36,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "EV0004",
+      "x": 10,
+      "y": 29,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 13,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                29,
+                9,
+                36,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "EV0005",
+      "x": 8,
+      "y": 7,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "ES",
+      "x": 9,
+      "y": 4,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "other_fg",
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "move_frequency": 8,
+          "trigger": 2,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands_size": 21,
+            "move_commands": [
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              }
+            ]
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 35,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "move_frequency": 8,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_speed": 6,
+          "move_route": {
+            "move_commands_size": 21,
+            "move_commands": [
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              },
+              {
+                "code": 2,
+                "name": "move_down",
+                "parameters": []
+              }
+            ]
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "EV0007",
+      "x": 9,
+      "y": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 735,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                1,
+                1,
+                0
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 9,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 0,
+              "string": "tightspot",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 27,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "evilaff",
+              "parameters": [
+                100,
+                150,
+                50
+              ]
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 43,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 50,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Man: WAHAHAHAHAHAHA!!!",
+              "parameters": []
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 77,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                8,
+                0,
+                0,
+                28,
+                2,
+                2,
+                2,
+                2,
+                2
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 92,
+              "code": 11340,
+              "name": "ProceedWithMovement",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 97,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Man: Wahaha! I, the Evil Scientist,",
+              "parameters": []
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 137,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "have finally gotten my hands on...",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 177,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Evil Scientist: CHEAP CHOPPERS!!!",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 215,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Uhh Huhhh.",
+              "parameters": []
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 241,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Evil Scientist: What're you staring",
+              "parameters": []
+            },
+            {
+              "index": 12,
+              "byte_offset_in_command_stream": 281,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "at, Mr. Undramatic?",
+              "parameters": []
+            },
+            {
+              "index": 13,
+              "byte_offset_in_command_stream": 306,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Evil Scientist: Anyway... now I",
+              "parameters": []
+            },
+            {
+              "index": 14,
+              "byte_offset_in_command_stream": 342,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "will take these Cheap Choppers",
+              "parameters": []
+            },
+            {
+              "index": 15,
+              "byte_offset_in_command_stream": 378,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "back to my lab to put gold in them!!!",
+              "parameters": []
+            },
+            {
+              "index": 16,
+              "byte_offset_in_command_stream": 421,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Evil Scientist: NOW WE'LL SEE ",
+              "parameters": []
+            },
+            {
+              "index": 17,
+              "byte_offset_in_command_stream": 456,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "WHO GETS PICKED LAST IN",
+              "parameters": []
+            },
+            {
+              "index": 18,
+              "byte_offset_in_command_stream": 485,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "BASEBALL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+              "parameters": []
+            },
+            {
+              "index": 19,
+              "byte_offset_in_command_stream": 531,
+              "code": 11210,
+              "name": "ShowBattleAnimation",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                80,
+                6,
+                1,
+                0
+              ]
+            },
+            {
+              "index": 20,
+              "byte_offset_in_command_stream": 540,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                35,
+                35,
+                0
+              ]
+            },
+            {
+              "index": 21,
+              "byte_offset_in_command_stream": 549,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "explode5",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 22,
+              "byte_offset_in_command_stream": 565,
+              "code": 11040,
+              "name": "FlashScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                23,
+                0,
+                31,
+                31,
+                5,
+                0,
+                0
+              ]
+            },
+            {
+              "index": 23,
+              "byte_offset_in_command_stream": 577,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Junior: Whoa.",
+              "parameters": []
+            },
+            {
+              "index": 24,
+              "byte_offset_in_command_stream": 595,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Sharp: That guy has to lay off",
+              "parameters": []
+            },
+            {
+              "index": 25,
+              "byte_offset_in_command_stream": 630,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "the Starbucks.",
+              "parameters": []
+            },
+            {
+              "index": 26,
+              "byte_offset_in_command_stream": 650,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: C'mon! I think he",
+              "parameters": []
+            },
+            {
+              "index": 27,
+              "byte_offset_in_command_stream": 683,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "just teleported outside!",
+              "parameters": []
+            },
+            {
+              "index": 28,
+              "byte_offset_in_command_stream": 713,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                1,
+                1,
+                1
+              ]
+            },
+            {
+              "index": 29,
+              "byte_offset_in_command_stream": 722,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                36,
+                36,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 36,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "EV0008",
+      "x": 10,
+      "y": 4,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "object1",
+          "character_index": 6,
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "EV0009",
+      "x": 16,
+      "y": 21,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "object1",
+          "character_index": 6,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "EV0010",
+      "x": 2,
+      "y": 12,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "EV0011",
+      "x": 16,
+      "y": 24,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "EV0012",
+      "x": 2,
+      "y": 14,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "object1",
+          "character_index": 6,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "EV0013",
+      "x": 15,
+      "y": 23,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "object1",
+          "character_index": 6,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "EV0014",
+      "x": 6,
+      "y": 13,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "object1",
+          "character_index": 6,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "EV0015",
+      "x": 4,
+      "y": 12,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "object1",
+          "character_index": 6,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "EV0016",
+      "x": 15,
+      "y": 21,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "EV0017",
+      "x": 17,
+      "y": 22,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "EV0018",
+      "x": 17,
+      "y": 21,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "object1",
+          "character_index": 7,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "EV0019",
+      "x": 17,
+      "y": 23,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "object1",
+          "character_index": 7,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "EV0020",
+      "x": 17,
+      "y": 24,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "object1",
+          "character_index": 7,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "EV0021",
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 4,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 15,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11030,
+              "name": "TintScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                100,
+                100,
+                100,
+                100,
+                0,
+                1
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "EV0022",
+      "x": 3,
+      "y": 12,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "EV0023",
+      "x": 4,
+      "y": 14,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "EV0024",
+      "x": 2,
+      "y": 13,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "EV0025",
+      "x": 4,
+      "y": 13,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "EV0026",
+      "x": 6,
+      "y": 14,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "EV0027",
+      "x": 2,
+      "y": 15,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "EV0028",
+      "x": 3,
+      "y": 15,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "EV0029",
+      "x": 3,
+      "y": 14,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 3,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "EV0030",
+      "x": 11,
+      "y": 7,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "EV0031",
+      "x": 13,
+      "y": 2,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects",
+          "character_index": 5,
+          "character_direction": 2,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "EV0032",
+      "x": 6,
+      "y": 2,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects",
+          "character_index": 5,
+          "character_direction": 2,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "EV0033",
+      "x": 7,
+      "y": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects",
+          "character_index": 5,
+          "character_direction": 2,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "EV0035",
+      "x": 13,
+      "y": 24,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "EV0036",
+      "x": 16,
+      "y": 22,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "EV0037",
+      "x": 15,
+      "y": 24,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "EV0038",
+      "x": 14,
+      "y": 23,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-13",
+          "character_index": 1,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "EV0039",
+      "x": 3,
+      "y": 13,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-12",
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_speed": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "EV0040",
+      "x": 16,
+      "y": 23,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-12",
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_speed": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "EV0041",
+      "x": 14,
+      "y": 24,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "FX-Sparkle-12",
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_speed": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "EV0042",
+      "x": 8,
+      "y": 2,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects",
+          "character_index": 5,
+          "character_direction": 2,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "EV0043",
+      "x": 11,
+      "y": 2,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects",
+          "character_index": 5,
+          "character_direction": 2,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "EV0044",
+      "x": 5,
+      "y": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects",
+          "character_index": 5,
+          "character_direction": 2,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "EV0045",
+      "x": 3,
+      "y": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects",
+          "character_index": 5,
+          "character_direction": 2,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "EV0046",
+      "x": 14,
+      "y": 19,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects",
+          "character_index": 5,
+          "character_direction": 2,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "EV0047",
+      "x": 16,
+      "y": 19,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects",
+          "character_index": 5,
+          "character_direction": 2,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "EV0048",
+      "x": 12,
+      "y": 19,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects",
+          "character_index": 5,
+          "character_direction": 2,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    }
+  ],
+  "save_count": 80,
+  "id": 34,
+  "name": "Treasure Room",
+  "source": "Map0034.lmu"
+}

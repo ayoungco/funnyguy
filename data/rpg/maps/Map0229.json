@@ -1,0 +1,2919 @@
+{
+  "chipset_id": 30,
+  "height": 30,
+  "scroll_type": 0,
+  "generator_height": 2,
+  "generator_x": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_y": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_tile_ids": [
+    49,
+    49,
+    49,
+    49,
+    49,
+    49,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007
+  ],
+  "lower_layer": [
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4024,
+    4166,
+    4150,
+    4174,
+    4016,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4004,
+    4028,
+    4028,
+    4028,
+    4008,
+    4000,
+    4004,
+    4028,
+    4038,
+    4166,
+    4154,
+    4188,
+    4040,
+    4008,
+    4004,
+    4028,
+    4028,
+    4028,
+    4008,
+    4000,
+    4024,
+    5080,
+    5081,
+    5082,
+    4016,
+    4000,
+    4024,
+    5060,
+    4184,
+    4155,
+    4188,
+    4042,
+    5060,
+    4016,
+    4024,
+    5080,
+    5081,
+    5082,
+    4016,
+    4000,
+    4024,
+    5086,
+    5087,
+    5088,
+    4016,
+    4000,
+    4006,
+    4045,
+    4166,
+    4174,
+    4034,
+    4003,
+    4142,
+    4001,
+    4024,
+    5086,
+    5087,
+    5088,
+    4016,
+    4000,
+    4038,
+    5092,
+    5093,
+    5094,
+    4134,
+    4136,
+    4024,
+    4184,
+    4151,
+    4174,
+    4016,
+    4134,
+    4107,
+    4145,
+    4038,
+    5092,
+    5093,
+    5094,
+    4040,
+    4008,
+    5068,
+    5069,
+    5070,
+    5071,
+    4116,
+    4124,
+    4024,
+    4166,
+    4150,
+    4174,
+    4016,
+    4116,
+    4124,
+    4024,
+    5068,
+    5069,
+    5070,
+    5071,
+    4196,
+    4016,
+    5074,
+    5075,
+    5076,
+    5077,
+    4140,
+    4138,
+    4038,
+    4190,
+    4162,
+    4188,
+    4040,
+    4140,
+    4138,
+    4038,
+    5074,
+    5075,
+    5076,
+    5077,
+    4034,
+    4001,
+    5014,
+    5014,
+    5014,
+    5014,
+    5014,
+    5060,
+    5014,
+    5014,
+    4194,
+    5014,
+    5014,
+    5014,
+    5014,
+    5014,
+    5014,
+    5014,
+    5014,
+    5014,
+    4040,
+    4028,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    3070,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    28,
+    28,
+    28,
+    8,
+    0,
+    0,
+    4,
+    28,
+    28,
+    28,
+    8,
+    0,
+    0,
+    0,
+    0,
+    4,
+    28,
+    28,
+    28,
+    28,
+    4020,
+    4020,
+    4036,
+    40,
+    28,
+    28,
+    38,
+    4184,
+    4170,
+    4186,
+    40,
+    28,
+    28,
+    28,
+    8,
+    24,
+    4035,
+    4033,
+    4033,
+    4022,
+    4000,
+    4000,
+    4002,
+    4020,
+    4020,
+    4020,
+    4036,
+    4166,
+    4150,
+    4174,
+    4034,
+    4020,
+    4020,
+    4036,
+    40,
+    38,
+    4044,
+    4184,
+    4186,
+    4016,
+    4000,
+    4000,
+    4000,
+    4134,
+    4136,
+    4000,
+    4024,
+    4166,
+    4150,
+    4174,
+    4018,
+    4028,
+    4008,
+    4002,
+    4036,
+    4193,
+    4183,
+    4179,
+    4188,
+    4016,
+    4000,
+    4000,
+    4000,
+    4116,
+    4102,
+    4136,
+    4024,
+    4166,
+    4150,
+    4174,
+    4032,
+    5060,
+    4016,
+    4134,
+    4120,
+    4120,
+    4120,
+    4136,
+    4020,
+    4001,
+    4000,
+    4000,
+    4000,
+    4116,
+    4100,
+    4124,
+    4024,
+    4166,
+    4150,
+    4174,
+    4041,
+    4022,
+    4143,
+    4109,
+    4100,
+    4100,
+    4104,
+    4138,
+    4000,
+    4000,
+    4000,
+    4000,
+    4134,
+    4105,
+    4128,
+    4125,
+    4024,
+    4190,
+    4158,
+    4152,
+    4186,
+    4016,
+    4000,
+    4118,
+    4128,
+    4112,
+    4138,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4140,
+    4138,
+    4000,
+    4141,
+    4145,
+    4036,
+    4166,
+    4150,
+    4174,
+    4016,
+    4000,
+    4144,
+    4000,
+    4144,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4024,
+    4166,
+    4150,
+    4174,
+    4016,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000
+  ],
+  "upper_layer": [
+    10129,
+    10130,
+    10129,
+    10130,
+    10129,
+    10130,
+    10136,
+    10137,
+    10000,
+    10000,
+    10000,
+    10000,
+    10126,
+    10127,
+    10128,
+    10128,
+    10128,
+    10128,
+    10128,
+    10128,
+    10129,
+    10130,
+    10129,
+    10130,
+    10129,
+    10131,
+    10142,
+    10143,
+    10000,
+    10000,
+    10000,
+    10000,
+    10132,
+    10133,
+    10127,
+    10128,
+    10136,
+    10136,
+    10128,
+    10128,
+    10128,
+    10129,
+    10130,
+    10131,
+    10136,
+    10137,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10138,
+    10139,
+    10133,
+    10134,
+    10135,
+    10136,
+    10134,
+    10135,
+    10134,
+    10135,
+    10136,
+    10137,
+    10142,
+    10143,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10139,
+    10140,
+    10141,
+    10142,
+    10140,
+    10141,
+    10140,
+    10141,
+    10142,
+    10143,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10114,
+    10000,
+    10089,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10080,
+    10000,
+    10095,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10086,
+    10087,
+    10088,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10092,
+    10093,
+    10094,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10002,
+    10002,
+    10002,
+    10003,
+    10000,
+    10000,
+    10000,
+    10098,
+    10099,
+    10100,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10014,
+    10003,
+    10000,
+    10001,
+    10104,
+    10105,
+    10106,
+    10003,
+    10000,
+    10000,
+    10000,
+    10000,
+    10001,
+    10002,
+    10002,
+    10002,
+    10002,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10002,
+    10000,
+    10110,
+    10111,
+    10112,
+    10000,
+    10002,
+    10002,
+    10002,
+    10002,
+    10014,
+    10000,
+    10000,
+    10000,
+    10000,
+    10116,
+    10117,
+    10118,
+    10119,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10121,
+    10122,
+    10123,
+    10124,
+    10125,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10121,
+    10117,
+    10122,
+    10122,
+    10123,
+    10124,
+    10122,
+    10117,
+    10118,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10121,
+    10129,
+    10130,
+    10128,
+    10128,
+    10129,
+    10130,
+    10128,
+    10129,
+    10130,
+    10101,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10121,
+    10117,
+    10117,
+    10134,
+    10135,
+    10136,
+    10134,
+    10134,
+    10135,
+    10136,
+    10134,
+    10135,
+    10136,
+    10107,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10121,
+    10122,
+    10123,
+    10124,
+    10122,
+    10123,
+    10124,
+    10122,
+    10122,
+    10123,
+    10124,
+    10122,
+    10123,
+    10124,
+    10113,
+    10000,
+    10000,
+    10000,
+    10000,
+    10121,
+    10122,
+    10123,
+    10124,
+    10130,
+    10128,
+    10129,
+    10130,
+    10128
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Troll",
+      "x": 8,
+      "y": 14,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Encounters",
+          "character_index": 3,
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 347,
+            "actor_id": 1
+          },
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EV0002",
+      "x": 8,
+      "y": 7,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 242,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Hey, look! There's one 'o",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 41,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "them bridge troll people. Maybe we ",
+              "parameters": []
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 82,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "should backtrack and wait until he ",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 123,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "leaves.",
+              "parameters": []
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 136,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: That bridge doesn't look ",
+              "parameters": []
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 177,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "like it can hold any more weight.",
+              "parameters": []
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 216,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                345,
+                345,
+                0
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 227,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 346,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 321,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                342,
+                342,
+                0
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 11,
+              "code": 11060,
+              "name": "PanScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                2,
+                2,
+                5,
+                4,
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 21,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Well, how do we provoke it?",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 64,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Junior: I know! ",
+              "parameters": []
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 85,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Junior: PROVOKE!",
+              "parameters": []
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 106,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                5,
+                0
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 113,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "roar",
+              "parameters": [
+                100,
+                130,
+                50
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 126,
+              "code": 11060,
+              "name": "PanScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                3,
+                2,
+                5,
+                4,
+                0
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 136,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                8,
+                0,
+                0,
+                28,
+                0,
+                35,
+                5,
+                107,
+                110,
+                111,
+                99,
+                107,
+                100,
+                100,
+                50,
+                0,
+                35,
+                5,
+                107,
+                110,
+                111,
+                99,
+                107,
+                100,
+                100,
+                50,
+                0,
+                35,
+                5,
+                107,
+                110,
+                111,
+                99,
+                107,
+                100,
+                100,
+                50,
+                0,
+                35,
+                5,
+                107,
+                110,
+                111,
+                99,
+                107,
+                100,
+                100,
+                50,
+                0,
+                35,
+                5,
+                107,
+                110,
+                111,
+                99,
+                107,
+                100,
+                100,
+                50,
+                0,
+                35,
+                5,
+                107,
+                110,
+                111,
+                99,
+                107,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 212,
+              "code": 11340,
+              "name": "ProceedWithMovement",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 217,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 224,
+              "code": 10710,
+              "name": "EnemyEncounter",
+              "indent": 0,
+              "string": "bridge",
+              "parameters": [
+                0,
+                76,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "index": 12,
+              "byte_offset_in_command_stream": 244,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                347,
+                347,
+                0
+              ]
+            },
+            {
+              "index": 13,
+              "byte_offset_in_command_stream": 255,
+              "code": 10860,
+              "name": "ChangeEventLocation",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0,
+                8,
+                14,
+                1
+              ]
+            },
+            {
+              "index": 14,
+              "byte_offset_in_command_stream": 265,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Junior: (Napoleon Dynamite-ish) Yes!",
+              "parameters": []
+            },
+            {
+              "index": 15,
+              "byte_offset_in_command_stream": 306,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                342,
+                342,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 347,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "EV0003",
+      "x": 6,
+      "y": 29,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                231,
+                9,
+                1,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "EV0004",
+      "x": 7,
+      "y": 29,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                231,
+                9,
+                1,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "EV0005",
+      "x": 8,
+      "y": 29,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                231,
+                9,
+                1,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "EV0006",
+      "x": 9,
+      "y": 29,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                231,
+                9,
+                1,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "EV0007",
+      "x": 10,
+      "y": 29,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                231,
+                9,
+                1,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "EV0008",
+      "x": 8,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                228,
+                11,
+                39,
+                1
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "EV0009",
+      "x": 9,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                228,
+                11,
+                39,
+                1
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "EV0010",
+      "x": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                228,
+                11,
+                39,
+                1
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "EV0011",
+      "x": 11,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                228,
+                11,
+                39,
+                1
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "EV0012",
+      "x": 12,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                228,
+                11,
+                39,
+                1
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "EV0013",
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 4,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 22,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11030,
+              "name": "TintScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                100,
+                100,
+                100,
+                100,
+                0,
+                0
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 11,
+              "code": 11070,
+              "name": "WeatherEffects",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Target",
+      "x": 7,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 342,
+            "actor_id": 1
+          },
+          "character_name": "fg2",
+          "character_index": 7,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Junior",
+      "x": 8,
+      "y": 6,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 342,
+            "actor_id": 1
+          },
+          "character_name": "fg2",
+          "character_index": 2,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Razor",
+      "x": 9,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 342,
+            "actor_id": 1
+          },
+          "character_name": "fg2",
+          "character_index": 4,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Olymp",
+      "x": 8,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 342,
+            "actor_id": 1
+          },
+          "character_name": "other_fg",
+          "character_index": 7,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "EV0018",
+      "x": 8,
+      "y": 8,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "EV0019",
+      "x": 8,
+      "y": 9,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "EV0020",
+      "x": 8,
+      "y": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "EV0021",
+      "x": 8,
+      "y": 11,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "EV0022",
+      "x": 8,
+      "y": 12,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "EV0023",
+      "x": 8,
+      "y": 13,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "EV0024",
+      "x": 8,
+      "y": 15,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "EV0025",
+      "x": 8,
+      "y": 16,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "EV0026",
+      "x": 8,
+      "y": 18,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "EV0027",
+      "x": 8,
+      "y": 22,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "EV0028",
+      "x": 8,
+      "y": 21,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "EV0029",
+      "x": 8,
+      "y": 20,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "EV0030",
+      "x": 8,
+      "y": 19,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "EV0031",
+      "x": 8,
+      "y": 17,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 17,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "knock",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "save_count": 31,
+  "id": 229,
+  "name": "Woods L3",
+  "source": "Map0229.lmu"
+}

@@ -1,0 +1,1767 @@
+{
+  "chipset_id": 25,
+  "scroll_type": 0,
+  "generator_height": 2,
+  "generator_x": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_y": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_tile_ids": [
+    49,
+    49,
+    49,
+    49,
+    49,
+    49,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007
+  ],
+  "lower_layer": [
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4404,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4428,
+    4408,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5001,
+    5001,
+    5004,
+    3042,
+    5004,
+    5096,
+    5115,
+    5098,
+    5004,
+    3042,
+    5004,
+    5001,
+    5001,
+    5001,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5007,
+    5007,
+    5010,
+    3094,
+    5010,
+    5120,
+    5121,
+    5122,
+    5010,
+    3094,
+    5010,
+    5007,
+    5007,
+    5007,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    5013,
+    5013,
+    5016,
+    5013,
+    5016,
+    5126,
+    5127,
+    5128,
+    5016,
+    5013,
+    5016,
+    5013,
+    5013,
+    5013,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    4034,
+    4036,
+    5022,
+    4042,
+    5022,
+    5114,
+    4042,
+    5116,
+    5022,
+    4042,
+    5022,
+    4034,
+    4020,
+    4036,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    4016,
+    4002,
+    4020,
+    4003,
+    4020,
+    4020,
+    4003,
+    4020,
+    4020,
+    4003,
+    4020,
+    4001,
+    4000,
+    4024,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    4016,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4024,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    4016,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4024,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    4016,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4024,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    4016,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4024,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    4016,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4000,
+    4024,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4424,
+    4040,
+    4028,
+    4028,
+    4028,
+    4028,
+    4008,
+    4000,
+    4004,
+    4028,
+    4028,
+    4028,
+    4028,
+    4028,
+    4038,
+    4416,
+    4400,
+    4400,
+    4400,
+    4400,
+    4402,
+    4420,
+    4420,
+    4420,
+    4420,
+    4436,
+    4040,
+    4028,
+    4038,
+    4434,
+    4420,
+    4420,
+    4420,
+    4420,
+    4420,
+    4401,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4402,
+    4420,
+    4420,
+    4420,
+    4401,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400,
+    4400
+  ],
+  "upper_layer": [
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10072,
+    10073,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10074,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10078,
+    10079,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10004,
+    10040,
+    10080,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10046,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10095,
+    10000,
+    10000,
+    10000,
+    10101,
+    10000,
+    10000,
+    10000,
+    10103,
+    10104,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10107,
+    10000,
+    10000,
+    10000,
+    10107,
+    10000,
+    10000,
+    10000,
+    10109,
+    10110,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10021,
+    10022,
+    10023,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10115,
+    10116,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10017,
+    10027,
+    10028,
+    10029,
+    10017,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10033,
+    10034,
+    10035,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10017,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "EV0001",
+      "x": 15,
+      "y": 9,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Effects",
+          "character_index": 3,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 12,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 12330,
+              "name": "CallEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                1,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EV0002",
+      "x": 14,
+      "y": 9,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 10,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11930,
+              "name": "ChangeSaveAccess",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "EV0003",
+      "x": 15,
+      "y": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 10,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11930,
+              "name": "ChangeSaveAccess",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "EV0004",
+      "x": 16,
+      "y": 9,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 10,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11930,
+              "name": "ChangeSaveAccess",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "EV0005",
+      "x": 15,
+      "y": 8,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 10,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11930,
+              "name": "ChangeSaveAccess",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "EV0006",
+      "x": 8,
+      "y": 14,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                266,
+                9,
+                4,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "EV0007",
+      "x": 9,
+      "y": 14,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                266,
+                9,
+                4,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "EV0008",
+      "x": 10,
+      "y": 14,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                266,
+                9,
+                4,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "EV0009",
+      "x": 12,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "Chest2",
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 111,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10005,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 11,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 18,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10005,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 29,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 36,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10005,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 47,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "item",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 59,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Obtained Inferno Blood",
+              "parameters": []
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 86,
+              "code": 10320,
+              "name": "ChangeItems",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                0,
+                11,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 96,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                399,
+                399,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 399,
+            "actor_id": 1
+          },
+          "character_name": "Chest2",
+          "character_direction": 3,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 15,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Empty.",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "EV0010",
+      "x": 15,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 138,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Let's take a rest.\\..\\..",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 40,
+              "code": 11010,
+              "name": "EraseScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 46,
+              "code": 11530,
+              "name": "MemorizeBGM",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 51,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 0,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 65,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 0,
+              "string": "DH-Sleep Till Tommorow",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 96,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                80,
+                0
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 103,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "heal3",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 116,
+              "code": 10490,
+              "name": "FullHeal",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                0
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 123,
+              "code": 11540,
+              "name": "PlayMemorizedBGM",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 128,
+              "code": 11020,
+              "name": "ShowScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "EV0011",
+      "x": 15,
+      "y": 6,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 138,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Let's take a rest.\\..\\..",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 40,
+              "code": 11010,
+              "name": "EraseScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 46,
+              "code": 11530,
+              "name": "MemorizeBGM",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 51,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 0,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 65,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 0,
+              "string": "DH-Sleep Till Tommorow",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 96,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                80,
+                0
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 103,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "heal3",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 116,
+              "code": 10490,
+              "name": "FullHeal",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                0
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 123,
+              "code": 11540,
+              "name": "PlayMemorizedBGM",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 128,
+              "code": 11020,
+              "name": "ShowScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "EV0012",
+      "x": 15,
+      "y": 7,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 138,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Let's take a rest.\\..\\..",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 40,
+              "code": 11010,
+              "name": "EraseScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 46,
+              "code": 11530,
+              "name": "MemorizeBGM",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 51,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 0,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 65,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 0,
+              "string": "DH-Sleep Till Tommorow",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 96,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                80,
+                0
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 103,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "heal3",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 116,
+              "code": 10490,
+              "name": "FullHeal",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                0
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 123,
+              "code": 11540,
+              "name": "PlayMemorizedBGM",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 128,
+              "code": 11020,
+              "name": "ShowScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "EV0013",
+      "x": 16,
+      "y": 7,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 138,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Let's take a rest.\\..\\..",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 40,
+              "code": 11010,
+              "name": "EraseScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 46,
+              "code": 11530,
+              "name": "MemorizeBGM",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 51,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 0,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 65,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 0,
+              "string": "DH-Sleep Till Tommorow",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 96,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                80,
+                0
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 103,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "heal3",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 116,
+              "code": 10490,
+              "name": "FullHeal",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                0
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 123,
+              "code": 11540,
+              "name": "PlayMemorizedBGM",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 128,
+              "code": 11020,
+              "name": "ShowScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "EV0014",
+      "x": 14,
+      "y": 4,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 36,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "You may rest on this bed...",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "save_count": 14,
+  "id": 269,
+  "name": "Haven 2B",
+  "source": "Map0269.lmu"
+}

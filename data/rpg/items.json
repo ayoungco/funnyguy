@@ -1,0 +1,6874 @@
+[
+  {
+    "id": 1,
+    "name": "Mixture",
+    "description": "Recovers 200 HP.",
+    "type": 6,
+    "price": 115,
+    "two_handed": false,
+    "entire_party": false,
+    "recover_hp": 200,
+    "using_message": 0,
+    "actor_set_size": 14,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 1,
+        "after_image": 1,
+        "attacks": 1,
+        "ranged": true,
+        "ranged_animation_id": 1
+      },
+      {
+        "id": 3,
+        "ranged_animation_id": 1,
+        "ranged_speed": 1
+      },
+      {
+        "id": 4,
+        "ranged": true
+      },
+      {
+        "id": 5,
+        "ranged": true
+      },
+      {
+        "id": 6,
+        "ranged": true
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 2,
+    "name": "High Mixture",
+    "description": "Recovers 600 HP.",
+    "type": 6,
+    "price": 250,
+    "two_handed": false,
+    "entire_party": false,
+    "recover_hp": 600,
+    "using_message": 0,
+    "actor_set_size": 4,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 3,
+    "name": "Mega Mixture",
+    "description": "Restores 1000 HP.",
+    "type": 6,
+    "price": 385,
+    "two_handed": false,
+    "entire_party": false,
+    "recover_hp": 1000,
+    "using_message": 0,
+    "actor_set_size": 4,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 4,
+    "name": "Ultimate Mixture",
+    "description": "Completely restores HP.",
+    "type": 6,
+    "price": 460,
+    "two_handed": false,
+    "entire_party": false,
+    "recover_hp_rate": 100,
+    "using_message": 0,
+    "actor_set_size": 4,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 5,
+    "name": "Magic Mix",
+    "description": "Restores 25% MP.",
+    "type": 6,
+    "price": 100,
+    "two_handed": false,
+    "entire_party": false,
+    "recover_sp_rate": 25,
+    "using_message": 0,
+    "actor_set_size": 4,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 6,
+    "name": "Magic Mix+",
+    "description": "Restores 50% MP.",
+    "type": 6,
+    "price": 200,
+    "two_handed": false,
+    "entire_party": false,
+    "recover_sp_rate": 50,
+    "using_message": 0,
+    "actor_set_size": 4,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 7,
+    "name": "Magic Mix++",
+    "description": "Restores 100% MP.",
+    "type": 6,
+    "price": 375,
+    "two_handed": false,
+    "entire_party": false,
+    "recover_sp_rate": 100,
+    "using_message": 0,
+    "actor_set_size": 4,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 8,
+    "name": "Camping Set",
+    "description": "Restores party's HP and MP. Only on save points.",
+    "type": 0,
+    "price": 50,
+    "two_handed": false,
+    "entire_party": true,
+    "recover_hp_rate": 100,
+    "recover_sp_rate": 100,
+    "occasion_field1": true,
+    "using_message": 0,
+    "actor_set_size": 4,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set_size": 8,
+    "state_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 9,
+    "name": "Heal Herb",
+    "description": "Cures most status ailments.",
+    "type": 6,
+    "price": 90,
+    "two_handed": false,
+    "entire_party": false,
+    "max_hp_points": 5,
+    "using_message": 0,
+    "actor_set_size": 4,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set_size": 9,
+    "state_set": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 10,
+    "name": "Gold Herb",
+    "description": "Revives a K.O.'d character with 25% HP.",
+    "type": 6,
+    "price": 180,
+    "two_handed": false,
+    "entire_party": false,
+    "recover_hp_rate": 25,
+    "ko_only": true,
+    "max_hp_points": 5,
+    "using_message": 0,
+    "actor_set_size": 4,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set_size": 1,
+    "state_set": [
+      1
+    ],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 11,
+    "name": "Inferno Blood",
+    "description": "Restores a live character completely.",
+    "type": 6,
+    "two_handed": false,
+    "entire_party": false,
+    "recover_hp_rate": 100,
+    "recover_sp_rate": 100,
+    "max_sp_points": 5,
+    "using_message": 0,
+    "actor_set_size": 4,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set_size": 9,
+    "state_set": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 12,
+    "name": "--------------------",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 13,
+    "name": "Stick",
+    "description": "A wooden stick.",
+    "type": 0,
+    "price": 200,
+    "atk_points1": 10,
+    "two_handed": false,
+    "hit": 85,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 14,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set_size": 3,
+    "attribute_set": [
+      0,
+      0,
+      1
+    ],
+    "state_chance": 100,
+    "weapon_animation": 4,
+    "animation_data": [
+      {
+        "id": 1,
+        "movement": 3
+      },
+      {
+        "id": 2,
+        "movement": 3
+      },
+      {
+        "id": 3,
+        "movement": 3
+      },
+      {
+        "id": 4,
+        "movement": 3
+      },
+      {
+        "id": 5,
+        "movement": 3
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 16,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 17,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 18,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 19,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 20,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 21,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 22,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 23,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 24,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 25,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 26,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 27,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 28,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 29,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 30,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 31,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 32,
+        "weapon_animation_id": 1,
+        "movement": 2
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Broad Sword",
+    "description": "A basic attacking sword.",
+    "type": 1,
+    "atk_points1": 30,
+    "two_handed": false,
+    "hit": 97,
+    "animation_id": 9,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 1,
+    "attribute_set": [
+      1
+    ],
+    "weapon_animation": 0,
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": -1,
+        "movement": 3
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": -1,
+        "movement": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 16,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 17,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 18,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 19,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 20,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 21,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 22,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 23,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 24,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 25,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 26,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 27,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 28,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 29,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 30,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 31,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 32,
+        "weapon_animation_id": 1,
+        "movement": 2
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 15,
+    "name": "CheapChopperSword",
+    "description": "A sword of fused Cheap Choppers.",
+    "type": 1,
+    "atk_points1": 90,
+    "two_handed": false,
+    "hit": 98,
+    "animation_id": 9,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 1,
+    "attribute_set": [
+      1
+    ],
+    "weapon_animation": 0,
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": -1,
+        "movement": 3
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 16,
+    "name": "Razor Sword",
+    "description": "A one-handed sword that is easy to handle.",
+    "type": 1,
+    "atk_points1": 145,
+    "two_handed": false,
+    "hit": 95,
+    "critical_hit": 10,
+    "animation_id": 9,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 1,
+    "attribute_set": [
+      1
+    ],
+    "weapon_animation": 2,
+    "animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": -1,
+        "movement": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 16,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 17,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 18,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 22,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 23,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 24,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 25,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 26,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 27,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 28,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 29,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 30,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 31,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 32,
+        "weapon_animation_id": 1,
+        "movement": 2
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Ultra Sword",
+    "description": "A balanced two-handed sword.",
+    "type": 1,
+    "atk_points1": 125,
+    "two_handed": false,
+    "hit": 100,
+    "critical_hit": 15,
+    "animation_id": 9,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 1,
+    "attribute_set": [
+      1
+    ],
+    "weapon_animation": 0,
+    "animation_data": [
+      {
+        "id": 1,
+        "movement": 3
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 18,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Muramaze",
+    "description": "A vicious sword with a serrated edge.",
+    "type": 1,
+    "atk_points1": 375,
+    "agi_points1": 75,
+    "two_handed": false,
+    "hit": 100,
+    "critical_hit": 60,
+    "animation_id": 139,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 1,
+    "attribute_set": [
+      1
+    ],
+    "weapon_animation": 2,
+    "animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 18,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Masamune",
+    "description": "A legendary sword made from a rare metal.",
+    "type": 1,
+    "atk_points1": 400,
+    "def_points1": 15,
+    "agi_points1": 20,
+    "two_handed": false,
+    "hit": 100,
+    "critical_hit": 50,
+    "animation_id": 10,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 1,
+    "attribute_set": [
+      1
+    ],
+    "weapon_animation": 0,
+    "animation_data": [
+      {
+        "id": 1,
+        "movement": 3
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 18,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 20,
+    "name": "--------------------",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 21,
+    "name": "Butter Knife",
+    "description": "A typical table butter knife.",
+    "type": 1,
+    "atk_points1": 30,
+    "two_handed": false,
+    "hit": 95,
+    "animation_id": 9,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 1,
+    "attribute_set": [
+      1
+    ],
+    "weapon_animation": 1,
+    "animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 7,
+        "movement": 3
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 22,
+    "name": "Cheap Choppers",
+    "description": "Valuable safety scissors combat weapon.",
+    "type": 1,
+    "atk_points1": 80,
+    "two_handed": false,
+    "hit": 100,
+    "animation_id": 91,
+    "preemptive": true,
+    "ignore_evasion": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 2,
+    "attribute_set": [
+      0,
+      1
+    ],
+    "weapon_animation": 1,
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": 7,
+        "movement": 1,
+        "attacks": 2
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": -1,
+        "movement": 3
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": -1
+      },
+      {
+        "id": 4,
+        "weapon_animation_id": -1
+      },
+      {
+        "id": 5,
+        "weapon_animation_id": -1
+      },
+      {
+        "id": 6,
+        "weapon_animation_id": -1
+      },
+      {
+        "id": 7,
+        "weapon_animation_id": -1
+      },
+      {
+        "id": 8,
+        "weapon_animation_id": -1
+      },
+      {
+        "id": 9,
+        "weapon_animation_id": -1
+      },
+      {
+        "id": 10,
+        "weapon_animation_id": -1
+      },
+      {
+        "id": 11,
+        "weapon_animation_id": -1
+      },
+      {
+        "id": 12,
+        "weapon_animation_id": -1
+      },
+      {
+        "id": 13,
+        "weapon_animation_id": -1
+      },
+      {
+        "id": 14,
+        "weapon_animation_id": -1
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Steak Knife",
+    "description": "A typical table steak knife.",
+    "type": 1,
+    "atk_points1": 140,
+    "agi_points1": 5,
+    "two_handed": false,
+    "hit": 95,
+    "critical_hit": 10,
+    "animation_id": 10,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 1,
+    "attribute_set": [
+      1
+    ],
+    "weapon_animation": 1,
+    "animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 7,
+        "movement": 3
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 24,
+    "name": "LOP Butter Knife",
+    "description": "A Land O' Ponds Butter Knife.",
+    "type": 1,
+    "atk_points1": 185,
+    "two_handed": false,
+    "hit": 97,
+    "critical_hit": 35,
+    "animation_id": 119,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 1,
+    "attribute_set": [
+      1
+    ],
+    "weapon_animation": 1,
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 7,
+        "movement": 3,
+        "attacks": 1
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 4,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 5,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 6,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 7,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 8,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 9,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 10,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 11,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 12,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 13,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 14,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 15,
+        "weapon_animation_id": 3,
+        "movement": 2
+      },
+      {
+        "id": 16,
+        "weapon_animation_id": 3,
+        "movement": 2
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 25,
+    "name": "LOP Butter Equipment",
+    "description": "Land O' Ponds signature butter and butter knife.",
+    "type": 1,
+    "atk_points1": 400,
+    "two_handed": false,
+    "hit": 100,
+    "critical_hit": 50,
+    "animation_id": 8,
+    "preemptive": true,
+    "ignore_evasion": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 1,
+    "attribute_set": [
+      1
+    ],
+    "weapon_animation": 1,
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 1,
+        "movement": 3
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 4,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 5,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 6,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 7,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 8,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 9,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 10,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 11,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 12,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 13,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 14,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 15,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 16,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 22,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 23,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 24,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 25,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 26,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 27,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 28,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 29,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 30,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 31,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 32,
+        "weapon_animation_id": 2
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 26,
+    "name": "--------------------",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 27,
+    "name": "Rifle",
+    "description": "A weak gun.",
+    "type": 1,
+    "atk_points1": 45,
+    "two_handed": true,
+    "sp_cost": 10,
+    "animation_id": 189,
+    "preemptive": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 18,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "weapon_animation": 3,
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 7,
+        "attacks": 2
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 4,
+        "weapon_animation_id": 2,
+        "movement": 1
+      },
+      {
+        "id": 5,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 6,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 7,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 8,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 9,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 10,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 11,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 12,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 13,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 14,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 15,
+        "weapon_animation_id": 3,
+        "movement": 2
+      },
+      {
+        "id": 16,
+        "weapon_animation_id": 3,
+        "movement": 2
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 28,
+    "name": "10 Gauge Shotgun",
+    "description": "Its wide hit area makes it impossible to escape.",
+    "type": 1,
+    "atk_points1": 55,
+    "two_handed": true,
+    "hit": 100,
+    "animation_id": 188,
+    "preemptive": true,
+    "attack_all": true,
+    "ignore_evasion": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 18,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "weapon_animation": 3,
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 4,
+        "weapon_animation_id": 5,
+        "movement": 1
+      },
+      {
+        "id": 5,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 6,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 7,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 8,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 9,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 10,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 11,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 12,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 13,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 14,
+        "weapon_animation_id": 5
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Machine Gun",
+    "description": "Fires a barrage of bullets.",
+    "type": 1,
+    "atk_points1": 250,
+    "two_handed": true,
+    "animation_id": 27,
+    "preemptive": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 18,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "weapon_animation": 3,
+    "animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4,
+        "movement": 1
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 18,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Boofgutzer",
+    "description": "A powerful hand gun made for vio-lence.",
+    "type": 1,
+    "atk_points1": 350,
+    "two_handed": true,
+    "hit": 100,
+    "critical_hit": 30,
+    "animation_id": 25,
+    "preemptive": true,
+    "ignore_evasion": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 18,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "weapon_animation": 3,
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 4,
+        "weapon_animation_id": 1,
+        "movement": 1
+      },
+      {
+        "id": 5,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 6,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 7,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 8,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 9,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 10,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 11,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 12,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 13,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 14,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 18,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 19,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 20,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 21,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 22,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 23,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 24,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 25,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 26,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 27,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 28,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 29,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 30,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 31,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 32,
+        "weapon_animation_id": 2,
+        "movement": 2
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Plasma Rifle",
+    "description": "Insanely powerful plasma weapon.",
+    "type": 1,
+    "atk_points1": 500,
+    "two_handed": true,
+    "hit": 100,
+    "critical_hit": 50,
+    "animation_id": 190,
+    "preemptive": true,
+    "attack_all": true,
+    "ignore_evasion": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 18,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "weapon_animation": 3,
+    "animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4,
+        "movement": 1
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 32,
+    "name": "--------------------",
+    "type": 0,
+    "atk_points1": 148,
+    "two_handed": true,
+    "animation_id": 11,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 14,
+    "actor_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 2,
+    "attribute_set": [
+      0,
+      1
+    ],
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 4,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 5,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 6,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 7,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 8,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 9,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 10,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 11,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 12,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 13,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 14,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 18,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 19,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 20,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Boxing Gloves",
+    "description": "Weak training gloves.",
+    "type": 1,
+    "atk_points1": 50,
+    "two_handed": false,
+    "hit": 95,
+    "animation_id": 202,
+    "dual_attack": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 13,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "weapon_animation": 4,
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 4,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 5,
+        "weapon_animation_id": 2,
+        "movement": 3
+      },
+      {
+        "id": 6,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 7,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 8,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 9,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 10,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 11,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 12,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 13,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 14,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 15,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 16,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Silver Knuckles",
+    "description": "A pair of battle knuckles, silver in color.",
+    "type": 1,
+    "atk_points1": 90,
+    "two_handed": false,
+    "hit": 100,
+    "critical_hit": 15,
+    "animation_id": 142,
+    "dual_attack": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 13,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "weapon_animation": 4,
+    "animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5,
+        "movement": 3
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29,
+        "movement": 2
+      },
+      {
+        "id": 30,
+        "movement": 2
+      },
+      {
+        "id": 31,
+        "movement": 2
+      },
+      {
+        "id": 32,
+        "movement": 2
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Gold Claw Knuckles",
+    "description": "Knuckles with retractable knives.",
+    "type": 1,
+    "atk_points1": 175,
+    "two_handed": false,
+    "hit": 100,
+    "critical_hit": 35,
+    "animation_id": 148,
+    "dual_attack": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 13,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "weapon_animation": 4,
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 4,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 5,
+        "weapon_animation_id": 1,
+        "movement": 3
+      },
+      {
+        "id": 6,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 7,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 8,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 9,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 10,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 11,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 12,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 13,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 14,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 18,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 19,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 20,
+        "weapon_animation_id": 2,
+        "movement": 2
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Ultimate Knuckles",
+    "description": "Powerful knuckles made for the strong.",
+    "type": 1,
+    "atk_points1": 400,
+    "def_points1": 35,
+    "two_handed": false,
+    "hit": 100,
+    "critical_hit": 50,
+    "animation_id": 122,
+    "dual_attack": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "state_set": [],
+    "attribute_set_size": 13,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "weapon_animation": 4,
+    "animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5,
+        "movement": 3
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 18,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 19,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 20,
+        "weapon_animation_id": 1,
+        "movement": 2
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 37,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 38,
+    "name": "--------------------",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 39,
+    "name": "Mage's Staff",
+    "description": "Old, weak staff.",
+    "type": 1,
+    "atk_points1": 65,
+    "two_handed": false,
+    "hit": 95,
+    "animation_id": 9,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "state_set": [],
+    "attribute_set_size": 2,
+    "attribute_set": [
+      0,
+      1
+    ],
+    "weapon_animation": 5,
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 4,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 5,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 6,
+        "weapon_animation_id": 2,
+        "movement": 3
+      },
+      {
+        "id": 7,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 8,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 9,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 10,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 11,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 12,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 13,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 14,
+        "weapon_animation_id": 2
+      },
+      {
+        "id": 15,
+        "weapon_animation_id": 3,
+        "movement": 2
+      },
+      {
+        "id": 16,
+        "weapon_animation_id": 3,
+        "movement": 2
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Gold Staff",
+    "description": "A heavy staff made of pure gold.",
+    "type": 1,
+    "atk_points1": 145,
+    "agi_points1": -20,
+    "two_handed": false,
+    "hit": 97,
+    "critical_hit": 15,
+    "animation_id": 89,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "state_set": [],
+    "attribute_set_size": 2,
+    "attribute_set": [
+      0,
+      1
+    ],
+    "weapon_animation": 5,
+    "animation_data": [
+      {
+        "id": 1,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 2,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 3,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 4,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 5,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 6,
+        "weapon_animation_id": 3,
+        "movement": 3
+      },
+      {
+        "id": 7,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 8,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 9,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 10,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 11,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 12,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 13,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 14,
+        "weapon_animation_id": 3
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Omega Staff",
+    "description": "The ultimate staff, made for maximum time control.",
+    "type": 1,
+    "atk_points1": 350,
+    "def_points1": 25,
+    "agi_points1": 40,
+    "two_handed": false,
+    "hit": 100,
+    "critical_hit": 30,
+    "animation_id": 90,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "state_set": [],
+    "attribute_set_size": 2,
+    "attribute_set": [
+      0,
+      1
+    ],
+    "weapon_animation": 5,
+    "animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6,
+        "movement": 3
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 18,
+        "weapon_animation_id": 1
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 42,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 43,
+    "name": "--------------------",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 44,
+    "name": "Wood Shield",
+    "description": "A completely worthless wooden shield.",
+    "type": 2,
+    "price": 100,
+    "def_points1": 5,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Feather Shield",
+    "description": "Light shield that enhances speed and evasion.",
+    "type": 2,
+    "price": 2500,
+    "def_points1": 50,
+    "agi_points1": 20,
+    "two_handed": false,
+    "raise_evasion": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Bone Shield",
+    "description": "A shield made from animal bones. Resists sleep.",
+    "type": 2,
+    "price": 5000,
+    "def_points1": 120,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "state_set_size": 7,
+    "state_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_set": [],
+    "state_chance": 100,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Scale Shield",
+    "description": "A shield crafted from reptile scales.",
+    "type": 2,
+    "price": 6000,
+    "def_points1": 155,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Bronze Shield",
+    "description": "A shield of thick bronze. Stops some bad status.",
+    "type": 2,
+    "price": 13500,
+    "def_points1": 180,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "state_set_size": 9,
+    "state_set": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "attribute_set": [],
+    "state_chance": 100,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Iron Shield",
+    "description": "A shield forged from iron. Heavy.",
+    "type": 2,
+    "price": 20000,
+    "def_points1": 220,
+    "agi_points1": -20,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Steel Shield",
+    "description": "A shield made from steel. It prevents Crit. Hits.",
+    "type": 2,
+    "price": 30000,
+    "def_points1": 270,
+    "two_handed": false,
+    "prevent_critical": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Titanium Shield",
+    "description": "Best shield that resists most status conditions.",
+    "type": 2,
+    "def_points1": 330,
+    "two_handed": false,
+    "prevent_critical": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "state_set_size": 9,
+    "state_set": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "attribute_set_size": 18,
+    "attribute_set": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "state_chance": 100,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 52,
+    "name": "--------------------",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 53,
+    "name": "Robe",
+    "description": "A simple cloth robe.",
+    "type": 3,
+    "price": 100,
+    "def_points1": 10,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 54,
+    "name": "Leather Armor",
+    "description": "Armor made of tough leather. Very light.",
+    "type": 3,
+    "price": 1125,
+    "def_points1": 25,
+    "agi_points1": 20,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Iron Armor",
+    "description": "Very protective armor that is extremely heavy.",
+    "type": 3,
+    "price": 6500,
+    "def_points1": 50,
+    "agi_points1": -20,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 14,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Spiked Armor",
+    "description": "Has metal spikes that increase attack a bit.",
+    "type": 3,
+    "price": 8945,
+    "atk_points1": 15,
+    "def_points1": 90,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Cross Armor",
+    "description": "Armor with a cross branded on the front.",
+    "type": 3,
+    "price": 10400,
+    "def_points1": 115,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Steel Armor",
+    "description": "Armor made of strong steel.",
+    "type": 3,
+    "price": 13500,
+    "def_points1": 145,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Titanium Armor",
+    "description": "The ultimate armor.",
+    "type": 3,
+    "def_points1": 150,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set_size": 9,
+    "state_set": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "attribute_set_size": 4,
+    "attribute_set": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set_size": 19,
+    "class_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 60,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 61,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 62,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 63,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 64,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 65,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 66,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 67,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 68,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 69,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 70,
+    "name": "--------------------",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 71,
+    "name": "Dark Ring",
+    "description": "Defends against dark attacks.",
+    "type": 4,
+    "price": 3000,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set_size": 12,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "state_chance": 100,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 72,
+    "name": "Speed Ring",
+    "description": "Increases agility; causes Agile. Lowers defense.",
+    "type": 4,
+    "price": 9000,
+    "def_points1": -25,
+    "agi_points1": 60,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set_size": 12,
+    "state_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_set": [],
+    "state_chance": 65,
+    "reverse_state_effect": true,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 73,
+    "name": "Green Ring",
+    "description": "Causes Regen in every battle.",
+    "type": 4,
+    "price": 4025,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set_size": 11,
+    "state_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_set": [],
+    "state_chance": 100,
+    "reverse_state_effect": true,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 74,
+    "name": "Ring of Chaos",
+    "description": "Defends against earth, water and wind attacks.",
+    "type": 4,
+    "price": 4125,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set_size": 10,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "state_chance": 100,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 75,
+    "name": "Thunder Ring",
+    "description": "Defends against thunder attacks.",
+    "type": 4,
+    "price": 2250,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set_size": 7,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "state_chance": 100,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 76,
+    "name": "Armlet",
+    "description": "Protective gear that prevents critical attacks.",
+    "type": 4,
+    "price": 300,
+    "two_handed": false,
+    "prevent_critical": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 77,
+    "name": "Magic Ring",
+    "description": "Halves MP cost.",
+    "type": 4,
+    "price": 10000,
+    "two_handed": false,
+    "half_sp_cost": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "reverse_state_effect": true,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 78,
+    "name": "Tough Boots",
+    "description": "Boots for hiking in the Ice Mountains.",
+    "type": 5,
+    "def_points1": 35,
+    "two_handed": false,
+    "no_terrain_damage": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 79,
+    "name": "Shoulder Armor",
+    "description": "Raises attack power, resists seal and confuse. ",
+    "type": 5,
+    "atk_points1": 25,
+    "def_points1": 80,
+    "two_handed": false,
+    "prevent_critical": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set_size": 6,
+    "state_set": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    "attribute_set": [],
+    "state_chance": 100,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 80,
+    "name": "Sacred Ring",
+    "description": "A ring that stops all negative status conditions.",
+    "type": 4,
+    "price": 21450,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set_size": 9,
+    "state_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "attribute_set": [],
+    "state_chance": 100,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 81,
+    "name": "Sprint Shoes",
+    "description": "Shoes that raise agility and evasion.",
+    "type": 5,
+    "price": 5000,
+    "agi_points1": 100,
+    "two_handed": false,
+    "raise_evasion": true,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set_size": 6,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 82,
+    "name": "Fire Ring",
+    "description": "Defends against fire attacks.",
+    "type": 4,
+    "price": 2250,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set_size": 5,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "state_chance": 100,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 83,
+    "name": "Ice Ring",
+    "description": "Defends against ice attacks.",
+    "type": 4,
+    "price": 2250,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set_size": 6,
+    "attribute_set": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "state_chance": 100,
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 84,
+    "name": "--------------------",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 85,
+    "name": "Scroll of Healing",
+    "description": "Upgrades Junior's Heal moves.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 86,
+    "name": "Scroll of Purify",
+    "description": "Teaches Purify to Junior.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 87,
+    "name": "Scroll of Breeze",
+    "description": "Teaches Healing Breeze to Junior.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 88,
+    "name": "Scroll of Angels",
+    "description": "Teaches/Upgrades Funny Guy's Revive moves.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 89,
+    "name": "Scroll of Power",
+    "description": "Teaches various stat-affecting moves to the FGs.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 90,
+    "name": "Scroll of Fire",
+    "description": "Teaches/Upgrades Funny Guy's fire moves.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 91,
+    "name": "Scroll of Ice",
+    "description": "Teaches/Upgrades Junior's ice moves.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 92,
+    "name": "Scroll of Thunder",
+    "description": "Teaches/Upgrades Sharp's electric moves.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 93,
+    "name": "Scroll of Explosions",
+    "description": "Teaches explosive attacks (Type A).",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 94,
+    "name": "Scroll of Explosions",
+    "description": "Teaches explosive attacks (Type B).",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 95,
+    "name": "Scroll of Meteors",
+    "description": "Teaches/upgrades meteor attacks on TimeT.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 96,
+    "name": "Scroll of Butter",
+    "description": "Teaches butter attacks to Junior.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 97,
+    "name": "Scroll of Beacon",
+    "description": "Teaches a sword healing move to Sharp/Funny Guy.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 98,
+    "name": "Scroll of Swords",
+    "description": "Teaches various sword skills to Sharp/FG.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 99,
+    "name": "Scroll of Rage",
+    "description": "Teaches rage moves to the FGs.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 100,
+    "name": "Scroll of Justice",
+    "description": "Teaches special moves to some FGs.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 101,
+    "name": "Scroll of Death",
+    "description": "Teaches Fatalize Magic.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 102,
+    "name": "Scroll of Bubbles",
+    "description": "Teaches Bubble Breath to Junior.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 103,
+    "name": "Scroll of Heaven",
+    "description": "Teaches Junior his most powerful attack.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 104,
+    "name": "Scroll of Darkness",
+    "description": "Teaches a devastating move to TimeT.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 105,
+    "name": "Scroll of Time",
+    "description": "Teaches various moves to TimeT",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 106,
+    "name": "Scroll of Magnitude",
+    "description": "Teaches Fissure to TimeTravel.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 107,
+    "name": "Scroll of Force",
+    "description": "Teaches punch attacks to Olympian.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 108,
+    "name": "Scroll of Ouchies",
+    "description": "Teaches some nasty moves to Olympian.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 109,
+    "name": "Scroll of K.O.",
+    "description": "Teaches K.O. Fist to Olympian.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 110,
+    "name": "Scroll of Ultima",
+    "description": "???",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 111,
+    "name": "Scroll of Guns",
+    "description": "Teaches various gun moves to Target.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 112,
+    "name": "Scroll of Grenades",
+    "description": "Teaches Charge GunTech to Target.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 113,
+    "name": "Scroll of Nuke",
+    "description": "Teaches Nuclear Blast to Target.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 114,
+    "name": "Scroll of Sniping",
+    "description": "Teaches Snipe to Target.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 115,
+    "name": "--------------------",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 116,
+    "name": "Jar of Life",
+    "description": "Restores 50% HP to all allies.",
+    "type": 6,
+    "price": 435,
+    "two_handed": false,
+    "entire_party": true,
+    "recover_hp_rate": 50,
+    "using_message": 0,
+    "actor_set_size": 4,
+    "actor_set": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 117,
+    "name": "Rail Keys",
+    "description": "Key Item. Unlocks railway in LOP Butter Factory.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 118,
+    "name": "Gorge Pass",
+    "description": "Key Item. Allows you to enter the Gorge.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 119,
+    "name": "Rail Keys Lv. 3",
+    "description": "Key Item. LOP Butter Factory Level 3 Rail Keys.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 120,
+    "name": "Rail Keys Lv. 2",
+    "description": "Key Item. LOP Butter Factory Level 2 Rail Keys.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 121,
+    "name": "Ice Mountains Key",
+    "description": "Key Item. Unlocks Pumps door to the Ice Mountains.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 122,
+    "name": "Strange Keys",
+    "description": "Key Item. Strange set of keys found in basement.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 123,
+    "name": "Cell Phone",
+    "description": "Key Item. Use to contact Oxy-Moron.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 124,
+    "name": "Rail Keys Lv. 4",
+    "description": "Key Item. LOP Butter Factory Level 4 Rail Keys.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 125,
+    "name": "Green Gem",
+    "description": "A mysterious shiny green gemstone.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 126,
+    "name": "Elevator Pass",
+    "description": "Pass that allows access to the P.M.'s quarters.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 127,
+    "name": "Old Key",
+    "description": "An old rusty key found in a barrel.",
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 128,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 129,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 130,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 131,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 132,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 133,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 134,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 135,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 136,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 137,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 138,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 139,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  },
+  {
+    "id": 140,
+    "type": 0,
+    "two_handed": false,
+    "entire_party": false,
+    "using_message": 0,
+    "actor_set": [],
+    "state_set": [],
+    "attribute_set": [],
+    "animation_data": [
+      {
+        "id": 1
+      }
+    ],
+    "class_set": []
+  }
+]

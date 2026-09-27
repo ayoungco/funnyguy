@@ -26,7 +26,7 @@ Image.MAX_IMAGE_PIXELS = None  # legacy scans/PSDs can be huge; we downsize imme
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parent
 MANIFEST = REPO_ROOT / "references" / "asset_manifest.csv"
-LEGACY_ROOT = Path("/mnt/creative/funnyguy")
+LEGACY_ROOT = Path("/mnt/hdd/assets")
 OUT_DIR = REPO_ROOT / "output" / "thumbnails"
 THUMB_SIZE = 384
 

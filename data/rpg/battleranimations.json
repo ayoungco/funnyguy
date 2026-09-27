@@ -1,0 +1,1538 @@
+[
+  {
+    "id": 1,
+    "name": "Funny Guy",
+    "poses": [
+      {
+        "id": 1,
+        "name": "Idle Stance",
+        "battler_name": "FG"
+      },
+      {
+        "id": 2,
+        "name": "Right Hand",
+        "battler_name": "FG",
+        "battler_index": 1
+      },
+      {
+        "id": 3,
+        "name": "Left Hand",
+        "battler_name": "FG",
+        "battler_index": 1
+      },
+      {
+        "id": 4,
+        "name": "Skill Use",
+        "battler_name": "FG",
+        "battler_index": 6
+      },
+      {
+        "id": 5,
+        "name": "Dead",
+        "battler_name": "FG",
+        "battler_index": 2
+      },
+      {
+        "id": 6,
+        "name": "Damage",
+        "battler_name": "FG",
+        "battler_index": 3
+      },
+      {
+        "id": 7,
+        "name": "Bad Status",
+        "battler_name": "FG",
+        "battler_index": 5
+      },
+      {
+        "id": 8,
+        "name": "Defending",
+        "battler_name": "FG",
+        "battler_index": 4
+      },
+      {
+        "id": 9,
+        "name": "Walking Left",
+        "battler_name": "FG2",
+        "battler_index": 1
+      },
+      {
+        "id": 10,
+        "name": "Walking Right",
+        "battler_name": "FG2",
+        "battler_index": 2
+      },
+      {
+        "id": 11,
+        "name": "Victory",
+        "battler_name": "FG",
+        "battler_index": 7
+      },
+      {
+        "id": 12,
+        "name": "Item",
+        "battler_name": "FG2"
+      },
+      {
+        "id": 13,
+        "battler_name": "FG"
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "weapons": [
+      {
+        "id": 1,
+        "name": "Sword",
+        "weapon_name": "INVISABLE"
+      },
+      {
+        "id": 2,
+        "weapon_name": "INVISABLE",
+        "weapon_index": 1
+      },
+      {
+        "id": 3,
+        "weapon_name": "INVISABLE",
+        "weapon_index": 2
+      },
+      {
+        "id": 4,
+        "weapon_name": "INVISABLE",
+        "weapon_index": 3
+      },
+      {
+        "id": 5,
+        "weapon_name": "INVISABLE",
+        "weapon_index": 4
+      },
+      {
+        "id": 6,
+        "weapon_name": "INVISABLE",
+        "weapon_index": 4
+      },
+      {
+        "id": 7,
+        "weapon_name": "INVISABLE",
+        "weapon_index": 6
+      },
+      {
+        "id": 8,
+        "weapon_name": "INVISABLE",
+        "weapon_index": 7
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Junior",
+    "poses": [
+      {
+        "id": 1,
+        "name": "Idle Stance",
+        "battler_name": "JUNIOR"
+      },
+      {
+        "id": 2,
+        "name": "Right Hand",
+        "battler_name": "JUNIOR",
+        "battler_index": 1
+      },
+      {
+        "id": 3,
+        "name": "Left Hand",
+        "battler_name": "JUNIOR",
+        "battler_index": 1
+      },
+      {
+        "id": 4,
+        "name": "Skill Use",
+        "battler_name": "JUNIOR",
+        "battler_index": 6
+      },
+      {
+        "id": 5,
+        "name": "Dead",
+        "battler_name": "JUNIOR",
+        "battler_index": 2
+      },
+      {
+        "id": 6,
+        "name": "Damage",
+        "battler_name": "JUNIOR",
+        "battler_index": 4
+      },
+      {
+        "id": 7,
+        "name": "Bad Status",
+        "battler_name": "JUNIOR",
+        "battler_index": 5
+      },
+      {
+        "id": 8,
+        "name": "Defending",
+        "battler_name": "JUNIOR",
+        "battler_index": 3
+      },
+      {
+        "id": 9,
+        "name": "Walking Left",
+        "battler_name": "JUNIOR2",
+        "battler_index": 1
+      },
+      {
+        "id": 10,
+        "name": "Walking Right",
+        "battler_name": "JUNIOR2",
+        "battler_index": 2
+      },
+      {
+        "id": 11,
+        "name": "Victory",
+        "battler_name": "JUNIOR",
+        "battler_index": 7
+      },
+      {
+        "id": 12,
+        "name": "Item",
+        "battler_name": "JUNIOR2"
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "weapons": [
+      {
+        "id": 1,
+        "name": "Sword",
+        "weapon_name": "INVISABLE"
+      },
+      {
+        "id": 2,
+        "name": "Spear",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 1
+      },
+      {
+        "id": 3,
+        "name": "Bow",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 2
+      },
+      {
+        "id": 4,
+        "name": "Whip",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 3
+      },
+      {
+        "id": 5,
+        "name": "Staff",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 4
+      },
+      {
+        "id": 6,
+        "name": "Axe",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 5
+      },
+      {
+        "id": 7,
+        "name": "Boomerang",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 6
+      },
+      {
+        "id": 8,
+        "name": "Throwing Knife",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 7
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sharp",
+    "poses": [
+      {
+        "id": 1,
+        "name": "Idle Stance",
+        "battler_name": "SHARP"
+      },
+      {
+        "id": 2,
+        "name": "Right Hand",
+        "battler_name": "SHARP",
+        "battler_index": 1
+      },
+      {
+        "id": 3,
+        "name": "Left Hand",
+        "battler_name": "SHARP",
+        "battler_index": 1
+      },
+      {
+        "id": 4,
+        "name": "Skill Use",
+        "battler_name": "SHARP",
+        "battler_index": 6
+      },
+      {
+        "id": 5,
+        "name": "Dead",
+        "battler_name": "SHARP",
+        "battler_index": 2
+      },
+      {
+        "id": 6,
+        "name": "Damage",
+        "battler_name": "SHARP",
+        "battler_index": 3
+      },
+      {
+        "id": 7,
+        "name": "Bad Status",
+        "battler_name": "SHARP",
+        "battler_index": 5
+      },
+      {
+        "id": 8,
+        "name": "Defending",
+        "battler_name": "SHARP",
+        "battler_index": 4
+      },
+      {
+        "id": 9,
+        "name": "Walking Left",
+        "battler_name": "SHARP2",
+        "battler_index": 1
+      },
+      {
+        "id": 10,
+        "name": "Walking Right",
+        "battler_name": "SHARP2",
+        "battler_index": 2
+      },
+      {
+        "id": 11,
+        "name": "Victory",
+        "battler_name": "SHARP",
+        "battler_index": 7
+      },
+      {
+        "id": 12,
+        "name": "Item",
+        "battler_name": "SHARP2"
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "weapons": [
+      {
+        "id": 1,
+        "name": "Sword",
+        "weapon_name": "INVISABLE"
+      },
+      {
+        "id": 2,
+        "name": "Spear",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 1
+      },
+      {
+        "id": 3,
+        "name": "Bow",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 2
+      },
+      {
+        "id": 4,
+        "name": "Whip",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 3
+      },
+      {
+        "id": 5,
+        "name": "Staff",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 4
+      },
+      {
+        "id": 6,
+        "name": "Axe",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 5
+      },
+      {
+        "id": 7,
+        "name": "Boomerang",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 6
+      },
+      {
+        "id": 8,
+        "name": "Throwing Knife",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 7
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Target",
+    "poses": [
+      {
+        "id": 1,
+        "name": "Idle Stance",
+        "battler_name": "TARGET"
+      },
+      {
+        "id": 2,
+        "name": "Right Hand",
+        "battler_name": "TARGET",
+        "battler_index": 1
+      },
+      {
+        "id": 3,
+        "name": "Left Hand",
+        "battler_name": "TARGET",
+        "battler_index": 1
+      },
+      {
+        "id": 4,
+        "name": "Skill Use",
+        "battler_name": "TARGET",
+        "battler_index": 6
+      },
+      {
+        "id": 5,
+        "name": "Dead",
+        "battler_name": "TARGET",
+        "battler_index": 2
+      },
+      {
+        "id": 6,
+        "name": "Damage",
+        "battler_name": "TARGET",
+        "battler_index": 3
+      },
+      {
+        "id": 7,
+        "name": "Bad Status",
+        "battler_name": "TARGET",
+        "battler_index": 5
+      },
+      {
+        "id": 8,
+        "name": "Defending",
+        "battler_name": "TARGET",
+        "battler_index": 4
+      },
+      {
+        "id": 9,
+        "name": "Walking Left",
+        "battler_name": "TARGET2",
+        "battler_index": 1
+      },
+      {
+        "id": 10,
+        "name": "Walking Right",
+        "battler_name": "TARGET2",
+        "battler_index": 2
+      },
+      {
+        "id": 11,
+        "name": "Victory",
+        "battler_name": "TARGET",
+        "battler_index": 7
+      },
+      {
+        "id": 12,
+        "name": "Item",
+        "battler_name": "TARGET2"
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "weapons": [
+      {
+        "id": 1,
+        "name": "Sword",
+        "weapon_name": "INVISABLE"
+      },
+      {
+        "id": 2,
+        "name": "Spear",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 1
+      },
+      {
+        "id": 3,
+        "name": "Bow",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 2
+      },
+      {
+        "id": 4,
+        "name": "Whip",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 3
+      },
+      {
+        "id": 5,
+        "name": "Staff",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 4
+      },
+      {
+        "id": 6,
+        "name": "Axe",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 5
+      },
+      {
+        "id": 7,
+        "name": "Boomerang",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 6
+      },
+      {
+        "id": 8,
+        "name": "Throwing Knife",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 7
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Olympian",
+    "poses": [
+      {
+        "id": 1,
+        "name": "Idle Stance",
+        "battler_name": "OLYMP"
+      },
+      {
+        "id": 2,
+        "name": "Right Hand",
+        "battler_name": "OLYMP",
+        "battler_index": 1
+      },
+      {
+        "id": 3,
+        "name": "Left Hand",
+        "battler_name": "OLYMP",
+        "battler_index": 1
+      },
+      {
+        "id": 4,
+        "name": "Skill Use",
+        "battler_name": "OLYMP",
+        "battler_index": 6
+      },
+      {
+        "id": 5,
+        "name": "Dead",
+        "battler_name": "OLYMP",
+        "battler_index": 2
+      },
+      {
+        "id": 6,
+        "name": "Damage",
+        "battler_name": "OLYMP",
+        "battler_index": 3
+      },
+      {
+        "id": 7,
+        "name": "Bad Status",
+        "battler_name": "OLYMP",
+        "battler_index": 5
+      },
+      {
+        "id": 8,
+        "name": "Defending",
+        "battler_name": "OLYMP",
+        "battler_index": 4
+      },
+      {
+        "id": 9,
+        "name": "Walking Left",
+        "battler_name": "OLYMP2",
+        "battler_index": 1
+      },
+      {
+        "id": 10,
+        "name": "Walking Right",
+        "battler_name": "OLYMP2",
+        "battler_index": 2
+      },
+      {
+        "id": 11,
+        "name": "Victory",
+        "battler_name": "OLYMP",
+        "battler_index": 7
+      },
+      {
+        "id": 12,
+        "name": "Item",
+        "battler_name": "OLYMP2"
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "weapons": [
+      {
+        "id": 1,
+        "name": "Sword",
+        "weapon_name": "INVISABLE"
+      },
+      {
+        "id": 2,
+        "name": "Spear",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 1
+      },
+      {
+        "id": 3,
+        "name": "Bow",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 2
+      },
+      {
+        "id": 4,
+        "name": "Whip",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 3
+      },
+      {
+        "id": 5,
+        "name": "Staff",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 4
+      },
+      {
+        "id": 6,
+        "name": "Axe",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 5
+      },
+      {
+        "id": 7,
+        "name": "Boomerang",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 6
+      },
+      {
+        "id": 8,
+        "name": "Throwing Knife",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 7
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "TimeTravel",
+    "poses": [
+      {
+        "id": 1,
+        "name": "Idle Stance",
+        "battler_name": "TIMET"
+      },
+      {
+        "id": 2,
+        "name": "Right Hand",
+        "battler_name": "TIMET",
+        "battler_index": 1
+      },
+      {
+        "id": 3,
+        "name": "Left Hand",
+        "battler_name": "TIMET",
+        "battler_index": 1
+      },
+      {
+        "id": 4,
+        "name": "Skill Use",
+        "battler_name": "TIMET",
+        "battler_index": 6
+      },
+      {
+        "id": 5,
+        "name": "Dead",
+        "battler_name": "TIMET",
+        "battler_index": 2
+      },
+      {
+        "id": 6,
+        "name": "Damage",
+        "battler_name": "TIMET",
+        "battler_index": 3
+      },
+      {
+        "id": 7,
+        "name": "Bad Status",
+        "battler_name": "TIMET",
+        "battler_index": 5
+      },
+      {
+        "id": 8,
+        "name": "Defending",
+        "battler_name": "TIMET",
+        "battler_index": 4
+      },
+      {
+        "id": 9,
+        "name": "Walking Left",
+        "battler_name": "TIMET2",
+        "battler_index": 1
+      },
+      {
+        "id": 10,
+        "name": "Walking Right",
+        "battler_name": "TIMET2",
+        "battler_index": 2
+      },
+      {
+        "id": 11,
+        "name": "Victory",
+        "battler_name": "TIMET",
+        "battler_index": 7
+      },
+      {
+        "id": 12,
+        "name": "Item",
+        "battler_name": "TIMET2"
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ],
+    "weapons": [
+      {
+        "id": 1,
+        "name": "Sword",
+        "weapon_name": "INVISABLE"
+      },
+      {
+        "id": 2,
+        "name": "Spear",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 1
+      },
+      {
+        "id": 3,
+        "name": "Bow",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 2
+      },
+      {
+        "id": 4,
+        "name": "Whip",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 3
+      },
+      {
+        "id": 5,
+        "name": "Staff",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 4
+      },
+      {
+        "id": 6,
+        "name": "Axe",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 5
+      },
+      {
+        "id": 7,
+        "name": "Boomerang",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 6
+      },
+      {
+        "id": 8,
+        "name": "Throwing Knife",
+        "weapon_name": "INVISABLE",
+        "weapon_index": 7
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ]
+  }
+]

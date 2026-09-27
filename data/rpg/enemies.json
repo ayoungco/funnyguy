@@ -1,0 +1,6449 @@
+[
+  {
+    "id": 1,
+    "battler_name": "Boss_GuardianGaist_05",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Goblin",
+    "battler_name": "FF2Goblin(UltimateMaxim)",
+    "max_hp": 45,
+    "attack": 80,
+    "defense": 48,
+    "agility": 46,
+    "exp": 35,
+    "gold": 50,
+    "drop_id": 1,
+    "drop_prob": 10,
+    "critical_hit": true,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Fly Trapper",
+    "battler_name": "FF2D.Flower(UltimateMaxim)",
+    "battler_hue": 180,
+    "max_hp": 65,
+    "max_sp": 0,
+    "attack": 60,
+    "defense": 50,
+    "agility": 46,
+    "exp": 55,
+    "gold": 45,
+    "drop_id": 1,
+    "drop_prob": 20,
+    "critical_hit": true,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      1,
+      3
+    ],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 66,
+        "condition_type": 0,
+        "rating": 35
+      },
+      {
+        "id": 3,
+        "kind": 0,
+        "basic": 1,
+        "skill_id": 66,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Devil Rose",
+    "battler_name": "FF2Legeater(UltimateMaxim)",
+    "max_hp": 45,
+    "max_sp": 0,
+    "attack": 60,
+    "defense": 40,
+    "agility": 40,
+    "exp": 60,
+    "gold": 55,
+    "critical_hit": true,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      1,
+      4
+    ],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 1,
+        "skill_id": 66,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 67,
+        "condition_type": 0,
+        "rating": 49
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tree Spinner",
+    "battler_name": "Turantula",
+    "battler_hue": 180,
+    "max_hp": 40,
+    "max_sp": 13,
+    "attack": 90,
+    "defense": 45,
+    "spirit": 16,
+    "agility": 55,
+    "exp": 65,
+    "gold": 55,
+    "state_ranks": [],
+    "attribute_ranks_size": 6,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 68,
+        "condition_type": 0,
+        "rating": 45
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Cave Toad",
+    "battler_name": "FF2Gianttoad(UltimateMaxim)",
+    "battler_hue": 290,
+    "max_hp": 100,
+    "max_sp": 0,
+    "attack": 100,
+    "defense": 55,
+    "spirit": 45,
+    "agility": 45,
+    "exp": 95,
+    "drop_id": 2,
+    "drop_prob": 0,
+    "critical_hit": true,
+    "critical_hit_chance": 25,
+    "state_ranks_size": 8,
+    "state_ranks": [
+      2,
+      3,
+      3,
+      3,
+      2,
+      2,
+      3,
+      3
+    ],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 70,
+        "condition_type": 0,
+        "rating": 49
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 71,
+        "condition_type": 0,
+        "rating": 49
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Cave Runner",
+    "battler_name": "FF2Stunner(UltimateMaxim)",
+    "battler_hue": 180,
+    "max_hp": 55,
+    "max_sp": 0,
+    "attack": 80,
+    "defense": 40,
+    "spirit": 20,
+    "agility": 90,
+    "exp": 100,
+    "gold": 55,
+    "drop_id": 1,
+    "drop_prob": 20,
+    "critical_hit": true,
+    "critical_hit_chance": 27,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      1,
+      4
+    ],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 6,
+        "skill_id": 71,
+        "condition_type": 0,
+        "rating": 49
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 6,
+        "skill_id": 72,
+        "condition_type": 0,
+        "rating": 43
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Scum",
+    "battler_name": "muck",
+    "battler_hue": 290,
+    "max_hp": 40,
+    "max_sp": 0,
+    "attack": 1,
+    "defense": 55,
+    "spirit": 60,
+    "agility": 45,
+    "exp": 100,
+    "gold": 45,
+    "drop_prob": 50,
+    "state_ranks_size": 8,
+    "state_ranks": [
+      2,
+      4,
+      4,
+      4,
+      2,
+      2,
+      1,
+      4
+    ],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      4,
+      4,
+      2,
+      4,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 6,
+        "skill_id": 74,
+        "condition_type": 0,
+        "rating": 44
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 0,
+        "skill_id": 74,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Fire Demon",
+    "battler_name": "Pyros",
+    "battler_hue": 310,
+    "max_hp": 2000,
+    "max_sp": 135,
+    "attack": 130,
+    "defense": 55,
+    "spirit": 50,
+    "agility": 80,
+    "exp": 2500,
+    "gold": 650,
+    "drop_id": 10,
+    "state_ranks_size": 3,
+    "state_ranks": [
+      4,
+      4,
+      2
+    ],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      0,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0,
+        "rating": 55
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 101,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 102,
+        "condition_type": 0,
+        "rating": 44
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 36,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 21,
+        "condition_type": 0,
+        "rating": 43
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Cave Spider",
+    "battler_name": "Turantula",
+    "battler_hue": 110,
+    "max_hp": 150,
+    "max_sp": 0,
+    "attack": 65,
+    "defense": 70,
+    "spirit": 41,
+    "agility": 66,
+    "exp": 100,
+    "gold": 70,
+    "critical_hit": true,
+    "state_ranks_size": 8,
+    "state_ranks": [
+      2,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 78,
+        "condition_type": 0,
+        "rating": 49
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 68,
+        "condition_type": 0,
+        "rating": 49
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Goblin",
+    "battler_name": "FF2Goblin(UltimateMaxim)",
+    "battler_hue": 80,
+    "max_hp": 150,
+    "max_sp": 0,
+    "attack": 80,
+    "defense": 60,
+    "spirit": 18,
+    "agility": 50,
+    "exp": 100,
+    "gold": 100,
+    "critical_hit": true,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 1,
+        "skill_id": 79,
+        "condition_type": 0,
+        "rating": 49
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 80,
+        "condition_type": 0,
+        "rating": 42
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Wood Lurker",
+    "battler_name": "seatroll",
+    "battler_hue": 170,
+    "max_hp": 250,
+    "attack": 121,
+    "defense": 80,
+    "spirit": 13,
+    "agility": 65,
+    "exp": 225,
+    "gold": 100,
+    "critical_hit": true,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      1,
+      3,
+      3,
+      1,
+      1,
+      4,
+      1,
+      3,
+      2
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 1,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Dive Bomber",
+    "battler_name": "FF2Cokatrc(UltimateMaxim)",
+    "battler_hue": 180,
+    "max_hp": 145,
+    "max_sp": 0,
+    "attack": 95,
+    "defense": 59,
+    "agility": 69,
+    "exp": 115,
+    "gold": 90,
+    "critical_hit": true,
+    "levitate": true,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      2,
+      4,
+      4,
+      4,
+      1,
+      1,
+      1,
+      4,
+      4
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 84,
+        "condition_type": 0,
+        "rating": 45
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Viral Rat",
+    "battler_name": "FF2Stunner(UltimateMaxim)",
+    "battler_hue": 300,
+    "max_hp": 120,
+    "max_sp": 0,
+    "attack": 90,
+    "defense": 59,
+    "spirit": 25,
+    "agility": 56,
+    "exp": 165,
+    "gold": 80,
+    "drop_id": 5,
+    "drop_prob": 20,
+    "critical_hit": true,
+    "state_ranks_size": 3,
+    "state_ranks": [
+      3,
+      4,
+      2
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 83,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Jungle Dragon",
+    "battler_name": "FF2R.Dragon(UltimateMaxim)",
+    "battler_hue": 90,
+    "max_hp": 3500,
+    "max_sp": 3000,
+    "attack": 170,
+    "defense": 135,
+    "spirit": 75,
+    "agility": 125,
+    "exp": 4500,
+    "gold": 955,
+    "drop_id": 11,
+    "critical_hit": true,
+    "state_ranks_size": 8,
+    "state_ranks": [
+      4,
+      2,
+      4,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      4,
+      0,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 98,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 36,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 21,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Mr. It",
+    "battler_name": "MRIT",
+    "max_hp": 6000,
+    "max_sp": 2500,
+    "attack": 150,
+    "defense": 80,
+    "spirit": 155,
+    "agility": 170,
+    "exp": 3000,
+    "gold": 395,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0,
+        "rating": 51
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 105,
+        "condition_type": 0,
+        "rating": 53
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 104,
+        "condition_type": 0,
+        "rating": 54
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 101,
+        "condition_type": 0,
+        "rating": 55
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 102,
+        "condition_type": 0,
+        "rating": 56
+      },
+      {
+        "id": 6,
+        "kind": 2,
+        "basic": 0,
+        "enemy_id": 27,
+        "condition_type": 0,
+        "rating": 56
+      },
+      {
+        "id": 7,
+        "kind": 2,
+        "basic": 0,
+        "enemy_id": 28,
+        "condition_type": 0,
+        "rating": 56
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Viral Rat",
+    "battler_name": "FF2Stunner(UltimateMaxim)",
+    "battler_hue": 300,
+    "max_hp": 90,
+    "max_sp": 0,
+    "attack": 90,
+    "defense": 59,
+    "spirit": 25,
+    "agility": 56,
+    "exp": 200,
+    "drop_id": 7,
+    "drop_prob": 10,
+    "critical_hit": true,
+    "state_ranks_size": 3,
+    "state_ranks": [
+      3,
+      4,
+      2
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 83,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Dive Bomber",
+    "battler_name": "FF2Cokatrc(UltimateMaxim)",
+    "battler_hue": 180,
+    "max_hp": 90,
+    "max_sp": 0,
+    "attack": 95,
+    "defense": 59,
+    "agility": 69,
+    "exp": 198,
+    "critical_hit": true,
+    "levitate": true,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      2,
+      4,
+      4,
+      4,
+      1,
+      1,
+      1,
+      4,
+      4
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 84,
+        "condition_type": 0,
+        "rating": 45
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Wood Lurker",
+    "battler_name": "seatroll",
+    "battler_hue": 170,
+    "max_hp": 127,
+    "attack": 121,
+    "defense": 80,
+    "spirit": 13,
+    "agility": 65,
+    "exp": 500,
+    "gold": 100,
+    "critical_hit": true,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      1,
+      3,
+      3,
+      1,
+      1,
+      4,
+      1,
+      3,
+      2
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 1,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 85,
+        "condition_type": 0,
+        "rating": 40
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Pen",
+    "battler_name": "Troll",
+    "battler_hue": 180,
+    "max_hp": 1500,
+    "max_sp": 1000,
+    "attack": 110,
+    "defense": 90,
+    "spirit": 99,
+    "agility": 80,
+    "exp": 5000,
+    "gold": 1000,
+    "drop_id": 10,
+    "critical_hit": true,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      1,
+      4,
+      3
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 36,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 40,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 44,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 49,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 51,
+        "condition_type": 0
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 28,
+        "condition_type": 0
+      },
+      {
+        "id": 8,
+        "kind": 0,
+        "basic": 6,
+        "skill_id": 28,
+        "condition_type": 2,
+        "condition_param2": 6,
+        "rating": 100
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Evil Dead",
+    "battler_name": "FF2Deadhead(UltimateMaxim)",
+    "battler_hue": 100,
+    "max_hp": 6000,
+    "max_sp": 9999,
+    "attack": 145,
+    "defense": 999,
+    "spirit": 85,
+    "agility": 95,
+    "exp": 5000,
+    "gold": 1000,
+    "state_ranks_size": 1,
+    "state_ranks": [
+      4
+    ],
+    "attribute_ranks_size": 12,
+    "attribute_ranks": [
+      4,
+      4,
+      4,
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 6,
+        "skill_id": 86,
+        "condition_type": 0,
+        "condition_param2": 100,
+        "rating": 45
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 6,
+        "skill_id": 87,
+        "condition_type": 0,
+        "condition_param2": 100,
+        "rating": 45
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 6,
+        "skill_id": 36,
+        "condition_type": 0,
+        "condition_param2": 100,
+        "switch_id": 155,
+        "switch_on_id": 155
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 6,
+        "skill_id": 53,
+        "condition_type": 0,
+        "condition_param2": 100,
+        "switch_id": 155,
+        "switch_on_id": 155,
+        "rating": 45
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 105,
+        "condition_type": 0,
+        "condition_param2": 100,
+        "rating": 45
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 21,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 50,
+        "rating": 52
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 0,
+        "condition_param2": 100,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Mr. It (Demon)",
+    "battler_name": "IronGiant",
+    "max_hp": 6750,
+    "max_sp": 1000,
+    "attack": 135,
+    "defense": 145,
+    "spirit": 75,
+    "agility": 170,
+    "exp": 3000,
+    "drop_prob": 0,
+    "critical_hit": true,
+    "critical_hit_chance": 13,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      3,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      4
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0,
+        "rating": 65
+      },
+      {
+        "id": 2,
+        "kind": 2,
+        "basic": 0,
+        "skill_id": 102,
+        "enemy_id": 19,
+        "condition_type": 0,
+        "rating": 65
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 169,
+        "enemy_id": 19,
+        "condition_type": 0,
+        "rating": 66
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Mr. It (Hawk)",
+    "battler_name": "redsparrow",
+    "battler_hue": 20,
+    "max_hp": 5750,
+    "max_sp": 950,
+    "attack": 1,
+    "defense": 70,
+    "spirit": 75,
+    "agility": 210,
+    "exp": 3000,
+    "drop_id": 7,
+    "levitate": true,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      4,
+      0,
+      2,
+      1,
+      0,
+      4,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 36,
+        "condition_type": 0,
+        "rating": 57
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 40,
+        "condition_type": 0,
+        "rating": 57
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 44,
+        "condition_type": 0,
+        "rating": 57
+      },
+      {
+        "id": 4,
+        "kind": 2,
+        "basic": 0,
+        "enemy_id": 19,
+        "condition_type": 0,
+        "rating": 56
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 90,
+        "enemy_id": 19,
+        "condition_type": 0,
+        "rating": 56
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 92,
+        "enemy_id": 19,
+        "condition_type": 0,
+        "rating": 56
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Koven",
+    "battler_name": "KOVEN",
+    "max_hp": 2000,
+    "max_sp": 350,
+    "attack": 1,
+    "defense": 30,
+    "spirit": 1,
+    "agility": 50,
+    "exp": 2000,
+    "drop_id": 13,
+    "state_ranks_size": 8,
+    "state_ranks": [
+      4,
+      4,
+      4,
+      2,
+      4,
+      4,
+      4,
+      4
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 168,
+        "enemy_id": 28,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "max_hp": 4,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Change Jello",
+    "battler_name": "FF2Jelly(UltimateMaxim)",
+    "max_hp": 100,
+    "max_sp": 0,
+    "attack": 1,
+    "defense": 100,
+    "spirit": 1,
+    "agility": 50,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "attribute_ranks_size": 4,
+    "attribute_ranks": [
+      4,
+      4,
+      2,
+      4
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 2,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 2,
+        "basic": 0,
+        "enemy_id": 5,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 2,
+        "basic": 0,
+        "enemy_id": 9,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 2,
+        "basic": 0,
+        "enemy_id": 13,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 2,
+        "basic": 0,
+        "enemy_id": 23,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 2,
+        "basic": 0,
+        "enemy_id": 27,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Ruin Runner",
+    "battler_name": "FF2Stunner(UltimateMaxim)",
+    "battler_hue": 30,
+    "max_hp": 150,
+    "max_sp": 0,
+    "attack": 80,
+    "defense": 79,
+    "spirit": 60,
+    "agility": 72,
+    "exp": 300,
+    "critical_hit": true,
+    "critical_hit_chance": 28,
+    "state_ranks_size": 5,
+    "state_ranks": [
+      2,
+      4,
+      2,
+      2,
+      2
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 88,
+        "condition_type": 0,
+        "rating": 44
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Lost One",
+    "battler_name": "ghost",
+    "max_hp": 180,
+    "max_sp": 250,
+    "attack": 70,
+    "defense": 55,
+    "spirit": 60,
+    "agility": 40,
+    "transparent": true,
+    "exp": 450,
+    "gold": 250,
+    "drop_id": 2,
+    "drop_prob": 25,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      4,
+      4,
+      4,
+      3,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "attribute_ranks_size": 11,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "skill_id": 49,
+        "condition_type": 0,
+        "rating": 65
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 51,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 52,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Rubble Lord",
+    "battler_name": "FF2Woodgolem(UltimateMaxim)",
+    "max_hp": 4000,
+    "max_sp": 999,
+    "attack": 200,
+    "defense": 200,
+    "spirit": 999,
+    "agility": 150,
+    "exp": 1200,
+    "gold": 200,
+    "critical_hit": true,
+    "state_ranks_size": 1,
+    "state_ranks": [
+      2
+    ],
+    "attribute_ranks_size": 6,
+    "attribute_ranks": [
+      3,
+      3,
+      3,
+      3,
+      1,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 122,
+        "condition_type": 0,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Bone Knight",
+    "battler_name": "Skeleton",
+    "max_hp": 340,
+    "max_sp": 0,
+    "attack": 150,
+    "defense": 89,
+    "spirit": 1,
+    "agility": 70,
+    "exp": 300,
+    "gold": 100,
+    "critical_hit": true,
+    "state_ranks_size": 8,
+    "state_ranks": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      1,
+      4,
+      4
+    ],
+    "attribute_ranks_size": 11,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 1,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 0,
+        "basic": 4,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Cave Hopper",
+    "battler_name": "FF2Gianttoad(UltimateMaxim)",
+    "battler_hue": 180,
+    "max_hp": 340,
+    "max_sp": 0,
+    "attack": 140,
+    "defense": 70,
+    "spirit": 27,
+    "agility": 45,
+    "exp": 500,
+    "critical_hit": true,
+    "state_ranks_size": 8,
+    "state_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      2,
+      2
+    ],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 93,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Orge",
+    "battler_name": "FF2Ogrethug(UltimateMaxim)",
+    "battler_hue": 330,
+    "max_hp": 500,
+    "max_sp": 0,
+    "attack": 200,
+    "defense": 104,
+    "agility": 95,
+    "exp": 320,
+    "gold": 30,
+    "critical_hit": true,
+    "critical_hit_chance": 17,
+    "state_ranks_size": 5,
+    "state_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 1,
+        "skill_id": 93,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 94,
+        "condition_type": 0,
+        "rating": 43
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Cave Lord",
+    "battler_name": "FF2Woodgolem(UltimateMaxim)",
+    "battler_hue": 180,
+    "max_hp": 750,
+    "max_sp": 0,
+    "attack": 195,
+    "defense": 100,
+    "agility": 67,
+    "exp": 1045,
+    "critical_hit": true,
+    "state_ranks_size": 1,
+    "state_ranks": [
+      3
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Armoured Beast",
+    "battler_name": "Barbetta",
+    "max_hp": 2750,
+    "max_sp": 60,
+    "attack": 156,
+    "defense": 170,
+    "spirit": 32,
+    "agility": 90,
+    "exp": 1090,
+    "gold": 175,
+    "drop_prob": 10,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 32,
+        "condition_type": 0,
+        "rating": 45
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Steel Lord",
+    "battler_name": "Giant Rudra",
+    "battler_hue": 180,
+    "max_hp": 5000,
+    "max_sp": 1500,
+    "attack": 345,
+    "defense": 250,
+    "spirit": 55,
+    "agility": 115,
+    "exp": 6000,
+    "drop_id": 58,
+    "drop_prob": 5,
+    "critical_hit": true,
+    "state_ranks_size": 8,
+    "state_ranks": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      2,
+      4
+    ],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      3,
+      3,
+      3,
+      3,
+      0,
+      4,
+      0,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 95,
+        "condition_type": 2,
+        "condition_param2": 4,
+        "rating": 100
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 96,
+        "condition_type": 0,
+        "condition_param2": 100,
+        "rating": 40
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 13,
+        "condition_type": 0,
+        "condition_param2": 100
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Crevice Slime",
+    "battler_name": "Deep Eyes",
+    "max_hp": 300,
+    "max_sp": 400,
+    "attack": 135,
+    "defense": 100,
+    "spirit": 1,
+    "agility": 100,
+    "exp": 300,
+    "gold": 50,
+    "drop_prob": 25,
+    "critical_hit": true,
+    "state_ranks": [],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      4
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 74,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 87,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Mud Native",
+    "battler_name": "Troll",
+    "battler_hue": 70,
+    "max_hp": 450,
+    "max_sp": 200,
+    "attack": 250,
+    "defense": 100,
+    "spirit": 260,
+    "agility": 280,
+    "exp": 450,
+    "gold": 75,
+    "critical_hit": true,
+    "state_ranks_size": 5,
+    "state_ranks": [
+      3,
+      3,
+      2,
+      3,
+      2
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 82,
+        "condition_type": 0,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Mud Worm",
+    "battler_name": "Worm",
+    "battler_hue": 250,
+    "max_hp": 1500,
+    "max_sp": 175,
+    "attack": 270,
+    "defense": 50,
+    "spirit": 1,
+    "agility": 85,
+    "exp": 1000,
+    "gold": 100,
+    "drop_id": 3,
+    "drop_prob": 5,
+    "critical_hit": true,
+    "state_ranks_size": 8,
+    "state_ranks": [
+      2,
+      2,
+      3,
+      2,
+      2,
+      4,
+      4,
+      3
+    ],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      4
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 100,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 83,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 106,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Water Creature",
+    "battler_name": "Sahagin Prince",
+    "battler_hue": 40,
+    "max_hp": 850,
+    "max_sp": 900,
+    "attack": 150,
+    "defense": 110,
+    "spirit": 102,
+    "agility": 170,
+    "exp": 600,
+    "gold": 15,
+    "drop_id": 5,
+    "drop_prob": 70,
+    "critical_hit": true,
+    "state_ranks_size": 8,
+    "state_ranks": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4
+    ],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      4,
+      3,
+      0,
+      4
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 100,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 81,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Gorge Serpent",
+    "battler_name": "midgard-serp",
+    "battler_hue": 10,
+    "max_hp": 10000,
+    "max_sp": 3000,
+    "attack": 200,
+    "defense": 185,
+    "spirit": 90,
+    "agility": 185,
+    "exp": 7000,
+    "gold": 7500,
+    "drop_id": 116,
+    "state_ranks": [],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      4,
+      3,
+      0,
+      4,
+      4,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 103,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 170,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 110,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 81,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 0,
+        "condition_param2": 100,
+        "rating": 48
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 46
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Swamp Rat",
+    "battler_name": "FF2Stunner(UltimateMaxim)",
+    "battler_hue": 240,
+    "max_hp": 350,
+    "max_sp": 50,
+    "attack": 135,
+    "defense": 85,
+    "agility": 65,
+    "exp": 350,
+    "gold": 75,
+    "critical_hit": true,
+    "state_ranks_size": 5,
+    "state_ranks": [
+      3,
+      3,
+      2,
+      3,
+      2
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 88,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 90,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Bog Skeleton",
+    "battler_name": "Skeleton",
+    "battler_hue": 60,
+    "max_hp": 500,
+    "max_sp": 0,
+    "attack": 145,
+    "defense": 102,
+    "spirit": 1,
+    "agility": 77,
+    "exp": 425,
+    "gold": 25,
+    "drop_id": 1,
+    "drop_prob": 40,
+    "critical_hit": true,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      3,
+      4
+    ],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 1,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Swamp Hopper",
+    "battler_name": "FF2Gianttoad(UltimateMaxim)",
+    "battler_hue": 80,
+    "max_hp": 400,
+    "attack": 160,
+    "defense": 79,
+    "spirit": 55,
+    "agility": 91,
+    "exp": 345,
+    "gold": 10,
+    "critical_hit": true,
+    "state_ranks_size": 8,
+    "state_ranks": [
+      2,
+      2,
+      3,
+      2,
+      2,
+      4,
+      4,
+      3
+    ],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      4
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 70,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 100,
+        "condition_type": 0,
+        "rating": 45
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Fire Spawn",
+    "battler_name": "Pyros",
+    "max_hp": 450,
+    "max_sp": 300,
+    "attack": 100,
+    "defense": 105,
+    "spirit": 111,
+    "agility": 135,
+    "exp": 525,
+    "gold": 25,
+    "drop_id": 11,
+    "drop_prob": 5,
+    "critical_hit": true,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      3,
+      3,
+      2,
+      3,
+      3,
+      3,
+      2,
+      3,
+      2
+    ],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      4,
+      0,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0,
+        "rating": 53
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 36,
+        "condition_type": 0,
+        "rating": 55
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Red Drake",
+    "battler_name": "Red Dragon",
+    "max_hp": 550,
+    "max_sp": 550,
+    "attack": 1,
+    "defense": 65,
+    "spirit": 56,
+    "agility": 140,
+    "exp": 600,
+    "gold": 15,
+    "drop_id": 11,
+    "drop_prob": 10,
+    "critical_hit": true,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      1,
+      1,
+      4,
+      4
+    ],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      4,
+      0,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 134,
+        "condition_type": 0,
+        "rating": 52
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 0,
+        "skill_id": 134,
+        "condition_type": 0,
+        "rating": 51
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 124,
+        "condition_type": 0,
+        "rating": 52
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 125,
+        "condition_type": 0,
+        "rating": 52
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Barney",
+    "battler_name": "Barney",
+    "max_hp": 11000,
+    "max_sp": 1000,
+    "attack": 100,
+    "defense": 200,
+    "spirit": 5,
+    "agility": 200,
+    "exp": 4100,
+    "state_ranks": [],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      4,
+      1,
+      2,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 36,
+        "condition_type": 0,
+        "rating": 49
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 38,
+        "condition_type": 0,
+        "rating": 35
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 49,
+        "condition_type": 0,
+        "rating": 45
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 69,
+        "condition_type": 0,
+        "rating": 47
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Power Guardian",
+    "battler_name": "Kendra",
+    "battler_hue": 180,
+    "max_hp": 5000,
+    "max_sp": 8000,
+    "attack": 1,
+    "defense": 160,
+    "spirit": 100,
+    "agility": 250,
+    "exp": 1000,
+    "drop_id": 7,
+    "drop_prob": 50,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "attribute_ranks_size": 11,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 36,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 40,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 44,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 105,
+        "condition_type": 0,
+        "rating": 49
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 154,
+        "condition_type": 0,
+        "rating": 51
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 0,
+        "condition_param2": 100,
+        "rating": 48
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 101,
+        "condition_type": 0
+      },
+      {
+        "id": 8,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 35,
+        "rating": 52
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Demon",
+    "battler_name": "Enemy-FatDemon",
+    "battler_hue": 10,
+    "max_hp": 1200,
+    "max_sp": 220,
+    "attack": 115,
+    "defense": 120,
+    "spirit": 65,
+    "agility": 175,
+    "exp": 625,
+    "gold": 25,
+    "critical_hit": true,
+    "state_ranks_size": 8,
+    "state_ranks": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      1,
+      2,
+      2,
+      2,
+      4,
+      1,
+      2,
+      0,
+      1,
+      2,
+      0,
+      4,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 104,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 36,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 124,
+        "condition_type": 0,
+        "rating": 45
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Titanium Lord",
+    "battler_name": "Giant Rudra",
+    "battler_hue": 60,
+    "max_hp": 8000,
+    "max_sp": 300,
+    "attack": 345,
+    "defense": 300,
+    "agility": 140,
+    "exp": 6000,
+    "gold": 200,
+    "state_ranks": [],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      3,
+      3,
+      3,
+      3,
+      0,
+      3,
+      0,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 81,
+        "condition_type": 0,
+        "condition_param2": 100
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 96,
+        "condition_type": 0,
+        "condition_param2": 100
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 95,
+        "condition_type": 0,
+        "condition_param2": 100
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 107,
+        "condition_type": 0,
+        "condition_param2": 100
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 32,
+        "condition_type": 0,
+        "condition_param2": 100
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Sand Worm",
+    "battler_name": "Sea Naga",
+    "max_hp": 160,
+    "max_sp": 0,
+    "attack": 115,
+    "defense": 95,
+    "spirit": 60,
+    "agility": 95,
+    "exp": 370,
+    "drop_prob": 0,
+    "critical_hit": true,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      0,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 1,
+        "skill_id": 107,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 0,
+        "basic": 4,
+        "skill_id": 107,
+        "condition_type": 0,
+        "rating": 49
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Mage Worm",
+    "battler_name": "Sea Naga",
+    "battler_hue": 300,
+    "max_hp": 325,
+    "max_sp": 650,
+    "attack": 40,
+    "defense": 75,
+    "spirit": 100,
+    "agility": 70,
+    "exp": 500,
+    "gold": 150,
+    "drop_prob": 0,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      0,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "skill_id": 122,
+        "condition_type": 0,
+        "rating": 45
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 100,
+        "condition_type": 0,
+        "rating": 45
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 104,
+        "condition_type": 0,
+        "rating": 45
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 112,
+        "condition_type": 0,
+        "rating": 45
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Queen Worm",
+    "battler_name": "FF2Lamia(UltimateMaxim)",
+    "battler_hue": 60,
+    "max_hp": 460,
+    "max_sp": 1000,
+    "attack": 140,
+    "defense": 95,
+    "spirit": 70,
+    "agility": 121,
+    "exp": 700,
+    "drop_prob": 0,
+    "critical_hit": true,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      4,
+      0,
+      3,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "skill_id": 53,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 30,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 4,
+        "skill_id": 49,
+        "condition_type": 0,
+        "rating": 35
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Ice Bird",
+    "battler_name": "gargoyle",
+    "max_hp": 800,
+    "max_sp": 200,
+    "attack": 135,
+    "defense": 100,
+    "spirit": 35,
+    "agility": 150,
+    "exp": 350,
+    "gold": 10,
+    "levitate": true,
+    "state_ranks": [],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      4,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 40,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 84,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Yeti",
+    "battler_name": "bigfoot",
+    "max_hp": 5000,
+    "max_sp": 300,
+    "attack": 200,
+    "defense": 180,
+    "agility": 115,
+    "exp": 600,
+    "state_ranks": [],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      4,
+      3,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 80,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 40,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 134,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 122,
+        "condition_type": 0,
+        "condition_param2": 100,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Snow Warrior",
+    "battler_name": "Statue",
+    "max_hp": 750,
+    "max_sp": 0,
+    "attack": 250,
+    "defense": 190,
+    "spirit": 1,
+    "agility": 175,
+    "exp": 250,
+    "gold": 3,
+    "levitate": true,
+    "state_ranks": [],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      4,
+      3,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 0,
+        "basic": 1,
+        "skill_id": 40,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 40,
+        "condition_type": 0,
+        "condition_param2": 100
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Wolf",
+    "battler_name": "fenrir",
+    "max_hp": 1000,
+    "max_sp": 100,
+    "attack": 185,
+    "defense": 110,
+    "agility": 175,
+    "exp": 400,
+    "gold": 15,
+    "state_ranks": [],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      4,
+      3,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 41,
+        "condition_type": 0,
+        "rating": 43
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 1,
+        "skill_id": 40,
+        "condition_type": 0,
+        "rating": 47
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Squall Dragon",
+    "battler_name": "Crystal Dragon2",
+    "battler_hue": 310,
+    "max_hp": 22500,
+    "max_sp": 9999,
+    "attack": 400,
+    "defense": 300,
+    "spirit": 160,
+    "agility": 325,
+    "exp": 7500,
+    "gold": 12500,
+    "drop_id": 89,
+    "critical_hit": true,
+    "critical_hit_chance": 25,
+    "levitate": true,
+    "state_ranks_size": 10,
+    "state_ranks": [
+      1,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      4,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 40,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 41,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 44,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 45,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 102,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 103,
+        "condition_type": 0
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 50,
+        "rating": 51
+      },
+      {
+        "id": 8,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 20,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Soul Stealer",
+    "battler_name": "FF2Stunner(UltimateMaxim)",
+    "battler_hue": 100,
+    "max_hp": 1500,
+    "max_sp": 700,
+    "attack": 225,
+    "defense": 95,
+    "spirit": 175,
+    "agility": 200,
+    "exp": 1000,
+    "gold": 45,
+    "state_ranks": [],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 83,
+        "condition_type": 0,
+        "rating": 47
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 88,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 97,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 103,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 5,
+        "kind": 0,
+        "basic": 0,
+        "skill_id": 83,
+        "condition_type": 0,
+        "rating": 51
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Shadow",
+    "battler_name": "shadow",
+    "max_hp": 2000,
+    "max_sp": 999,
+    "attack": 175,
+    "defense": 115,
+    "spirit": 270,
+    "agility": 175,
+    "exp": 1200,
+    "state_ranks": [],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      4,
+      4,
+      4,
+      4,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      4
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 104,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 87,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 74,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 101,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Sorrow Leech",
+    "battler_name": "PlantwithoutPipin",
+    "max_hp": 7000,
+    "max_sp": 9000,
+    "attack": 250,
+    "defense": 350,
+    "spirit": 180,
+    "agility": 145,
+    "exp": 3000,
+    "gold": 400,
+    "drop_id": 116,
+    "drop_prob": 40,
+    "state_ranks": [],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      1,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 48,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 49,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 51,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 52,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 45,
+        "condition_type": 0,
+        "rating": 55
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 114,
+        "condition_type": 0
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 113,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Restless Soul",
+    "battler_name": "spirit",
+    "max_hp": 6500,
+    "max_sp": 9999,
+    "attack": 270,
+    "defense": 75,
+    "agility": 100,
+    "exp": 3500,
+    "gold": 100,
+    "miss": true,
+    "levitate": true,
+    "state_ranks": [],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 115,
+        "condition_type": 0,
+        "rating": 55
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 122,
+        "condition_type": 0,
+        "rating": 55
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 129,
+        "condition_type": 0,
+        "rating": 55
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Devastator",
+    "battler_name": "RuinsGuard",
+    "max_hp": 32500,
+    "max_sp": 9999,
+    "attack": 390,
+    "defense": 700,
+    "agility": 250,
+    "exp": 12000,
+    "gold": 30000,
+    "drop_id": 92,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      0,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 105,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 169,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 54,
+        "condition_type": 0,
+        "rating": 45
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 80,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 165,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 60
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 50,
+        "rating": 51
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Hunter",
+    "battler_name": "FF2Hellgigas(UltimateMaxim)",
+    "battler_hue": 40,
+    "max_hp": 6000,
+    "max_sp": 999,
+    "attack": 275,
+    "defense": 450,
+    "spirit": 150,
+    "agility": 100,
+    "exp": 3000,
+    "gold": 450,
+    "critical_hit": true,
+    "critical_hit_chance": 15,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 131,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 134,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 129,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 122,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Cave-Man",
+    "battler_name": "ogre",
+    "max_hp": 6750,
+    "max_sp": 1000,
+    "attack": 300,
+    "defense": 300,
+    "agility": 95,
+    "exp": 4000,
+    "gold": 10,
+    "critical_hit": true,
+    "critical_hit_chance": 10,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 97,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 85,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 80,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Dark Keebler",
+    "battler_name": "treant",
+    "battler_hue": 10,
+    "max_hp": 3000,
+    "max_sp": 999,
+    "attack": 175,
+    "defense": 300,
+    "agility": 155,
+    "exp": 1500,
+    "gold": 100,
+    "state_ranks": [],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      1,
+      3,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 97,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 112,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 114,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 113,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 69,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Venom Beast",
+    "battler_name": "behemoth",
+    "battler_hue": 100,
+    "max_hp": 35000,
+    "max_sp": 9999,
+    "attack": 650,
+    "defense": 500,
+    "spirit": 999,
+    "agility": 450,
+    "exp": 20000,
+    "gold": 35000,
+    "drop_id": 96,
+    "critical_hit": true,
+    "critical_hit_chance": 25,
+    "state_ranks_size": 9,
+    "state_ranks": [
+      4,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      1,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 92,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 112,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 114,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 130,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 15,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 41,
+        "condition_type": 0
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 65
+      },
+      {
+        "id": 8,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 50,
+        "rating": 52
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Mud Monster",
+    "battler_name": "Sahagin Prince",
+    "battler_hue": 180,
+    "max_hp": 1,
+    "max_sp": 100,
+    "attack": 500,
+    "defense": 1,
+    "spirit": 1,
+    "agility": 600,
+    "exp": 1000,
+    "gold": 100,
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "skill_id": 41,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Bridge Troll",
+    "battler_name": "FF2Goblin(UltimateMaxim)",
+    "battler_hue": 300,
+    "max_hp": 10000,
+    "max_sp": 9999,
+    "attack": 350,
+    "defense": 250,
+    "spirit": 999,
+    "agility": 325,
+    "exp": 5000,
+    "gold": 2000,
+    "state_ranks": [],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 110,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 119,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 16,
+        "condition_type": 0,
+        "rating": 45
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 37,
+        "condition_type": 0,
+        "rating": 47
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 41,
+        "condition_type": 0,
+        "rating": 47
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Cave Troll",
+    "battler_name": "FF2Goblin(UltimateMaxim)",
+    "battler_hue": 210,
+    "max_hp": 6000,
+    "max_sp": 9999,
+    "attack": 350,
+    "defense": 150,
+    "spirit": 999,
+    "agility": 325,
+    "exp": 5000,
+    "gold": 2000,
+    "state_ranks": [],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 110,
+        "condition_type": 0,
+        "rating": 49
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 119,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 37,
+        "condition_type": 0,
+        "rating": 46
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 41,
+        "condition_type": 0,
+        "rating": 46
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Mini-Mi",
+    "battler_name": "MINI-MI",
+    "max_hp": 22500,
+    "max_sp": 9999,
+    "attack": 700,
+    "defense": 200,
+    "spirit": 250,
+    "agility": 700,
+    "exp": 10000,
+    "gold": 1000,
+    "drop_id": 99,
+    "critical_hit": true,
+    "critical_hit_chance": 10,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      2,
+      3
+    ],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 97,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 105,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 110,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 120,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 130,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 37,
+        "condition_type": 0
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 45,
+        "condition_type": 0
+      },
+      {
+        "id": 8,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 65
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Dream Breaker",
+    "battler_name": "FF2Stunner(UltimateMaxim)",
+    "battler_hue": 140,
+    "max_hp": 2500,
+    "max_sp": 1200,
+    "attack": 300,
+    "defense": 120,
+    "spirit": 200,
+    "agility": 250,
+    "exp": 2000,
+    "gold": 100,
+    "state_ranks": [],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "skill_id": 103,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 88,
+        "condition_type": 0,
+        "rating": 43
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 90,
+        "condition_type": 0,
+        "rating": 45
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 103,
+        "condition_type": 0,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Death Wizard",
+    "battler_name": "lich",
+    "battler_hue": 280,
+    "max_hp": 8000,
+    "max_sp": 9999,
+    "attack": 350,
+    "defense": 300,
+    "agility": 120,
+    "exp": 6000,
+    "gold": 5,
+    "state_ranks": [],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 41,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 45,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 37,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 53,
+        "condition_type": 0,
+        "rating": 46
+      },
+      {
+        "id": 5,
+        "kind": 0,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Noose Spinner",
+    "battler_name": "Turantula",
+    "max_hp": 4000,
+    "max_sp": 9999,
+    "attack": 400,
+    "defense": 151,
+    "agility": 300,
+    "exp": 3500,
+    "gold": 250,
+    "state_ranks": [],
+    "attribute_ranks_size": 6,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 112,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 114,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 131,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Sewer Rat",
+    "battler_name": "FF2Stunner(UltimateMaxim)",
+    "battler_hue": 60,
+    "max_hp": 3000,
+    "max_sp": 1200,
+    "attack": 300,
+    "defense": 120,
+    "spirit": 200,
+    "agility": 250,
+    "exp": 2500,
+    "gold": 100,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      1,
+      4
+    ],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 103,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 75,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 90,
+        "condition_type": 0,
+        "rating": 45
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 107,
+        "condition_type": 0,
+        "rating": 46
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Sewage",
+    "battler_name": "FF2Jelly(UltimateMaxim)",
+    "battler_hue": 70,
+    "max_hp": 7500,
+    "max_sp": 100,
+    "attack": 100,
+    "defense": 400,
+    "agility": 100,
+    "exp": 2000,
+    "gold": 140,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      2,
+      4
+    ],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 106,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 107,
+        "condition_type": 0,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Sewer Worm",
+    "battler_name": "Worm",
+    "battler_hue": 80,
+    "max_hp": 9000,
+    "max_sp": 9999,
+    "attack": 300,
+    "defense": 400,
+    "agility": 200,
+    "exp": 3500,
+    "gold": 100,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      3,
+      4
+    ],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 93,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 100,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 106,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 116,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 107,
+        "condition_type": 0,
+        "rating": 47
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Doom",
+    "battler_name": "doom",
+    "battler_hue": 250,
+    "max_hp": 60000,
+    "max_sp": 9999,
+    "attack": 700,
+    "defense": 600,
+    "spirit": 999,
+    "agility": 460,
+    "exp": 35000,
+    "gold": 35000,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      3
+    ],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 130,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 135,
+        "condition_type": 0,
+        "rating": 40
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 38,
+        "condition_type": 0,
+        "rating": 46
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 23,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 52
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 42,
+        "condition_type": 0,
+        "rating": 46
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 46,
+        "condition_type": 0,
+        "rating": 46
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 102,
+        "condition_type": 0
+      },
+      {
+        "id": 8,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 70
+      },
+      {
+        "id": 9,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 23,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 5,
+        "rating": 60
+      },
+      {
+        "id": 10,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Special Forces",
+    "battler_name": "spforces",
+    "battler_hue": 80,
+    "max_hp": 6000,
+    "max_sp": 999,
+    "attack": 500,
+    "defense": 400,
+    "spirit": 999,
+    "agility": 350,
+    "exp": 2000,
+    "gold": 400,
+    "drop_id": 3,
+    "drop_prob": 25,
+    "critical_hit": true,
+    "critical_hit_chance": 15,
+    "state_ranks": [],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 19,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Black Demon",
+    "battler_name": "graydemon01",
+    "max_hp": 40000,
+    "max_sp": 9999,
+    "attack": 600,
+    "defense": 500,
+    "spirit": 999,
+    "agility": 350,
+    "exp": 30000,
+    "gold": 7500,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      3
+    ],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 130,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 23,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 122,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 108,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 176,
+        "condition_type": 0
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 70
+      },
+      {
+        "id": 8,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Death",
+    "battler_name": "Neo Exdeath",
+    "battler_hue": 320,
+    "max_hp": 60000,
+    "max_sp": 9999,
+    "attack": 500,
+    "defense": 500,
+    "spirit": 999,
+    "agility": 450,
+    "exp": 40000,
+    "gold": 7500,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      3
+    ],
+    "attribute_ranks_size": 6,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 23,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 109,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 112,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 115,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 120,
+        "condition_type": 0,
+        "rating": 43
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 176,
+        "condition_type": 0
+      },
+      {
+        "id": 8,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 70
+      },
+      {
+        "id": 9,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Odin",
+    "battler_name": "odin",
+    "battler_hue": 80,
+    "max_hp": 40000,
+    "max_sp": 9999,
+    "attack": 750,
+    "defense": 400,
+    "spirit": 999,
+    "agility": 600,
+    "exp": 35000,
+    "gold": 7500,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      3
+    ],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 128,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 23,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 130,
+        "condition_type": 0,
+        "rating": 47
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 148,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 149,
+        "condition_type": 0
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 176,
+        "condition_type": 0
+      },
+      {
+        "id": 8,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 70
+      },
+      {
+        "id": 9,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Horror",
+    "battler_name": "atmaweapon",
+    "max_hp": 60000,
+    "max_sp": 9999,
+    "attack": 650,
+    "defense": 400,
+    "spirit": 999,
+    "agility": 550,
+    "exp": 40000,
+    "gold": 7500,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      3
+    ],
+    "attribute_ranks_size": 6,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 109,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 116,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 23,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 130,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 118,
+        "condition_type": 0
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 176,
+        "condition_type": 0
+      },
+      {
+        "id": 8,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 48
+      },
+      {
+        "id": 9,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 70
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Leviathan",
+    "battler_name": "leviathan",
+    "battler_hue": 180,
+    "max_hp": 50000,
+    "max_sp": 9999,
+    "attack": 500,
+    "defense": 500,
+    "spirit": 999,
+    "agility": 500,
+    "exp": 40000,
+    "gold": 7500,
+    "levitate": true,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      3
+    ],
+    "attribute_ranks_size": 6,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 130,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 125,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 109,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 86,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 176,
+        "condition_type": 0
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 48
+      },
+      {
+        "id": 8,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 23,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30
+      },
+      {
+        "id": 9,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 70
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Colossus",
+    "battler_name": "Boss_GuardianGaist_05",
+    "max_hp": 60000,
+    "max_sp": 9999,
+    "attack": 600,
+    "defense": 600,
+    "spirit": 999,
+    "agility": 500,
+    "exp": 40000,
+    "gold": 7500,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      3
+    ],
+    "attribute_ranks_size": 8,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      0,
+      1,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 37,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 38,
+        "condition_type": 0,
+        "rating": 49
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 50,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 124,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 172,
+        "condition_type": 0,
+        "rating": 49
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 70
+      },
+      {
+        "id": 8,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 23,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Mini Tank",
+    "battler_name": "Lord_Devil_Demon (34)",
+    "max_hp": 6000,
+    "max_sp": 2000,
+    "attack": 400,
+    "defense": 350,
+    "spirit": 500,
+    "agility": 450,
+    "exp": 5000,
+    "gold": 100,
+    "drop_id": 8,
+    "drop_prob": 45,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 159,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 158,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 165,
+        "condition_type": 0,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Slash Bot",
+    "battler_name": "dueller",
+    "max_hp": 7000,
+    "max_sp": 1500,
+    "attack": 650,
+    "defense": 300,
+    "spirit": 500,
+    "agility": 600,
+    "exp": 7000,
+    "gold": 100,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 169,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 177,
+        "condition_type": 0,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Mega Tank",
+    "battler_name": "Lord_Devil_Demon (69)",
+    "max_hp": 10000,
+    "max_sp": 4000,
+    "attack": 500,
+    "defense": 500,
+    "spirit": 500,
+    "agility": 200,
+    "exp": 10000,
+    "gold": 250,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 178,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 165,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 161,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 160,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Plasma Cruiser",
+    "battler_name": "Lord_Devil_Demon (21)",
+    "max_hp": 12500,
+    "max_sp": 9999,
+    "attack": 600,
+    "defense": 600,
+    "spirit": 499,
+    "agility": 550,
+    "exp": 12000,
+    "gold": 500,
+    "drop_id": 11,
+    "drop_prob": 20,
+    "levitate": true,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 181,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 178,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 177,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Linear Cannon",
+    "battler_name": "lethalwpn",
+    "max_hp": 10000,
+    "max_sp": 2000,
+    "attack": 399,
+    "defense": 400,
+    "spirit": 500,
+    "agility": 150,
+    "exp": 10000,
+    "gold": 500,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks_size": 5,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 177,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 179,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Homing Bomb",
+    "battler_name": "bit",
+    "max_hp": 9999,
+    "max_sp": 0,
+    "attack": 1,
+    "defense": 999,
+    "spirit": 1,
+    "agility": 1,
+    "exp": 10000,
+    "gold": 100,
+    "levitate": true,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks": [],
+    "actions": []
+  },
+  {
+    "id": 114,
+    "name": "Bio Weapon",
+    "battler_name": "inferno",
+    "max_hp": 75000,
+    "max_sp": 9999,
+    "attack": 450,
+    "defense": 600,
+    "spirit": 999,
+    "agility": 500,
+    "exp": 60000,
+    "gold": 500,
+    "critical_hit": true,
+    "critical_hit_chance": 25,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      0,
+      2,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 180,
+        "condition_type": 0
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 178,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 177,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 176,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 174,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 22,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 35,
+        "rating": 53
+      },
+      {
+        "id": 8,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 70
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "--------------------",
+    "state_ranks": [],
+    "attribute_ranks": [],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Mini-Mi",
+    "battler_name": "MINI-MI",
+    "max_hp": 30000,
+    "max_sp": 9999,
+    "attack": 650,
+    "defense": 350,
+    "spirit": 250,
+    "agility": 700,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 182,
+        "condition_type": 0,
+        "rating": 46
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 120,
+        "condition_type": 0,
+        "rating": 47
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Mr. It",
+    "battler_name": "MRIT",
+    "max_hp": 42500,
+    "max_sp": 9999,
+    "attack": 400,
+    "defense": 500,
+    "spirit": 999,
+    "agility": 300,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 130,
+        "condition_type": 0,
+        "rating": 46
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 102,
+        "condition_type": 0
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 104,
+        "condition_type": 0
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 105,
+        "condition_type": 0,
+        "rating": 48
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Mr. Evil",
+    "battler_name": "MREVIL",
+    "max_hp": 45000,
+    "max_sp": 9999,
+    "attack": 650,
+    "defense": 400,
+    "spirit": 999,
+    "agility": 450,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks_size": 7,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 173,
+        "condition_type": 0,
+        "rating": 47
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 137,
+        "condition_type": 0,
+        "rating": 45
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 169,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 128,
+        "condition_type": 0
+      },
+      {
+        "id": 6,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 129,
+        "condition_type": 0,
+        "rating": 49
+      },
+      {
+        "id": 7,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 24,
+        "condition_type": 3,
+        "condition_param1": 4,
+        "condition_param2": 6,
+        "rating": 42
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Repair Man",
+    "battler_name": "REPAIRMAN",
+    "max_hp": 40000,
+    "max_sp": 9999,
+    "attack": 300,
+    "defense": 300,
+    "spirit": 95,
+    "agility": 460,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      0,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 176,
+        "condition_type": 0,
+        "rating": 49
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 174,
+        "condition_type": 0,
+        "rating": 47
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 184,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 185,
+        "condition_type": 0,
+        "rating": 44
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Koven",
+    "battler_name": "KOVEN",
+    "max_hp": 30000,
+    "max_sp": 9999,
+    "attack": 500,
+    "defense": 350,
+    "spirit": 15,
+    "agility": 400,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks_size": 18,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 183,
+        "condition_type": 0,
+        "rating": 46
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 176,
+        "condition_type": 0,
+        "rating": 48
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 136,
+        "condition_type": 0,
+        "rating": 46
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Serious Man",
+    "battler_name": "SERIOUSMAN",
+    "max_hp": 42500,
+    "max_sp": 9999,
+    "attack": 700,
+    "defense": 550,
+    "spirit": 999,
+    "agility": 500,
+    "state_ranks_size": 2,
+    "state_ranks": [
+      4,
+      4
+    ],
+    "attribute_ranks_size": 6,
+    "attribute_ranks": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1
+    ],
+    "actions": [
+      {
+        "id": 1,
+        "kind": 0,
+        "basic": 0,
+        "skill_id": 4,
+        "condition_type": 0
+      },
+      {
+        "id": 2,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 175,
+        "condition_type": 0,
+        "rating": 43
+      },
+      {
+        "id": 3,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 172,
+        "condition_type": 0,
+        "rating": 47
+      },
+      {
+        "id": 4,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 138,
+        "condition_type": 0,
+        "rating": 43
+      },
+      {
+        "id": 5,
+        "kind": 1,
+        "basic": 0,
+        "skill_id": 25,
+        "condition_type": 4,
+        "condition_param1": 1,
+        "condition_param2": 30,
+        "rating": 70
+      }
+    ]
+  }
+]

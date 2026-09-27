@@ -1,0 +1,2059 @@
+{
+  "chipset_id": 36,
+  "scroll_type": 0,
+  "parallax_flag": true,
+  "parallax_name": "space",
+  "parallax_loop_y": true,
+  "parallax_auto_loop_y": true,
+  "parallax_sy": 8,
+  "top_level": true,
+  "generator_height": 2,
+  "generator_x": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_y": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_tile_ids": [
+    49,
+    49,
+    49,
+    49,
+    49,
+    49,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007
+  ],
+  "lower_layer": [
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5000,
+    5001,
+    5002,
+    5003,
+    5004,
+    5005,
+    5096,
+    5097,
+    5098,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5006,
+    5007,
+    5008,
+    5009,
+    5010,
+    5011,
+    5102,
+    5103,
+    5104,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5012,
+    5013,
+    5014,
+    5015,
+    5016,
+    5017,
+    5108,
+    5109,
+    5110,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5018,
+    5019,
+    5020,
+    5021,
+    5022,
+    5023,
+    5114,
+    5115,
+    5116,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5024,
+    5025,
+    5026,
+    5027,
+    5028,
+    5029,
+    5120,
+    5121,
+    5122,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5030,
+    5031,
+    5032,
+    5033,
+    5034,
+    5035,
+    5126,
+    5127,
+    5128,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5036,
+    5037,
+    5038,
+    5039,
+    5040,
+    5041,
+    5132,
+    5133,
+    5134,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5042,
+    5043,
+    5044,
+    5045,
+    5046,
+    5047,
+    5138,
+    5139,
+    5140,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5048,
+    5049,
+    5050,
+    5051,
+    5052,
+    5053,
+    5099,
+    5100,
+    5101,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5054,
+    5055,
+    5056,
+    5057,
+    5058,
+    5059,
+    5105,
+    5106,
+    5107,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5060,
+    5061,
+    5062,
+    5063,
+    5064,
+    5065,
+    5111,
+    5112,
+    5113,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5066,
+    5067,
+    5068,
+    5069,
+    5070,
+    5071,
+    5117,
+    5118,
+    5119,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5072,
+    5073,
+    5074,
+    5075,
+    5076,
+    5077,
+    5123,
+    5124,
+    5125,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5078,
+    5079,
+    5080,
+    5081,
+    5082,
+    5083,
+    5129,
+    5130,
+    5131,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5084,
+    5085,
+    5086,
+    5087,
+    5088,
+    5089,
+    5135,
+    5136,
+    5137,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143,
+    5143
+  ],
+  "upper_layer": [
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10090,
+    10091,
+    10092,
+    10093,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10097,
+    10097,
+    10097,
+    10098,
+    10099,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10084,
+    10085,
+    10086,
+    10086,
+    10086,
+    10086,
+    10048,
+    10048,
+    10049,
+    10050,
+    10051,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10006,
+    10007,
+    10008,
+    10009,
+    10009,
+    10009,
+    10054,
+    10054,
+    10055,
+    10056,
+    10057,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10012,
+    10013,
+    10014,
+    10015,
+    10015,
+    10015,
+    10060,
+    10060,
+    10061,
+    10062,
+    10063,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10018,
+    10019,
+    10020,
+    10021,
+    10021,
+    10021,
+    10066,
+    10066,
+    10067,
+    10068,
+    10069,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10024,
+    10025,
+    10026,
+    10027,
+    10027,
+    10027,
+    10072,
+    10072,
+    10073,
+    10074,
+    10075,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10030,
+    10031,
+    10032,
+    10033,
+    10033,
+    10033,
+    10000,
+    10000,
+    10000,
+    10000,
+    10011,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10010,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10017,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10016,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10023,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10022,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10029,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10028,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10029,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10028,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "EV0001",
+      "x": 8,
+      "y": 9,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Teh BOOMBOX",
+      "x": 10,
+      "y": 7,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects2",
+          "character_index": 2,
+          "character_direction": 3,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_speed": 1,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "EV0003",
+      "x": 8,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "other_fg2",
+          "character_index": 7,
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 129,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Target: WOOHOO! This is just plain ",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 40,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "awesome! Hey, Element, turn on Fuel",
+              "parameters": []
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 81,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "by Metallica. Junior has the boom box.",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "EV0004",
+      "x": 10,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "char1",
+          "character_index": 4,
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 78,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Dan: I don't think we'll ever make it",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 42,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "the way he's acting.\\..\\..",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "EV0005",
+      "x": 10,
+      "y": 8,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "fg2",
+          "character_index": 2,
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 43,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Target wants Metallica on? No way!",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "EV0006",
+      "x": 9,
+      "y": 11,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                295,
+                9,
+                20,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "EV0007",
+      "x": 10,
+      "y": 9,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "EV0008",
+      "x": 10,
+      "y": 6,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "EV0009",
+      "x": 8,
+      "y": 6,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "backup",
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 2,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 1698,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Junior: I got some pretty good music ",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 42,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "here.\\..\\.. Do you want anything special",
+              "parameters": []
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 88,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "on?",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 97,
+              "code": 10140,
+              "name": "ShowChoice",
+              "indent": 0,
+              "string": "Yes/No",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 109,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 0,
+              "string": "Yes",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 119,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 1,
+              "string": "Junior: Which song?",
+              "parameters": []
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 143,
+              "code": 10140,
+              "name": "ShowChoice",
+              "indent": 1,
+              "string": "Fuel (Metallica)/Headstrong (Trapt)/Mission Impossible/More...",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 211,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "Fuel (Metallica)",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 234,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 2,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 248,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 255,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 2,
+              "string": "switch2",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 270,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 12,
+              "byte_offset_in_command_stream": 277,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 2,
+              "string": "Junior's Boombox - Metallica - Fuel",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 13,
+              "byte_offset_in_command_stream": 321,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 14,
+              "byte_offset_in_command_stream": 325,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "Headstrong (Trapt)",
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "index": 15,
+              "byte_offset_in_command_stream": 350,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 2,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 16,
+              "byte_offset_in_command_stream": 364,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 17,
+              "byte_offset_in_command_stream": 371,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 2,
+              "string": "switch2",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 18,
+              "byte_offset_in_command_stream": 386,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 19,
+              "byte_offset_in_command_stream": 393,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 2,
+              "string": "Junior's Boombox - Trapt - Headstrong",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 20,
+              "byte_offset_in_command_stream": 439,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 21,
+              "byte_offset_in_command_stream": 443,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "Mission Impossible",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 22,
+              "byte_offset_in_command_stream": 468,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 2,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 23,
+              "byte_offset_in_command_stream": 482,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 24,
+              "byte_offset_in_command_stream": 489,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 2,
+              "string": "switch2",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 25,
+              "byte_offset_in_command_stream": 504,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 26,
+              "byte_offset_in_command_stream": 511,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 2,
+              "string": "Junior's Boombox - U2 - Mission Impossible Theme",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 27,
+              "byte_offset_in_command_stream": 568,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 28,
+              "byte_offset_in_command_stream": 572,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "More...",
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "index": 29,
+              "byte_offset_in_command_stream": 586,
+              "code": 10140,
+              "name": "ShowChoice",
+              "indent": 2,
+              "string": "Funny Guy RPG Theme/The Night Santa Went Crazy/Don't Stay (Linkin Park)/More...",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 30,
+              "byte_offset_in_command_stream": 671,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 2,
+              "string": "Funny Guy RPG Theme",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 31,
+              "byte_offset_in_command_stream": 697,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 3,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 32,
+              "byte_offset_in_command_stream": 711,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 3,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 33,
+              "byte_offset_in_command_stream": 718,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 3,
+              "string": "switch2",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 34,
+              "byte_offset_in_command_stream": 733,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 3,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 35,
+              "byte_offset_in_command_stream": 740,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 3,
+              "string": "airborne",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 36,
+              "byte_offset_in_command_stream": 757,
+              "code": 10,
+              "name": "END",
+              "indent": 3,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 37,
+              "byte_offset_in_command_stream": 761,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 2,
+              "string": "The Night Santa Went Crazy",
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "index": 38,
+              "byte_offset_in_command_stream": 794,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 3,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 39,
+              "byte_offset_in_command_stream": 808,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 3,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 40,
+              "byte_offset_in_command_stream": 815,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 3,
+              "string": "switch2",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 41,
+              "byte_offset_in_command_stream": 830,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 3,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 42,
+              "byte_offset_in_command_stream": 837,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 3,
+              "string": "Junior's Boombox - Weird Al - The Night Santa Went Crazy",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 43,
+              "byte_offset_in_command_stream": 902,
+              "code": 10,
+              "name": "END",
+              "indent": 3,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 44,
+              "byte_offset_in_command_stream": 906,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 2,
+              "string": "Don't Stay (Linkin Park)",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 45,
+              "byte_offset_in_command_stream": 937,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 3,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 46,
+              "byte_offset_in_command_stream": 951,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 3,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 47,
+              "byte_offset_in_command_stream": 958,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 3,
+              "string": "switch2",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 48,
+              "byte_offset_in_command_stream": 973,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 3,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 49,
+              "byte_offset_in_command_stream": 980,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 3,
+              "string": "Junior's Boombox - Linkin Park - Don't Stay",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 50,
+              "byte_offset_in_command_stream": 1032,
+              "code": 10,
+              "name": "END",
+              "indent": 3,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 51,
+              "byte_offset_in_command_stream": 1036,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 2,
+              "string": "More...",
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "index": 52,
+              "byte_offset_in_command_stream": 1050,
+              "code": 10140,
+              "name": "ShowChoice",
+              "indent": 3,
+              "string": "Trogdor/We Will Rock You (Queen)/Mario Brothers/You Might Be A Redneck If...",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 53,
+              "byte_offset_in_command_stream": 1132,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 3,
+              "string": "Trogdor",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 54,
+              "byte_offset_in_command_stream": 1146,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 4,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 55,
+              "byte_offset_in_command_stream": 1160,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 4,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 56,
+              "byte_offset_in_command_stream": 1167,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 4,
+              "string": "switch2",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 57,
+              "byte_offset_in_command_stream": 1182,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 4,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 58,
+              "byte_offset_in_command_stream": 1189,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 4,
+              "string": "Junior's Boombox - Homestar Runner - TROGDOR!",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 59,
+              "byte_offset_in_command_stream": 1243,
+              "code": 10,
+              "name": "END",
+              "indent": 4,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 60,
+              "byte_offset_in_command_stream": 1247,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 3,
+              "string": "We Will Rock You (Queen)",
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "index": 61,
+              "byte_offset_in_command_stream": 1278,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 4,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 62,
+              "byte_offset_in_command_stream": 1292,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 4,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 63,
+              "byte_offset_in_command_stream": 1299,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 4,
+              "string": "switch2",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 64,
+              "byte_offset_in_command_stream": 1314,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 4,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 65,
+              "byte_offset_in_command_stream": 1321,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 4,
+              "string": "Junior's Boombox - Queen - We Will Rock You",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 66,
+              "byte_offset_in_command_stream": 1373,
+              "code": 10,
+              "name": "END",
+              "indent": 4,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 67,
+              "byte_offset_in_command_stream": 1377,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 3,
+              "string": "Mario Brothers",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 68,
+              "byte_offset_in_command_stream": 1398,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 4,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 69,
+              "byte_offset_in_command_stream": 1412,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 4,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 70,
+              "byte_offset_in_command_stream": 1419,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 4,
+              "string": "switch2",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 71,
+              "byte_offset_in_command_stream": 1434,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 4,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 72,
+              "byte_offset_in_command_stream": 1441,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 4,
+              "string": "Junior's Boombox - Nintendo - Mario Brothers Techno ReMiX",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 73,
+              "byte_offset_in_command_stream": 1507,
+              "code": 10,
+              "name": "END",
+              "indent": 4,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 74,
+              "byte_offset_in_command_stream": 1511,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 3,
+              "string": "You Might Be A Redneck If...",
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "index": 75,
+              "byte_offset_in_command_stream": 1546,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 4,
+              "string": "(OFF)",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 76,
+              "byte_offset_in_command_stream": 1560,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 4,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 77,
+              "byte_offset_in_command_stream": 1567,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 4,
+              "string": "switch2",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 78,
+              "byte_offset_in_command_stream": 1582,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 4,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 79,
+              "byte_offset_in_command_stream": 1589,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 4,
+              "string": "Junior's Boombox - Jeff Foxworthy - Redneck",
+              "parameters": [
+                0,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 80,
+              "byte_offset_in_command_stream": 1641,
+              "code": 10,
+              "name": "END",
+              "indent": 4,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 81,
+              "byte_offset_in_command_stream": 1645,
+              "code": 20141,
+              "name": "ShowChoiceEnd",
+              "indent": 3,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 82,
+              "byte_offset_in_command_stream": 1651,
+              "code": 10,
+              "name": "END",
+              "indent": 3,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 83,
+              "byte_offset_in_command_stream": 1655,
+              "code": 20141,
+              "name": "ShowChoiceEnd",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 84,
+              "byte_offset_in_command_stream": 1661,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 85,
+              "byte_offset_in_command_stream": 1665,
+              "code": 20141,
+              "name": "ShowChoiceEnd",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 86,
+              "byte_offset_in_command_stream": 1671,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 87,
+              "byte_offset_in_command_stream": 1675,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 0,
+              "string": "No",
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "index": 88,
+              "byte_offset_in_command_stream": 1684,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 89,
+              "byte_offset_in_command_stream": 1688,
+              "code": 20141,
+              "name": "ShowChoiceEnd",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "save_count": 32,
+  "id": 294,
+  "name": "The Spaceship",
+  "source": "Map0294.lmu"
+}

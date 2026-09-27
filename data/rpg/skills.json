@@ -1,0 +1,11173 @@
+[
+  {
+    "id": 1,
+    "name": "X Slash",
+    "description": "Double Slash Action (Sword Skill Lvl 1)",
+    "type": 0,
+    "sp_cost": 15,
+    "scope": 0,
+    "animation_id": 3,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 2,
+    "magical_rate": 0,
+    "power": 125,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 1,
+    "attribute_effects": [
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1,
+        "pose": 23
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Shockwave Cleaver",
+    "description": "Cleaves enemy in two.",
+    "type": 0,
+    "sp_cost": 150,
+    "scope": 0,
+    "animation_id": 4,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 2,
+    "magical_rate": 0,
+    "power": 3250,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 1,
+    "attribute_effects": [
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1,
+        "pose": 23
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Heaven/Hell",
+    "description": "Jump Slash+Thrust (Sword Skill Lvl 3)",
+    "type": 0,
+    "sp_cost": 40,
+    "scope": 0,
+    "animation_id": 5,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 2,
+    "magical_rate": 0,
+    "power": 800,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 1,
+    "attribute_effects": [
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1,
+        "pose": 23
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Violent Assault",
+    "description": "Sharp's special sword skill.",
+    "type": 0,
+    "sp_cost": 130,
+    "scope": 0,
+    "animation_id": 6,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 2,
+    "magical_rate": 0,
+    "power": 3000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 1,
+    "attribute_effects": [
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1,
+        "pose": 23
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Shock Wave Cleave",
+    "description": "Devistating Sword Blow (Sword Skill Lvl 5)",
+    "type": 0,
+    "sp_cost": 80,
+    "scope": 0,
+    "animation_id": 7,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 2,
+    "magical_rate": 0,
+    "power": 2000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 1,
+    "attribute_effects": [
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1,
+        "pose": 23
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "--------------------",
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Beacon",
+    "description": "Sword healing skill that requires little MP.",
+    "type": 0,
+    "sp_cost": 10,
+    "scope": 2,
+    "animation_id": 183,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 750,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Charge",
+    "description": "Inflicts Power upon user.",
+    "type": 0,
+    "sp_cost": 25,
+    "scope": 2,
+    "animation_id": 39,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "reverse_state_effect": true,
+    "magical_rate": 2,
+    "state_effects_size": 14,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Honour Shield",
+    "description": "Holy Defence (Paladin Skill Lvl 3)",
+    "type": 0,
+    "sp_cost": 80,
+    "scope": 2,
+    "animation_id": 14,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "reverse_state_effect": true,
+    "magical_rate": 2,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "War Cry",
+    "description": "Solian Goes Breserk (Paladin Skill Lvl 4)",
+    "type": 0,
+    "sp_cost": 60,
+    "scope": 2,
+    "animation_id": 15,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "reverse_state_effect": true,
+    "magical_rate": 2,
+    "state_effects_size": 5,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "--------------------",
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Bomb",
+    "description": "Explosive attack.",
+    "type": 0,
+    "sp_cost": 15,
+    "scope": 0,
+    "animation_id": 18,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 300,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 1,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2,
+        "movement": 1,
+        "after_image": 1
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Pillars",
+    "description": "3 explosive pillars attack the enemy.",
+    "type": 0,
+    "sp_cost": 45,
+    "scope": 0,
+    "animation_id": 19,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 500,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 1,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2,
+        "movement": 1
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Bomblet",
+    "description": "Attacks all enemies.",
+    "type": 0,
+    "sp_cost": 75,
+    "scope": 1,
+    "animation_id": 20,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 500,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 1,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2,
+        "movement": 1
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Cross Cutter",
+    "description": "Beams of heat cut the enemy.",
+    "type": 0,
+    "sp_cost": 80,
+    "scope": 0,
+    "animation_id": 21,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 1000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 1,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2,
+        "movement": 1
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Nova",
+    "description": "Smashes all enemies.",
+    "type": 0,
+    "sp_cost": 100,
+    "scope": 1,
+    "animation_id": 22,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 1000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 1,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2,
+        "movement": 1
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Nuke",
+    "description": "Extreme damage to all enemies.",
+    "type": 0,
+    "sp_type": 1,
+    "sp_percent": 50,
+    "scope": 1,
+    "animation_id": 24,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 3000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 1,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2,
+        "movement": 1
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Supernova",
+    "description": "Unreal explosive attack that affects one foe.",
+    "type": 0,
+    "sp_cost": 200,
+    "scope": 0,
+    "animation_id": 228,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 5600,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Axe Slash",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 25,
+    "scope": 0,
+    "animation_id": 96,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 600,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 1,
+    "attribute_effects": [
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "--------------------",
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Heal",
+    "description": "Restore 100 HP.",
+    "type": 0,
+    "sp_cost": 20,
+    "scope": 3,
+    "animation_id": 29,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "variance": 3,
+    "power": 300,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Soothe",
+    "description": "Restore 500 HP.",
+    "type": 0,
+    "sp_cost": 30,
+    "scope": 3,
+    "animation_id": 30,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "variance": 3,
+    "power": 750,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Refresh",
+    "description": "Restore 1500 HP.",
+    "type": 0,
+    "sp_cost": 50,
+    "scope": 3,
+    "animation_id": 31,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "variance": 3,
+    "power": 2000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Healing Breeze",
+    "description": "Restore 800 HP to all allies.",
+    "type": 0,
+    "sp_cost": 45,
+    "scope": 4,
+    "animation_id": 32,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "variance": 3,
+    "power": 800,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Purify",
+    "description": "Restore status.",
+    "type": 0,
+    "sp_cost": 25,
+    "scope": 3,
+    "animation_id": 33,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 1,
+    "variance": 3,
+    "state_effects_size": 9,
+    "state_effects": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Angel Kiss",
+    "description": "Revive from K.O. Status with some HP.",
+    "type": 0,
+    "sp_cost": 35,
+    "scope": 3,
+    "animation_id": 34,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 1,
+    "variance": 3,
+    "power": 100,
+    "affect_hp": true,
+    "state_effects_size": 1,
+    "state_effects": [
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Angel Tear",
+    "description": "Revive from K.O. Status with 9000 HP.",
+    "type": 0,
+    "sp_cost": 60,
+    "scope": 3,
+    "animation_id": 35,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "variance": 3,
+    "power": 9000,
+    "affect_hp": true,
+    "state_effects_size": 1,
+    "state_effects": [
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Agility",
+    "description": "Increases Agility.",
+    "type": 0,
+    "sp_cost": 65,
+    "scope": 3,
+    "animation_id": 36,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "reverse_state_effect": true,
+    "magical_rate": 2,
+    "variance": 3,
+    "state_effects_size": 12,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Holy Refuge",
+    "description": "Heals ALL of party's MP.",
+    "type": 0,
+    "scope": 4,
+    "animation_id": 102,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 9999,
+    "affect_sp": true,
+    "state_effects_size": 9,
+    "state_effects": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Regenerate",
+    "description": "Gain 5% HP each turn.",
+    "type": 0,
+    "sp_cost": 30,
+    "scope": 3,
+    "animation_id": 30,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "reverse_state_effect": true,
+    "state_effects_size": 11,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Barrier",
+    "description": "Defense up.",
+    "type": 0,
+    "sp_cost": 30,
+    "scope": 3,
+    "animation_id": 40,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "reverse_state_effect": true,
+    "magical_rate": 2,
+    "variance": 3,
+    "state_effects_size": 13,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Divine Judgment",
+    "description": "Blasts all foes with holy force. Uses little MP.",
+    "type": 0,
+    "sp_cost": 100,
+    "scope": 1,
+    "animation_id": 42,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "variance": 3,
+    "power": 2500,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 11,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "--------------------",
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Flame",
+    "description": "Level 1 Fire Magic.",
+    "type": 0,
+    "sp_cost": 20,
+    "scope": 0,
+    "animation_id": 44,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 250,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 5,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Blaze",
+    "description": "Level 2 Fire Magic.",
+    "type": 0,
+    "sp_cost": 35,
+    "scope": 0,
+    "animation_id": 45,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 600,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 5,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Inferno",
+    "description": "Level 3 Fire Magic.",
+    "type": 0,
+    "sp_cost": 60,
+    "scope": 0,
+    "animation_id": 46,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 1000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 5,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Fire Brand",
+    "description": "Level 4 Fire Magic.",
+    "type": 0,
+    "sp_cost": 80,
+    "scope": 1,
+    "animation_id": 62,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 1750,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 5,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Frost",
+    "description": "Level 1 Ice Magic.",
+    "type": 0,
+    "sp_cost": 20,
+    "scope": 0,
+    "animation_id": 47,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 250,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 6,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Freezing Rain",
+    "description": "Level 2 Ice Magic.",
+    "type": 0,
+    "sp_cost": 35,
+    "scope": 0,
+    "animation_id": 48,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 600,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 6,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Ice Storm",
+    "description": "Level 3 Ice Magic",
+    "type": 0,
+    "sp_cost": 60,
+    "scope": 0,
+    "animation_id": 49,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 1000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 6,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Ice Smash",
+    "description": "Level 4 Ice Magic",
+    "type": 0,
+    "sp_cost": 80,
+    "scope": 1,
+    "animation_id": 63,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 1750,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 6,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Jolt",
+    "description": "Level 1 Thunder Magic",
+    "type": 0,
+    "sp_cost": 20,
+    "scope": 0,
+    "animation_id": 50,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 250,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 7,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Lightning Smash",
+    "description": "Level 2 Thunder Magic",
+    "type": 0,
+    "sp_cost": 35,
+    "scope": 0,
+    "animation_id": 51,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 600,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 7,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Thunder Clap",
+    "description": "Level 3 Thunder Magic",
+    "type": 0,
+    "sp_cost": 60,
+    "scope": 0,
+    "animation_id": 52,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 1000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 7,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Storm",
+    "description": "Level 4 Thunder Magic",
+    "type": 0,
+    "sp_cost": 80,
+    "scope": 1,
+    "animation_id": 64,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 1750,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 7,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Poison",
+    "description": "Poison an Enemy",
+    "type": 0,
+    "sp_cost": 10,
+    "scope": 0,
+    "animation_id": 53,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 100,
+    "hit": 80,
+    "affect_hp": true,
+    "state_effects_size": 2,
+    "state_effects": [
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Slumber",
+    "description": "Put an Enemy to sleep",
+    "type": 0,
+    "sp_cost": 15,
+    "scope": 0,
+    "animation_id": 54,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "hit": 80,
+    "state_effects_size": 7,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Smoke",
+    "description": "Blind an Enemy",
+    "type": 0,
+    "sp_cost": 15,
+    "scope": 0,
+    "animation_id": 55,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "hit": 80,
+    "state_effects_size": 3,
+    "state_effects": [
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Seal",
+    "description": "Seal an Enemy",
+    "type": 0,
+    "sp_cost": 25,
+    "scope": 0,
+    "animation_id": 56,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "hit": 80,
+    "state_effects_size": 4,
+    "state_effects": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Disable",
+    "description": "Stun an Enemy",
+    "type": 0,
+    "sp_cost": 25,
+    "scope": 0,
+    "animation_id": 57,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "hit": 80,
+    "state_effects_size": 8,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Fatalize",
+    "description": "Kill an enemy.",
+    "type": 0,
+    "sp_type": 1,
+    "sp_percent": 25,
+    "sp_cost": 30,
+    "scope": 0,
+    "animation_id": 58,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "hit": 85,
+    "state_effects_size": 1,
+    "state_effects": [
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Meteor",
+    "description": "Summon a meteor.",
+    "type": 0,
+    "sp_cost": 80,
+    "scope": 0,
+    "animation_id": 59,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 1500,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 9,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Meteor Swarm",
+    "description": "Summon a hail of meteors.",
+    "type": 0,
+    "sp_type": 1,
+    "sp_percent": 60,
+    "scope": 1,
+    "animation_id": 60,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 3500,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 9,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "--Engraged--",
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "$A Solian's Rage",
+    "description": "Solian's Speical Skill",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 99,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 10,
+    "magical_rate": 0,
+    "variance": 10,
+    "power": 300,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 1,
+    "attribute_effects": [
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1,
+        "pose": 23
+      },
+      {
+        "id": 2,
+        "pose": 21
+      },
+      {
+        "id": 3,
+        "movement": 3,
+        "pose": 31
+      },
+      {
+        "id": 4,
+        "pose": 31
+      },
+      {
+        "id": 5,
+        "pose": 31
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "$W Mega Cross",
+    "description": "Raven's Speical Skill",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 100,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 10,
+    "variance": 10,
+    "power": 300,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 1,
+    "battler_animation_data": [
+      {
+        "id": 1,
+        "pose": 18
+      },
+      {
+        "id": 2,
+        "pose": 18
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "$R Chaos Rain",
+    "description": "Vane's Speical Skill",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 101,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 10,
+    "variance": 10,
+    "power": 300,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 11,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 3,
+        "pose": 18
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "$R Prayer",
+    "description": "Pray for Minor Healing",
+    "type": 0,
+    "sp_cost": 10,
+    "scope": 3,
+    "animation_id": 29,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 100,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 4,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "$R Psalm",
+    "description": "Pray for Purification",
+    "type": 0,
+    "sp_cost": 10,
+    "scope": 3,
+    "animation_id": 33,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "state_effects_size": 9,
+    "state_effects": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 4,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "$R Passage",
+    "description": "Pray for Revival",
+    "type": 0,
+    "sp_cost": 25,
+    "scope": 3,
+    "animation_id": 34,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 150,
+    "affect_hp": true,
+    "state_effects_size": 1,
+    "state_effects": [
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 4,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "$R Beseach",
+    "description": "Pray for Healing on All",
+    "type": 0,
+    "sp_cost": 30,
+    "scope": 4,
+    "animation_id": 32,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 250,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 4,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "--Enemy---",
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Poison Breath",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 53,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 1,
+    "magical_rate": 0,
+    "power": 20,
+    "hit": 80,
+    "affect_hp": true,
+    "state_effects_size": 2,
+    "state_effects": [
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Vine Whip",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 110,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 1,
+    "magical_rate": 0,
+    "power": 50,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Web",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 111,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 1,
+    "power": 10,
+    "hit": 80,
+    "affect_agility": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Dark Side",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 30,
+    "scope": 0,
+    "animation_id": 112,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "hit": 75,
+    "state_effects_size": 4,
+    "state_effects": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "attribute_effects_size": 12,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Tounge Slap",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 113,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 2,
+    "magical_rate": 0,
+    "power": 50,
+    "hit": 50,
+    "affect_hp": true,
+    "state_effects_size": 8,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Croak",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 114,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 1,
+    "hit": 75,
+    "state_effects_size": 6,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Rat Bite",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 115,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 1,
+    "magical_rate": 0,
+    "hit": 70,
+    "state_effects_size": 2,
+    "state_effects": [
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Sludge",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 116,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 35,
+    "hit": 85,
+    "affect_hp": true,
+    "state_effects_size": 2,
+    "state_effects": [
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Acid",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 117,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 1,
+    "power": 100,
+    "affect_hp": true,
+    "ignore_defense": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Bite",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 118,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 1,
+    "magical_rate": 0,
+    "power": 100,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Breath",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 119,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 1,
+    "magical_rate": 0,
+    "hit": 74,
+    "state_effects_size": 8,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Cave In",
+    "description": "Rocks fall from the 'bove.",
+    "type": 0,
+    "sp_cost": 40,
+    "scope": 1,
+    "animation_id": 120,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 1,
+    "magical_rate": 0,
+    "power": 530,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 9,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Spider Bite",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 118,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 1,
+    "magical_rate": 0,
+    "power": 50,
+    "hit": 78,
+    "affect_hp": true,
+    "state_effects_size": 8,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Zombie Chomp",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 115,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 1,
+    "magical_rate": 0,
+    "power": 10,
+    "hit": 80,
+    "affect_hp": true,
+    "state_effects_size": 9,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Club Smash",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 121,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 2,
+    "magical_rate": 0,
+    "power": 100,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Bear Claws",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 122,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 100,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Mixture",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 2,
+    "animation_id": 123,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 100,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Viral Bite",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 115,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 2,
+    "magical_rate": 0,
+    "power": 70,
+    "hit": 80,
+    "affect_hp": true,
+    "state_effects_size": 9,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Dive Bomb",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 124,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 50,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Skull Crush",
+    "description": "Crushes opponent's skull.",
+    "type": 0,
+    "sp_cost": 80,
+    "scope": 0,
+    "animation_id": 125,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 1200,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Cursed Fixation",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 70,
+    "scope": 0,
+    "animation_id": 126,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "hit": 75,
+    "state_effects_size": 3,
+    "state_effects": [
+      0,
+      1,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Evil Eye",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 70,
+    "scope": 0,
+    "animation_id": 127,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 2,
+    "power": 120,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Terror Bite",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 129,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 1,
+    "magical_rate": 0,
+    "power": 80,
+    "hit": 85,
+    "affect_hp": true,
+    "state_effects_size": 8,
+    "state_effects": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Blade Swarm",
+    "description": "Furious sword attack.",
+    "type": 0,
+    "sp_cost": 75,
+    "scope": 1,
+    "animation_id": 130,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 1,
+    "magical_rate": 0,
+    "power": 1050,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 1,
+    "attribute_effects": [
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Viral Claw",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 131,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 2,
+    "magical_rate": 0,
+    "power": 100,
+    "hit": 65,
+    "affect_hp": true,
+    "state_effects_size": 9,
+    "state_effects": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Energy Bomb",
+    "description": "Enemy",
+    "type": 0,
+    "sp_type": 1,
+    "sp_percent": 50,
+    "sp_cost": 21,
+    "scope": 1,
+    "animation_id": 132,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "variance": 3,
+    "power": 300,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 11,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Glorious Claws",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 133,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 300,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 11,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Poison Tounge",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 113,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 2,
+    "magical_rate": 0,
+    "power": 120,
+    "hit": 70,
+    "affect_hp": true,
+    "state_effects_size": 2,
+    "state_effects": [
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "K.O. Fist",
+    "description": "May kill an enemy.",
+    "type": 0,
+    "sp_cost": 100,
+    "scope": 0,
+    "animation_id": 134,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 350,
+    "hit": 90,
+    "affect_hp": true,
+    "state_effects_size": 1,
+    "state_effects": [
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Mag Power",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 25,
+    "scope": 2,
+    "animation_id": 135,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "reverse_state_effect": true,
+    "magical_rate": 1,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Magnesium Fist",
+    "description": "An explosive punch.",
+    "type": 0,
+    "sp_cost": 20,
+    "scope": 0,
+    "animation_id": 136,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 375,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 4,
+    "battler_animation_data": [
+      {
+        "id": 1,
+        "pose": 1
+      },
+      {
+        "id": 2,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Claw Slice",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 137,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 2,
+    "magical_rate": 0,
+    "power": 190,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Searing Breath",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 20,
+    "scope": 0,
+    "animation_id": 138,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 1,
+    "power": 210,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 5,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Murasame",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 139,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 500,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 1,
+    "attribute_effects": [
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Bubble Breath",
+    "description": "A spray of bubbles that inflicts stun.",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 140,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 450,
+    "hit": 90,
+    "affect_hp": true,
+    "state_effects_size": 8,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects_size": 8,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Torture",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 30,
+    "scope": 0,
+    "animation_id": 141,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 150,
+    "hit": 70,
+    "affect_hp": true,
+    "state_effects_size": 8,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects_size": 12,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Bloody Fingers",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 142,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 100,
+    "affect_hp": true,
+    "absorb_damage": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Quadra Claw",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 143,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 168,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Hell Fire",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 30,
+    "scope": 1,
+    "animation_id": 144,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 1,
+    "power": 110,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 5,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Crimson Devil Wind",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 100,
+    "scope": 0,
+    "animation_id": 145,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 500,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 10,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Toxic Barf",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 146,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 450,
+    "hit": 85,
+    "affect_hp": true,
+    "state_effects_size": 2,
+    "state_effects": [
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Sludge Bomb",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 147,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 750,
+    "hit": 80,
+    "affect_hp": true,
+    "state_effects_size": 8,
+    "state_effects": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Masa Claws",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 10,
+    "scope": 0,
+    "animation_id": 148,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 350,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Masa Breath",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 149,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 800,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Rage",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 50,
+    "scope": 1,
+    "animation_id": 150,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 200,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 6,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Infatuation",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 20,
+    "scope": 0,
+    "animation_id": 151,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "hit": 75,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Thieft of Life",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 36,
+    "scope": 0,
+    "animation_id": 152,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 150,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Drain",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 152,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 300,
+    "affect_hp": true,
+    "absorb_damage": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Infection",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 142,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "hit": 73,
+    "state_effects_size": 4,
+    "state_effects": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Death Blow",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 153,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "hit": 70,
+    "state_effects_size": 1,
+    "state_effects": [
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Digest",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 10,
+    "scope": 0,
+    "animation_id": 117,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 300,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Tounge",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 113,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 50,
+    "hit": 75,
+    "affect_hp": true,
+    "state_effects_size": 8,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Poison Bite",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 115,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 130,
+    "hit": 75,
+    "affect_hp": true,
+    "state_effects_size": 2,
+    "state_effects": [
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Vamp",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 118,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 100,
+    "affect_hp": true,
+    "absorb_damage": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Rancid Breath",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 1,
+    "animation_id": 154,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "hit": 70,
+    "state_effects_size": 7,
+    "state_effects": [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Gaze",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 155,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "hit": 75,
+    "state_effects_size": 8,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "name": "5 Hits",
+    "description": "An attack out of rage.",
+    "type": 0,
+    "sp_cost": 30,
+    "scope": 0,
+    "animation_id": 156,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 350,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Ink",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 157,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "hit": 89,
+    "state_effects_size": 3,
+    "state_effects": [
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Brand",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 45,
+    "scope": 0,
+    "animation_id": 158,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 375,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 5,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "affect_attr_defence": true,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Fire Breath",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 40,
+    "scope": 0,
+    "animation_id": 159,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 485,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 5,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Fissure",
+    "description": "Rocks slice at the enemy.",
+    "type": 0,
+    "sp_cost": 65,
+    "scope": 0,
+    "animation_id": 160,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 1000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Sword Bearer",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 9,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "variance": 2,
+    "power": 9999,
+    "hit": 60,
+    "affect_hp": true,
+    "ignore_defense": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Viral Slash",
+    "description": "A poisonous slash.",
+    "type": 0,
+    "sp_cost": 25,
+    "scope": 0,
+    "animation_id": 161,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 500,
+    "hit": 85,
+    "affect_hp": true,
+    "state_effects_size": 2,
+    "state_effects": [
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Gore",
+    "description": "Well, you wanted it in this game...",
+    "type": 0,
+    "sp_cost": 55,
+    "scope": 0,
+    "animation_id": 162,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 1,
+    "magical_rate": 0,
+    "power": 730,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 4,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Dark Blast",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 100,
+    "scope": 0,
+    "animation_id": 163,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 1000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 12,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Mandubles",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 118,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "physical_rate": 1,
+    "magical_rate": 0,
+    "power": 600,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Screech",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 114,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "hit": 80,
+    "state_effects_size": 6,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Erupt",
+    "description": "A powerful eruption.",
+    "type": 0,
+    "sp_cost": 60,
+    "scope": 1,
+    "animation_id": 164,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 1000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 5,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Stare",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 165,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 1,
+    "hit": 75,
+    "state_effects_size": 6,
+    "state_effects": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Soul Stealer",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 166,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 9999,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Terrorize",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 99,
+    "scope": 1,
+    "animation_id": 167,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 500,
+    "hit": 75,
+    "affect_hp": true,
+    "state_effects_size": 6,
+    "state_effects": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Black Rain",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 150,
+    "scope": 1,
+    "animation_id": 168,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 1,
+    "power": 1200,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 7,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Shadow Rain",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 200,
+    "scope": 1,
+    "animation_id": 169,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 1300,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 12,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "affect_attr_defence": true,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Mega Ton",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 75,
+    "scope": 1,
+    "animation_id": 170,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 0,
+    "power": 900,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Dispel",
+    "description": "Enemy",
+    "type": 0,
+    "scope": 0,
+    "animation_id": 171,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "reverse_state_effect": true,
+    "magical_rate": 10,
+    "ignore_defense": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Touch",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 117,
+    "scope": 1,
+    "animation_id": 172,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 1,
+    "power": 60,
+    "hit": 80,
+    "affect_sp": true,
+    "state_effects_size": 4,
+    "state_effects": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "--------Other-------",
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Energy Bomb",
+    "description": "An unstable blast of the power of time.",
+    "type": 0,
+    "sp_cost": 60,
+    "scope": 0,
+    "animation_id": 79,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 850,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Scar in Reality",
+    "description": "Enemy attacked by time and space.",
+    "type": 0,
+    "sp_cost": 75,
+    "scope": 0,
+    "animation_id": 208,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 1200,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 12,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Olymp's Rage",
+    "description": "Olympian goes crazy.",
+    "type": 0,
+    "sp_type": 1,
+    "sp_percent": 80,
+    "scope": 0,
+    "animation_id": 174,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 3000,
+    "affect_hp": true,
+    "state_effects_size": 12,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 4,
+    "battler_animation_data": [
+      {
+        "id": 1,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Explosion Fist",
+    "description": "Olympian punches with extreme force.",
+    "type": 0,
+    "sp_type": 1,
+    "sp_percent": 10,
+    "scope": 0,
+    "animation_id": 175,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 1500,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 4,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "FG's Rage",
+    "description": "Powerful explosive attack.",
+    "type": 0,
+    "sp_percent": 4,
+    "sp_cost": 90,
+    "scope": 0,
+    "animation_id": 177,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 3000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Thunder Slash",
+    "description": "Electric slash.",
+    "type": 0,
+    "sp_cost": 45,
+    "scope": 0,
+    "animation_id": 178,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 600,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 7,
+    "attribute_effects": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Fire Slash",
+    "description": "Firey slash.",
+    "type": 0,
+    "sp_cost": 45,
+    "scope": 0,
+    "animation_id": 179,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 600,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 5,
+    "attribute_effects": [
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 2,
+    "battler_animation_data": [
+      {
+        "id": 1,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Butter Explosion",
+    "description": "Level 2 Butter Magic.",
+    "type": 0,
+    "sp_cost": 55,
+    "scope": 0,
+    "animation_id": 180,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 720,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Trans Fat",
+    "description": "Level 1 Butter Magic.",
+    "type": 0,
+    "sp_cost": 35,
+    "scope": 0,
+    "animation_id": 181,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 345,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Butter...",
+    "description": "Level 3 Butter Magic.",
+    "type": 0,
+    "sp_cost": 110,
+    "scope": 0,
+    "animation_id": 182,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 2000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 1,
+    "battler_animation_data": [
+      {
+        "id": 1,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 2,
+        "movement": 3,
+        "pose": 1
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Chaos Explosion",
+    "description": "TimeTravel's rage-based super skill.",
+    "type": 0,
+    "sp_cost": 185,
+    "scope": 0,
+    "animation_id": 184,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 2450,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Freakish Fixation",
+    "description": "TimeT's hybrid stat-affecting move.",
+    "type": 0,
+    "sp_cost": 45,
+    "scope": 0,
+    "animation_id": 185,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 100,
+    "hit": 85,
+    "affect_hp": true,
+    "state_effects_size": 9,
+    "state_effects": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "attribute_effects_size": 12,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Dark Exile",
+    "description": "High chance of killing all enemies.",
+    "type": 0,
+    "sp_type": 1,
+    "sp_percent": 100,
+    "scope": 1,
+    "animation_id": 186,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 9,
+    "hit": 92,
+    "affect_hp": true,
+    "state_effects_size": 1,
+    "state_effects": [
+      1
+    ],
+    "attribute_effects_size": 12,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Seismic Charge",
+    "description": "A charge-throwing move that deals a lot of damage.",
+    "type": 0,
+    "sp_cost": 65,
+    "scope": 1,
+    "animation_id": 187,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 575,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Reload",
+    "description": "Replenishes some MP.",
+    "type": 0,
+    "sp_percent": 100,
+    "sp_cost": 1,
+    "scope": 2,
+    "animation_id": 192,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 65,
+    "affect_sp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Ice Bullet",
+    "description": "A blast of ice from any gun.",
+    "type": 0,
+    "sp_cost": 45,
+    "scope": 0,
+    "animation_id": 193,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 500,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 6,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Fire Bullet",
+    "description": "A bullet that fires up when launched.",
+    "type": 0,
+    "sp_cost": 45,
+    "scope": 0,
+    "animation_id": 194,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 500,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 5,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Flamethrow",
+    "description": "Level 2 Fire Bullet.",
+    "type": 0,
+    "sp_cost": 70,
+    "scope": 0,
+    "animation_id": 195,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 800,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 5,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Ice Laser",
+    "description": "Level 2 Ice Bullet.",
+    "type": 0,
+    "sp_cost": 70,
+    "scope": 0,
+    "animation_id": 196,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 800,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 6,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Street Sweep",
+    "description": "Affects all enemies a good bit.",
+    "type": 0,
+    "sp_cost": 90,
+    "scope": 1,
+    "animation_id": 197,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 1000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Target's Rage",
+    "description": "Ouch...",
+    "type": 0,
+    "sp_type": 1,
+    "sp_percent": 60,
+    "sp_cost": 150,
+    "scope": 1,
+    "animation_id": 198,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 4000,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Sonic Ray",
+    "description": "Confuses opponent.",
+    "type": 0,
+    "sp_cost": 25,
+    "scope": 0,
+    "animation_id": 199,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 100,
+    "affect_hp": true,
+    "state_effects_size": 6,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects_size": 11,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "name": "RPG",
+    "description": "Rocket-Propelled Grenade.",
+    "type": 0,
+    "sp_cost": 50,
+    "scope": 0,
+    "animation_id": 200,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 1200,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Nuclear Blast",
+    "description": "Inflicts many status conditions upon victim.",
+    "type": 0,
+    "sp_cost": 100,
+    "scope": 0,
+    "animation_id": 201,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 1750,
+    "hit": 90,
+    "affect_hp": true,
+    "state_effects_size": 8,
+    "state_effects": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Snipe",
+    "description": "A stealthy attack that ignores victim's Defense.",
+    "type": 0,
+    "sp_cost": 25,
+    "scope": 0,
+    "animation_id": 191,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 800,
+    "affect_hp": true,
+    "ignore_defense": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 0,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Stupid Attack",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 40,
+    "scope": 0,
+    "animation_id": 203,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "magical_rate": 1,
+    "power": 300,
+    "hit": 95,
+    "affect_hp": true,
+    "state_effects_size": 6,
+    "state_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Big Slash",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 30,
+    "scope": 0,
+    "animation_id": 204,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 360,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Waterfall",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 60,
+    "scope": 0,
+    "animation_id": 205,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 500,
+    "affect_hp": true,
+    "state_effects_size": 3,
+    "state_effects": [
+      0,
+      0,
+      1
+    ],
+    "attribute_effects_size": 8,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "name": "--------------------",
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Spite",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 25,
+    "scope": 0,
+    "animation_id": 105,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 100,
+    "affect_hp": true,
+    "affect_sp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Evil Nova",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 110,
+    "scope": 1,
+    "animation_id": 106,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 700,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation": 1,
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2,
+        "movement": 1
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Cyanide",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 35,
+    "scope": 0,
+    "animation_id": 107,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 500,
+    "affect_hp": true,
+    "state_effects_size": 7,
+    "state_effects": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Fear Shock",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 85,
+    "scope": 0,
+    "animation_id": 108,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 1450,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Fatigue",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 10,
+    "scope": 0,
+    "animation_id": 207,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 25,
+    "hit": 97,
+    "affect_hp": true,
+    "affect_sp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Mech Swipes",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 75,
+    "scope": 0,
+    "animation_id": 209,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 750,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Triple Blast",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 100,
+    "scope": 0,
+    "animation_id": 210,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 1200,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Linear Cannon",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 250,
+    "scope": 0,
+    "animation_id": 212,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 2500,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Energy Swipes",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 50,
+    "scope": 0,
+    "animation_id": 214,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 750,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects_size": 7,
+    "attribute_effects": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Plasma Arms",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 80,
+    "scope": 0,
+    "animation_id": 213,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 1200,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Tera Slash",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 87,
+    "scope": 0,
+    "animation_id": 209,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 600,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Slicing Chomp",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 75,
+    "scope": 0,
+    "animation_id": 103,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 800,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Hammer Smash",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 50,
+    "scope": 0,
+    "animation_id": 215,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 750,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Supernova Slam",
+    "description": "Enemy",
+    "type": 0,
+    "sp_cost": 120,
+    "scope": 0,
+    "animation_id": 216,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "power": 1200,
+    "affect_hp": true,
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "type": 0,
+    "scope": 0,
+    "sound_effect": {
+      "name": "(OFF)"
+    },
+    "state_effects": [],
+    "attribute_effects": [],
+    "battler_animation_data": [
+      {
+        "id": 1
+      }
+    ]
+  }
+]

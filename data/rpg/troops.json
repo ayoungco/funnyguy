@@ -1,0 +1,3874 @@
+[
+  {
+    "id": 1,
+    "name": "Forest 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 2,
+        "x": 156,
+        "y": 88
+      },
+      {
+        "id": 2,
+        "enemy_id": 2,
+        "x": 128,
+        "y": 124
+      },
+      {
+        "id": 3,
+        "enemy_id": 2,
+        "x": 104,
+        "y": 88
+      },
+      {
+        "id": 4,
+        "enemy_id": 2,
+        "x": 72,
+        "y": 124
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Forest 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 3,
+        "x": 84,
+        "y": 88
+      },
+      {
+        "id": 2,
+        "enemy_id": 4,
+        "x": 156,
+        "y": 96
+      },
+      {
+        "id": 3,
+        "enemy_id": 4,
+        "x": 120,
+        "y": 124
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Forest 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 5,
+        "x": 112,
+        "y": 84
+      },
+      {
+        "id": 2,
+        "enemy_id": 5,
+        "x": 68,
+        "y": 120
+      },
+      {
+        "id": 3,
+        "enemy_id": 5,
+        "x": 36,
+        "y": 84
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Forest 4",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 14,
+        "x": 116,
+        "y": 80
+      },
+      {
+        "id": 2,
+        "enemy_id": 14,
+        "x": 56,
+        "y": 100
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Forest 5",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 13,
+        "x": 120,
+        "y": 92
+      },
+      {
+        "id": 2,
+        "enemy_id": 13,
+        "x": 84,
+        "y": 128
+      },
+      {
+        "id": 3,
+        "enemy_id": 13,
+        "x": 148,
+        "y": 128
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Forest 6",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 15,
+        "x": 36,
+        "y": 120
+      },
+      {
+        "id": 2,
+        "enemy_id": 15,
+        "x": 80,
+        "y": 88
+      },
+      {
+        "id": 3,
+        "enemy_id": 16,
+        "x": 132,
+        "y": 132
+      },
+      {
+        "id": 4,
+        "enemy_id": 16,
+        "x": 132,
+        "y": 96
+      },
+      {
+        "id": 5,
+        "enemy_id": 16,
+        "x": 84,
+        "y": 128
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Desert 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 65,
+        "x": 144,
+        "y": 84
+      },
+      {
+        "id": 2,
+        "enemy_id": 65,
+        "x": 68,
+        "y": 104
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Desert 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 65,
+        "x": 164,
+        "y": 88
+      },
+      {
+        "id": 2,
+        "enemy_id": 66,
+        "x": 112,
+        "y": 124
+      },
+      {
+        "id": 3,
+        "enemy_id": 66,
+        "x": 72,
+        "y": 92
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Desert 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 67,
+        "x": 56,
+        "y": 92
+      },
+      {
+        "id": 2,
+        "enemy_id": 65,
+        "x": 100,
+        "y": 120
+      },
+      {
+        "id": 3,
+        "enemy_id": 65,
+        "x": 152,
+        "y": 88
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Swamp 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 55,
+        "x": 144,
+        "y": 136
+      },
+      {
+        "id": 2,
+        "enemy_id": 55,
+        "x": 112,
+        "y": 96
+      },
+      {
+        "id": 3,
+        "enemy_id": 56,
+        "x": 56,
+        "y": 120
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Swamp 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 56,
+        "x": 104,
+        "y": 87
+      },
+      {
+        "id": 2,
+        "enemy_id": 56,
+        "x": 96,
+        "y": 132
+      },
+      {
+        "id": 3,
+        "enemy_id": 56,
+        "x": 164,
+        "y": 104
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Swamp 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 57,
+        "x": 86,
+        "y": 90
+      },
+      {
+        "id": 2,
+        "enemy_id": 57,
+        "x": 80,
+        "y": 132
+      },
+      {
+        "id": 3,
+        "enemy_id": 57,
+        "x": 28,
+        "y": 100
+      },
+      {
+        "id": 4,
+        "enemy_id": 55,
+        "x": 144,
+        "y": 112
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Gorge 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 51,
+        "x": 60,
+        "y": 96
+      },
+      {
+        "id": 2,
+        "enemy_id": 51,
+        "x": 156,
+        "y": 112
+      },
+      {
+        "id": 3,
+        "enemy_id": 51,
+        "x": 96,
+        "y": 124
+      },
+      {
+        "id": 4,
+        "enemy_id": 51,
+        "x": 36,
+        "y": 136
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Gorge 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 53,
+        "x": 160,
+        "y": 92
+      },
+      {
+        "id": 2,
+        "enemy_id": 53,
+        "x": 152,
+        "y": 140
+      },
+      {
+        "id": 3,
+        "enemy_id": 50,
+        "x": 28,
+        "y": 84
+      },
+      {
+        "id": 4,
+        "enemy_id": 53,
+        "x": 88,
+        "y": 112
+      },
+      {
+        "id": 5,
+        "enemy_id": 50,
+        "x": 24,
+        "y": 136
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Gorge 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 52,
+        "x": 96,
+        "y": 96
+      },
+      {
+        "id": 2,
+        "enemy_id": 52,
+        "x": 40,
+        "y": 132
+      },
+      {
+        "id": 3,
+        "enemy_id": 57,
+        "x": 136,
+        "y": 128
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Breeze 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 58,
+        "x": 100,
+        "y": 92
+      },
+      {
+        "id": 2,
+        "enemy_id": 58,
+        "x": 144,
+        "y": 124
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Breeze 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 59,
+        "x": 80,
+        "y": 132
+      },
+      {
+        "id": 2,
+        "enemy_id": 59,
+        "x": 140,
+        "y": 108
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Breeze 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 59,
+        "x": 104,
+        "y": 87
+      },
+      {
+        "id": 2,
+        "enemy_id": 58,
+        "x": 96,
+        "y": 132
+      },
+      {
+        "id": 3,
+        "enemy_id": 58,
+        "x": 40,
+        "y": 109
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Snow 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 70,
+        "x": 124,
+        "y": 56
+      },
+      {
+        "id": 2,
+        "enemy_id": 70,
+        "x": 100,
+        "y": 112
+      },
+      {
+        "id": 3,
+        "enemy_id": 70,
+        "x": 40,
+        "y": 85
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Snow 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 71,
+        "x": 76,
+        "y": 92
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Snow 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 72,
+        "x": 128,
+        "y": 96
+      },
+      {
+        "id": 2,
+        "enemy_id": 72,
+        "x": 44,
+        "y": 132
+      },
+      {
+        "id": 3,
+        "enemy_id": 72,
+        "x": 64,
+        "y": 72
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Snow 4",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 73,
+        "x": 112,
+        "y": 116
+      },
+      {
+        "id": 2,
+        "enemy_id": 73,
+        "x": 32,
+        "y": 128
+      },
+      {
+        "id": 3,
+        "enemy_id": 70,
+        "x": 60,
+        "y": 60
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Tunnel 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 62,
+        "x": 90,
+        "y": 82
+      },
+      {
+        "id": 2,
+        "enemy_id": 62,
+        "x": 82,
+        "y": 127
+      },
+      {
+        "id": 3,
+        "enemy_id": 62,
+        "x": 26,
+        "y": 104
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Tunnel 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 47,
+        "x": 80,
+        "y": 87
+      },
+      {
+        "id": 2,
+        "enemy_id": 47,
+        "x": 40,
+        "y": 132
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Tunnel 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 48,
+        "x": 80,
+        "y": 88
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Tunnel 4",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 63,
+        "x": 88,
+        "y": 84
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Humotacia 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 76,
+        "x": 108,
+        "y": 92
+      },
+      {
+        "id": 2,
+        "enemy_id": 76,
+        "x": 80,
+        "y": 132
+      },
+      {
+        "id": 3,
+        "enemy_id": 76,
+        "x": 52,
+        "y": 92
+      },
+      {
+        "id": 4,
+        "enemy_id": 76,
+        "x": 28,
+        "y": 132
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Humotacia 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 77,
+        "x": 67,
+        "y": 80
+      },
+      {
+        "id": 2,
+        "enemy_id": 77,
+        "x": 27,
+        "y": 125
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Humotacia 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 78,
+        "x": 80,
+        "y": 96
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Humotacia 4",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 79,
+        "x": 92,
+        "y": 96
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "West 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 82,
+        "x": 48,
+        "y": 96
+      },
+      {
+        "id": 2,
+        "enemy_id": 77,
+        "x": 27,
+        "y": 125
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "West 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 83,
+        "x": 44,
+        "y": 92
+      },
+      {
+        "id": 2,
+        "enemy_id": 76,
+        "x": 52,
+        "y": 140
+      },
+      {
+        "id": 3,
+        "enemy_id": 76,
+        "x": 96,
+        "y": 92
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "West 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 84,
+        "x": 84,
+        "y": 72
+      },
+      {
+        "id": 2,
+        "enemy_id": 84,
+        "x": 40,
+        "y": 112
+      },
+      {
+        "id": 3,
+        "enemy_id": 76,
+        "x": 128,
+        "y": 108
+      },
+      {
+        "id": 4,
+        "enemy_id": 76,
+        "x": 96,
+        "y": 140
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "West 4",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 76,
+        "x": 80,
+        "y": 92
+      },
+      {
+        "id": 2,
+        "enemy_id": 76,
+        "x": 64,
+        "y": 116
+      },
+      {
+        "id": 3,
+        "enemy_id": 76,
+        "x": 60,
+        "y": 144
+      },
+      {
+        "id": 4,
+        "enemy_id": 76,
+        "x": 30,
+        "y": 105
+      },
+      {
+        "id": 5,
+        "enemy_id": 76,
+        "x": 26,
+        "y": 128
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Oblivion 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 91,
+        "x": 108,
+        "y": 104
+      },
+      {
+        "id": 2,
+        "enemy_id": 91,
+        "x": 92,
+        "y": 136
+      },
+      {
+        "id": 3,
+        "enemy_id": 91,
+        "x": 56,
+        "y": 104
+      },
+      {
+        "id": 4,
+        "enemy_id": 91,
+        "x": 36,
+        "y": 136
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Oblivion 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 92,
+        "x": 60,
+        "y": 96
+      },
+      {
+        "id": 2,
+        "enemy_id": 93,
+        "x": 136,
+        "y": 128
+      },
+      {
+        "id": 3,
+        "enemy_id": 91,
+        "x": 84,
+        "y": 140
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Oblivion 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 93,
+        "x": 100,
+        "y": 100
+      },
+      {
+        "id": 2,
+        "enemy_id": 93,
+        "x": 92,
+        "y": 136
+      },
+      {
+        "id": 3,
+        "enemy_id": 93,
+        "x": 44,
+        "y": 116
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Sewer 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 95,
+        "x": 88,
+        "y": 100
+      },
+      {
+        "id": 2,
+        "enemy_id": 95,
+        "x": 80,
+        "y": 136
+      },
+      {
+        "id": 3,
+        "enemy_id": 95,
+        "x": 36,
+        "y": 104
+      },
+      {
+        "id": 4,
+        "enemy_id": 95,
+        "x": 36,
+        "y": 136
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Sewer 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 96,
+        "x": 58,
+        "y": 94
+      },
+      {
+        "id": 2,
+        "enemy_id": 96,
+        "x": 40,
+        "y": 128
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Sewer 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 97,
+        "x": 56,
+        "y": 96
+      },
+      {
+        "id": 2,
+        "enemy_id": 95,
+        "x": 104,
+        "y": 120
+      },
+      {
+        "id": 3,
+        "enemy_id": 95,
+        "x": 40,
+        "y": 136
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Caves 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 7,
+        "x": 68,
+        "y": 88
+      },
+      {
+        "id": 2,
+        "enemy_id": 7,
+        "x": 80,
+        "y": 132
+      },
+      {
+        "id": 3,
+        "enemy_id": 7,
+        "x": 32,
+        "y": 112
+      }
+    ],
+    "auto_alignment": true,
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Caves 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 9,
+        "x": 104,
+        "y": 87
+      },
+      {
+        "id": 2,
+        "enemy_id": 9,
+        "x": 96,
+        "y": 132
+      },
+      {
+        "id": 3,
+        "enemy_id": 9,
+        "x": 40,
+        "y": 109
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Caves 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 8,
+        "x": 90,
+        "y": 94
+      },
+      {
+        "id": 2,
+        "enemy_id": 8,
+        "x": 90,
+        "y": 112
+      },
+      {
+        "id": 3,
+        "enemy_id": 8,
+        "x": 82,
+        "y": 130
+      },
+      {
+        "id": 4,
+        "enemy_id": 8,
+        "x": 34,
+        "y": 103
+      },
+      {
+        "id": 5,
+        "enemy_id": 8,
+        "x": 26,
+        "y": 121
+      },
+      {
+        "id": 6,
+        "enemy_id": 8,
+        "x": 18,
+        "y": 139
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Caves 4",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 12,
+        "x": 96,
+        "y": 132
+      },
+      {
+        "id": 2,
+        "enemy_id": 12,
+        "x": 40,
+        "y": 109
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Caves 5",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 13,
+        "x": 96,
+        "y": 104
+      },
+      {
+        "id": 2,
+        "enemy_id": 13,
+        "x": 120,
+        "y": 140
+      },
+      {
+        "id": 3,
+        "enemy_id": 13,
+        "x": 32,
+        "y": 100
+      },
+      {
+        "id": 4,
+        "enemy_id": 13,
+        "x": 32,
+        "y": 140
+      },
+      {
+        "id": 5,
+        "enemy_id": 12,
+        "x": 76,
+        "y": 128
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Caves 6",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 44,
+        "x": 86,
+        "y": 90
+      },
+      {
+        "id": 2,
+        "enemy_id": 44,
+        "x": 78,
+        "y": 135
+      },
+      {
+        "id": 3,
+        "enemy_id": 44,
+        "x": 22,
+        "y": 112
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Caves 7",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 57,
+        "x": 94,
+        "y": 90
+      },
+      {
+        "id": 2,
+        "enemy_id": 57,
+        "x": 90,
+        "y": 112
+      },
+      {
+        "id": 3,
+        "enemy_id": 57,
+        "x": 86,
+        "y": 135
+      },
+      {
+        "id": 4,
+        "enemy_id": 57,
+        "x": 34,
+        "y": 101
+      },
+      {
+        "id": 5,
+        "enemy_id": 57,
+        "x": 30,
+        "y": 124
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Town 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 34,
+        "x": 188,
+        "y": 108
+      },
+      {
+        "id": 2,
+        "enemy_id": 34,
+        "x": 168,
+        "y": 72
+      },
+      {
+        "id": 3,
+        "enemy_id": 34,
+        "x": 148,
+        "y": 128
+      },
+      {
+        "id": 4,
+        "enemy_id": 85,
+        "x": 124,
+        "y": 60
+      },
+      {
+        "id": 5,
+        "enemy_id": 85,
+        "x": 80,
+        "y": 64
+      },
+      {
+        "id": 6,
+        "enemy_id": 85,
+        "x": 68,
+        "y": 120
+      },
+      {
+        "id": 7,
+        "enemy_id": 85,
+        "x": 40,
+        "y": 80
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Sky 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 22,
+        "x": 152,
+        "y": 80
+      },
+      {
+        "id": 2,
+        "enemy_id": 103,
+        "x": 52,
+        "y": 84
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Sky 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 56,
+        "x": 60,
+        "y": 84
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Sky 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 52,
+        "x": 156,
+        "y": 76
+      },
+      {
+        "id": 2,
+        "enemy_id": 52,
+        "x": 104,
+        "y": 120
+      },
+      {
+        "id": 3,
+        "enemy_id": 63,
+        "x": 84,
+        "y": 48
+      },
+      {
+        "id": 4,
+        "enemy_id": 52,
+        "x": 32,
+        "y": 96
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Satellite 1",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 108,
+        "x": 108,
+        "y": 108
+      },
+      {
+        "id": 2,
+        "enemy_id": 108,
+        "x": 36,
+        "y": 96
+      },
+      {
+        "id": 3,
+        "enemy_id": 108,
+        "x": 52,
+        "y": 140
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Satellite 2",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 109,
+        "x": 72,
+        "y": 80
+      },
+      {
+        "id": 2,
+        "enemy_id": 109,
+        "x": 32,
+        "y": 125
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Satellite 3",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 110,
+        "x": 56,
+        "y": 84
+      },
+      {
+        "id": 2,
+        "enemy_id": 108,
+        "x": 92,
+        "y": 140
+      },
+      {
+        "id": 3,
+        "enemy_id": 108,
+        "x": 144,
+        "y": 100
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Satellite 4",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 111,
+        "x": 68,
+        "y": 100
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Satellite 5",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 112,
+        "x": 56,
+        "y": 96
+      },
+      {
+        "id": 2,
+        "enemy_id": 108,
+        "x": 56,
+        "y": 136
+      },
+      {
+        "id": 3,
+        "enemy_id": 108,
+        "x": 120,
+        "y": 104
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Satellite 6",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 113,
+        "x": 24,
+        "y": 88
+      },
+      {
+        "id": 2,
+        "enemy_id": 113,
+        "x": 116,
+        "y": 88
+      },
+      {
+        "id": 3,
+        "enemy_id": 113,
+        "x": 88,
+        "y": 52
+      },
+      {
+        "id": 4,
+        "enemy_id": 113,
+        "x": 52,
+        "y": 124
+      },
+      {
+        "id": 5,
+        "enemy_id": 113,
+        "x": 88,
+        "y": 124
+      },
+      {
+        "id": 6,
+        "enemy_id": 113,
+        "x": 52,
+        "y": 52
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 32,
+          "enemy_hp_max": 99
+        },
+        "event_commands_size": 87,
+        "event_commands": [
+          {
+            "index": 0,
+            "byte_offset_in_command_stream": 0,
+            "code": 13260,
+            "name": "ShowBattleAnimation_B",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              211,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "index": 1,
+            "byte_offset_in_command_stream": 11,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              1,
+              2,
+              100,
+              1
+            ]
+          },
+          {
+            "index": 2,
+            "byte_offset_in_command_stream": 21,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              1,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 3,
+            "byte_offset_in_command_stream": 31,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              2,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 4,
+            "byte_offset_in_command_stream": 41,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              3,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 5,
+            "byte_offset_in_command_stream": 51,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              4,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 6,
+            "byte_offset_in_command_stream": 61,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              5,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 7,
+            "byte_offset_in_command_stream": 71,
+            "code": 10460,
+            "name": "ChangeHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              0,
+              1,
+              0,
+              300,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "condition": {
+          "flags": 32,
+          "enemy_id": 1,
+          "enemy_hp_max": 99,
+          "turn_enemy_id": 1
+        },
+        "event_commands_size": 87,
+        "event_commands": [
+          {
+            "index": 0,
+            "byte_offset_in_command_stream": 0,
+            "code": 13260,
+            "name": "ShowBattleAnimation_B",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              211,
+              1,
+              0,
+              0,
+              1
+            ]
+          },
+          {
+            "index": 1,
+            "byte_offset_in_command_stream": 11,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              1,
+              1,
+              2,
+              100,
+              1
+            ]
+          },
+          {
+            "index": 2,
+            "byte_offset_in_command_stream": 21,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 3,
+            "byte_offset_in_command_stream": 31,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              2,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 4,
+            "byte_offset_in_command_stream": 41,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              3,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 5,
+            "byte_offset_in_command_stream": 51,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              4,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 6,
+            "byte_offset_in_command_stream": 61,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              5,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 7,
+            "byte_offset_in_command_stream": 71,
+            "code": 10460,
+            "name": "ChangeHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              0,
+              1,
+              0,
+              500,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "condition": {
+          "flags": 32,
+          "enemy_id": 2,
+          "enemy_hp_max": 99
+        },
+        "event_commands_size": 87,
+        "event_commands": [
+          {
+            "index": 0,
+            "byte_offset_in_command_stream": 0,
+            "code": 13260,
+            "name": "ShowBattleAnimation_B",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              211,
+              2,
+              0,
+              0,
+              2
+            ]
+          },
+          {
+            "index": 1,
+            "byte_offset_in_command_stream": 11,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              2,
+              1,
+              2,
+              100,
+              1
+            ]
+          },
+          {
+            "index": 2,
+            "byte_offset_in_command_stream": 21,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              1,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 3,
+            "byte_offset_in_command_stream": 31,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 4,
+            "byte_offset_in_command_stream": 41,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              3,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 5,
+            "byte_offset_in_command_stream": 51,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              4,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 6,
+            "byte_offset_in_command_stream": 61,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              5,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 7,
+            "byte_offset_in_command_stream": 71,
+            "code": 10460,
+            "name": "ChangeHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              0,
+              1,
+              0,
+              500,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "condition": {
+          "flags": 32,
+          "enemy_id": 3,
+          "enemy_hp_max": 99
+        },
+        "event_commands_size": 87,
+        "event_commands": [
+          {
+            "index": 0,
+            "byte_offset_in_command_stream": 0,
+            "code": 13260,
+            "name": "ShowBattleAnimation_B",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              211,
+              3,
+              0,
+              0,
+              3
+            ]
+          },
+          {
+            "index": 1,
+            "byte_offset_in_command_stream": 11,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              3,
+              1,
+              2,
+              100,
+              1
+            ]
+          },
+          {
+            "index": 2,
+            "byte_offset_in_command_stream": 21,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              1,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 3,
+            "byte_offset_in_command_stream": 31,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 4,
+            "byte_offset_in_command_stream": 41,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              2,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 5,
+            "byte_offset_in_command_stream": 51,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              4,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 6,
+            "byte_offset_in_command_stream": 61,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              5,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 7,
+            "byte_offset_in_command_stream": 71,
+            "code": 10460,
+            "name": "ChangeHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              0,
+              1,
+              0,
+              500,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "condition": {
+          "flags": 32,
+          "enemy_id": 4,
+          "enemy_hp_max": 99
+        },
+        "event_commands_size": 87,
+        "event_commands": [
+          {
+            "index": 0,
+            "byte_offset_in_command_stream": 0,
+            "code": 13260,
+            "name": "ShowBattleAnimation_B",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              211,
+              4,
+              0,
+              0,
+              4
+            ]
+          },
+          {
+            "index": 1,
+            "byte_offset_in_command_stream": 11,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              4,
+              1,
+              2,
+              100,
+              1
+            ]
+          },
+          {
+            "index": 2,
+            "byte_offset_in_command_stream": 21,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              1,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 3,
+            "byte_offset_in_command_stream": 31,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 4,
+            "byte_offset_in_command_stream": 41,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              3,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 5,
+            "byte_offset_in_command_stream": 51,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              2,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 6,
+            "byte_offset_in_command_stream": 61,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              5,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 7,
+            "byte_offset_in_command_stream": 71,
+            "code": 10460,
+            "name": "ChangeHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              0,
+              1,
+              0,
+              500,
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "condition": {
+          "flags": 32,
+          "enemy_id": 5,
+          "enemy_hp_max": 99
+        },
+        "event_commands_size": 87,
+        "event_commands": [
+          {
+            "index": 0,
+            "byte_offset_in_command_stream": 0,
+            "code": 13260,
+            "name": "ShowBattleAnimation_B",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              211,
+              5,
+              0,
+              0,
+              5
+            ]
+          },
+          {
+            "index": 1,
+            "byte_offset_in_command_stream": 11,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              5,
+              1,
+              2,
+              100,
+              1
+            ]
+          },
+          {
+            "index": 2,
+            "byte_offset_in_command_stream": 21,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              1,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 3,
+            "byte_offset_in_command_stream": 31,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 4,
+            "byte_offset_in_command_stream": 41,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              3,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 5,
+            "byte_offset_in_command_stream": 51,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              4,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 6,
+            "byte_offset_in_command_stream": 61,
+            "code": 13110,
+            "name": "ChangeMonsterHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              2,
+              1,
+              0,
+              100,
+              0
+            ]
+          },
+          {
+            "index": 7,
+            "byte_offset_in_command_stream": 71,
+            "code": 10460,
+            "name": "ChangeHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              0,
+              1,
+              0,
+              500,
+              1
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Satellite 7",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 112,
+        "x": 56,
+        "y": 96
+      },
+      {
+        "id": 2,
+        "enemy_id": 109,
+        "x": 48,
+        "y": 124
+      },
+      {
+        "id": 3,
+        "enemy_id": 109,
+        "x": 128,
+        "y": 88
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Barney Encounter",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 60,
+        "x": 84,
+        "y": 92
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "members": [],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "members": [],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Tunnel4 Boss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 35,
+        "x": 60,
+        "y": 88
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Satellite Boss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 114,
+        "x": 76,
+        "y": 84
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Evilies",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 116,
+        "x": 116,
+        "y": 100
+      },
+      {
+        "id": 2,
+        "enemy_id": 117,
+        "x": 88,
+        "y": 76
+      },
+      {
+        "id": 3,
+        "enemy_id": 118,
+        "x": 44,
+        "y": 128
+      },
+      {
+        "id": 4,
+        "enemy_id": 121,
+        "x": 32,
+        "y": 92
+      },
+      {
+        "id": 5,
+        "enemy_id": 120,
+        "x": 72,
+        "y": 108
+      },
+      {
+        "id": 6,
+        "enemy_id": 119,
+        "x": 96,
+        "y": 128
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Element Boss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 106,
+        "x": 88,
+        "y": 68
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "TimeT Boss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 105,
+        "x": 76,
+        "y": 72
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Olymp Boss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 104,
+        "x": 84,
+        "y": 80
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Target Boss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 103,
+        "x": 68,
+        "y": 80
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Razor Boss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 102,
+        "x": 88,
+        "y": 84
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Junior Boss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 101,
+        "x": 80,
+        "y": 80
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Humortopica Ambush",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 100,
+        "x": 76,
+        "y": 92
+      },
+      {
+        "id": 2,
+        "enemy_id": 100,
+        "x": 100,
+        "y": 128
+      },
+      {
+        "id": 3,
+        "enemy_id": 100,
+        "x": 36,
+        "y": 124
+      },
+      {
+        "id": 4,
+        "enemy_id": 100,
+        "x": 136,
+        "y": 92
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Humortopica Boss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 98,
+        "x": 68,
+        "y": 80
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Mini-Mi Attacks!",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 89,
+        "x": 64,
+        "y": 108
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "WJ Boss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 85,
+        "x": 92,
+        "y": 81
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Cave Encounter",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 88,
+        "x": 72,
+        "y": 104
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Bridge Troll",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 87,
+        "x": 76,
+        "y": 112
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Mud Monster",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 86,
+        "x": 68,
+        "y": 108
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Humotacia Boss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 80,
+        "x": 92,
+        "y": 72
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "IceMtnsBoss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 74,
+        "x": 76,
+        "y": 68
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Barney",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 60,
+        "x": 84,
+        "y": 80
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 16,
+        "event_commands": [
+          {
+            "index": 0,
+            "byte_offset_in_command_stream": 0,
+            "code": 11030,
+            "name": "TintScreen",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              150,
+              100,
+              100,
+              100,
+              10,
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "TempleManual",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 62,
+        "x": 76,
+        "y": 108
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "GorgeBoss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 54,
+        "x": 80,
+        "y": 88
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Guardian",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 61,
+        "x": 72,
+        "y": 104
+      },
+      {
+        "id": 2,
+        "enemy_id": 56,
+        "x": 140,
+        "y": 100
+      },
+      {
+        "id": 3,
+        "enemy_id": 56,
+        "x": 176,
+        "y": 124
+      },
+      {
+        "id": 4,
+        "enemy_id": 56,
+        "x": 116,
+        "y": 132
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "TowerFight",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 19,
+        "x": 64,
+        "y": 116
+      },
+      {
+        "id": 2,
+        "enemy_id": 29,
+        "x": 152,
+        "y": 104
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "DesertBoss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 25,
+        "x": 68,
+        "y": 96
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 512
+        },
+        "event_commands_size": 210,
+        "event_commands": [
+          {
+            "index": 0,
+            "byte_offset_in_command_stream": 0,
+            "code": 10110,
+            "name": "ShowMessage",
+            "indent": 0,
+            "string": "Evil Dead: Attacking is useless! You will pay",
+            "parameters": []
+          },
+          {
+            "index": 1,
+            "byte_offset_in_command_stream": 50,
+            "code": 20110,
+            "name": "ShowMessage_2",
+            "indent": 0,
+            "string": "for your insolence!",
+            "parameters": []
+          },
+          {
+            "index": 2,
+            "byte_offset_in_command_stream": 75,
+            "code": 10110,
+            "name": "ShowMessage",
+            "indent": 0,
+            "string": "Evil Dead: All powers of evil, and dark! Unleash",
+            "parameters": []
+          },
+          {
+            "index": 3,
+            "byte_offset_in_command_stream": 128,
+            "code": 20110,
+            "name": "ShowMessage_2",
+            "indent": 0,
+            "string": "the Nova of your hatred!",
+            "parameters": []
+          },
+          {
+            "index": 4,
+            "byte_offset_in_command_stream": 158,
+            "code": 10110,
+            "name": "ShowMessage",
+            "indent": 0,
+            "string": "Darkness Nova",
+            "parameters": []
+          },
+          {
+            "index": 5,
+            "byte_offset_in_command_stream": 176,
+            "code": 13260,
+            "name": "ShowBattleAnimation_B",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              128,
+              -1,
+              1
+            ]
+          },
+          {
+            "index": 6,
+            "byte_offset_in_command_stream": 189,
+            "code": 10460,
+            "name": "ChangeHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              0,
+              1,
+              0,
+              9999,
+              0
+            ]
+          },
+          {
+            "index": 7,
+            "byte_offset_in_command_stream": 201,
+            "code": 12310,
+            "name": "EndEventProcessing",
+            "indent": 0,
+            "string": "",
+            "parameters": []
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "condition": {
+          "flags": 512,
+          "command_actor_id": 2
+        },
+        "event_commands_size": 212,
+        "event_commands": [
+          {
+            "index": 0,
+            "byte_offset_in_command_stream": 0,
+            "code": 10110,
+            "name": "ShowMessage",
+            "indent": 0,
+            "string": "Evil Dead: Attacking is useless! You will pay ",
+            "parameters": []
+          },
+          {
+            "index": 1,
+            "byte_offset_in_command_stream": 51,
+            "code": 20110,
+            "name": "ShowMessage_2",
+            "indent": 0,
+            "string": "for your insolence!",
+            "parameters": []
+          },
+          {
+            "index": 2,
+            "byte_offset_in_command_stream": 76,
+            "code": 10110,
+            "name": "ShowMessage",
+            "indent": 0,
+            "string": "Evil Dead: All powers of evil, and dark! Unleash ",
+            "parameters": []
+          },
+          {
+            "index": 3,
+            "byte_offset_in_command_stream": 130,
+            "code": 20110,
+            "name": "ShowMessage_2",
+            "indent": 0,
+            "string": "the Nova of your hatred!",
+            "parameters": []
+          },
+          {
+            "index": 4,
+            "byte_offset_in_command_stream": 160,
+            "code": 10110,
+            "name": "ShowMessage",
+            "indent": 0,
+            "string": "Darkness Nova",
+            "parameters": []
+          },
+          {
+            "index": 5,
+            "byte_offset_in_command_stream": 178,
+            "code": 13260,
+            "name": "ShowBattleAnimation_B",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              128,
+              -1,
+              1
+            ]
+          },
+          {
+            "index": 6,
+            "byte_offset_in_command_stream": 191,
+            "code": 10460,
+            "name": "ChangeHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              0,
+              1,
+              0,
+              9999,
+              0
+            ]
+          },
+          {
+            "index": 7,
+            "byte_offset_in_command_stream": 203,
+            "code": 12310,
+            "name": "EndEventProcessing",
+            "indent": 0,
+            "string": "",
+            "parameters": []
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "condition": {
+          "flags": 512,
+          "command_actor_id": 3
+        },
+        "event_commands_size": 212,
+        "event_commands": [
+          {
+            "index": 0,
+            "byte_offset_in_command_stream": 0,
+            "code": 10110,
+            "name": "ShowMessage",
+            "indent": 0,
+            "string": "Evil Dead: Attacking is useless! You will pay ",
+            "parameters": []
+          },
+          {
+            "index": 1,
+            "byte_offset_in_command_stream": 51,
+            "code": 20110,
+            "name": "ShowMessage_2",
+            "indent": 0,
+            "string": "for your insolence!",
+            "parameters": []
+          },
+          {
+            "index": 2,
+            "byte_offset_in_command_stream": 76,
+            "code": 10110,
+            "name": "ShowMessage",
+            "indent": 0,
+            "string": "Evil Dead: All powers of evil, and dark! Unleash ",
+            "parameters": []
+          },
+          {
+            "index": 3,
+            "byte_offset_in_command_stream": 130,
+            "code": 20110,
+            "name": "ShowMessage_2",
+            "indent": 0,
+            "string": "the Nova of your hatred!",
+            "parameters": []
+          },
+          {
+            "index": 4,
+            "byte_offset_in_command_stream": 160,
+            "code": 10110,
+            "name": "ShowMessage",
+            "indent": 0,
+            "string": "Darkness Nova",
+            "parameters": []
+          },
+          {
+            "index": 5,
+            "byte_offset_in_command_stream": 178,
+            "code": 13260,
+            "name": "ShowBattleAnimation_B",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              128,
+              -1,
+              1
+            ]
+          },
+          {
+            "index": 6,
+            "byte_offset_in_command_stream": 191,
+            "code": 10460,
+            "name": "ChangeHP",
+            "indent": 0,
+            "string": "",
+            "parameters": [
+              0,
+              0,
+              1,
+              0,
+              9999,
+              0
+            ]
+          },
+          {
+            "index": 7,
+            "byte_offset_in_command_stream": 203,
+            "code": 12310,
+            "name": "EndEventProcessing",
+            "indent": 0,
+            "string": "",
+            "parameters": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "JungleBoss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 17,
+        "x": 76,
+        "y": 80
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "FunnytownBoss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 10,
+        "x": 68,
+        "y": 80
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Boss",
+    "members": [
+      {
+        "id": 1,
+        "enemy_id": 34,
+        "x": 44,
+        "y": 104
+      },
+      {
+        "id": 2,
+        "enemy_id": 34,
+        "x": 112,
+        "y": 72
+      }
+    ],
+    "terrain_set": [],
+    "pages": [
+      {
+        "id": 1,
+        "condition": {
+          "flags": 0
+        },
+        "event_commands_size": 4,
+        "event_commands": []
+      }
+    ]
+  }
+]

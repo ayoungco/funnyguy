@@ -7,7 +7,7 @@ or a human to re-browse 21GB of legacy files each time.
 Sources (see ../README.md):
   - ../../funnyguycomics   (Hugo archive, original webcomic)
   - ../../funnyguyrpg      (RPG Maker 2000/2003 game)
-  - /mnt/creative/funnyguy   (legacy raw dump, read-only)
+  - /mnt/hdd/assets   (legacy raw dump, read-only)
 
 Usage:
     python3 discover_assets.py [--out ../references/asset_manifest.csv]
@@ -27,7 +27,7 @@ REPO_ROOT = SCRIPT_DIR.parent
 SOURCES = {
     "funnyguycomics": REPO_ROOT.parent / "funnyguycomics",
     "funnyguyrpg": REPO_ROOT.parent / "funnyguyrpg",
-    "legacy_dump": Path("/mnt/creative/funnyguy"),
+    "legacy_dump": Path("/mnt/hdd/assets"),
 }
 
 # Legacy-dump top-level dirs that are backups/junk/unrelated, not source
@@ -43,9 +43,9 @@ STOCK_PREFIXES = ("DH-", "FX-")
 # the closest thing to "official" art for the cast in each style.
 CANONICAL_PATHS = {
     "funnyguycomics/static/comics/001_the_funny_guy.png",
-    "funnyguyrpg/CharSet/fg2.png",
-    "funnyguyrpg/CharSet/FG-GrayCharas.png",
-    "funnyguyrpg/FaceSet/fgs.png",
+    "funnyguyrpg/game/CharSet/fg2.png",
+    "funnyguyrpg/game/CharSet/FG-GrayCharas.png",
+    "funnyguyrpg/game/FaceSet/fgs.png",
 }
 
 ASSET_EXTS = {
@@ -62,7 +62,7 @@ def origin_for(source: str, rel_path: str, name: str) -> str:
     if source == "funnyguyrpg":
         if name.startswith(STOCK_PREFIXES):
             return "stock-rpgmaker"
-        return "original-rpg"
+        return "rpg-unreviewed"
     if source == "legacy_dump":
         return "legacy-unsorted"
     return "unknown"
@@ -127,7 +127,7 @@ def main():
     out_path = Path(args.out)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     with out_path.open("w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["source", "path", "ext", "size_bytes", "mtime", "origin"])
+        writer = csv.DictWriter(f, lineterminator="\n", fieldnames=["source", "path", "ext", "size_bytes", "mtime", "origin"])
         writer.writeheader()
         writer.writerows(rows)
 

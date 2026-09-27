@@ -1,0 +1,1564 @@
+{
+  "chipset_id": 3,
+  "scroll_type": 0,
+  "generator_height": 2,
+  "generator_x": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_y": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_tile_ids": [
+    49,
+    49,
+    49,
+    49,
+    49,
+    49,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007
+  ],
+  "lower_layer": [
+    5123,
+    5129,
+    5124,
+    5124,
+    5061,
+    5124,
+    5137,
+    5061,
+    5124,
+    5124,
+    5061,
+    5124,
+    5124,
+    5061,
+    3016,
+    3024,
+    5061,
+    5124,
+    5124,
+    5061,
+    5123,
+    5129,
+    5136,
+    5137,
+    5033,
+    5136,
+    5033,
+    5033,
+    5136,
+    5137,
+    5033,
+    5137,
+    5136,
+    5033,
+    3016,
+    3024,
+    5033,
+    5137,
+    5136,
+    5034,
+    5123,
+    5129,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    4546,
+    0,
+    0,
+    4546,
+    5000,
+    5000,
+    5000,
+    5123,
+    5129,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    4584,
+    4570,
+    4570,
+    4586,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    4590,
+    4578,
+    4578,
+    4588,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    4542,
+    0,
+    0,
+    4542,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    4544,
+    0,
+    0,
+    4544,
+    5000,
+    5000,
+    5000,
+    5026,
+    5027,
+    5027,
+    5027,
+    5027,
+    5027,
+    5027,
+    5027,
+    5027,
+    5027,
+    5027,
+    5027,
+    5027,
+    5027,
+    3016,
+    3024,
+    5027,
+    5027,
+    5123,
+    5129,
+    5032,
+    5033,
+    5033,
+    5033,
+    5033,
+    5033,
+    5033,
+    5033,
+    5033,
+    5033,
+    5033,
+    5033,
+    5033,
+    5033,
+    3016,
+    3024,
+    5033,
+    5033,
+    5123,
+    5129,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    4542,
+    0,
+    0,
+    4542,
+    5000,
+    5123,
+    5129,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    4532,
+    0,
+    0,
+    4532,
+    5000,
+    5123,
+    5129,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    4541,
+    4533,
+    4533,
+    4539,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000,
+    5000
+  ],
+  "upper_layer": [
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10048,
+    10000,
+    10000,
+    10048,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10026,
+    10000,
+    10089,
+    10026,
+    10000,
+    10000,
+    10026,
+    10000,
+    10000,
+    10026,
+    10000,
+    10000,
+    10026,
+    10000,
+    10000,
+    10026,
+    10000,
+    10000,
+    10085,
+    10000,
+    10000,
+    10000,
+    10095,
+    10090,
+    10000,
+    10000,
+    10099,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10109,
+    10110,
+    10110,
+    10110,
+    10110,
+    10111,
+    10000,
+    10105,
+    10092,
+    10106,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10105,
+    10092,
+    10106,
+    10000,
+    10105,
+    10092,
+    10106,
+    10000,
+    10105,
+    10092,
+    10106,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10037,
+    10031,
+    10031,
+    10031,
+    10031,
+    10031,
+    10031,
+    10031,
+    10031,
+    10031,
+    10031,
+    10031,
+    10031,
+    10043,
+    10000,
+    10000,
+    10037,
+    10043,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10125,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10048,
+    10000,
+    10000,
+    10048,
+    10000,
+    10000,
+    10000,
+    10062,
+    10048,
+    10061,
+    10048,
+    10066,
+    10067,
+    10048,
+    10131,
+    10000,
+    10000,
+    10048,
+    10078,
+    10000,
+    10048,
+    10000,
+    10000,
+    10048,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10090,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10006,
+    10000,
+    10000,
+    10109,
+    10110,
+    10110,
+    10110,
+    10110,
+    10110,
+    10111,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10006,
+    10000,
+    10000,
+    10085,
+    10085,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "EV0001",
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 13,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                25,
+                0,
+                14,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EV0002",
+      "x": 1,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 13,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                25,
+                1,
+                14,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "EV0003",
+      "x": 9,
+      "y": 14,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_index": 80,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 13,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                23,
+                6,
+                9,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "EV0004",
+      "x": 10,
+      "y": 14,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_index": 80,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 13,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                23,
+                6,
+                9,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "EV0005",
+      "x": 7,
+      "y": 7,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 4,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 11,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11070,
+              "name": "WeatherEffects",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                2
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "EV0006",
+      "x": 3,
+      "y": 9,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "char5",
+          "character_index": 3,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 12,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10730,
+              "name": "ShowInn",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                30,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "EV0007",
+      "x": 4,
+      "y": 2,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "char5",
+          "character_index": 2,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 34,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Man: Dontchoo talk to me.",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "EV0008",
+      "x": 8,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "char5",
+          "character_index": 7,
+          "character_direction": 3,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 211,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Man: Listen close... I hear there's a ",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 43,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "hidden treasure stronghold, somewhere",
+              "parameters": []
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 86,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "in Laugh Jungle.",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 108,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Man: You can't see it from the river,",
+              "parameters": []
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 150,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "but I know it used to be our capital",
+              "parameters": []
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 192,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "building.",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "EV0009",
+      "x": 9,
+      "y": 11,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "char4",
+          "character_index": 3,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 1,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 100,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Woman: It's ALWAYS raining. I wish we could",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 48,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "set up some kind of underground highway...",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "EV0010",
+      "x": 11,
+      "y": 8,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 63,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Interior river graciously donated",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 38,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "by EvLabs, inc.",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "EV0011",
+      "x": 17,
+      "y": 3,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "char4",
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 1,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 106,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Boy: The Funny Guy Bay contributes",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 39,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "for most of our water, including this indoor ",
+              "parameters": []
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 90,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "river.",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "EV0012",
+      "x": 14,
+      "y": 13,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "char1",
+          "character_index": 2,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 1,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 155,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Man: People come from all around",
+              "parameters": []
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 37,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "just to stay at this place.",
+              "parameters": []
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 70,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Man: What's the real point? I mean with ",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 115,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "all the mosquitos, and rain...",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "EV0013",
+      "x": 1,
+      "y": 13,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Effects",
+          "character_index": 3,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 12,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 12330,
+              "name": "CallEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                2,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "EV0014",
+      "x": 14,
+      "y": 8,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Effects",
+          "character_index": 1,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_speed": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "EV0015",
+      "x": 2,
+      "y": 13,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 10,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11930,
+              "name": "ChangeSaveAccess",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "EV0016",
+      "x": 1,
+      "y": 12,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 10,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11930,
+              "name": "ChangeSaveAccess",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "EV0017",
+      "y": 13,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 10,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11930,
+              "name": "ChangeSaveAccess",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "EV0018",
+      "x": 1,
+      "y": 14,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 10,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11930,
+              "name": "ChangeSaveAccess",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "EV0019",
+      "x": 15,
+      "y": 8,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Effects",
+          "character_index": 1,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_speed": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "EV0020",
+      "x": 15,
+      "y": 1,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Effects",
+          "character_index": 1,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_speed": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "EV0021",
+      "x": 14,
+      "y": 1,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Effects",
+          "character_index": 1,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_speed": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    }
+  ],
+  "save_count": 73,
+  "id": 24,
+  "name": "BCInnPub",
+  "source": "Map0024.lmu"
+}

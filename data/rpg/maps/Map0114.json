@@ -1,0 +1,4294 @@
+{
+  "chipset_id": 27,
+  "scroll_type": 0,
+  "generator_height": 2,
+  "generator_x": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_y": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_tile_ids": [
+    49,
+    49,
+    49,
+    49,
+    49,
+    49,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007
+  ],
+  "lower_layer": [
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5100,
+    5110,
+    5110,
+    5101,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5105,
+    5098,
+    5098,
+    5116,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5106,
+    5111,
+    5111,
+    5107,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5100,
+    5110,
+    5110,
+    5110,
+    5110,
+    5110,
+    5110,
+    5110,
+    5110,
+    5110,
+    5110,
+    5110,
+    5110,
+    5101,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5105,
+    5098,
+    5099,
+    5122,
+    5122,
+    5098,
+    5098,
+    5099,
+    5122,
+    5098,
+    5098,
+    5099,
+    5099,
+    5116,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5105,
+    5098,
+    5099,
+    5098,
+    5098,
+    5098,
+    5098,
+    5099,
+    5098,
+    5098,
+    5098,
+    5099,
+    5099,
+    5116,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5105,
+    5098,
+    5099,
+    5122,
+    5122,
+    5098,
+    5098,
+    5099,
+    5122,
+    5098,
+    5098,
+    5099,
+    5099,
+    5116,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5105,
+    5098,
+    5099,
+    5098,
+    5098,
+    5098,
+    5098,
+    5099,
+    5098,
+    5098,
+    5098,
+    5099,
+    5099,
+    5116,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5105,
+    5098,
+    5099,
+    5122,
+    5098,
+    5098,
+    5098,
+    5099,
+    5122,
+    5098,
+    5098,
+    5099,
+    5099,
+    5116,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5105,
+    5098,
+    5099,
+    5098,
+    5098,
+    5098,
+    5098,
+    5099,
+    5098,
+    5098,
+    5098,
+    5099,
+    5099,
+    5116,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5105,
+    5098,
+    5099,
+    5122,
+    5098,
+    5098,
+    5098,
+    5099,
+    5122,
+    5098,
+    5098,
+    5099,
+    5099,
+    5116,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5105,
+    5098,
+    5099,
+    5098,
+    5098,
+    5098,
+    5098,
+    5099,
+    5098,
+    5098,
+    5098,
+    5099,
+    5099,
+    5116,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5105,
+    5098,
+    5099,
+    5098,
+    5098,
+    5098,
+    5098,
+    5099,
+    5098,
+    5098,
+    5098,
+    5099,
+    5099,
+    5116,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5105,
+    5098,
+    5098,
+    5098,
+    5098,
+    5098,
+    5098,
+    5099,
+    5098,
+    5098,
+    5098,
+    5099,
+    5099,
+    5116,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5142,
+    5106,
+    5111,
+    5111,
+    5111,
+    5111,
+    5111,
+    5111,
+    5111,
+    5111,
+    5111,
+    5111,
+    5111,
+    5111,
+    5107,
+    5142,
+    5142,
+    5142
+  ],
+  "upper_layer": [
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10015,
+    10016,
+    10017,
+    10108,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10063,
+    10064,
+    10000,
+    10000,
+    10000,
+    10082,
+    10083,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10084,
+    10085,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "EV0001",
+      "x": 9,
+      "y": 1,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "other_fg",
+          "character_index": 3,
+          "character_direction": 1,
+          "translucent": false,
+          "move_type": 6,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EV0002",
+      "x": 10,
+      "y": 11,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 90,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 12,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 23,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 27,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 33,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                2,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 45,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 56,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 60,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 66,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 70,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 76,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 80,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "EnGy",
+      "x": 6,
+      "y": 6,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects2",
+          "character_index": 6,
+          "character_direction": 0,
+          "character_pattern": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "EV0004",
+      "x": 5,
+      "y": 6,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 215,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "sound-save",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 18,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                105,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 29,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 1,
+              "string": "Learn Chaos Magic?",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 52,
+              "code": 10140,
+              "name": "ShowChoice",
+              "indent": 1,
+              "string": "Yes/No",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 64,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "Yes",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 74,
+              "code": 11210,
+              "name": "ShowBattleAnimation",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                69,
+                5,
+                1,
+                0
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 83,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                0,
+                193,
+                193,
+                0
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 94,
+              "code": 10440,
+              "name": "ChangeSkills",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                1,
+                6,
+                0,
+                0,
+                153
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 105,
+              "code": 10320,
+              "name": "ChangeItems",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                1,
+                0,
+                105,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 115,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 119,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "No",
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 128,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 12,
+              "byte_offset_in_command_stream": 132,
+              "code": 20141,
+              "name": "ShowChoiceEnd",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 13,
+              "byte_offset_in_command_stream": 138,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 14,
+              "byte_offset_in_command_stream": 142,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 15,
+              "byte_offset_in_command_stream": 148,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 1,
+              "string": "failure1",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 16,
+              "byte_offset_in_command_stream": 164,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 1,
+              "string": "You don't have a Scroll of Time.",
+              "parameters": []
+            },
+            {
+              "index": 17,
+              "byte_offset_in_command_stream": 201,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 18,
+              "byte_offset_in_command_stream": 205,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 193,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chaos",
+      "x": 7,
+      "y": 6,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 193,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects2",
+          "character_index": 7,
+          "character_direction": 0,
+          "character_pattern": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "EV0006",
+      "x": 10,
+      "y": 8,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 219,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "sound-save",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 18,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                89,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 29,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 1,
+              "string": "Learn Fixation Magic?",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 55,
+              "code": 10140,
+              "name": "ShowChoice",
+              "indent": 1,
+              "string": "Yes/No",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 67,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "Yes",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 77,
+              "code": 11210,
+              "name": "ShowBattleAnimation",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                69,
+                7,
+                1,
+                0
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 86,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                0,
+                194,
+                194,
+                0
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 97,
+              "code": 10440,
+              "name": "ChangeSkills",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                1,
+                6,
+                0,
+                0,
+                154
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 108,
+              "code": 10320,
+              "name": "ChangeItems",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                1,
+                0,
+                89,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 118,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 122,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "No",
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 131,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 12,
+              "byte_offset_in_command_stream": 135,
+              "code": 20141,
+              "name": "ShowChoiceEnd",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 13,
+              "byte_offset_in_command_stream": 141,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 14,
+              "byte_offset_in_command_stream": 145,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 15,
+              "byte_offset_in_command_stream": 151,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 1,
+              "string": "failure1",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 16,
+              "byte_offset_in_command_stream": 167,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 1,
+              "string": "You don't have a Scroll of Power.",
+              "parameters": []
+            },
+            {
+              "index": 17,
+              "byte_offset_in_command_stream": 205,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 18,
+              "byte_offset_in_command_stream": 209,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 194,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Freak",
+      "x": 11,
+      "y": 8,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 194,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects2",
+          "character_index": 6,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "EV0008",
+      "x": 5,
+      "y": 8,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 215,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "sound-save",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 18,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                106,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 29,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 1,
+              "string": "Learn Fissure?",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 48,
+              "code": 10140,
+              "name": "ShowChoice",
+              "indent": 1,
+              "string": "Yes/No",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 60,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "Yes",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 70,
+              "code": 11210,
+              "name": "ShowBattleAnimation",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                69,
+                9,
+                1,
+                0
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 79,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                0,
+                195,
+                195,
+                0
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 90,
+              "code": 10440,
+              "name": "ChangeSkills",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                1,
+                6,
+                0,
+                0,
+                126
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 100,
+              "code": 10320,
+              "name": "ChangeItems",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                1,
+                0,
+                106,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 110,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 114,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "No",
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 123,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 12,
+              "byte_offset_in_command_stream": 127,
+              "code": 20141,
+              "name": "ShowChoiceEnd",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 13,
+              "byte_offset_in_command_stream": 133,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 14,
+              "byte_offset_in_command_stream": 137,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 15,
+              "byte_offset_in_command_stream": 143,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 1,
+              "string": "failure1",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 16,
+              "byte_offset_in_command_stream": 159,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 1,
+              "string": "You don't have a Scroll of Magnitude.",
+              "parameters": []
+            },
+            {
+              "index": 17,
+              "byte_offset_in_command_stream": 201,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 18,
+              "byte_offset_in_command_stream": 205,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 195,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Fissure",
+      "x": 6,
+      "y": 8,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 195,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects2",
+          "character_index": 3,
+          "character_direction": 0,
+          "character_pattern": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "EV0014",
+      "x": 10,
+      "y": 9,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 90,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 12,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 23,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 27,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 33,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                2,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 45,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 56,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 60,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 66,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 70,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 76,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 80,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "EV0015",
+      "x": 10,
+      "y": 13,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 26,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "bleep",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 13,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                103,
+                10,
+                7,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "EV0016",
+      "x": 10,
+      "y": 7,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 90,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 12,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 23,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 27,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 33,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                2,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 45,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 56,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 60,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 66,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 70,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 76,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 80,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "EV0017",
+      "x": 10,
+      "y": 12,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 26,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "bleep",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 13,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                114,
+                5,
+                4,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "EV0018",
+      "x": 10,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 90,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 12,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 23,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 27,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 33,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                2,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 45,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 56,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 60,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 66,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 70,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 76,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 80,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "EV0019",
+      "x": 5,
+      "y": 12,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 31,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "sound-save",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 18,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                114,
+                10,
+                4,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "EV0020",
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 4,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 45,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11610,
+              "name": "KeyInputProc",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                84,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 19,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "bleep",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 32,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                103,
+                10,
+                7,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Erupt",
+      "x": 11,
+      "y": 4,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_index": 120,
+          "character_direction": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Cavein",
+      "x": 11,
+      "y": 6,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects2",
+          "character_index": 4,
+          "character_direction": 0,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "fg",
+      "x": 10,
+      "y": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 328,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "sound-save",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 18,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                104,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 29,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                5,
+                6,
+                2,
+                45,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 40,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 2,
+              "string": "Learn Exile Magic?",
+              "parameters": []
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 63,
+              "code": 10140,
+              "name": "ShowChoice",
+              "indent": 2,
+              "string": "Yes/No",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 75,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 2,
+              "string": "Yes",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 85,
+              "code": 11210,
+              "name": "ShowBattleAnimation",
+              "indent": 3,
+              "string": "",
+              "parameters": [
+                69,
+                27,
+                1,
+                0
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 94,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 3,
+              "string": "",
+              "parameters": [
+                0,
+                192,
+                192,
+                0
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 105,
+              "code": 10440,
+              "name": "ChangeSkills",
+              "indent": 3,
+              "string": "",
+              "parameters": [
+                1,
+                6,
+                0,
+                0,
+                155
+              ]
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 116,
+              "code": 10320,
+              "name": "ChangeItems",
+              "indent": 3,
+              "string": "",
+              "parameters": [
+                1,
+                0,
+                104,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 126,
+              "code": 10,
+              "name": "END",
+              "indent": 3,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 130,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 2,
+              "string": "No",
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "index": 12,
+              "byte_offset_in_command_stream": 139,
+              "code": 10,
+              "name": "END",
+              "indent": 3,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 13,
+              "byte_offset_in_command_stream": 143,
+              "code": 20141,
+              "name": "ShowChoiceEnd",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 14,
+              "byte_offset_in_command_stream": 149,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 15,
+              "byte_offset_in_command_stream": 153,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 16,
+              "byte_offset_in_command_stream": 159,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 2,
+              "string": "failure1",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 17,
+              "byte_offset_in_command_stream": 175,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 2,
+              "string": "You must be at least at level 45 to",
+              "parameters": []
+            },
+            {
+              "index": 18,
+              "byte_offset_in_command_stream": 215,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 2,
+              "string": "learn this move.",
+              "parameters": []
+            },
+            {
+              "index": 19,
+              "byte_offset_in_command_stream": 237,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 20,
+              "byte_offset_in_command_stream": 241,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 21,
+              "byte_offset_in_command_stream": 247,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 22,
+              "byte_offset_in_command_stream": 251,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 23,
+              "byte_offset_in_command_stream": 257,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 1,
+              "string": "failure1",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 24,
+              "byte_offset_in_command_stream": 273,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 1,
+              "string": "You don't have a Scroll of Darkness.",
+              "parameters": []
+            },
+            {
+              "index": 25,
+              "byte_offset_in_command_stream": 314,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 26,
+              "byte_offset_in_command_stream": 318,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 192,
+            "actor_id": 1
+          },
+          "character_direction": 3,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Darkness",
+      "x": 11,
+      "y": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 192,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects2",
+          "character_index": 5,
+          "character_direction": 3,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "EV0031",
+      "x": 5,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 90,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 12,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 23,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 27,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 33,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                2,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 45,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 56,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 60,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 66,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 70,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 76,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 80,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "EV0032",
+      "x": 5,
+      "y": 7,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 90,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 12,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 23,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 27,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 33,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                2,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 45,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 56,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 60,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 66,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 70,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 76,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 80,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "EV0037",
+      "x": 5,
+      "y": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 214,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "sound-save",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 18,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                105,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 29,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 1,
+              "string": "Learn Time Magic?",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 51,
+              "code": 10140,
+              "name": "ShowChoice",
+              "indent": 1,
+              "string": "Yes/No",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 63,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "Yes",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 73,
+              "code": 11210,
+              "name": "ShowBattleAnimation",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                69,
+                38,
+                1,
+                0
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 82,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                0,
+                196,
+                196,
+                0
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 93,
+              "code": 10440,
+              "name": "ChangeSkills",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                1,
+                6,
+                0,
+                0,
+                144
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 104,
+              "code": 10320,
+              "name": "ChangeItems",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                1,
+                0,
+                105,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 114,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 118,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "No",
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 127,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 12,
+              "byte_offset_in_command_stream": 131,
+              "code": 20141,
+              "name": "ShowChoiceEnd",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 13,
+              "byte_offset_in_command_stream": 137,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 14,
+              "byte_offset_in_command_stream": 141,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 15,
+              "byte_offset_in_command_stream": 147,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 1,
+              "string": "failure1",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 16,
+              "byte_offset_in_command_stream": 163,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 1,
+              "string": "You don't have a Scroll of Time.",
+              "parameters": []
+            },
+            {
+              "index": 17,
+              "byte_offset_in_command_stream": 200,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 18,
+              "byte_offset_in_command_stream": 204,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 196,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Scar",
+      "x": 6,
+      "y": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 196,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects2",
+          "character_index": 7,
+          "character_direction": 0,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "EV0039",
+      "x": 5,
+      "y": 9,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 90,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 12,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 23,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 27,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 33,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                2,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 45,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 56,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 60,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 66,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 70,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 76,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 80,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "EV0040",
+      "x": 5,
+      "y": 11,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 90,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 12,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 23,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 27,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 33,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": [
+                6,
+                10001,
+                2,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 45,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 56,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 60,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 66,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 70,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 76,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 80,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Meteor1",
+      "x": 6,
+      "y": 4,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects2",
+          "character_index": 6,
+          "character_direction": 3,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Meteor2",
+      "x": 7,
+      "y": 4,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 191,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects2",
+          "character_index": 6,
+          "character_direction": 3,
+          "character_pattern": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "EV0043",
+      "x": 5,
+      "y": 4,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 218,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "sound-save",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 18,
+              "code": 12010,
+              "name": "ConditionalBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                95,
+                0,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 29,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 1,
+              "string": "Learn Meteor Magic?",
+              "parameters": []
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 53,
+              "code": 10140,
+              "name": "ShowChoice",
+              "indent": 1,
+              "string": "Yes/No",
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 65,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "Yes",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 75,
+              "code": 11210,
+              "name": "ShowBattleAnimation",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                69,
+                42,
+                1,
+                0
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 84,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                0,
+                191,
+                191,
+                0
+              ]
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 95,
+              "code": 10440,
+              "name": "ChangeSkills",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                1,
+                6,
+                0,
+                0,
+                55
+              ]
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 105,
+              "code": 10320,
+              "name": "ChangeItems",
+              "indent": 2,
+              "string": "",
+              "parameters": [
+                1,
+                0,
+                95,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 115,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 119,
+              "code": 20140,
+              "name": "ShowChoiceOption",
+              "indent": 1,
+              "string": "No",
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 128,
+              "code": 10,
+              "name": "END",
+              "indent": 2,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 12,
+              "byte_offset_in_command_stream": 132,
+              "code": 20141,
+              "name": "ShowChoiceEnd",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 13,
+              "byte_offset_in_command_stream": 138,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 14,
+              "byte_offset_in_command_stream": 142,
+              "code": 22010,
+              "name": "ElseBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 15,
+              "byte_offset_in_command_stream": 148,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 1,
+              "string": "failure1",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 16,
+              "byte_offset_in_command_stream": 164,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 1,
+              "string": "You don't have a Scroll of Meteors.",
+              "parameters": []
+            },
+            {
+              "index": 17,
+              "byte_offset_in_command_stream": 204,
+              "code": 10,
+              "name": "END",
+              "indent": 1,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 18,
+              "byte_offset_in_command_stream": 208,
+              "code": 22011,
+              "name": "EndBranch",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 191,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    }
+  ],
+  "save_count": 185,
+  "id": 114,
+  "name": "TimeT Skills",
+  "source": "Map0114.lmu"
+}

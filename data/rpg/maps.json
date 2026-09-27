@@ -1,0 +1,2537 @@
+[
+  {
+    "id": 1,
+    "name": "Funnytown",
+    "source": "Map0001.lmu",
+    "width": 200,
+    "height": 200,
+    "event_count": 46
+  },
+  {
+    "id": 2,
+    "name": "GasTown",
+    "source": "Map0002.lmu",
+    "width": 25,
+    "height": 20,
+    "chipset_id": 2,
+    "event_count": 27
+  },
+  {
+    "id": 3,
+    "name": "SilentCreekForest",
+    "source": "Map0003.lmu",
+    "height": 81,
+    "event_count": 9
+  },
+  {
+    "id": 4,
+    "name": "FG'sHouse",
+    "source": "Map0004.lmu",
+    "chipset_id": 22,
+    "event_count": 6
+  },
+  {
+    "id": 5,
+    "name": "PottyP's",
+    "source": "Map0005.lmu",
+    "height": 17,
+    "chipset_id": 8,
+    "event_count": 15
+  },
+  {
+    "id": 6,
+    "name": "Basement",
+    "source": "Map0006.lmu",
+    "chipset_id": 4,
+    "event_count": 11
+  },
+  {
+    "id": 7,
+    "name": "Shed",
+    "source": "Map0007.lmu",
+    "chipset_id": 3,
+    "event_count": 2
+  },
+  {
+    "id": 8,
+    "name": "Sacred Tomb",
+    "source": "Map0008.lmu",
+    "height": 52,
+    "chipset_id": 14,
+    "event_count": 33
+  },
+  {
+    "id": 9,
+    "name": "Oblivion Castle",
+    "source": "Map0009.lmu",
+    "width": 40,
+    "height": 35,
+    "chipset_id": 2,
+    "event_count": 12
+  },
+  {
+    "id": 10,
+    "name": "Throne Room",
+    "source": "Map0010.lmu",
+    "width": 25,
+    "height": 17,
+    "chipset_id": 6,
+    "event_count": 11
+  },
+  {
+    "id": 11,
+    "name": "GasTownStore",
+    "source": "Map0011.lmu",
+    "chipset_id": 3,
+    "event_count": 5
+  },
+  {
+    "id": 12,
+    "name": "House",
+    "source": "Map0012.lmu",
+    "height": 20,
+    "chipset_id": 3,
+    "event_count": 7
+  },
+  {
+    "id": 13,
+    "name": "ToiletCity",
+    "source": "Map0013.lmu",
+    "width": 40,
+    "height": 45,
+    "chipset_id": 2,
+    "event_count": 41
+  },
+  {
+    "id": 14,
+    "name": "ToiletCityInn",
+    "source": "Map0014.lmu",
+    "chipset_id": 3,
+    "event_count": 3
+  },
+  {
+    "id": 15,
+    "name": "Castle Locks",
+    "source": "Map0015.lmu",
+    "height": 30,
+    "chipset_id": 6,
+    "event_count": 10
+  },
+  {
+    "id": 16,
+    "name": "Docks",
+    "source": "Map0016.lmu",
+    "height": 30,
+    "chipset_id": 4,
+    "event_count": 49
+  },
+  {
+    "id": 17,
+    "name": "DungeonsHub",
+    "source": "Map0017.lmu",
+    "width": 25,
+    "height": 35,
+    "chipset_id": 4,
+    "event_count": 13
+  },
+  {
+    "id": 18,
+    "name": "Cell",
+    "source": "Map0018.lmu",
+    "chipset_id": 4,
+    "event_count": 2
+  },
+  {
+    "id": 19,
+    "name": "MagmaHall",
+    "source": "Map0019.lmu",
+    "height": 51,
+    "chipset_id": 4,
+    "event_count": 25
+  },
+  {
+    "id": 20,
+    "name": "LavaCave",
+    "source": "Map0020.lmu",
+    "height": 27,
+    "chipset_id": 4,
+    "event_count": 39
+  },
+  {
+    "id": 21,
+    "name": "ToiletCityItem",
+    "source": "Map0021.lmu",
+    "chipset_id": 3,
+    "event_count": 3
+  },
+  {
+    "id": 22,
+    "name": "LaughJungle",
+    "source": "Map0022.lmu",
+    "width": 230,
+    "height": 155,
+    "event_count": 44
+  },
+  {
+    "id": 23,
+    "name": "BromiliadCity",
+    "source": "Map0023.lmu",
+    "width": 40,
+    "height": 30,
+    "chipset_id": 2,
+    "event_count": 14
+  },
+  {
+    "id": 24,
+    "name": "BCInnPub",
+    "source": "Map0024.lmu",
+    "chipset_id": 3,
+    "event_count": 21
+  },
+  {
+    "id": 25,
+    "name": "BCInnPub2",
+    "source": "Map0025.lmu",
+    "chipset_id": 3,
+    "event_count": 9
+  },
+  {
+    "id": 26,
+    "name": "Hidden Garden",
+    "source": "Map0026.lmu",
+    "height": 35,
+    "event_count": 8
+  },
+  {
+    "id": 27,
+    "name": "LibraryBC",
+    "source": "Map0027.lmu",
+    "height": 20,
+    "chipset_id": 3,
+    "event_count": 12
+  },
+  {
+    "id": 28,
+    "name": "BCShop",
+    "source": "Map0028.lmu",
+    "chipset_id": 3,
+    "event_count": 3
+  },
+  {
+    "id": 29,
+    "name": "Stronghold",
+    "source": "Map0029.lmu",
+    "height": 65,
+    "chipset_id": 4,
+    "event_count": 36
+  },
+  {
+    "id": 30,
+    "name": "HouseP1",
+    "source": "Map0030.lmu",
+    "chipset_id": 3,
+    "event_count": 3
+  },
+  {
+    "id": 31,
+    "name": "Tunnel",
+    "source": "Map0031.lmu",
+    "chipset_id": 4,
+    "event_count": 5
+  },
+  {
+    "id": 32,
+    "name": "HouseP2",
+    "source": "Map0032.lmu",
+    "chipset_id": 3,
+    "event_count": 4
+  },
+  {
+    "id": 33,
+    "name": "Waterfall Cavern",
+    "source": "Map0033.lmu",
+    "height": 50,
+    "chipset_id": 4,
+    "event_count": 19
+  },
+  {
+    "id": 34,
+    "name": "Treasure Room",
+    "source": "Map0034.lmu",
+    "height": 30,
+    "chipset_id": 3,
+    "event_count": 47
+  },
+  {
+    "id": 35,
+    "name": "EntranceSTR",
+    "source": "Map0035.lmu",
+    "chipset_id": 3,
+    "event_count": 4
+  },
+  {
+    "id": 36,
+    "name": "ElevatorDown",
+    "source": "Map0036.lmu",
+    "chipset_id": 3,
+    "event_count": 4
+  },
+  {
+    "id": 37,
+    "name": "ElevatorUp",
+    "source": "Map0037.lmu",
+    "chipset_id": 3,
+    "event_count": 3
+  },
+  {
+    "id": 38,
+    "name": "Water Cave",
+    "source": "Map0038.lmu",
+    "width": 45,
+    "height": 20,
+    "chipset_id": 4,
+    "event_count": 7
+  },
+  {
+    "id": 39,
+    "name": "Path",
+    "source": "Map0039.lmu",
+    "width": 180,
+    "event_count": 10
+  },
+  {
+    "id": 40,
+    "name": "Lab Path",
+    "source": "Map0040.lmu",
+    "width": 30,
+    "chipset_id": 9,
+    "event_count": 18
+  },
+  {
+    "id": 41,
+    "name": "Lab",
+    "source": "Map0041.lmu",
+    "width": 35,
+    "height": 50,
+    "chipset_id": 12,
+    "event_count": 13
+  },
+  {
+    "id": 42,
+    "name": "Storage",
+    "source": "Map0042.lmu",
+    "width": 30,
+    "height": 25,
+    "chipset_id": 22,
+    "event_count": 45
+  },
+  {
+    "id": 43,
+    "name": "Experiment Hall",
+    "source": "Map0043.lmu",
+    "width": 21,
+    "height": 30,
+    "chipset_id": 12,
+    "event_count": 25
+  },
+  {
+    "id": 44,
+    "name": "LabBasement",
+    "source": "Map0044.lmu",
+    "chipset_id": 3,
+    "event_count": 6
+  },
+  {
+    "id": 45,
+    "name": "Sunburn Desert",
+    "source": "Map0045.lmu",
+    "width": 420,
+    "height": 380,
+    "chipset_id": 9,
+    "event_count": 73
+  },
+  {
+    "id": 46,
+    "name": "Ocean City",
+    "source": "Map0046.lmu",
+    "width": 50,
+    "height": 30,
+    "chipset_id": 15,
+    "event_count": 36
+  },
+  {
+    "id": 47,
+    "name": "OCCasino",
+    "source": "Map0047.lmu",
+    "width": 35,
+    "height": 25,
+    "chipset_id": 8,
+    "event_count": 19
+  },
+  {
+    "id": 48,
+    "name": "InnOC",
+    "source": "Map0048.lmu",
+    "width": 30,
+    "chipset_id": 8,
+    "event_count": 11
+  },
+  {
+    "id": 49,
+    "name": "Attic",
+    "source": "Map0049.lmu",
+    "chipset_id": 8,
+    "event_count": 6
+  },
+  {
+    "id": 51,
+    "name": "OCStore",
+    "source": "Map0051.lmu",
+    "chipset_id": 22,
+    "event_count": 5
+  },
+  {
+    "id": 52,
+    "name": "Intro",
+    "source": "Map0052.lmu",
+    "chipset_id": 11,
+    "event_count": 1
+  },
+  {
+    "id": 53,
+    "name": "Houses",
+    "source": "Map0053.lmu",
+    "width": 24,
+    "height": 30,
+    "chipset_id": 3,
+    "event_count": 8
+  },
+  {
+    "id": 54,
+    "name": "Tunnels",
+    "source": "Map0054.lmu",
+    "width": 60,
+    "height": 60,
+    "chipset_id": 4,
+    "event_count": 4
+  },
+  {
+    "id": 55,
+    "name": "Entrance",
+    "source": "Map0055.lmu",
+    "chipset_id": 4,
+    "event_count": 3
+  },
+  {
+    "id": 56,
+    "name": "Pre-Entrance",
+    "source": "Map0056.lmu",
+    "chipset_id": 4,
+    "event_count": 5
+  },
+  {
+    "id": 57,
+    "name": "Post-Entrance",
+    "source": "Map0057.lmu",
+    "height": 25,
+    "chipset_id": 4,
+    "event_count": 4
+  },
+  {
+    "id": 58,
+    "name": "L.O.P. Butter Factory",
+    "source": "Map0058.lmu",
+    "width": 40,
+    "height": 60,
+    "chipset_id": 21,
+    "event_count": 24
+  },
+  {
+    "id": 59,
+    "name": "Tunnels2",
+    "source": "Map0059.lmu",
+    "width": 30,
+    "height": 60,
+    "chipset_id": 4,
+    "event_count": 12
+  },
+  {
+    "id": 60,
+    "name": "Stairs",
+    "source": "Map0060.lmu",
+    "height": 50,
+    "chipset_id": 4,
+    "event_count": 5
+  },
+  {
+    "id": 61,
+    "name": "Cliff",
+    "source": "Map0061.lmu",
+    "width": 30,
+    "height": 30,
+    "event_count": 10
+  },
+  {
+    "id": 62,
+    "name": "Boulder Cave",
+    "source": "Map0062.lmu",
+    "width": 30,
+    "height": 30,
+    "chipset_id": 4,
+    "event_count": 91
+  },
+  {
+    "id": 63,
+    "name": "Boulder House",
+    "source": "Map0063.lmu",
+    "chipset_id": 3,
+    "event_count": 19
+  },
+  {
+    "id": 64,
+    "name": "LOPShop",
+    "source": "Map0064.lmu",
+    "chipset_id": 22,
+    "event_count": 5
+  },
+  {
+    "id": 65,
+    "name": "Tunnels3",
+    "source": "Map0065.lmu",
+    "width": 50,
+    "height": 38,
+    "chipset_id": 4,
+    "event_count": 15
+  },
+  {
+    "id": 66,
+    "name": "BH Cellar",
+    "source": "Map0066.lmu",
+    "height": 20,
+    "chipset_id": 3,
+    "event_count": 11
+  },
+  {
+    "id": 67,
+    "name": "Joey's House",
+    "source": "Map0067.lmu",
+    "width": 30,
+    "height": 25,
+    "chipset_id": 22,
+    "event_count": 16
+  },
+  {
+    "id": 68,
+    "name": "2nd Floor",
+    "source": "Map0068.lmu",
+    "width": 30,
+    "height": 25,
+    "chipset_id": 22,
+    "event_count": 21
+  },
+  {
+    "id": 69,
+    "name": "Flashback",
+    "source": "Map0069.lmu",
+    "chipset_id": 5,
+    "event_count": 3
+  },
+  {
+    "id": 70,
+    "name": "Flshbk2",
+    "source": "Map0070.lmu",
+    "chipset_id": 5,
+    "event_count": 2
+  },
+  {
+    "id": 71,
+    "name": "Inn/Pub",
+    "source": "Map0071.lmu",
+    "width": 26,
+    "height": 17,
+    "chipset_id": 22,
+    "event_count": 8
+  },
+  {
+    "id": 72,
+    "name": "House 4",
+    "source": "Map0072.lmu",
+    "width": 30,
+    "chipset_id": 22,
+    "event_count": 4
+  },
+  {
+    "id": 73,
+    "name": "House 3",
+    "source": "Map0073.lmu",
+    "width": 26,
+    "chipset_id": 22,
+    "event_count": 5
+  },
+  {
+    "id": 74,
+    "name": "Crack",
+    "source": "Map0074.lmu",
+    "width": 35,
+    "height": 25,
+    "chipset_id": 23,
+    "event_count": 8
+  },
+  {
+    "id": 75,
+    "name": "Conference",
+    "source": "Map0075.lmu",
+    "width": 21,
+    "height": 30,
+    "chipset_id": 23,
+    "event_count": 5
+  },
+  {
+    "id": 76,
+    "name": "Tunnels4",
+    "source": "Map0076.lmu",
+    "width": 180,
+    "chipset_id": 4,
+    "event_count": 8
+  },
+  {
+    "id": 77,
+    "name": "Tracks",
+    "source": "Map0077.lmu",
+    "width": 100,
+    "height": 100,
+    "chipset_id": 4,
+    "event_count": 30
+  },
+  {
+    "id": 78,
+    "name": "End1",
+    "source": "Map0078.lmu",
+    "height": 20,
+    "chipset_id": 4,
+    "event_count": 17
+  },
+  {
+    "id": 79,
+    "name": "Tunnel2SC",
+    "source": "Map0079.lmu",
+    "width": 30,
+    "chipset_id": 4,
+    "event_count": 13
+  },
+  {
+    "id": 80,
+    "name": "End2",
+    "source": "Map0080.lmu",
+    "height": 20,
+    "chipset_id": 4,
+    "event_count": 4
+  },
+  {
+    "id": 81,
+    "name": "Seagull City",
+    "source": "Map0081.lmu",
+    "width": 35,
+    "height": 35,
+    "chipset_id": 24,
+    "event_count": 24
+  },
+  {
+    "id": 82,
+    "name": "SCStore",
+    "source": "Map0082.lmu",
+    "chipset_id": 22,
+    "event_count": 5
+  },
+  {
+    "id": 83,
+    "name": "SCInn",
+    "source": "Map0083.lmu",
+    "height": 16,
+    "chipset_id": 22,
+    "event_count": 15
+  },
+  {
+    "id": 84,
+    "name": "SCHouses",
+    "source": "Map0084.lmu",
+    "chipset_id": 24,
+    "event_count": 14
+  },
+  {
+    "id": 85,
+    "name": "Basement",
+    "source": "Map0085.lmu",
+    "chipset_id": 22,
+    "event_count": 8
+  },
+  {
+    "id": 86,
+    "name": "Ship House",
+    "source": "Map0086.lmu",
+    "height": 20,
+    "chipset_id": 5,
+    "event_count": 18
+  },
+  {
+    "id": 87,
+    "name": "Dan's House",
+    "source": "Map0087.lmu",
+    "width": 25,
+    "height": 20,
+    "chipset_id": 22,
+    "event_count": 6
+  },
+  {
+    "id": 88,
+    "name": "2nd Floor (New)",
+    "source": "Map0088.lmu",
+    "width": 30,
+    "height": 25,
+    "chipset_id": 22,
+    "event_count": 10
+  },
+  {
+    "id": 89,
+    "name": "Chapel",
+    "source": "Map0089.lmu",
+    "chipset_id": 10,
+    "event_count": 12
+  },
+  {
+    "id": 90,
+    "name": "Ship",
+    "source": "Map0090.lmu",
+    "width": 35,
+    "chipset_id": 22,
+    "event_count": 17
+  },
+  {
+    "id": 91,
+    "name": "Ship Deck",
+    "source": "Map0091.lmu",
+    "height": 30,
+    "chipset_id": 5,
+    "event_count": 7
+  },
+  {
+    "id": 92,
+    "name": "Message",
+    "source": "Map0092.lmu",
+    "chipset_id": 22,
+    "event_count": 1
+  },
+  {
+    "id": 93,
+    "name": "Ship Deck (Arrived)",
+    "source": "Map0093.lmu",
+    "height": 30,
+    "chipset_id": 5,
+    "event_count": 10
+  },
+  {
+    "id": 94,
+    "name": "Ship (Arrived)",
+    "source": "Map0094.lmu",
+    "width": 35,
+    "chipset_id": 22,
+    "event_count": 13
+  },
+  {
+    "id": 95,
+    "name": "HLCaverns",
+    "source": "Map0095.lmu",
+    "width": 40,
+    "height": 65,
+    "chipset_id": 26,
+    "event_count": 18
+  },
+  {
+    "id": 96,
+    "name": "SwitchRoom1",
+    "source": "Map0096.lmu",
+    "chipset_id": 26,
+    "event_count": 2
+  },
+  {
+    "id": 97,
+    "name": "Main Room",
+    "source": "Map0097.lmu",
+    "width": 21,
+    "height": 30,
+    "chipset_id": 20,
+    "event_count": 4
+  },
+  {
+    "id": 98,
+    "name": "PusherHall",
+    "source": "Map0098.lmu",
+    "height": 50,
+    "chipset_id": 26,
+    "event_count": 58
+  },
+  {
+    "id": 99,
+    "name": "Switch Room",
+    "source": "Map0099.lmu",
+    "chipset_id": 26,
+    "event_count": 2
+  },
+  {
+    "id": 100,
+    "name": "InnerSR",
+    "source": "Map0100.lmu",
+    "chipset_id": 26,
+    "event_count": 3
+  },
+  {
+    "id": 102,
+    "name": "QuestMenu",
+    "source": "Map0102.lmu",
+    "chipset_id": 27,
+    "event_count": 11
+  },
+  {
+    "id": 103,
+    "name": "Master Skills",
+    "source": "Map0103.lmu",
+    "chipset_id": 27,
+    "event_count": 22
+  },
+  {
+    "id": 104,
+    "name": "Junior Skills",
+    "source": "Map0104.lmu",
+    "chipset_id": 27,
+    "event_count": 48
+  },
+  {
+    "id": 105,
+    "name": "Funny Guy Skills",
+    "source": "Map0105.lmu",
+    "chipset_id": 27,
+    "event_count": 42
+  },
+  {
+    "id": 106,
+    "name": "Warp Room",
+    "source": "Map0106.lmu",
+    "chipset_id": 20,
+    "event_count": 2
+  },
+  {
+    "id": 107,
+    "name": "Pond Village",
+    "source": "Map0107.lmu",
+    "width": 30,
+    "height": 20,
+    "chipset_id": 19,
+    "event_count": 10
+  },
+  {
+    "id": 108,
+    "name": "Hermit's House",
+    "source": "Map0108.lmu",
+    "chipset_id": 22,
+    "event_count": 5
+  },
+  {
+    "id": 109,
+    "name": "Caves of Learning",
+    "source": "Map0109.lmu",
+    "height": 18,
+    "chipset_id": 14,
+    "event_count": 11
+  },
+  {
+    "id": 110,
+    "name": "Razor Skills",
+    "source": "Map0110.lmu",
+    "chipset_id": 27,
+    "event_count": 41
+  },
+  {
+    "id": 111,
+    "name": "HeadingBack",
+    "source": "Map0111.lmu",
+    "chipset_id": 9,
+    "event_count": 2
+  },
+  {
+    "id": 112,
+    "name": "OCCelebration",
+    "source": "Map0112.lmu",
+    "width": 50,
+    "height": 30,
+    "chipset_id": 15,
+    "event_count": 89
+  },
+  {
+    "id": 113,
+    "name": "Gorge Canyon",
+    "source": "Map0113.lmu",
+    "width": 160,
+    "height": 90,
+    "chipset_id": 17,
+    "event_count": 136
+  },
+  {
+    "id": 114,
+    "name": "TimeT Skills",
+    "source": "Map0114.lmu",
+    "chipset_id": 27,
+    "event_count": 29
+  },
+  {
+    "id": 115,
+    "name": "Olympian Skills",
+    "source": "Map0115.lmu",
+    "chipset_id": 27,
+    "event_count": 32
+  },
+  {
+    "id": 116,
+    "name": "Target Skills",
+    "source": "Map0116.lmu",
+    "chipset_id": 27,
+    "event_count": 32
+  },
+  {
+    "id": 118,
+    "name": "2nd Elevation",
+    "source": "Map0118.lmu",
+    "width": 60,
+    "height": 120,
+    "chipset_id": 7,
+    "event_count": 49
+  },
+  {
+    "id": 119,
+    "name": "Target's House",
+    "source": "Map0119.lmu",
+    "chipset_id": 14,
+    "event_count": 8
+  },
+  {
+    "id": 120,
+    "name": "Dwelling",
+    "source": "Map0120.lmu",
+    "width": 30,
+    "height": 31,
+    "chipset_id": 22,
+    "event_count": 23
+  },
+  {
+    "id": 121,
+    "name": "Breeze City",
+    "source": "Map0121.lmu",
+    "width": 45,
+    "height": 60,
+    "chipset_id": 19,
+    "event_count": 116
+  },
+  {
+    "id": 122,
+    "name": "Tunnel",
+    "source": "Map0122.lmu",
+    "width": 45,
+    "height": 40,
+    "chipset_id": 14,
+    "event_count": 32
+  },
+  {
+    "id": 123,
+    "name": "Building",
+    "source": "Map0123.lmu",
+    "width": 22,
+    "height": 17,
+    "chipset_id": 22,
+    "event_count": 24
+  },
+  {
+    "id": 124,
+    "name": "Tunnel2",
+    "source": "Map0124.lmu",
+    "width": 25,
+    "height": 20,
+    "chipset_id": 14,
+    "event_count": 8
+  },
+  {
+    "id": 125,
+    "name": "Temple",
+    "source": "Map0125.lmu",
+    "width": 30,
+    "height": 25,
+    "chipset_id": 26,
+    "event_count": 16
+  },
+  {
+    "id": 126,
+    "name": "Grand Room",
+    "source": "Map0126.lmu",
+    "width": 30,
+    "height": 35,
+    "chipset_id": 26,
+    "event_count": 22
+  },
+  {
+    "id": 127,
+    "name": "Sewer",
+    "source": "Map0127.lmu",
+    "width": 25,
+    "height": 20,
+    "chipset_id": 25,
+    "event_count": 45
+  },
+  {
+    "id": 128,
+    "name": "Tower",
+    "source": "Map0128.lmu",
+    "chipset_id": 19,
+    "event_count": 8
+  },
+  {
+    "id": 129,
+    "name": "Office",
+    "source": "Map0129.lmu",
+    "chipset_id": 22,
+    "event_count": 12
+  },
+  {
+    "id": 130,
+    "name": "B.C. Cooled Off",
+    "source": "Map0130.lmu",
+    "width": 45,
+    "height": 60,
+    "chipset_id": 19,
+    "event_count": 101
+  },
+  {
+    "id": 131,
+    "name": "Tunnel",
+    "source": "Map0131.lmu",
+    "width": 60,
+    "height": 70,
+    "chipset_id": 14,
+    "event_count": 23
+  },
+  {
+    "id": 132,
+    "name": "The Elevator",
+    "source": "Map0132.lmu",
+    "chipset_id": 22,
+    "event_count": 13
+  },
+  {
+    "id": 133,
+    "name": "Stairs1",
+    "source": "Map0133.lmu",
+    "chipset_id": 22,
+    "event_count": 6
+  },
+  {
+    "id": 134,
+    "name": "Stairs2",
+    "source": "Map0134.lmu",
+    "chipset_id": 22,
+    "event_count": 6
+  },
+  {
+    "id": 135,
+    "name": "TunnelA1",
+    "source": "Map0135.lmu",
+    "height": 28,
+    "chipset_id": 14,
+    "event_count": 7
+  },
+  {
+    "id": 136,
+    "name": "Chamber",
+    "source": "Map0136.lmu",
+    "chipset_id": 14,
+    "event_count": 8
+  },
+  {
+    "id": 137,
+    "name": "Stairs3",
+    "source": "Map0137.lmu",
+    "chipset_id": 22,
+    "event_count": 6
+  },
+  {
+    "id": 138,
+    "name": "Stairs4",
+    "source": "Map0138.lmu",
+    "chipset_id": 22,
+    "event_count": 6
+  },
+  {
+    "id": 139,
+    "name": "Stairs5",
+    "source": "Map0139.lmu",
+    "chipset_id": 22,
+    "event_count": 6
+  },
+  {
+    "id": 140,
+    "name": "Stairs6",
+    "source": "Map0140.lmu",
+    "chipset_id": 22,
+    "event_count": 6
+  },
+  {
+    "id": 141,
+    "name": "Stairs7",
+    "source": "Map0141.lmu",
+    "chipset_id": 22,
+    "event_count": 6
+  },
+  {
+    "id": 142,
+    "name": "End Room",
+    "source": "Map0142.lmu",
+    "height": 60,
+    "chipset_id": 22,
+    "event_count": 55
+  },
+  {
+    "id": 143,
+    "name": "The Gorge",
+    "source": "Map0143.lmu",
+    "width": 110,
+    "height": 220,
+    "chipset_id": 14,
+    "event_count": 32
+  },
+  {
+    "id": 144,
+    "name": "Entrance",
+    "source": "Map0144.lmu",
+    "height": 40,
+    "chipset_id": 14,
+    "event_count": 55
+  },
+  {
+    "id": 145,
+    "name": "Inn",
+    "source": "Map0145.lmu",
+    "width": 22,
+    "chipset_id": 22,
+    "event_count": 12
+  },
+  {
+    "id": 146,
+    "name": "Hall",
+    "source": "Map0146.lmu",
+    "width": 25,
+    "chipset_id": 22,
+    "event_count": 14
+  },
+  {
+    "id": 147,
+    "name": "Tracks",
+    "source": "Map0147.lmu",
+    "chipset_id": 4,
+    "event_count": 10
+  },
+  {
+    "id": 148,
+    "name": "Shield City",
+    "source": "Map0148.lmu",
+    "width": 90,
+    "height": 70,
+    "chipset_id": 16,
+    "event_count": 114
+  },
+  {
+    "id": 149,
+    "name": "SCEntrance",
+    "source": "Map0149.lmu",
+    "height": 25,
+    "chipset_id": 14,
+    "event_count": 17
+  },
+  {
+    "id": 150,
+    "name": "Gate",
+    "source": "Map0150.lmu",
+    "width": 32,
+    "height": 44,
+    "chipset_id": 22,
+    "event_count": 14
+  },
+  {
+    "id": 151,
+    "name": "Good Pub",
+    "source": "Map0151.lmu",
+    "width": 25,
+    "chipset_id": 22,
+    "event_count": 19
+  },
+  {
+    "id": 152,
+    "name": "Bad Pub",
+    "source": "Map0152.lmu",
+    "chipset_id": 22,
+    "event_count": 11
+  },
+  {
+    "id": 153,
+    "name": "Sell Shop",
+    "source": "Map0153.lmu",
+    "chipset_id": 22,
+    "event_count": 5
+  },
+  {
+    "id": 154,
+    "name": "Magic Shop",
+    "source": "Map0154.lmu",
+    "chipset_id": 22,
+    "event_count": 14
+  },
+  {
+    "id": 155,
+    "name": "Room",
+    "source": "Map0155.lmu",
+    "chipset_id": 22,
+    "event_count": 7
+  },
+  {
+    "id": 156,
+    "name": "Houses",
+    "source": "Map0156.lmu",
+    "width": 55,
+    "height": 50,
+    "chipset_id": 22,
+    "event_count": 13
+  },
+  {
+    "id": 157,
+    "name": "North Hall",
+    "source": "Map0157.lmu",
+    "chipset_id": 6,
+    "event_count": 4
+  },
+  {
+    "id": 158,
+    "name": "Capital Building",
+    "source": "Map0158.lmu",
+    "width": 25,
+    "height": 22,
+    "chipset_id": 6,
+    "event_count": 20
+  },
+  {
+    "id": 159,
+    "name": "Throne Room",
+    "source": "Map0159.lmu",
+    "width": 25,
+    "height": 18,
+    "chipset_id": 6,
+    "event_count": 9
+  },
+  {
+    "id": 160,
+    "name": "Rooms",
+    "source": "Map0160.lmu",
+    "width": 64,
+    "height": 24,
+    "chipset_id": 6,
+    "event_count": 15
+  },
+  {
+    "id": 161,
+    "name": "Kitchen/Mess",
+    "source": "Map0161.lmu",
+    "width": 29,
+    "height": 20,
+    "chipset_id": 6,
+    "event_count": 8
+  },
+  {
+    "id": 162,
+    "name": "East Hall",
+    "source": "Map0162.lmu",
+    "width": 25,
+    "chipset_id": 6,
+    "event_count": 6
+  },
+  {
+    "id": 163,
+    "name": "Armory",
+    "source": "Map0163.lmu",
+    "chipset_id": 6,
+    "event_count": 8
+  },
+  {
+    "id": 164,
+    "name": "Library",
+    "source": "Map0164.lmu",
+    "width": 27,
+    "height": 18,
+    "chipset_id": 28,
+    "event_count": 12
+  },
+  {
+    "id": 165,
+    "name": "Royal Rooms",
+    "source": "Map0165.lmu",
+    "width": 30,
+    "height": 42,
+    "chipset_id": 6,
+    "event_count": 18
+  },
+  {
+    "id": 166,
+    "name": "Shack",
+    "source": "Map0166.lmu",
+    "chipset_id": 22,
+    "event_count": 6
+  },
+  {
+    "id": 167,
+    "name": "Pumps",
+    "source": "Map0167.lmu",
+    "width": 70,
+    "height": 30,
+    "chipset_id": 12,
+    "event_count": 20
+  },
+  {
+    "id": 168,
+    "name": "Hub",
+    "source": "Map0168.lmu",
+    "width": 35,
+    "height": 35,
+    "chipset_id": 12,
+    "event_count": 14
+  },
+  {
+    "id": 169,
+    "name": "Secret Passage",
+    "source": "Map0169.lmu",
+    "height": 30,
+    "chipset_id": 12,
+    "event_count": 14
+  },
+  {
+    "id": 170,
+    "name": "Warp Room",
+    "source": "Map0170.lmu",
+    "chipset_id": 20,
+    "event_count": 5
+  },
+  {
+    "id": 171,
+    "name": "Humorless Cave",
+    "source": "Map0171.lmu",
+    "width": 35,
+    "height": 70,
+    "chipset_id": 26,
+    "event_count": 50
+  },
+  {
+    "id": 172,
+    "name": "Chamber",
+    "source": "Map0172.lmu",
+    "chipset_id": 26,
+    "event_count": 9
+  },
+  {
+    "id": 173,
+    "name": "Throne Room(2)",
+    "source": "Map0173.lmu",
+    "width": 25,
+    "height": 18,
+    "chipset_id": 6,
+    "event_count": 6
+  },
+  {
+    "id": 174,
+    "name": "Path2IM",
+    "source": "Map0174.lmu",
+    "width": 30,
+    "chipset_id": 12,
+    "event_count": 7
+  },
+  {
+    "id": 175,
+    "name": "Servant's Rooms",
+    "source": "Map0175.lmu",
+    "chipset_id": 6,
+    "event_count": 2
+  },
+  {
+    "id": 176,
+    "name": "Soldier's Bunks",
+    "source": "Map0176.lmu",
+    "height": 20,
+    "chipset_id": 6,
+    "event_count": 3
+  },
+  {
+    "id": 177,
+    "name": "Path2IM2",
+    "source": "Map0177.lmu",
+    "width": 35,
+    "chipset_id": 12,
+    "event_count": 10
+  },
+  {
+    "id": 178,
+    "name": "Ice Mountains",
+    "source": "Map0178.lmu",
+    "width": 100,
+    "height": 100,
+    "chipset_id": 7,
+    "event_count": 23
+  },
+  {
+    "id": 179,
+    "name": "ForkInTheRoad",
+    "source": "Map0179.lmu",
+    "width": 30,
+    "height": 30,
+    "chipset_id": 7,
+    "event_count": 23
+  },
+  {
+    "id": 180,
+    "name": "Path2SV",
+    "source": "Map0180.lmu",
+    "height": 30,
+    "chipset_id": 7,
+    "event_count": 17
+  },
+  {
+    "id": 181,
+    "name": "Snow Village",
+    "source": "Map0181.lmu",
+    "width": 40,
+    "height": 40,
+    "chipset_id": 7,
+    "event_count": 38
+  },
+  {
+    "id": 182,
+    "name": "The Elks",
+    "source": "Map0182.lmu",
+    "height": 16,
+    "chipset_id": 8,
+    "event_count": 10
+  },
+  {
+    "id": 183,
+    "name": "SVShop",
+    "source": "Map0183.lmu",
+    "height": 16,
+    "chipset_id": 22,
+    "event_count": 6
+  },
+  {
+    "id": 184,
+    "name": "Cozy Inn",
+    "source": "Map0184.lmu",
+    "chipset_id": 8,
+    "event_count": 13
+  },
+  {
+    "id": 185,
+    "name": "Floor 2",
+    "source": "Map0185.lmu",
+    "chipset_id": 22,
+    "event_count": 6
+  },
+  {
+    "id": 186,
+    "name": "Halo Peak",
+    "source": "Map0186.lmu",
+    "width": 75,
+    "height": 75,
+    "chipset_id": 29,
+    "event_count": 21
+  },
+  {
+    "id": 187,
+    "name": "Andy\"s House",
+    "source": "Map0187.lmu",
+    "chipset_id": 22,
+    "event_count": 5
+  },
+  {
+    "id": 188,
+    "name": "Hole",
+    "source": "Map0188.lmu",
+    "chipset_id": 7,
+    "event_count": 3
+  },
+  {
+    "id": 189,
+    "name": "Tunnel",
+    "source": "Map0189.lmu",
+    "width": 40,
+    "height": 50,
+    "chipset_id": 26,
+    "event_count": 21
+  },
+  {
+    "id": 190,
+    "name": "Fork2",
+    "source": "Map0190.lmu",
+    "width": 30,
+    "height": 30,
+    "chipset_id": 7,
+    "event_count": 13
+  },
+  {
+    "id": 191,
+    "name": "Tunnel2Lift",
+    "source": "Map0191.lmu",
+    "chipset_id": 14,
+    "event_count": 18
+  },
+  {
+    "id": 192,
+    "name": "Path2MT",
+    "source": "Map0192.lmu",
+    "height": 20,
+    "chipset_id": 7,
+    "event_count": 6
+  },
+  {
+    "id": 193,
+    "name": "Midnight Town",
+    "source": "Map0193.lmu",
+    "width": 38,
+    "height": 35,
+    "chipset_id": 7,
+    "event_count": 40
+  },
+  {
+    "id": 194,
+    "name": "Lone Tower",
+    "source": "Map0194.lmu",
+    "height": 25,
+    "chipset_id": 7,
+    "event_count": 3
+  },
+  {
+    "id": 195,
+    "name": "MTShop",
+    "source": "Map0195.lmu",
+    "chipset_id": 22,
+    "event_count": 13
+  },
+  {
+    "id": 196,
+    "name": "Houses",
+    "source": "Map0196.lmu",
+    "width": 27,
+    "height": 29,
+    "chipset_id": 22,
+    "event_count": 24
+  },
+  {
+    "id": 197,
+    "name": "Oxy-Studio",
+    "source": "Map0197.lmu",
+    "chipset_id": 22,
+    "event_count": 5
+  },
+  {
+    "id": 198,
+    "name": "Studio",
+    "source": "Map0198.lmu",
+    "height": 20,
+    "chipset_id": 22,
+    "event_count": 15
+  },
+  {
+    "id": 199,
+    "name": "Lineup",
+    "source": "Map0199.lmu",
+    "chipset_id": 27,
+    "event_count": 14
+  },
+  {
+    "id": 200,
+    "name": "Lineup 2",
+    "source": "Map0200.lmu",
+    "chipset_id": 27,
+    "event_count": 14
+  },
+  {
+    "id": 201,
+    "name": "Rec Room",
+    "source": "Map0201.lmu",
+    "height": 40,
+    "chipset_id": 22,
+    "event_count": 17
+  },
+  {
+    "id": 202,
+    "name": "Cart Shed",
+    "source": "Map0202.lmu",
+    "chipset_id": 4,
+    "event_count": 4
+  },
+  {
+    "id": 203,
+    "name": "ShopTunnel",
+    "source": "Map0203.lmu",
+    "chipset_id": 14,
+    "event_count": 3
+  },
+  {
+    "id": 204,
+    "name": "Lift Grounds",
+    "source": "Map0204.lmu",
+    "height": 20,
+    "chipset_id": 7,
+    "event_count": 6
+  },
+  {
+    "id": 205,
+    "name": "LiftBtm",
+    "source": "Map0205.lmu",
+    "chipset_id": 22,
+    "event_count": 5
+  },
+  {
+    "id": 206,
+    "name": "ElevatorUp",
+    "source": "Map0206.lmu",
+    "chipset_id": 22,
+    "event_count": 5
+  },
+  {
+    "id": 207,
+    "name": "LiftTop",
+    "source": "Map0207.lmu",
+    "chipset_id": 22,
+    "event_count": 4
+  },
+  {
+    "id": 208,
+    "name": "ElevatorDown",
+    "source": "Map0208.lmu",
+    "chipset_id": 22,
+    "event_count": 5
+  },
+  {
+    "id": 209,
+    "name": "LiftExitTop",
+    "source": "Map0209.lmu",
+    "width": 30,
+    "chipset_id": 7,
+    "event_count": 9
+  },
+  {
+    "id": 210,
+    "name": "ENCOUNTER",
+    "source": "Map0210.lmu",
+    "height": 30,
+    "chipset_id": 7,
+    "event_count": 13
+  },
+  {
+    "id": 211,
+    "name": "Final Stretch!!",
+    "source": "Map0211.lmu",
+    "height": 20,
+    "chipset_id": 29,
+    "event_count": 24
+  },
+  {
+    "id": 212,
+    "name": "Humotacia",
+    "source": "Map0212.lmu",
+    "width": 150,
+    "height": 100,
+    "chipset_id": 19,
+    "event_count": 17
+  },
+  {
+    "id": 213,
+    "name": "Inn",
+    "source": "Map0213.lmu",
+    "chipset_id": 22,
+    "event_count": 7
+  },
+  {
+    "id": 214,
+    "name": "Outpost",
+    "source": "Map0214.lmu",
+    "width": 22,
+    "height": 22,
+    "chipset_id": 22,
+    "event_count": 16
+  },
+  {
+    "id": 215,
+    "name": "Humorless",
+    "source": "Map0215.lmu",
+    "height": 40,
+    "chipset_id": 20,
+    "event_count": 8
+  },
+  {
+    "id": 216,
+    "name": "West Jungle",
+    "source": "Map0216.lmu",
+    "chipset_id": 30,
+    "event_count": 0
+  },
+  {
+    "id": 217,
+    "name": "Woods 2",
+    "source": "Map0217.lmu",
+    "width": 25,
+    "height": 40,
+    "chipset_id": 30,
+    "event_count": 12
+  },
+  {
+    "id": 218,
+    "name": "Woods 1",
+    "source": "Map0218.lmu",
+    "width": 35,
+    "height": 35,
+    "chipset_id": 30,
+    "event_count": 18
+  },
+  {
+    "id": 219,
+    "name": "Woods 3",
+    "source": "Map0219.lmu",
+    "height": 22,
+    "chipset_id": 30,
+    "event_count": 7
+  },
+  {
+    "id": 220,
+    "name": "Woods R1",
+    "source": "Map0220.lmu",
+    "width": 45,
+    "height": 45,
+    "chipset_id": 30,
+    "event_count": 53
+  },
+  {
+    "id": 221,
+    "name": "Woods R2",
+    "source": "Map0221.lmu",
+    "width": 25,
+    "height": 32,
+    "chipset_id": 30,
+    "event_count": 20
+  },
+  {
+    "id": 222,
+    "name": "Woods R3",
+    "source": "Map0222.lmu",
+    "chipset_id": 30,
+    "event_count": 12
+  },
+  {
+    "id": 223,
+    "name": "Woods R4",
+    "source": "Map0223.lmu",
+    "height": 20,
+    "chipset_id": 30,
+    "event_count": 9
+  },
+  {
+    "id": 224,
+    "name": "Archer's Camp",
+    "source": "Map0224.lmu",
+    "width": 35,
+    "height": 30,
+    "chipset_id": 31,
+    "event_count": 21
+  },
+  {
+    "id": 225,
+    "name": "Item Tent",
+    "source": "Map0225.lmu",
+    "chipset_id": 22,
+    "event_count": 5
+  },
+  {
+    "id": 226,
+    "name": "Gem Spot",
+    "source": "Map0226.lmu",
+    "chipset_id": 30,
+    "event_count": 7
+  },
+  {
+    "id": 227,
+    "name": "Woods L1",
+    "source": "Map0227.lmu",
+    "width": 32,
+    "chipset_id": 30,
+    "event_count": 14
+  },
+  {
+    "id": 228,
+    "name": "Woods L2",
+    "source": "Map0228.lmu",
+    "width": 25,
+    "height": 40,
+    "chipset_id": 30,
+    "event_count": 13
+  },
+  {
+    "id": 229,
+    "name": "Woods L3",
+    "source": "Map0229.lmu",
+    "height": 30,
+    "chipset_id": 30,
+    "event_count": 31
+  },
+  {
+    "id": 230,
+    "name": "Tent1",
+    "source": "Map0230.lmu",
+    "chipset_id": 22,
+    "event_count": 4
+  },
+  {
+    "id": 231,
+    "name": "Woods 4",
+    "source": "Map0231.lmu",
+    "width": 25,
+    "height": 25,
+    "chipset_id": 30,
+    "event_count": 23
+  },
+  {
+    "id": 232,
+    "name": "Oblivion Road 1",
+    "source": "Map0232.lmu",
+    "width": 25,
+    "height": 35,
+    "chipset_id": 30,
+    "event_count": 14
+  },
+  {
+    "id": 233,
+    "name": "Humorless Temple",
+    "source": "Map0233.lmu",
+    "width": 35,
+    "height": 35,
+    "chipset_id": 32,
+    "event_count": 11
+  },
+  {
+    "id": 234,
+    "name": "Road to Temple",
+    "source": "Map0234.lmu",
+    "height": 20,
+    "chipset_id": 30,
+    "event_count": 13
+  },
+  {
+    "id": 235,
+    "name": "Oblivion Road 2",
+    "source": "Map0235.lmu",
+    "width": 25,
+    "height": 100,
+    "chipset_id": 30,
+    "event_count": 17
+  },
+  {
+    "id": 236,
+    "name": "Boss's Tent",
+    "source": "Map0236.lmu",
+    "chipset_id": 22,
+    "event_count": 8
+  },
+  {
+    "id": 237,
+    "name": "Party Tent",
+    "source": "Map0237.lmu",
+    "chipset_id": 22,
+    "event_count": 11
+  },
+  {
+    "id": 238,
+    "name": "Temple",
+    "source": "Map0238.lmu",
+    "width": 45,
+    "height": 50,
+    "chipset_id": 26,
+    "event_count": 165
+  },
+  {
+    "id": 239,
+    "name": "Temple 2",
+    "source": "Map0239.lmu",
+    "width": 27,
+    "height": 20,
+    "chipset_id": 26,
+    "event_count": 7
+  },
+  {
+    "id": 240,
+    "name": "Temple 3",
+    "source": "Map0240.lmu",
+    "chipset_id": 26,
+    "event_count": 8
+  },
+  {
+    "id": 241,
+    "name": "Humorless Encounter",
+    "source": "Map0241.lmu",
+    "width": 27,
+    "height": 25,
+    "chipset_id": 20,
+    "event_count": 13
+  },
+  {
+    "id": 242,
+    "name": "Humortopica City",
+    "source": "Map0242.lmu",
+    "width": 120,
+    "height": 120,
+    "chipset_id": 33,
+    "event_count": 172
+  },
+  {
+    "id": 243,
+    "name": "Oblivion Road 3",
+    "source": "Map0243.lmu",
+    "chipset_id": 30,
+    "event_count": 17
+  },
+  {
+    "id": 244,
+    "name": "Entrance",
+    "source": "Map0244.lmu",
+    "width": 25,
+    "height": 35,
+    "chipset_id": 29,
+    "event_count": 17
+  },
+  {
+    "id": 245,
+    "name": "Capital Building",
+    "source": "Map0245.lmu",
+    "width": 30,
+    "height": 35,
+    "chipset_id": 34,
+    "event_count": 19
+  },
+  {
+    "id": 246,
+    "name": "Inn",
+    "source": "Map0246.lmu",
+    "width": 24,
+    "height": 16,
+    "chipset_id": 22,
+    "event_count": 3
+  },
+  {
+    "id": 247,
+    "name": "ElevatorUp",
+    "source": "Map0247.lmu",
+    "chipset_id": 34,
+    "event_count": 3
+  },
+  {
+    "id": 248,
+    "name": "ElevatorDown",
+    "source": "Map0248.lmu",
+    "chipset_id": 34,
+    "event_count": 3
+  },
+  {
+    "id": 249,
+    "name": "Top Hall",
+    "source": "Map0249.lmu",
+    "width": 22,
+    "height": 30,
+    "chipset_id": 34,
+    "event_count": 5
+  },
+  {
+    "id": 250,
+    "name": "Middle Top Hall",
+    "source": "Map0250.lmu",
+    "width": 30,
+    "height": 22,
+    "chipset_id": 34,
+    "event_count": 6
+  },
+  {
+    "id": 251,
+    "name": "PM's Quarters",
+    "source": "Map0251.lmu",
+    "width": 30,
+    "height": 20,
+    "chipset_id": 34,
+    "event_count": 16
+  },
+  {
+    "id": 252,
+    "name": "CS-Guest Room",
+    "source": "Map0252.lmu",
+    "width": 21,
+    "chipset_id": 34,
+    "event_count": 8
+  },
+  {
+    "id": 253,
+    "name": "Sewers",
+    "source": "Map0253.lmu",
+    "width": 25,
+    "height": 16,
+    "chipset_id": 25,
+    "event_count": 25
+  },
+  {
+    "id": 254,
+    "name": "Sewers 2",
+    "source": "Map0254.lmu",
+    "width": 30,
+    "height": 25,
+    "chipset_id": 25,
+    "event_count": 52
+  },
+  {
+    "id": 255,
+    "name": "Haven",
+    "source": "Map0255.lmu",
+    "width": 35,
+    "height": 17,
+    "chipset_id": 25,
+    "event_count": 57
+  },
+  {
+    "id": 256,
+    "name": "Sewers 3",
+    "source": "Map0256.lmu",
+    "height": 20,
+    "chipset_id": 25,
+    "event_count": 55
+  },
+  {
+    "id": 257,
+    "name": "Sewers 4",
+    "source": "Map0257.lmu",
+    "width": 30,
+    "height": 19,
+    "chipset_id": 25,
+    "event_count": 25
+  },
+  {
+    "id": 258,
+    "name": "Sewers 5",
+    "source": "Map0258.lmu",
+    "width": 25,
+    "height": 20,
+    "chipset_id": 25,
+    "event_count": 70
+  },
+  {
+    "id": 259,
+    "name": "Sewers 6",
+    "source": "Map0259.lmu",
+    "width": 45,
+    "height": 20,
+    "chipset_id": 25,
+    "event_count": 46
+  },
+  {
+    "id": 260,
+    "name": "Sewers 7",
+    "source": "Map0260.lmu",
+    "width": 25,
+    "height": 20,
+    "chipset_id": 25,
+    "event_count": 20
+  },
+  {
+    "id": 261,
+    "name": "Sewers 8",
+    "source": "Map0261.lmu",
+    "height": 25,
+    "chipset_id": 25,
+    "event_count": 17
+  },
+  {
+    "id": 262,
+    "name": "Sewers 9",
+    "source": "Map0262.lmu",
+    "width": 25,
+    "height": 35,
+    "chipset_id": 25,
+    "event_count": 27
+  },
+  {
+    "id": 263,
+    "name": "Sewers 10",
+    "source": "Map0263.lmu",
+    "width": 30,
+    "height": 20,
+    "chipset_id": 25,
+    "event_count": 17
+  },
+  {
+    "id": 264,
+    "name": "Sewers 11",
+    "source": "Map0264.lmu",
+    "height": 20,
+    "chipset_id": 25,
+    "event_count": 28
+  },
+  {
+    "id": 265,
+    "name": "Sewers 12",
+    "source": "Map0265.lmu",
+    "height": 20,
+    "chipset_id": 25,
+    "event_count": 3
+  },
+  {
+    "id": 266,
+    "name": "Sewers 13",
+    "source": "Map0266.lmu",
+    "height": 35,
+    "chipset_id": 25,
+    "event_count": 9
+  },
+  {
+    "id": 267,
+    "name": "Humorless Room",
+    "source": "Map0267.lmu",
+    "height": 20,
+    "chipset_id": 25,
+    "event_count": 15
+  },
+  {
+    "id": 268,
+    "name": "Haven 2",
+    "source": "Map0268.lmu",
+    "chipset_id": 25,
+    "event_count": 15
+  },
+  {
+    "id": 269,
+    "name": "Haven 2B",
+    "source": "Map0269.lmu",
+    "chipset_id": 25,
+    "event_count": 14
+  },
+  {
+    "id": 270,
+    "name": "CS-Evilies",
+    "source": "Map0270.lmu",
+    "height": 20,
+    "chipset_id": 23,
+    "event_count": 4
+  },
+  {
+    "id": 271,
+    "name": "CS-GR2",
+    "source": "Map0271.lmu",
+    "width": 21,
+    "chipset_id": 34,
+    "event_count": 8
+  },
+  {
+    "id": 272,
+    "name": "CS-PM",
+    "source": "Map0272.lmu",
+    "width": 30,
+    "height": 20,
+    "chipset_id": 34,
+    "event_count": 23
+  },
+  {
+    "id": 273,
+    "name": "The Great Escape",
+    "source": "Map0273.lmu",
+    "width": 30,
+    "height": 22,
+    "chipset_id": 34,
+    "event_count": 15
+  },
+  {
+    "id": 274,
+    "name": "Escape 2",
+    "source": "Map0274.lmu",
+    "width": 22,
+    "height": 30,
+    "chipset_id": 34,
+    "event_count": 9
+  },
+  {
+    "id": 275,
+    "name": "Escape 3",
+    "source": "Map0275.lmu",
+    "chipset_id": 34,
+    "event_count": 7
+  },
+  {
+    "id": 276,
+    "name": "Escape 4",
+    "source": "Map0276.lmu",
+    "width": 30,
+    "height": 35,
+    "chipset_id": 34,
+    "event_count": 12
+  },
+  {
+    "id": 277,
+    "name": "Escape 5",
+    "source": "Map0277.lmu",
+    "width": 120,
+    "height": 120,
+    "chipset_id": 33,
+    "event_count": 168
+  },
+  {
+    "id": 278,
+    "name": "Escape 6",
+    "source": "Map0278.lmu",
+    "width": 25,
+    "height": 35,
+    "chipset_id": 29,
+    "event_count": 17
+  },
+  {
+    "id": 279,
+    "name": "Escape 7",
+    "source": "Map0279.lmu",
+    "chipset_id": 30,
+    "event_count": 10
+  },
+  {
+    "id": 280,
+    "name": "Escape 8",
+    "source": "Map0280.lmu",
+    "width": 25,
+    "height": 100,
+    "chipset_id": 30,
+    "event_count": 14
+  },
+  {
+    "id": 281,
+    "name": "Escape 9",
+    "source": "Map0281.lmu",
+    "width": 25,
+    "height": 35,
+    "chipset_id": 30,
+    "event_count": 8
+  },
+  {
+    "id": 282,
+    "name": "Junior's Chamber",
+    "source": "Map0282.lmu",
+    "height": 20,
+    "chipset_id": 20,
+    "event_count": 6
+  },
+  {
+    "id": 283,
+    "name": "Temple Of Power",
+    "source": "Map0283.lmu",
+    "width": 45,
+    "height": 27,
+    "chipset_id": 20,
+    "event_count": 37
+  },
+  {
+    "id": 284,
+    "name": "Item Shop",
+    "source": "Map0284.lmu",
+    "width": 21,
+    "height": 20,
+    "chipset_id": 22,
+    "event_count": 11
+  },
+  {
+    "id": 285,
+    "name": "Pub",
+    "source": "Map0285.lmu",
+    "chipset_id": 22,
+    "event_count": 9
+  },
+  {
+    "id": 286,
+    "name": "Razor's Chamber",
+    "source": "Map0286.lmu",
+    "height": 20,
+    "chipset_id": 20,
+    "event_count": 8
+  },
+  {
+    "id": 287,
+    "name": "Target's Chamber",
+    "source": "Map0287.lmu",
+    "height": 20,
+    "chipset_id": 20,
+    "event_count": 6
+  },
+  {
+    "id": 288,
+    "name": "Olymp's Chamber",
+    "source": "Map0288.lmu",
+    "height": 20,
+    "chipset_id": 20,
+    "event_count": 8
+  },
+  {
+    "id": 289,
+    "name": "TimeT's Chamber",
+    "source": "Map0289.lmu",
+    "height": 20,
+    "chipset_id": 20,
+    "event_count": 8
+  },
+  {
+    "id": 290,
+    "name": "Element's Chamber",
+    "source": "Map0290.lmu",
+    "height": 20,
+    "chipset_id": 20,
+    "event_count": 14
+  },
+  {
+    "id": 291,
+    "name": "Item Shop",
+    "source": "Map0291.lmu",
+    "width": 21,
+    "height": 20,
+    "chipset_id": 35,
+    "event_count": 14
+  },
+  {
+    "id": 292,
+    "name": "CS-Spaceship",
+    "source": "Map0292.lmu",
+    "chipset_id": 36,
+    "event_count": 7
+  },
+  {
+    "id": 293,
+    "name": "CS-Spaceship (Inner)",
+    "source": "Map0293.lmu",
+    "height": 35,
+    "chipset_id": 22,
+    "event_count": 29
+  },
+  {
+    "id": 294,
+    "name": "The Spaceship",
+    "source": "Map0294.lmu",
+    "chipset_id": 36,
+    "event_count": 10
+  },
+  {
+    "id": 295,
+    "name": "Spaceship Inside",
+    "source": "Map0295.lmu",
+    "height": 35,
+    "chipset_id": 22,
+    "event_count": 22
+  },
+  {
+    "id": 296,
+    "name": "Spaceship Bottom",
+    "source": "Map0296.lmu",
+    "height": 40,
+    "chipset_id": 22,
+    "event_count": 51
+  },
+  {
+    "id": 297,
+    "name": "Save Room",
+    "source": "Map0297.lmu",
+    "chipset_id": 18,
+    "event_count": 7
+  },
+  {
+    "id": 298,
+    "name": "Spaceship Arrived",
+    "source": "Map0298.lmu",
+    "height": 35,
+    "chipset_id": 22,
+    "event_count": 33
+  },
+  {
+    "id": 299,
+    "name": "Satellite 2",
+    "source": "Map0299.lmu",
+    "width": 30,
+    "height": 30,
+    "chipset_id": 18,
+    "event_count": 8
+  },
+  {
+    "id": 300,
+    "name": "Satellite 3",
+    "source": "Map0300.lmu",
+    "width": 50,
+    "height": 50,
+    "chipset_id": 18,
+    "event_count": 13
+  },
+  {
+    "id": 301,
+    "name": "Satellite 4",
+    "source": "Map0301.lmu",
+    "width": 40,
+    "height": 40,
+    "chipset_id": 18,
+    "event_count": 22
+  },
+  {
+    "id": 302,
+    "name": "Satellite 5",
+    "source": "Map0302.lmu",
+    "width": 30,
+    "height": 30,
+    "chipset_id": 18,
+    "event_count": 8
+  },
+  {
+    "id": 303,
+    "name": "Satellite 6",
+    "source": "Map0303.lmu",
+    "height": 40,
+    "chipset_id": 18,
+    "event_count": 8
+  },
+  {
+    "id": 304,
+    "name": "Satellite 7",
+    "source": "Map0304.lmu",
+    "width": 25,
+    "height": 20,
+    "chipset_id": 18,
+    "event_count": 11
+  },
+  {
+    "id": 305,
+    "name": "Satellite 8",
+    "source": "Map0305.lmu",
+    "width": 21,
+    "chipset_id": 18,
+    "event_count": 7
+  },
+  {
+    "id": 306,
+    "name": "The Final Battle",
+    "source": "Map0306.lmu",
+    "width": 35,
+    "height": 35,
+    "chipset_id": 18,
+    "event_count": 31
+  },
+  {
+    "id": 307,
+    "name": "Satellite Cannon",
+    "source": "Map0307.lmu",
+    "width": 50,
+    "height": 50,
+    "chipset_id": 18,
+    "event_count": 13
+  },
+  {
+    "id": 308,
+    "name": "The Great Escape 2",
+    "source": "Map0308.lmu",
+    "width": 21,
+    "chipset_id": 18,
+    "event_count": 8
+  },
+  {
+    "id": 309,
+    "name": "GE2 2",
+    "source": "Map0309.lmu",
+    "width": 25,
+    "height": 20,
+    "chipset_id": 18,
+    "event_count": 11
+  },
+  {
+    "id": 310,
+    "name": "GE2 3",
+    "source": "Map0310.lmu",
+    "height": 40,
+    "chipset_id": 18,
+    "event_count": 8
+  },
+  {
+    "id": 311,
+    "name": "GE2 4",
+    "source": "Map0311.lmu",
+    "width": 30,
+    "height": 30,
+    "chipset_id": 18,
+    "event_count": 8
+  },
+  {
+    "id": 312,
+    "name": "GE2 5",
+    "source": "Map0312.lmu",
+    "width": 40,
+    "height": 40,
+    "chipset_id": 18,
+    "event_count": 16
+  },
+  {
+    "id": 313,
+    "name": "GE2 6",
+    "source": "Map0313.lmu",
+    "width": 50,
+    "height": 50,
+    "chipset_id": 18,
+    "event_count": 13
+  },
+  {
+    "id": 314,
+    "name": "GE2 7",
+    "source": "Map0314.lmu",
+    "width": 30,
+    "height": 30,
+    "chipset_id": 18,
+    "event_count": 8
+  },
+  {
+    "id": 315,
+    "name": "GE2 8",
+    "source": "Map0315.lmu",
+    "width": 50,
+    "height": 50,
+    "chipset_id": 18,
+    "event_count": 13
+  },
+  {
+    "id": 316,
+    "name": "Time To GO!",
+    "source": "Map0316.lmu",
+    "height": 35,
+    "chipset_id": 22,
+    "event_count": 25
+  },
+  {
+    "id": 317,
+    "name": "CS-Victory",
+    "source": "Map0317.lmu",
+    "width": 25,
+    "height": 47,
+    "chipset_id": 2,
+    "event_count": 112
+  },
+  {
+    "id": 318,
+    "name": "Cheats",
+    "source": "Map0318.lmu",
+    "chipset_id": 27,
+    "event_count": 27
+  }
+]

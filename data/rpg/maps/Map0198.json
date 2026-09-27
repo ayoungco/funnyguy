@@ -1,0 +1,4701 @@
+{
+  "chipset_id": 22,
+  "height": 20,
+  "scroll_type": 0,
+  "generator_height": 2,
+  "generator_x": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_y": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "generator_tile_ids": [
+    49,
+    49,
+    49,
+    49,
+    49,
+    49,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007,
+    10000,
+    10001,
+    10006,
+    10007
+  ],
+  "lower_layer": [
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4254,
+    4278,
+    4278,
+    4258,
+    4254,
+    4278,
+    4278,
+    4278,
+    4278,
+    4278,
+    4278,
+    4278,
+    4258,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4274,
+    5020,
+    5020,
+    4266,
+    4274,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    5020,
+    4266,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4274,
+    5026,
+    5026,
+    4266,
+    4274,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    5026,
+    4266,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4274,
+    5032,
+    5032,
+    4266,
+    4274,
+    5032,
+    5059,
+    5131,
+    5131,
+    5131,
+    5053,
+    5032,
+    4266,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4274,
+    5083,
+    5083,
+    4266,
+    4274,
+    5083,
+    5138,
+    5034,
+    5034,
+    5034,
+    5071,
+    5083,
+    4266,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4274,
+    5083,
+    5083,
+    4266,
+    4274,
+    5083,
+    5137,
+    5119,
+    5034,
+    5119,
+    5069,
+    5083,
+    4266,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4274,
+    5083,
+    5083,
+    4266,
+    4274,
+    5083,
+    5072,
+    5074,
+    5074,
+    5074,
+    5075,
+    5083,
+    4266,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4274,
+    5083,
+    5083,
+    4290,
+    4288,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    4290,
+    4278,
+    4278,
+    4278,
+    4278,
+    4258,
+    4250,
+    4250,
+    4274,
+    5083,
+    5083,
+    5019,
+    5021,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5019,
+    5020,
+    5020,
+    5020,
+    5020,
+    4266,
+    4250,
+    4250,
+    4274,
+    5083,
+    5083,
+    5025,
+    5027,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5025,
+    5026,
+    5143,
+    5026,
+    5026,
+    4266,
+    4250,
+    4250,
+    4274,
+    5083,
+    5083,
+    5031,
+    5033,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5031,
+    5032,
+    5143,
+    5032,
+    5032,
+    4266,
+    4250,
+    4250,
+    4274,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    4266,
+    4250,
+    4250,
+    4274,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    4266,
+    4250,
+    4250,
+    4252,
+    4270,
+    4286,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    4266,
+    4250,
+    4250,
+    4250,
+    4250,
+    4274,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    4266,
+    4250,
+    4250,
+    4250,
+    4250,
+    4274,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    4284,
+    4286,
+    5083,
+    4284,
+    4251,
+    4250,
+    4250,
+    4250,
+    4250,
+    4274,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    5083,
+    4266,
+    4274,
+    5083,
+    4266,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4252,
+    4270,
+    4270,
+    4270,
+    4270,
+    4270,
+    4270,
+    4270,
+    4270,
+    4270,
+    4270,
+    4251,
+    4274,
+    5083,
+    4266,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4250,
+    4252,
+    4270,
+    4251,
+    4250,
+    4250
+  ],
+  "upper_layer": [
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10037,
+    10038,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10043,
+    10044,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10043,
+    10044,
+    10000,
+    10000,
+    10006,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10006,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10043,
+    10044,
+    10000,
+    10000,
+    10012,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10012,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10043,
+    10044,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10042,
+    10043,
+    10044,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10018,
+    10018,
+    10018,
+    10018,
+    10018,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10018,
+    10018,
+    10018,
+    10018,
+    10018,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10018,
+    10018,
+    10018,
+    10018,
+    10018,
+    10000,
+    10000,
+    10000,
+    10000,
+    10043,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10043,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10043,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000,
+    10000
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "EV0001",
+      "x": 14,
+      "y": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects",
+          "character_index": 5,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EV0002",
+      "x": 2,
+      "y": 2,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                197,
+                13,
+                7,
+                1
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "OM",
+      "x": 9,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "other_fg2",
+          "character_index": 6,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 316,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "TechRmDoor",
+      "x": 15,
+      "y": 11,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "object1",
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 52,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Tech room. We're not allowed in.",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "EV0005",
+      "x": 16,
+      "y": 10,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "DH-Objects",
+          "character_index": 5,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 5,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Junior",
+      "x": 2,
+      "y": 6,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 270,
+            "actor_id": 1
+          },
+          "character_name": "fg2",
+          "character_index": 2,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sharp",
+      "x": 2,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 270,
+            "actor_id": 1
+          },
+          "character_name": "fg2",
+          "character_index": 5,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Target",
+      "x": 2,
+      "y": 4,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 270,
+            "actor_id": 1
+          },
+          "character_name": "fg2",
+          "character_index": 7,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Olymp",
+      "x": 15,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 313,
+            "actor_id": 1
+          },
+          "character_name": "other_fg",
+          "character_index": 7,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Jackie",
+      "x": 16,
+      "y": 5,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 312,
+            "actor_id": 1
+          },
+          "character_name": "DH-Royalty",
+          "character_index": 7,
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "EV0011",
+      "y": 1,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 3,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 5462,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                270,
+                270,
+                0
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 11,
+              "code": 10120,
+              "name": "MessageOptions",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                2,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 20,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                2,
+                2,
+                2,
+                2,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                12
+              ]
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 41,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                8,
+                0,
+                0,
+                28,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                0
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 65,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                7,
+                8,
+                0,
+                0,
+                28,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                0
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 91,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                8,
+                8,
+                0,
+                0,
+                28,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                1,
+                0,
+                32,
+                130,
+                58
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 123,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "???: You get all this for only.\\..\\..",
+              "parameters": []
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 165,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "???: 19.99!!! \\.9\\.9.\\..\\..\\.9\\.9.\\..\\..\\.9\\.9.\\..\\..\\.\\.\\.",
+              "parameters": []
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 229,
+              "code": 11340,
+              "name": "ProceedWithMovement",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 234,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10,
+                0
+              ]
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 241,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Voice: Cut!",
+              "parameters": []
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 257,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "paralyze2",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 12,
+              "byte_offset_in_command_stream": 274,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                315,
+                315,
+                0
+              ]
+            },
+            {
+              "index": 13,
+              "byte_offset_in_command_stream": 285,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "???: Whew.\\..\\..",
+              "parameters": []
+            },
+            {
+              "index": 14,
+              "byte_offset_in_command_stream": 306,
+              "code": 10860,
+              "name": "ChangeEventLocation",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10,
+                0,
+                15,
+                12,
+                0
+              ]
+            },
+            {
+              "index": 15,
+              "byte_offset_in_command_stream": 316,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "open1",
+              "parameters": [
+                100,
+                50,
+                50
+              ]
+            },
+            {
+              "index": 16,
+              "byte_offset_in_command_stream": 329,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 17,
+              "byte_offset_in_command_stream": 339,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 18,
+              "byte_offset_in_command_stream": 346,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 19,
+              "byte_offset_in_command_stream": 356,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 20,
+              "byte_offset_in_command_stream": 363,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 21,
+              "byte_offset_in_command_stream": 373,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 22,
+              "byte_offset_in_command_stream": 380,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                312,
+                312,
+                0
+              ]
+            },
+            {
+              "index": 23,
+              "byte_offset_in_command_stream": 391,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 24,
+              "byte_offset_in_command_stream": 398,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                13,
+                14
+              ]
+            },
+            {
+              "index": 25,
+              "byte_offset_in_command_stream": 409,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "close1",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 26,
+              "byte_offset_in_command_stream": 423,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 27,
+              "byte_offset_in_command_stream": 430,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10,
+                8,
+                0,
+                0,
+                3,
+                3,
+                3,
+                0,
+                3,
+                3,
+                3,
+                3,
+                0,
+                0
+              ]
+            },
+            {
+              "index": 28,
+              "byte_offset_in_command_stream": 449,
+              "code": 11340,
+              "name": "ProceedWithMovement",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 29,
+              "byte_offset_in_command_stream": 454,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                15,
+                0
+              ]
+            },
+            {
+              "index": 30,
+              "byte_offset_in_command_stream": 461,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "???: Well, how'd I do?",
+              "parameters": []
+            },
+            {
+              "index": 31,
+              "byte_offset_in_command_stream": 488,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "???2: You kinda sucked, really.",
+              "parameters": []
+            },
+            {
+              "index": 32,
+              "byte_offset_in_command_stream": 524,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "???: You always say that, Jackie.",
+              "parameters": []
+            },
+            {
+              "index": 33,
+              "byte_offset_in_command_stream": 562,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: That's cuz it's the honest truth, ",
+              "parameters": []
+            },
+            {
+              "index": 34,
+              "byte_offset_in_command_stream": 609,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "Oxy-Moron.",
+              "parameters": []
+            },
+            {
+              "index": 35,
+              "byte_offset_in_command_stream": 625,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Oxy-Moron: Oh, look! I have fans!",
+              "parameters": []
+            },
+            {
+              "index": 36,
+              "byte_offset_in_command_stream": 663,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                3,
+                8,
+                0,
+                0,
+                2,
+                2,
+                2,
+                2
+              ]
+            },
+            {
+              "index": 37,
+              "byte_offset_in_command_stream": 676,
+              "code": 11060,
+              "name": "PanScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                3,
+                0,
+                1,
+                4,
+                0
+              ]
+            },
+            {
+              "index": 38,
+              "byte_offset_in_command_stream": 686,
+              "code": 11340,
+              "name": "ProceedWithMovement",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 39,
+              "byte_offset_in_command_stream": 691,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10,
+                8,
+                0,
+                0,
+                14
+              ]
+            },
+            {
+              "index": 40,
+              "byte_offset_in_command_stream": 701,
+              "code": 11340,
+              "name": "ProceedWithMovement",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 41,
+              "byte_offset_in_command_stream": 706,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: Naw, they just came in and sat down.",
+              "parameters": []
+            },
+            {
+              "index": 42,
+              "byte_offset_in_command_stream": 755,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Junior: What were you advertising?",
+              "parameters": []
+            },
+            {
+              "index": 43,
+              "byte_offset_in_command_stream": 794,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Oxy-Moron: Guardo Deluxe Battle Protector!",
+              "parameters": []
+            },
+            {
+              "index": 44,
+              "byte_offset_in_command_stream": 841,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Oxy-Moron: Super efficient! Get it if you're",
+              "parameters": []
+            },
+            {
+              "index": 45,
+              "byte_offset_in_command_stream": 890,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "tired of robbers breaking into your home!",
+              "parameters": []
+            },
+            {
+              "index": 46,
+              "byte_offset_in_command_stream": 937,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: Don't recite the whole thing. You ",
+              "parameters": []
+            },
+            {
+              "index": 47,
+              "byte_offset_in_command_stream": 984,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "might bore them so much that they'll forget",
+              "parameters": []
+            },
+            {
+              "index": 48,
+              "byte_offset_in_command_stream": 1033,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "their mission.",
+              "parameters": []
+            },
+            {
+              "index": 49,
+              "byte_offset_in_command_stream": 1053,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: How'd you know about our quest?",
+              "parameters": []
+            },
+            {
+              "index": 50,
+              "byte_offset_in_command_stream": 1100,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: Well, jeez, you're all over the news.\\..\\..",
+              "parameters": []
+            },
+            {
+              "index": 51,
+              "byte_offset_in_command_stream": 1156,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: \"Death-defying duo defeats dreaded",
+              "parameters": []
+            },
+            {
+              "index": 52,
+              "byte_offset_in_command_stream": 1203,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "Bone Golem!\" \"Three heroes vanquish Evil",
+              "parameters": []
+            },
+            {
+              "index": 53,
+              "byte_offset_in_command_stream": 1249,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "Scientist and his pet Humorless!\" It goes on, ",
+              "parameters": []
+            },
+            {
+              "index": 54,
+              "byte_offset_in_command_stream": 1301,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "and on, and on.\\..\\..",
+              "parameters": []
+            },
+            {
+              "index": 55,
+              "byte_offset_in_command_stream": 1328,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                3,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 56,
+              "byte_offset_in_command_stream": 1338,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Oxy-Moron: Hey, we could do an interview!",
+              "parameters": []
+            },
+            {
+              "index": 57,
+              "byte_offset_in_command_stream": 1384,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 58,
+              "byte_offset_in_command_stream": 1394,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: Hey, let's get arrested!",
+              "parameters": []
+            },
+            {
+              "index": 59,
+              "byte_offset_in_command_stream": 1431,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Oxy-Moron: You have no imagination whatsoever.",
+              "parameters": []
+            },
+            {
+              "index": 60,
+              "byte_offset_in_command_stream": 1482,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: Oh yes I do. Why don't I get insurance ",
+              "parameters": []
+            },
+            {
+              "index": 61,
+              "byte_offset_in_command_stream": 1534,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "with this job? Why don't I get compensation?",
+              "parameters": []
+            },
+            {
+              "index": 62,
+              "byte_offset_in_command_stream": 1584,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "WHY DON'T I GET FREE COFFEE!?!?!",
+              "parameters": []
+            },
+            {
+              "index": 63,
+              "byte_offset_in_command_stream": 1622,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie and Oxy: Grrrrrrr.\\..\\..",
+              "parameters": []
+            },
+            {
+              "index": 64,
+              "byte_offset_in_command_stream": 1658,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                1
+              ]
+            },
+            {
+              "index": 65,
+              "byte_offset_in_command_stream": 1665,
+              "code": 10860,
+              "name": "ChangeEventLocation",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                9,
+                0,
+                15,
+                12,
+                0
+              ]
+            },
+            {
+              "index": 66,
+              "byte_offset_in_command_stream": 1675,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "open1",
+              "parameters": [
+                100,
+                50,
+                50
+              ]
+            },
+            {
+              "index": 67,
+              "byte_offset_in_command_stream": 1688,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 68,
+              "byte_offset_in_command_stream": 1699,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 69,
+              "byte_offset_in_command_stream": 1709,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                7,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 70,
+              "byte_offset_in_command_stream": 1719,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                8,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 71,
+              "byte_offset_in_command_stream": 1729,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 72,
+              "byte_offset_in_command_stream": 1739,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 73,
+              "byte_offset_in_command_stream": 1746,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 74,
+              "byte_offset_in_command_stream": 1756,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 75,
+              "byte_offset_in_command_stream": 1763,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 76,
+              "byte_offset_in_command_stream": 1773,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 77,
+              "byte_offset_in_command_stream": 1780,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                313,
+                313,
+                0
+              ]
+            },
+            {
+              "index": 78,
+              "byte_offset_in_command_stream": 1791,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 79,
+              "byte_offset_in_command_stream": 1798,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                13,
+                14
+              ]
+            },
+            {
+              "index": 80,
+              "byte_offset_in_command_stream": 1809,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "close1",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 81,
+              "byte_offset_in_command_stream": 1823,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                0
+              ]
+            },
+            {
+              "index": 82,
+              "byte_offset_in_command_stream": 1830,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                9,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 83,
+              "byte_offset_in_command_stream": 1840,
+              "code": 11340,
+              "name": "ProceedWithMovement",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 84,
+              "byte_offset_in_command_stream": 1845,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "???: Hey, guys! I fixed the microwave!",
+              "parameters": []
+            },
+            {
+              "index": 85,
+              "byte_offset_in_command_stream": 1888,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                3,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 86,
+              "byte_offset_in_command_stream": 1898,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Oxy: Can you fix it some other time? We're ",
+              "parameters": []
+            },
+            {
+              "index": 87,
+              "byte_offset_in_command_stream": 1946,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "having a face-off!",
+              "parameters": []
+            },
+            {
+              "index": 88,
+              "byte_offset_in_command_stream": 1970,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                3,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 89,
+              "byte_offset_in_command_stream": 1980,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "???: Oh, okay.",
+              "parameters": []
+            },
+            {
+              "index": 90,
+              "byte_offset_in_command_stream": 1999,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                9,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 91,
+              "byte_offset_in_command_stream": 2009,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "open1",
+              "parameters": [
+                100,
+                50,
+                50
+              ]
+            },
+            {
+              "index": 92,
+              "byte_offset_in_command_stream": 2022,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 93,
+              "byte_offset_in_command_stream": 2032,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 94,
+              "byte_offset_in_command_stream": 2039,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 95,
+              "byte_offset_in_command_stream": 2049,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 96,
+              "byte_offset_in_command_stream": 2056,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 97,
+              "byte_offset_in_command_stream": 2066,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 98,
+              "byte_offset_in_command_stream": 2073,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                313,
+                313,
+                1
+              ]
+            },
+            {
+              "index": 99,
+              "byte_offset_in_command_stream": 2084,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 100,
+              "byte_offset_in_command_stream": 2091,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                13,
+                14
+              ]
+            },
+            {
+              "index": 101,
+              "byte_offset_in_command_stream": 2102,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "close1",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 102,
+              "byte_offset_in_command_stream": 2116,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10,
+                0
+              ]
+            },
+            {
+              "index": 103,
+              "byte_offset_in_command_stream": 2123,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "shatter",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 104,
+              "byte_offset_in_command_stream": 2138,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                5,
+                0
+              ]
+            },
+            {
+              "index": 105,
+              "byte_offset_in_command_stream": 2145,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 106,
+              "byte_offset_in_command_stream": 2156,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 107,
+              "byte_offset_in_command_stream": 2166,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                8,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 108,
+              "byte_offset_in_command_stream": 2176,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                7,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 109,
+              "byte_offset_in_command_stream": 2186,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Who was that?",
+              "parameters": []
+            },
+            {
+              "index": 110,
+              "byte_offset_in_command_stream": 2215,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10,
+                8,
+                0,
+                0,
+                14
+              ]
+            },
+            {
+              "index": 111,
+              "byte_offset_in_command_stream": 2225,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                3,
+                8,
+                0,
+                0,
+                14
+              ]
+            },
+            {
+              "index": 112,
+              "byte_offset_in_command_stream": 2235,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: Oh, that was Olympian Funny Guy. He's ",
+              "parameters": []
+            },
+            {
+              "index": 113,
+              "byte_offset_in_command_stream": 2286,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "been deemed a mental patient and was thrown",
+              "parameters": []
+            },
+            {
+              "index": 114,
+              "byte_offset_in_command_stream": 2335,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "out of his house, and we needed a repair guy.\\..\\..",
+              "parameters": []
+            },
+            {
+              "index": 115,
+              "byte_offset_in_command_stream": 2392,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Sharp: Why a mental patient?",
+              "parameters": []
+            },
+            {
+              "index": 116,
+              "byte_offset_in_command_stream": 2425,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: Hallucinations of him fighting ",
+              "parameters": []
+            },
+            {
+              "index": 117,
+              "byte_offset_in_command_stream": 2469,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "Humorless. He thinks he's a great warrior.",
+              "parameters": []
+            },
+            {
+              "index": 118,
+              "byte_offset_in_command_stream": 2517,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Hold on, he may be!",
+              "parameters": []
+            },
+            {
+              "index": 119,
+              "byte_offset_in_command_stream": 2552,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: Listen, I know you're one and all, but",
+              "parameters": []
+            },
+            {
+              "index": 120,
+              "byte_offset_in_command_stream": 2603,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "that doesn't mean you have to go all Disney on",
+              "parameters": []
+            },
+            {
+              "index": 121,
+              "byte_offset_in_command_stream": 2655,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "us about him.",
+              "parameters": []
+            },
+            {
+              "index": 122,
+              "byte_offset_in_command_stream": 2674,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Call him out.",
+              "parameters": []
+            },
+            {
+              "index": 123,
+              "byte_offset_in_command_stream": 2703,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 124,
+              "byte_offset_in_command_stream": 2713,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: Olymp! Get out here!",
+              "parameters": []
+            },
+            {
+              "index": 125,
+              "byte_offset_in_command_stream": 2746,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 126,
+              "byte_offset_in_command_stream": 2757,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 127,
+              "byte_offset_in_command_stream": 2767,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                7,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 128,
+              "byte_offset_in_command_stream": 2777,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                8,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 129,
+              "byte_offset_in_command_stream": 2787,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "open1",
+              "parameters": [
+                100,
+                50,
+                50
+              ]
+            },
+            {
+              "index": 130,
+              "byte_offset_in_command_stream": 2800,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 131,
+              "byte_offset_in_command_stream": 2810,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 132,
+              "byte_offset_in_command_stream": 2817,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 133,
+              "byte_offset_in_command_stream": 2827,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 134,
+              "byte_offset_in_command_stream": 2834,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 135,
+              "byte_offset_in_command_stream": 2844,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 136,
+              "byte_offset_in_command_stream": 2851,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                9,
+                8,
+                0,
+                0,
+                14
+              ]
+            },
+            {
+              "index": 137,
+              "byte_offset_in_command_stream": 2861,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                313,
+                313,
+                0
+              ]
+            },
+            {
+              "index": 138,
+              "byte_offset_in_command_stream": 2872,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 139,
+              "byte_offset_in_command_stream": 2879,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                12,
+                13,
+                14
+              ]
+            },
+            {
+              "index": 140,
+              "byte_offset_in_command_stream": 2891,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "close1",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 141,
+              "byte_offset_in_command_stream": 2905,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                9,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 142,
+              "byte_offset_in_command_stream": 2915,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Olymp: What now? Do you want me to fix the ",
+              "parameters": []
+            },
+            {
+              "index": 143,
+              "byte_offset_in_command_stream": 2963,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "microwave!?",
+              "parameters": []
+            },
+            {
+              "index": 144,
+              "byte_offset_in_command_stream": 2980,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10,
+                8,
+                0,
+                0,
+                14
+              ]
+            },
+            {
+              "index": 145,
+              "byte_offset_in_command_stream": 2990,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Hi, Olympian.",
+              "parameters": []
+            },
+            {
+              "index": 146,
+              "byte_offset_in_command_stream": 3019,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Olymp: Hey, you look like me! You must be",
+              "parameters": []
+            },
+            {
+              "index": 147,
+              "byte_offset_in_command_stream": 3065,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "a Funny Guy too.",
+              "parameters": []
+            },
+            {
+              "index": 148,
+              "byte_offset_in_command_stream": 3087,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Target: Look, sorry for the short notice, but ",
+              "parameters": []
+            },
+            {
+              "index": 149,
+              "byte_offset_in_command_stream": 3138,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "we need you with us. We're on a journey to",
+              "parameters": []
+            },
+            {
+              "index": 150,
+              "byte_offset_in_command_stream": 3186,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "eliminate the Humorless from the face of the ",
+              "parameters": []
+            },
+            {
+              "index": 151,
+              "byte_offset_in_command_stream": 3237,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "earth.",
+              "parameters": []
+            },
+            {
+              "index": 152,
+              "byte_offset_in_command_stream": 3249,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Olymp: Well sure I'm coming with you! It's ",
+              "parameters": []
+            },
+            {
+              "index": 153,
+              "byte_offset_in_command_stream": 3297,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "my destiny!",
+              "parameters": []
+            },
+            {
+              "index": 154,
+              "byte_offset_in_command_stream": 3314,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                9,
+                8,
+                0,
+                0,
+                3,
+                3,
+                3,
+                3,
+                12
+              ]
+            },
+            {
+              "index": 155,
+              "byte_offset_in_command_stream": 3328,
+              "code": 11340,
+              "name": "ProceedWithMovement",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 156,
+              "byte_offset_in_command_stream": 3333,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "tada",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 157,
+              "byte_offset_in_command_stream": 3345,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "\\C[6]Olympian joined!",
+              "parameters": []
+            },
+            {
+              "index": 158,
+              "byte_offset_in_command_stream": 3371,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                5,
+                0
+              ]
+            },
+            {
+              "index": 159,
+              "byte_offset_in_command_stream": 3378,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10001,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 160,
+              "byte_offset_in_command_stream": 3389,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                6,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 161,
+              "byte_offset_in_command_stream": 3399,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                8,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 162,
+              "byte_offset_in_command_stream": 3409,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                7,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 163,
+              "byte_offset_in_command_stream": 3419,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: Looks like we're gonna need another ",
+              "parameters": []
+            },
+            {
+              "index": 164,
+              "byte_offset_in_command_stream": 3468,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "repair man.\\..\\..",
+              "parameters": []
+            },
+            {
+              "index": 165,
+              "byte_offset_in_command_stream": 3491,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Oxy: Well, is there anything we can do to",
+              "parameters": []
+            },
+            {
+              "index": 166,
+              "byte_offset_in_command_stream": 3537,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "help?",
+              "parameters": []
+            },
+            {
+              "index": 167,
+              "byte_offset_in_command_stream": 3548,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Well, other than stay out of",
+              "parameters": []
+            },
+            {
+              "index": 168,
+              "byte_offset_in_command_stream": 3592,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "our way, you seem to have a lot of technology.",
+              "parameters": []
+            },
+            {
+              "index": 169,
+              "byte_offset_in_command_stream": 3644,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "Maybe you could alert us to if we're attacked by ",
+              "parameters": []
+            },
+            {
+              "index": 170,
+              "byte_offset_in_command_stream": 3699,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "the Evilies?",
+              "parameters": []
+            },
+            {
+              "index": 171,
+              "byte_offset_in_command_stream": 3717,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                9,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 172,
+              "byte_offset_in_command_stream": 3727,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie, Oxy, and Olymp: The Evilies?",
+              "parameters": []
+            },
+            {
+              "index": 173,
+              "byte_offset_in_command_stream": 3768,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Ugh.\\..\\.. It's a long story. Maybe",
+              "parameters": []
+            },
+            {
+              "index": 174,
+              "byte_offset_in_command_stream": 3819,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "I should just tell you all now.\\..\\..",
+              "parameters": []
+            },
+            {
+              "index": 175,
+              "byte_offset_in_command_stream": 3862,
+              "code": 11520,
+              "name": "FadeOutBGM",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                2000
+              ]
+            },
+            {
+              "index": 176,
+              "byte_offset_in_command_stream": 3869,
+              "code": 11030,
+              "name": "TintScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                200,
+                200,
+                200,
+                200,
+                20,
+                1
+              ]
+            },
+            {
+              "index": 177,
+              "byte_offset_in_command_stream": 3884,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                35,
+                0
+              ]
+            },
+            {
+              "index": 178,
+              "byte_offset_in_command_stream": 3891,
+              "code": 11510,
+              "name": "PlayBGM",
+              "indent": 0,
+              "string": "jackpot",
+              "parameters": [
+                2000,
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 179,
+              "byte_offset_in_command_stream": 3908,
+              "code": 11030,
+              "name": "TintScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                100,
+                100,
+                100,
+                100,
+                20,
+                1
+              ]
+            },
+            {
+              "index": 180,
+              "byte_offset_in_command_stream": 3919,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: *Whistles*",
+              "parameters": []
+            },
+            {
+              "index": 181,
+              "byte_offset_in_command_stream": 3942,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Olymp: That's.\\..\\.. Incredible.",
+              "parameters": []
+            },
+            {
+              "index": 182,
+              "byte_offset_in_command_stream": 3979,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Oxy: No doubt in my mind.",
+              "parameters": []
+            },
+            {
+              "index": 183,
+              "byte_offset_in_command_stream": 4009,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Junior: Can we get to what we came here in ",
+              "parameters": []
+            },
+            {
+              "index": 184,
+              "byte_offset_in_command_stream": 4057,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "the first place for?",
+              "parameters": []
+            },
+            {
+              "index": 185,
+              "byte_offset_in_command_stream": 4083,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny  Guy: Oh, yeah. Do you guys know how to",
+              "parameters": []
+            },
+            {
+              "index": 186,
+              "byte_offset_in_command_stream": 4133,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "get to Halo Peak?",
+              "parameters": []
+            },
+            {
+              "index": 187,
+              "byte_offset_in_command_stream": 4156,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                9,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 188,
+              "byte_offset_in_command_stream": 4166,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Oxy: The military base? Haven't you just passed ",
+              "parameters": []
+            },
+            {
+              "index": 189,
+              "byte_offset_in_command_stream": 4219,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "the tunnel itself on your way here?",
+              "parameters": []
+            },
+            {
+              "index": 190,
+              "byte_offset_in_command_stream": 4260,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: No, we need another way. Some bozo",
+              "parameters": []
+            },
+            {
+              "index": 191,
+              "byte_offset_in_command_stream": 4310,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "clogged up the tunnel with his dropped luggage.",
+              "parameters": []
+            },
+            {
+              "index": 192,
+              "byte_offset_in_command_stream": 4363,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Oxy: Oh... Well, don't tell anybody that we ",
+              "parameters": []
+            },
+            {
+              "index": 193,
+              "byte_offset_in_command_stream": 4412,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "told you, but the guy that keeps you from ",
+              "parameters": []
+            },
+            {
+              "index": 194,
+              "byte_offset_in_command_stream": 4460,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "going behind the counter in the Item Shop",
+              "parameters": []
+            },
+            {
+              "index": 195,
+              "byte_offset_in_command_stream": 4507,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "is a robot. We can make him move right ",
+              "parameters": []
+            },
+            {
+              "index": 196,
+              "byte_offset_in_command_stream": 4552,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "now, if you'd like.",
+              "parameters": []
+            },
+            {
+              "index": 197,
+              "byte_offset_in_command_stream": 4576,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Junior: Sure!",
+              "parameters": []
+            },
+            {
+              "index": 198,
+              "byte_offset_in_command_stream": 4594,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                3,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 199,
+              "byte_offset_in_command_stream": 4604,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Oxy: Do it, Jackie.",
+              "parameters": []
+            },
+            {
+              "index": 200,
+              "byte_offset_in_command_stream": 4628,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 201,
+              "byte_offset_in_command_stream": 4638,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Jackie: Yea, whateva.",
+              "parameters": []
+            },
+            {
+              "index": 202,
+              "byte_offset_in_command_stream": 4664,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                3,
+                8,
+                0,
+                0,
+                14
+              ]
+            },
+            {
+              "index": 203,
+              "byte_offset_in_command_stream": 4674,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10,
+                8,
+                0,
+                0,
+                2,
+                2,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                12
+              ]
+            },
+            {
+              "index": 204,
+              "byte_offset_in_command_stream": 4694,
+              "code": 11340,
+              "name": "ProceedWithMovement",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 205,
+              "byte_offset_in_command_stream": 4699,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "open1",
+              "parameters": [
+                100,
+                50,
+                50
+              ]
+            },
+            {
+              "index": 206,
+              "byte_offset_in_command_stream": 4712,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 207,
+              "byte_offset_in_command_stream": 4722,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 208,
+              "byte_offset_in_command_stream": 4729,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 209,
+              "byte_offset_in_command_stream": 4739,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 210,
+              "byte_offset_in_command_stream": 4746,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 211,
+              "byte_offset_in_command_stream": 4756,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                2,
+                0
+              ]
+            },
+            {
+              "index": 212,
+              "byte_offset_in_command_stream": 4763,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                312,
+                312,
+                1
+              ]
+            },
+            {
+              "index": 213,
+              "byte_offset_in_command_stream": 4774,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 214,
+              "byte_offset_in_command_stream": 4781,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                4,
+                8,
+                0,
+                0,
+                13,
+                14
+              ]
+            },
+            {
+              "index": 215,
+              "byte_offset_in_command_stream": 4792,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "close1",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 216,
+              "byte_offset_in_command_stream": 4806,
+              "code": 11340,
+              "name": "ProceedWithMovement",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            },
+            {
+              "index": 217,
+              "byte_offset_in_command_stream": 4811,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Oxy: Yeah, just go to the shop and make ",
+              "parameters": []
+            },
+            {
+              "index": 218,
+              "byte_offset_in_command_stream": 4856,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "your way up the ladder, then follow the ",
+              "parameters": []
+            },
+            {
+              "index": 219,
+              "byte_offset_in_command_stream": 4902,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "path to Halo Peak's lift. We'll be in touch. ",
+              "parameters": []
+            },
+            {
+              "index": 220,
+              "byte_offset_in_command_stream": 4953,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "Here's a cell phone.",
+              "parameters": []
+            },
+            {
+              "index": 221,
+              "byte_offset_in_command_stream": 4979,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "rune",
+              "parameters": [
+                100,
+                150,
+                50
+              ]
+            },
+            {
+              "index": 222,
+              "byte_offset_in_command_stream": 4992,
+              "code": 10320,
+              "name": "ChangeItems",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                0,
+                123,
+                0,
+                1
+              ]
+            },
+            {
+              "index": 223,
+              "byte_offset_in_command_stream": 5002,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "\\C[8]Obtained Key Item: Cell Phone",
+              "parameters": []
+            },
+            {
+              "index": 224,
+              "byte_offset_in_command_stream": 5041,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Funny Guy: Thanks! See ya later!",
+              "parameters": []
+            },
+            {
+              "index": 225,
+              "byte_offset_in_command_stream": 5078,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "\\C[11]Note: Now that you have more than 4 ",
+              "parameters": []
+            },
+            {
+              "index": 226,
+              "byte_offset_in_command_stream": 5125,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "party members, you can switch them around",
+              "parameters": []
+            },
+            {
+              "index": 227,
+              "byte_offset_in_command_stream": 5172,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "at will using the Quest Menu. Use the section ",
+              "parameters": []
+            },
+            {
+              "index": 228,
+              "byte_offset_in_command_stream": 5224,
+              "code": 20110,
+              "name": "ShowMessage_2",
+              "indent": 0,
+              "string": "entitled \"Lineup.\"",
+              "parameters": []
+            },
+            {
+              "index": 229,
+              "byte_offset_in_command_stream": 5248,
+              "code": 10330,
+              "name": "ChangePartyMembers",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0,
+                4
+              ]
+            },
+            {
+              "index": 230,
+              "byte_offset_in_command_stream": 5256,
+              "code": 10330,
+              "name": "ChangePartyMembers",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                0,
+                5
+              ]
+            },
+            {
+              "index": 231,
+              "byte_offset_in_command_stream": 5264,
+              "code": 10420,
+              "name": "ChangeLevel",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                5,
+                0,
+                0,
+                16,
+                0
+              ]
+            },
+            {
+              "index": 232,
+              "byte_offset_in_command_stream": 5275,
+              "code": 10450,
+              "name": "ChangeEquipment",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                5,
+                0,
+                0,
+                57
+              ]
+            },
+            {
+              "index": 233,
+              "byte_offset_in_command_stream": 5285,
+              "code": 10440,
+              "name": "ChangeSkills",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                5,
+                0,
+                0,
+                28
+              ]
+            },
+            {
+              "index": 234,
+              "byte_offset_in_command_stream": 5295,
+              "code": 10440,
+              "name": "ChangeSkills",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                5,
+                0,
+                0,
+                96
+              ]
+            },
+            {
+              "index": 235,
+              "byte_offset_in_command_stream": 5305,
+              "code": 10490,
+              "name": "FullHeal",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                5
+              ]
+            },
+            {
+              "index": 236,
+              "byte_offset_in_command_stream": 5312,
+              "code": 10330,
+              "name": "ChangePartyMembers",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0,
+                5
+              ]
+            },
+            {
+              "index": 237,
+              "byte_offset_in_command_stream": 5320,
+              "code": 10330,
+              "name": "ChangePartyMembers",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "index": 238,
+              "byte_offset_in_command_stream": 5328,
+              "code": 10120,
+              "name": "MessageOptions",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                2,
+                1,
+                0
+              ]
+            },
+            {
+              "index": 239,
+              "byte_offset_in_command_stream": 5337,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                293,
+                293,
+                0
+              ]
+            },
+            {
+              "index": 240,
+              "byte_offset_in_command_stream": 5348,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                321,
+                321,
+                0
+              ]
+            },
+            {
+              "index": 241,
+              "byte_offset_in_command_stream": 5359,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                322,
+                322,
+                0
+              ]
+            },
+            {
+              "index": 242,
+              "byte_offset_in_command_stream": 5370,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                323,
+                323,
+                0
+              ]
+            },
+            {
+              "index": 243,
+              "byte_offset_in_command_stream": 5381,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                324,
+                324,
+                0
+              ]
+            },
+            {
+              "index": 244,
+              "byte_offset_in_command_stream": 5392,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                314,
+                314,
+                1
+              ]
+            },
+            {
+              "index": 245,
+              "byte_offset_in_command_stream": 5403,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                313,
+                313,
+                1
+              ]
+            },
+            {
+              "index": 246,
+              "byte_offset_in_command_stream": 5414,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                270,
+                270,
+                1
+              ]
+            },
+            {
+              "index": 247,
+              "byte_offset_in_command_stream": 5425,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                316,
+                316,
+                0
+              ]
+            },
+            {
+              "index": 248,
+              "byte_offset_in_command_stream": 5436,
+              "code": 11010,
+              "name": "EraseScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            },
+            {
+              "index": 249,
+              "byte_offset_in_command_stream": 5442,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                194,
+                8,
+                11,
+                3
+              ]
+            },
+            {
+              "index": 250,
+              "byte_offset_in_command_stream": 5452,
+              "code": 11020,
+              "name": "ShowScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 316,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 3,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "EV0012",
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 314,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 4,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 19,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11060,
+              "name": "PanScreen",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                2,
+                0,
+                5,
+                4,
+                1
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 10,
+              "code": 12320,
+              "name": "EraseEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "EV0013",
+      "x": 8,
+      "y": 3,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "future",
+          "character_index": 5,
+          "character_direction": 1,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 6,
+          "move_frequency": 4,
+          "trigger": 4,
+          "layer": 2,
+          "overlap_forbidden": false,
+          "animation_type": 3,
+          "move_speed": 6,
+          "move_route": {
+            "move_commands_size": 9,
+            "move_commands": [
+              {
+                "code": 36,
+                "name": "walk_everywhere_on",
+                "parameters": []
+              },
+              {
+                "code": 40,
+                "name": "increase_transp",
+                "parameters": []
+              },
+              {
+                "code": 40,
+                "name": "increase_transp",
+                "parameters": []
+              },
+              {
+                "code": 40,
+                "name": "increase_transp",
+                "parameters": []
+              },
+              {
+                "code": 40,
+                "name": "increase_transp",
+                "parameters": []
+              },
+              {
+                "code": 41,
+                "name": "decrease_transp",
+                "parameters": []
+              },
+              {
+                "code": 41,
+                "name": "decrease_transp",
+                "parameters": []
+              },
+              {
+                "code": 41,
+                "name": "decrease_transp",
+                "parameters": []
+              },
+              {
+                "code": 41,
+                "name": "decrease_transp",
+                "parameters": []
+              }
+            ]
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 315,
+            "actor_id": 1
+          },
+          "character_direction": 1,
+          "character_pattern": 0,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_speed": 6,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 4,
+          "event_commands": []
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "EV0014",
+      "x": 8,
+      "y": 4,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_name": "Chest2",
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 185,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10005,
+                8,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "index": 1,
+              "byte_offset_in_command_stream": 11,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 2,
+              "byte_offset_in_command_stream": 18,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10005,
+                8,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "index": 3,
+              "byte_offset_in_command_stream": 29,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 4,
+              "byte_offset_in_command_stream": 36,
+              "code": 11330,
+              "name": "MoveEvent",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                10005,
+                8,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "index": 5,
+              "byte_offset_in_command_stream": 47,
+              "code": 11410,
+              "name": "Wait",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                1,
+                0
+              ]
+            },
+            {
+              "index": 6,
+              "byte_offset_in_command_stream": 54,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Obtained Guardo Deluxe Battle Protector",
+              "parameters": []
+            },
+            {
+              "index": 7,
+              "byte_offset_in_command_stream": 98,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Just kidding!",
+              "parameters": []
+            },
+            {
+              "index": 8,
+              "byte_offset_in_command_stream": 116,
+              "code": 11550,
+              "name": "PlaySound",
+              "indent": 0,
+              "string": "item",
+              "parameters": [
+                100,
+                100,
+                50
+              ]
+            },
+            {
+              "index": 9,
+              "byte_offset_in_command_stream": 128,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Obtained 2 Scrolls of Power",
+              "parameters": []
+            },
+            {
+              "index": 10,
+              "byte_offset_in_command_stream": 160,
+              "code": 10320,
+              "name": "ChangeItems",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                0,
+                89,
+                0,
+                2
+              ]
+            },
+            {
+              "index": 11,
+              "byte_offset_in_command_stream": 170,
+              "code": 10210,
+              "name": "ControlSwitches",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                0,
+                329,
+                329,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "condition": {
+            "flags": 1,
+            "switch_a_id": 329,
+            "actor_id": 1
+          },
+          "character_name": "Chest2",
+          "character_direction": 3,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 0,
+          "layer": 1,
+          "overlap_forbidden": false,
+          "animation_type": 4,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 15,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10110,
+              "name": "ShowMessage",
+              "indent": 0,
+              "string": "Empty.",
+              "parameters": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "EV0015",
+      "x": 16,
+      "y": 19,
+      "pages": [
+        {
+          "id": 1,
+          "condition": {
+            "flags": 0,
+            "actor_id": 1
+          },
+          "character_direction": 2,
+          "translucent": false,
+          "move_type": 0,
+          "trigger": 1,
+          "layer": 0,
+          "overlap_forbidden": false,
+          "animation_type": 0,
+          "move_route": {
+            "move_commands": []
+          },
+          "event_commands_size": 14,
+          "event_commands": [
+            {
+              "index": 0,
+              "byte_offset_in_command_stream": 0,
+              "code": 10810,
+              "name": "Teleport",
+              "indent": 0,
+              "string": "",
+              "parameters": [
+                201,
+                16,
+                10,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "save_count": 102,
+  "id": 198,
+  "name": "Studio",
+  "source": "Map0198.lmu"
+}
