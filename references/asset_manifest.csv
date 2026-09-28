@@ -1,4 +1,32 @@
 source,path,ext,size_bytes,mtime,origin
+franchise_reference,hdd/art/Card Game/Card Game scan_2005_05_07.gif,.gif,148197,1673498258,franchise-reference
+franchise_reference,"hdd/art/Card Game/Scan272, March 07, 2005.gif",.gif,188022,1673498258,franchise-reference
+franchise_reference,"hdd/art/Card Game/Scan273, March 07, 2005.gif",.gif,87548,1673498258,franchise-reference
+franchise_reference,"hdd/art/Card Game/Scan274, March 07, 2005.gif",.gif,93921,1673498258,franchise-reference
+franchise_reference,"hdd/art/Card Game/Scan275, March 07, 2005.gif",.gif,47384,1673498258,franchise-reference
+franchise_reference,"hdd/art/Card Game/Scan280, March 07, 2005.gif",.gif,54871,1673498258,franchise-reference
+franchise_reference,hdd/art/Element.PNG,.png,36840,1673498258,franchise-reference
+franchise_reference,hdd/art/Evilscientist.PNG,.png,25304,1673498258,franchise-reference
+franchise_reference,hdd/art/Junior.PNG,.png,21235,1673498258,franchise-reference
+franchise_reference,hdd/art/Olympian.PNG,.png,31359,1673498258,franchise-reference
+franchise_reference,hdd/art/RM_stick.gif,.gif,211541,1673498258,franchise-reference
+franchise_reference,hdd/art/Razor.PNG,.png,38712,1673498258,franchise-reference
+franchise_reference,hdd/art/Repairman.PNG,.png,17488,1673498258,franchise-reference
+franchise_reference,hdd/art/Seriousman.PNG,.png,48292,1673498258,franchise-reference
+franchise_reference,hdd/art/Target.PNG,.png,33565,1673498258,franchise-reference
+franchise_reference,hdd/art/Timet.PNG,.png,28079,1673498258,franchise-reference
+franchise_reference,hdd/art/element_stick.gif,.gif,186004,1673498258,franchise-reference
+franchise_reference,hdd/art/evilsci_stick.gif,.gif,183636,1673498258,franchise-reference
+franchise_reference,hdd/art/jr_stick.gif,.gif,138626,1673498258,franchise-reference
+franchise_reference,hdd/art/koven.PNG,.png,14912,1673498258,franchise-reference
+franchise_reference,hdd/art/koven_stick.gif,.gif,165336,1673498258,franchise-reference
+franchise_reference,hdd/art/olymp_stick.gif,.gif,140699,1673498258,franchise-reference
+franchise_reference,hdd/art/pottyp.PNG,.png,23128,1673498258,franchise-reference
+franchise_reference,hdd/art/pottyp_stick.gif,.gif,181562,1673498258,franchise-reference
+franchise_reference,hdd/art/razor_stick.gif,.gif,168257,1673498258,franchise-reference
+franchise_reference,hdd/art/sm_stick.gif,.gif,168224,1673498258,franchise-reference
+franchise_reference,hdd/art/target_stick.gif,.gif,165649,1673498258,franchise-reference
+franchise_reference,hdd/art/timet_stick.gif,.gif,102654,1673498258,franchise-reference
 funnyguycomics,legacy/comics/001_the_funny_guy.png,.png,466349,1778379109,original-comic
 funnyguycomics,legacy/comics/002_foulness.png,.png,423651,1778379109,original-comic
 funnyguycomics,legacy/comics/003_hungry.png,.png,445179,1778379109,original-comic
@@ -1626,12 +1654,6 @@ legacy_dump,art/Amanda charging up.jpg,.jpg,102041,1751155751,legacy-unsorted
 legacy_dump,art/Book Logos 1-4.psd,.psd,33655879,1673498277,legacy-unsorted
 legacy_dump,art/Book Logos 5-8.psd,.psd,5348417,1673498277,legacy-unsorted
 legacy_dump,art/Car Game.gif,.gif,255663,1673498199,legacy-unsorted
-legacy_dump,art/Card Game/Card Game scan_2005_05_07.gif,.gif,148197,1673498258,legacy-unsorted
-legacy_dump,"art/Card Game/Scan272, March 07, 2005.gif",.gif,188022,1673498258,legacy-unsorted
-legacy_dump,"art/Card Game/Scan273, March 07, 2005.gif",.gif,87548,1673498258,legacy-unsorted
-legacy_dump,"art/Card Game/Scan274, March 07, 2005.gif",.gif,93921,1673498258,legacy-unsorted
-legacy_dump,"art/Card Game/Scan275, March 07, 2005.gif",.gif,47384,1673498258,legacy-unsorted
-legacy_dump,"art/Card Game/Scan280, March 07, 2005.gif",.gif,54871,1673498258,legacy-unsorted
 legacy_dump,art/Comic Books Banner.png,.png,3736528,1673498277,legacy-unsorted
 legacy_dump,art/Comic Books Banner.psd,.psd,39801514,1673498277,legacy-unsorted
 legacy_dump,art/Crash Bandicoot.gif,.gif,231808,1673498199,legacy-unsorted
@@ -1646,8 +1668,6 @@ legacy_dump,art/DriveGauge.psd,.psd,3390233,1673498200,legacy-unsorted
 legacy_dump,art/Edgar's Nawful Intentions 2.psd,.psd,17872505,1746580234,legacy-unsorted
 legacy_dump,art/Edgar's Nawful Intentions 3.psd,.psd,16068397,1301989238,legacy-unsorted
 legacy_dump,art/Edgar's Nawful Intentions.psd,.psd,19839096,1746580262,legacy-unsorted
-legacy_dump,art/Element.PNG,.png,36840,1673498258,legacy-unsorted
-legacy_dump,art/Evilscientist.PNG,.png,25304,1673498258,legacy-unsorted
 legacy_dump,art/FG Rear Cover Concept Art.png,.png,2980160,1673498258,legacy-unsorted
 legacy_dump,art/FGComics Facebook Page Logo.jpg,.jpg,271901,1673498257,legacy-unsorted
 legacy_dump,art/FGComics Facebook Page Logo.psd,.psd,17285489,1673498277,legacy-unsorted
@@ -1658,7 +1678,6 @@ legacy_dump,art/GTH_Logo.psd,.psd,522922,1673498244,legacy-unsorted
 legacy_dump,art/GTH_Logo_upanus.jpg,.jpg,39617,1673498244,legacy-unsorted
 legacy_dump,art/Janitor Earl - False ID for Amanda.psd,.psd,3426356,1673498286,legacy-unsorted
 legacy_dump,art/Janitor Earl - nametag for Amanda.psd,.psd,369893,1673498286,legacy-unsorted
-legacy_dump,art/Junior.PNG,.png,21235,1673498258,legacy-unsorted
 legacy_dump,art/Later_SF.psd,.psd,225012,1673498201,legacy-unsorted
 legacy_dump,art/Lugia.gif,.gif,132152,1673498199,legacy-unsorted
 legacy_dump,art/Meanw.psd,.psd,160991,1673498201,legacy-unsorted
@@ -1668,13 +1687,9 @@ legacy_dump,art/Nawful.psd,.psd,18006885,1746580247,legacy-unsorted
 legacy_dump,art/Nawful4.psd,.psd,15715044,1746580250,legacy-unsorted
 legacy_dump,art/Nawful5.psd,.psd,13584825,1746580252,legacy-unsorted
 legacy_dump,art/Nawful_Advance.psd,.psd,30413796,1746580262,legacy-unsorted
-legacy_dump,art/Olympian.PNG,.png,31359,1673498258,legacy-unsorted
 legacy_dump,art/PXL_20260503_203922973.jpg,.jpg,574053,1778035276,legacy-unsorted
 legacy_dump,art/Pa's Favorite Truck.JPG,.jpg,5665052,1770569220,legacy-unsorted
 legacy_dump,art/Pokemon Items.gif,.gif,167909,1673498199,legacy-unsorted
-legacy_dump,art/RM_stick.gif,.gif,211541,1673498258,legacy-unsorted
-legacy_dump,art/Razor.PNG,.png,38712,1673498258,legacy-unsorted
-legacy_dump,art/Repairman.PNG,.png,17488,1673498258,legacy-unsorted
 legacy_dump,art/RouteX.gif,.gif,208207,1673498199,legacy-unsorted
 legacy_dump,art/SF Armor.gif,.gif,162255,1673498199,legacy-unsorted
 legacy_dump,art/SF House Flatbed Scan_0000_Layer 1.jpg,.jpg,4653215,1673498200,legacy-unsorted
@@ -1955,7 +1970,6 @@ legacy_dump,"art/Scan393, March 07, 2005.gif",.gif,223708,1673498199,legacy-unso
 legacy_dump,"art/Scan394, March 07, 2005.gif",.gif,152252,1673498199,legacy-unsorted
 legacy_dump,art/Scan_20160118 (2).png,.png,61035185,1673498277,legacy-unsorted
 legacy_dump,art/Scan_20160118.png,.png,153610,1673498277,legacy-unsorted
-legacy_dump,art/Seriousman.PNG,.png,48292,1673498258,legacy-unsorted
 legacy_dump,art/Super Family Emblem.psd,.psd,1529970,1673498200,legacy-unsorted
 legacy_dump,art/Super Family Portrait.jpg,.jpg,1682048,1753829069,legacy-unsorted
 legacy_dump,art/Super Family Sketches2025_04_22_001_0001.png,.png,5843620,1778377671,legacy-unsorted
@@ -1986,9 +2000,7 @@ legacy_dump,art/Super Family Sketches2025_04_22_001_0027.png,.png,3949883,174535
 legacy_dump,art/Super Family Sketches2025_04_22_001_0028.png,.png,15699642,1745354767,legacy-unsorted
 legacy_dump,art/Super Family Sketches2025_04_22_001_0029.png,.png,1133751,1745354768,legacy-unsorted
 legacy_dump,"art/Sword, Lightsaber.gif",.gif,138335,1673498199,legacy-unsorted
-legacy_dump,art/Target.PNG,.png,33565,1673498258,legacy-unsorted
 legacy_dump,art/The Generator.gif,.gif,231438,1673498199,legacy-unsorted
-legacy_dump,art/Timet.PNG,.png,28079,1673498258,legacy-unsorted
 legacy_dump,art/V0045204.jpg,.jpg,1987978,1673498277,legacy-unsorted
 legacy_dump,art/aa.JPG,.jpg,61641,1617550810,legacy-unsorted
 legacy_dump,art/ai_by-nc-sa_icons.ai,.ai,57198,1673498278,legacy-unsorted
@@ -2011,9 +2023,7 @@ legacy_dump,art/buttons.psd,.psd,354846,1673498226,legacy-unsorted
 legacy_dump,art/cc.JPG,.jpg,61939,1617550807,legacy-unsorted
 legacy_dump,art/content_bg.psd,.psd,28596,1673498227,legacy-unsorted
 legacy_dump,art/edgarmoar3.psd,.psd,16156012,1746580262,legacy-unsorted
-legacy_dump,art/element_stick.gif,.gif,186004,1673498258,legacy-unsorted
 legacy_dump,art/evilbrother!.psd,.psd,2172906,1673498200,legacy-unsorted
-legacy_dump,art/evilsci_stick.gif,.gif,183636,1673498258,legacy-unsorted
 legacy_dump,art/favicon.psd,.psd,25932,1673498278,legacy-unsorted
 legacy_dump,art/favicon1.psd,.psd,32466,1673498278,legacy-unsorted
 legacy_dump,art/favicon2.psd,.psd,31940,1673498278,legacy-unsorted
@@ -2259,9 +2269,6 @@ legacy_dump,art/jpg_the arts.JPG,.jpg,224017,1673498278,legacy-unsorted
 legacy_dump,art/jpg_tonic.jpg,.jpg,590926,1673498278,legacy-unsorted
 legacy_dump,art/jpg_uberpix.JPG,.jpg,53858,1673498278,legacy-unsorted
 legacy_dump,art/jpg_watchmen1_template.jpg,.jpg,131277,1673498277,legacy-unsorted
-legacy_dump,art/jr_stick.gif,.gif,138626,1673498258,legacy-unsorted
-legacy_dump,art/koven.PNG,.png,14912,1673498258,legacy-unsorted
-legacy_dump,art/koven_stick.gif,.gif,165336,1673498258,legacy-unsorted
 legacy_dump,art/logo.psd,.psd,38063661,1673498277,legacy-unsorted
 legacy_dump,art/logo1.png,.png,176618,1673498278,legacy-unsorted
 legacy_dump,art/logo2.psd,.psd,8481544,1673498277,legacy-unsorted
@@ -2284,7 +2291,6 @@ legacy_dump,art/nawful new footer.psd,.psd,582898,1673498277,legacy-unsorted
 legacy_dump,art/nawful_GO2.psd,.psd,24811411,1746580262,legacy-unsorted
 legacy_dump,art/nawful_header4-02.jpg,.jpg,4276,1673498219,legacy-unsorted
 legacy_dump,art/nawful_header4.jpg,.jpg,122355,1673498219,legacy-unsorted
-legacy_dump,art/olymp_stick.gif,.gif,140699,1673498258,legacy-unsorted
 legacy_dump,art/oxymoron.PNG,.png,20246,1673498258,legacy-unsorted
 legacy_dump,art/oxymoron_stick.gif,.gif,172306,1673498258,legacy-unsorted
 legacy_dump,art/pattern_menu_links.psd,.psd,27842,1673498226,legacy-unsorted
@@ -2516,8 +2522,6 @@ legacy_dump,art/png_resources_download.png,.png,5042,1673498258,legacy-unsorted
 legacy_dump,art/png_tf2.PNG,.png,1557616,1673498278,legacy-unsorted
 legacy_dump,art/png_themonkey.PNG,.png,9187,1673498278,legacy-unsorted
 legacy_dump,art/png_valve.png,.png,835533,1673498278,legacy-unsorted
-legacy_dump,art/pottyp.PNG,.png,23128,1673498258,legacy-unsorted
-legacy_dump,art/pottyp_stick.gif,.gif,181562,1673498258,legacy-unsorted
 legacy_dump,art/psd_001.psd,.psd,30900974,1673498277,legacy-unsorted
 legacy_dump,art/psd_1.psd,.psd,39316383,1673498278,legacy-unsorted
 legacy_dump,art/psd_1_1splash.psd,.psd,269426,1673498246,legacy-unsorted
@@ -2558,7 +2562,6 @@ legacy_dump,art/psd_torn.psd,.psd,1013947,1673498286,legacy-unsorted
 legacy_dump,art/psd_vio-lence.psd,.psd,602862,1673498286,legacy-unsorted
 legacy_dump,art/psd_wallpaper.psd,.psd,3481077,1617550821,legacy-unsorted
 legacy_dump,art/psd_watchmen 1-12-3.psd,.psd,757349,1673498277,legacy-unsorted
-legacy_dump,art/razor_stick.gif,.gif,168257,1673498258,legacy-unsorted
 legacy_dump,art/rss for comics.JPG,.jpg,145113,1673498219,legacy-unsorted
 legacy_dump,art/scan0002.jpg,.jpg,2346006,1673498277,legacy-unsorted
 legacy_dump,art/scan0003.jpg,.jpg,3812545,1673498277,legacy-unsorted
@@ -2567,15 +2570,12 @@ legacy_dump,art/scan0005.jpg,.jpg,2555199,1673498277,legacy-unsorted
 legacy_dump,art/sf logo rough.png,.png,5145845,1754971278,legacy-unsorted
 legacy_dump,art/site logo (FG).psd,.psd,2762666,1673498277,legacy-unsorted
 legacy_dump,art/site.psd,.psd,5117080,1673498200,legacy-unsorted
-legacy_dump,art/sm_stick.gif,.gif,168224,1673498258,legacy-unsorted
 legacy_dump,art/svg_by-nc-sa.svg,.svg,22707,1673498278,legacy-unsorted
 legacy_dump,art/svg_by-nc-sa_small.svg,.svg,11659,1673498278,legacy-unsorted
 legacy_dump,art/target_2003-2012.png,.png,766643,1673498277,legacy-unsorted
-legacy_dump,art/target_stick.gif,.gif,165649,1673498258,legacy-unsorted
 legacy_dump,art/tfgc_logo_v1.ai,.ai,959563,1673498277,legacy-unsorted
 legacy_dump,art/tfgc_logo_v2.ai,.ai,396494,1673498277,legacy-unsorted
 legacy_dump,art/timeline_salvage.gif,.gif,4557337,1673498200,legacy-unsorted
-legacy_dump,art/timet_stick.gif,.gif,102654,1673498258,legacy-unsorted
 legacy_dump,art/userbar.psd,.psd,24746,1673498227,legacy-unsorted
 legacy_dump,art/watchmen 1-12.pdf,.pdf,211330864,1673498238,legacy-unsorted
 legacy_dump,art/whip_of_justice.gif,.gif,5252,1133638092,legacy-unsorted

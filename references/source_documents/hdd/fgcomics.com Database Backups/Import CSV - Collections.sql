@@ -1,0 +1,13 @@
+LOAD DATA LOCAL INFILE 'G:/Adam/FGComics/Website/database/Collections_temp.csv' 
+	INTO TABLE FGComics.Collections FIELDS TERMINATED BY '|' lines terminated by '~'
+    -- Put the numeric fields in user variables (names prefixed by @)
+    ( @ID, Title, @Sequence, @Series, @RangeMin, @RangeMax, @Parent, Cover, BackCover
+    ) 
+    
+    -- Now check for empty strings and set the numeric columns to null if they're found
+    set ID = if(@ID="", null, @ID),
+		Sequence = if(@Sequence="", null, @Sequence),
+		Series = if(@Series="", null, @Series),
+		RangeMin = if(@RangeMin="", null, @RangeMin),
+		RangeMax = if(@RangeMax="", null, @RangeMax),
+		Parent = if(@Parent="", null, @Parent);

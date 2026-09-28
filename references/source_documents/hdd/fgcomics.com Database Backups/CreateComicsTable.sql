@@ -1,0 +1,16 @@
+CREATE TABLE `FGComics`.`Comics` (
+  `ComicID` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `ComicNumber` SMALLINT UNSIGNED NULL,
+  `PageNumber` TINYINT NULL,
+  `Filename` VARCHAR(255) NULL,
+  `Title` VARCHAR(255) NULL,
+  `Transcript` TEXT NULL,
+  `Summary` TEXT NULL,
+  `Authors` VARCHAR(255) NULL,
+  `Code` TINYINT NULL,
+  `FullTranscript` TEXT NULL,
+  `DatePublished` DATETIME NULL,
+  PRIMARY KEY (`ComicID`),
+  UNIQUE INDEX `ComicID_UNIQUE` (`ComicID` ASC))
+ENGINE = MyISAM
+COMMENT = 'All pages of all Funny Guy Comics and series go here.';

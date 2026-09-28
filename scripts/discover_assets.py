@@ -25,6 +25,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parent
 
 SOURCES = {
+    "franchise_reference": REPO_ROOT / "assets/reference",
     "funnyguycomics": REPO_ROOT.parent / "funnyguycomics",
     "funnyguyrpg": REPO_ROOT.parent / "funnyguyrpg",
     "legacy_dump": Path("/mnt/hdd/assets"),
@@ -57,6 +58,8 @@ ASSET_EXTS = {
 def origin_for(source: str, rel_path: str, name: str) -> str:
     if f"{source}/{rel_path}" in CANONICAL_PATHS:
         return "canonical"
+    if source == "franchise_reference":
+        return "franchise-reference"
     if source == "funnyguycomics":
         return "original-comic"
     if source == "funnyguyrpg":

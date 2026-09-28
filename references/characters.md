@@ -50,3 +50,16 @@ after Koven left the class.
 
 Don't blend these eras by accident — decide which one a generation task is
 targeting (see `style.md`) and stay consistent within a batch.
+
+## Repository-local original character references
+
+The [2026-09-27 import catalog](imports/hdd-2026-09-27-catalog.md) links 11
+original portraits and 11 handwritten character sheets now under
+`../assets/reference/hdd/art/`. These are direct copies of the asset-drive files,
+not generated redesigns. Keep the visual eras distinct. The handwritten sheets
+still await full transcription; their filenames do not establish cross-era
+character equivalence. The same catalog includes six card-game/design scans.
+
+Native source bios/history documents and their fresh text extractions are also
+linked from that catalog. [Import methods and restore instructions](../docs/asset-import.md)
+record the former asset-drive paths and recoverable trash locations.

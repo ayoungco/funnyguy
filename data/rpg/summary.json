@@ -15,7 +15,7 @@
   "items": 140,
   "enemies": 121,
   "game_asset_files": 523,
-  "legacy_asset_files": 3448,
+  "legacy_asset_files": 3385,
   "legacy_reference_status": {
     "unique_basename_candidate": 663,
     "ambiguous": 14,

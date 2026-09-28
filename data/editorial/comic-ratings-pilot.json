@@ -1,0 +1,786 @@
+{
+  "rubric": {
+    "version": "pilot-v1",
+    "sample_method": "20 manually spaced comic numbers across all eight books, including first and last available numbered installments in this selection. Not a random sample or a best-of list.",
+    "score_anchors": {
+      "1": "Little evidence on this page",
+      "2": "Some promise, weak execution",
+      "3": "Works, with meaningful limitations",
+      "4": "Strong and specific",
+      "5": "Standout within this pilot"
+    },
+    "quality": "Unweighted sum of humor, character, visual storytelling, originality; each 1-5. Bronze 4-10; Silver 11-15; Gold 16-20.",
+    "adaptation": "Separate 1-5 judgment of concrete new-project usefulness. Bronze 1-2; Silver 3; Gold 4-5. Not included in quality total.",
+    "guardrails": [
+      "Do not score drawing polish as skill or artistic worth; visual storytelling means clarity, staging, rhythm and expressions.",
+      "Historical importance does not force a Gold quality rating.",
+      "Rate the visible installment, not an unread arc; do not penalize a continuation merely for being a continuation.",
+      "Missing transcript is a data-quality issue, not a comic-quality penalty.",
+      "No target distribution or forced medal quotas.",
+      "Adaptation pitches are new proposals, not claims about established canon.",
+      "Ratings are subjective editorial judgments pending creator calibration, not objective measurements."
+    ]
+  },
+  "reviews": [
+    {
+      "comic_number": 1,
+      "title": "The Funny Guy",
+      "book_id": 1,
+      "archive_record_ids": [
+        1
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/001_the_funny_guy.png"
+      ],
+      "image_sha256": [
+        "e98a4902b57d37f1849bc7b032036641a305de2a562c8b79baff63d6e291b19d"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 3,
+        "character": 3,
+        "visual_storytelling": 3,
+        "originality": 3
+      },
+      "quality_total_out_of_20": 12,
+      "quality_medal": "Silver",
+      "adaptation_score_out_of_5": 2,
+      "adaptation_medal": "Bronze",
+      "premise": "The Ash misunderstanding turns into a literal volcanic launch.",
+      "strongest_moment": "The deadpan deli-counter response gives the absurdity a human rhythm.",
+      "weakness": "The finish depends heavily on a Pokemon catchphrase rather than a distinctive FG reversal.",
+      "adaptation_pitch": "Keep as the origin exhibit; a volcanic launch could become a background callback.",
+      "review_note": "The first comic has historical value independent of its editorial medal.",
+      "transcript_status": "substantial; checked against image",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 19,
+      "title": "Gas",
+      "book_id": 1,
+      "archive_record_ids": [
+        19
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/019_gas.png"
+      ],
+      "image_sha256": [
+        "693192d0c41a116725407de47cfec5b5ef7a4782cf9e9cd4da659a5f303c9c60"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 3,
+        "character": 3,
+        "visual_storytelling": 3,
+        "originality": 3
+      },
+      "quality_total_out_of_20": 12,
+      "quality_medal": "Silver",
+      "adaptation_score_out_of_5": 4,
+      "adaptation_medal": "Gold",
+      "premise": "An atomic fart destroys the house, sending the cast toward Gas Town.",
+      "strongest_moment": "The condemned-house notice treats the catastrophe as mundane civic business.",
+      "weakness": "The town visit becomes a chain of incidents rather than one escalating payoff.",
+      "adaptation_pitch": "Gas Town arena with unstable soda machines and launch hazards.",
+      "review_note": "Several small labels are faint; the archive transcript contains only an exclamation.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "medium",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 30,
+      "title": "Sunglasses So Cool They Kill You",
+      "book_id": 1,
+      "archive_record_ids": [
+        30
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/030_sunglasses_so_cool_they_kill_you.png"
+      ],
+      "image_sha256": [
+        "a3d5ff4f8189aa3d726256d0e0c9c20e5cea779166fa34b9d2c5ca43cfe65ca5"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 3,
+        "character": 3,
+        "visual_storytelling": 3,
+        "originality": 3
+      },
+      "quality_total_out_of_20": 12,
+      "quality_medal": "Silver",
+      "adaptation_score_out_of_5": 4,
+      "adaptation_medal": "Gold",
+      "premise": "A party, elevator, battle and lethal sunglasses compete for space.",
+      "strongest_moment": "The advertised sunglasses immediately demonstrate their literal lethal promise.",
+      "weakness": "The title gag arrives deep into a much longer sequence and is quickly abandoned.",
+      "adaptation_pitch": "A dangerous sunglasses pickup whose benefit comes with a comic side effect.",
+      "review_note": "Rate the whole page; the sunglasses sequence alone would score more strongly.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 45,
+      "title": "Repair Man",
+      "book_id": 1,
+      "archive_record_ids": [
+        45
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/045_repair_man.png"
+      ],
+      "image_sha256": [
+        "f94e743832cd93a80b50cee85a8dd26e809f3d1906a79bf41dda9aa6c5f7af6e"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 3,
+        "character": 4,
+        "visual_storytelling": 3,
+        "originality": 3
+      },
+      "quality_total_out_of_20": 13,
+      "quality_medal": "Silver",
+      "adaptation_score_out_of_5": 5,
+      "adaptation_medal": "Gold",
+      "premise": "Repair Man survives an extended chain of humiliations, transformations and attacks.",
+      "strongest_moment": "Swapping the grow/shrink labels gives the action an actual trick and reversal.",
+      "weakness": "The page keeps adding incidents after several potential endings; some imagery relies on broad caricature.",
+      "adaptation_pitch": "Repair Man gets unreliable size-changing tools and exaggerated recovery animations.",
+      "review_note": "Specific movement and prop ideas are stronger than the overall pacing.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 61,
+      "title": "The Wish Tree",
+      "book_id": 2,
+      "archive_record_ids": [
+        61
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/061_the_wish_tree.png"
+      ],
+      "image_sha256": [
+        "5407e3cee6f119735a5a164475854f1fa88d2f6c4cccd84cb9fea45902e788ba"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 4,
+        "character": 4,
+        "visual_storytelling": 3,
+        "originality": 4
+      },
+      "quality_total_out_of_20": 15,
+      "quality_medal": "Silver",
+      "adaptation_score_out_of_5": 4,
+      "adaptation_medal": "Gold",
+      "premise": "Repair Man repeatedly tries to destroy a wishing tree; FG eventually uses the obvious solution.",
+      "strongest_moment": "A long physical defense ends with a matter-of-fact wish, making the earlier effort absurd.",
+      "weakness": "The next-story setup dilutes what could have been a clean ending at the disappearing Repair Man.",
+      "adaptation_pitch": "A wishing-tree objective that changes arena rules; defensive walls and tunneling are supporting mechanics.",
+      "review_note": "The ending continues into another story; this score covers the visible page only.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 79,
+      "title": "Apple Grenades",
+      "book_id": 2,
+      "archive_record_ids": [
+        82
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/079_apple_grenades.png"
+      ],
+      "image_sha256": [
+        "57955172a7f15f62d2f2bd3791747a7403f4907f12723d368eef886585a9b707"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 3,
+        "character": 3,
+        "visual_storytelling": 4,
+        "originality": 3
+      },
+      "quality_total_out_of_20": 13,
+      "quality_medal": "Silver",
+      "adaptation_score_out_of_5": 5,
+      "adaptation_medal": "Gold",
+      "premise": "Exploding fruit escalates into missiles, countermeasures, boosters and a transformation.",
+      "strongest_moment": "The apple lands in the open mouth immediately after the target boasts about being missed.",
+      "weakness": "After the opening payoff, much of the page is escalation without a second equally sharp joke.",
+      "adaptation_pitch": "Apple-grenade pickup, counter-projectiles, and a transformation that unlocks air recovery.",
+      "review_note": "The transformation and weapon silhouettes provide unusually direct game references.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 96,
+      "title": "Recycling",
+      "book_id": 3,
+      "archive_record_ids": [
+        98
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/096_recycling.png"
+      ],
+      "image_sha256": [
+        "f3bb5d7075a199ac1224bd63c4f0bd27fc186af450e25fd8a14da2f02cac17fb"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 2,
+        "character": 2,
+        "visual_storytelling": 3,
+        "originality": 2
+      },
+      "quality_total_out_of_20": 9,
+      "quality_medal": "Bronze",
+      "adaptation_score_out_of_5": 3,
+      "adaptation_medal": "Silver",
+      "premise": "A stolen sandwich gives way to a long boss fight and a victory.",
+      "strongest_moment": "The opening theft and stretched mouth communicate without much dialogue.",
+      "weakness": "The title, sandwich opening and boss battle do not form a clear comic payoff on this page.",
+      "adaptation_pitch": "Use selected recoil, projectile and knockback poses as combat-animation references.",
+      "review_note": "Bronze for the complete comic does not mean the action drawings have no use.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 112,
+      "title": "Food",
+      "book_id": 3,
+      "archive_record_ids": [
+        114
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/112_food.png"
+      ],
+      "image_sha256": [
+        "e7c9621a05df3a4e098093afdeaf89720b264f64b45b1bd6ad451bed852b7587"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 2,
+        "character": 3,
+        "visual_storytelling": 3,
+        "originality": 2
+      },
+      "quality_total_out_of_20": 10,
+      "quality_medal": "Bronze",
+      "adaptation_score_out_of_5": 3,
+      "adaptation_medal": "Silver",
+      "premise": "A cooking sequence moves from a song through pizza, other dishes and a final feast.",
+      "strongest_moment": "Junior eating the cheese supplies a character interruption within the cooking process.",
+      "weakness": "Preparation occupies most of the page, while the feast ends without a strong reversal.",
+      "adaptation_pitch": "Kitchen intermission or food pickups; keep Junior stealing ingredients.",
+      "review_note": "The opening is explicitly credited musical material; the rating favors the original cooking business.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 128,
+      "title": "...And We're Back!",
+      "book_id": 4,
+      "archive_record_ids": [
+        130
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/128_and_were_back.png"
+      ],
+      "image_sha256": [
+        "9068f242bb116d0c824ccf50ed2aa568683b91e1fe37338f740c05e66cab860b"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 4,
+        "character": 4,
+        "visual_storytelling": 3,
+        "originality": 3
+      },
+      "quality_total_out_of_20": 14,
+      "quality_medal": "Silver",
+      "adaptation_score_out_of_5": 3,
+      "adaptation_medal": "Silver",
+      "premise": "A variety-show sequence features Totally Bob and deliberately bad audience participation.",
+      "strongest_moment": "Bob recounts a completely uneventful story and still receives enthusiastic applause.",
+      "weakness": "Several unrelated sketches and the packing transition weaken the page as a single unit.",
+      "adaptation_pitch": "Totally Bob as a deadpan announcer or a short animated sketch.",
+      "review_note": "The anti-joke is a stronger adaptation candidate than the entire page.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 146,
+      "title": "Target Priority",
+      "book_id": 4,
+      "archive_record_ids": [
+        148
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/146_target_priority.png"
+      ],
+      "image_sha256": [
+        "00187053e3e6446a48bc5621612acc9120f4d6ddb1571ee34c57efed7cfebee0"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 2,
+        "character": 3,
+        "visual_storytelling": 3,
+        "originality": 2
+      },
+      "quality_total_out_of_20": 10,
+      "quality_medal": "Bronze",
+      "adaptation_score_out_of_5": 4,
+      "adaptation_medal": "Gold",
+      "premise": "Repair Man launches into a ship battle before the heroes board a surviving vessel.",
+      "strongest_moment": "The giant beam and tiptoeing boarding party offer a useful contrast in scale.",
+      "weakness": "Combat progression carries the page; the humor and standalone conclusion are comparatively slight.",
+      "adaptation_pitch": "A ship stage that switches from exterior cannon fire to interior close combat.",
+      "review_note": "Faint pencil and crowded speech lower confidence in minor wording; the action is clear.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "medium",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 163,
+      "title": "Yield to Spedestrians",
+      "book_id": 5,
+      "archive_record_ids": [
+        165
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/163_yield_to_spedestrians.png"
+      ],
+      "image_sha256": [
+        "2994c4085b539dc38faf2cbe239082b0e8cfc36bb1ab2457292ae70c3205ed0d"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 3,
+        "character": 4,
+        "visual_storytelling": 3,
+        "originality": 3
+      },
+      "quality_total_out_of_20": 13,
+      "quality_medal": "Silver",
+      "adaptation_score_out_of_5": 4,
+      "adaptation_medal": "Gold",
+      "premise": "A vehicle outing ends with an injured Junior repaired using glue and bandages.",
+      "strongest_moment": "The improvised repair is followed by the belated suggestion to seek a professional.",
+      "weakness": "The opening detour delays the stronger accident-and-repair sequence.",
+      "adaptation_pitch": "A slapstick repair/reassembly animation or a vehicle-hazard stage.",
+      "review_note": "The title and contemporary reference are era-specific; evaluate the actual repair gag separately.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 180,
+      "title": "Private Ship",
+      "book_id": 5,
+      "archive_record_ids": [
+        187
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/180_private_ship.png"
+      ],
+      "image_sha256": [
+        "071a4d3ada640937665c143b1fd7ed97ad23bd6c05a9ea7f56be9c2deb790e62"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 2,
+        "character": 3,
+        "visual_storytelling": 3,
+        "originality": 2
+      },
+      "quality_total_out_of_20": 10,
+      "quality_medal": "Bronze",
+      "adaptation_score_out_of_5": 3,
+      "adaptation_medal": "Silver",
+      "premise": "A sinking-ship captain dodge leads into an extended musical parody and a game session.",
+      "strongest_moment": "The captain hands over his title to escape his own obligation.",
+      "weakness": "That reversal is quickly displaced by borrowed entertainment and a transition to another installment.",
+      "adaptation_pitch": "A captain-role hot-potato minigame; the ship is a possible arena setting.",
+      "review_note": "The song sequence is discussed without reproducing its lyrics.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 199,
+      "title": "Do-Re-Mini-Mi",
+      "book_id": 5,
+      "archive_record_ids": [
+        215
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/199_doreminimi.png"
+      ],
+      "image_sha256": [
+        "74d605fcdbca82743966675a9955690717dc8cb1b11a3433c71ab1797952e3b6"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 4,
+        "character": 4,
+        "visual_storytelling": 4,
+        "originality": 4
+      },
+      "quality_total_out_of_20": 16,
+      "quality_medal": "Gold",
+      "adaptation_score_out_of_5": 5,
+      "adaptation_medal": "Gold",
+      "premise": "A chocolate-powered Mini-Mi turns a candy-shop trip into a handler-versus-monster routine.",
+      "strongest_moment": "Repair Man blames the bargain leash as the creature becomes uncontrollable.",
+      "weakness": "Some chase beats could be shortened so the chocolate trigger and final escape read faster.",
+      "adaptation_pitch": "Mini-Mi has a chocolate resource, bite attacks and an unreliable leash/grapple mechanic.",
+      "review_note": "Gold for a clear character-driven escalation, even though the story continues.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 217,
+      "title": "Space Wars",
+      "book_id": 6,
+      "archive_record_ids": [
+        233
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/217_space_wars.png"
+      ],
+      "image_sha256": [
+        "b87e55fabe5164dbcf06e43808f0fb7a45fb20256d40704cab09ae1cd223d699"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 2,
+        "character": 3,
+        "visual_storytelling": 3,
+        "originality": 2
+      },
+      "quality_total_out_of_20": 10,
+      "quality_medal": "Bronze",
+      "adaptation_score_out_of_5": 4,
+      "adaptation_medal": "Gold",
+      "premise": "A space encounter becomes a succession of aerial, sword and robot exchanges.",
+      "strongest_moment": "The move from ship wreckage into close combat gives the fight varied silhouettes.",
+      "weakness": "The strip is primarily connective action; it lacks a distinctive payoff within this installment.",
+      "adaptation_pitch": "A combat reference board for deflections, aerial attacks and giant-robot hazards.",
+      "review_note": "A standalone editorial score is not a judgment on the full surrounding story arc.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "medium",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 236,
+      "title": "Funny Girl",
+      "book_id": 6,
+      "archive_record_ids": [
+        252
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/236_funny_girl.png"
+      ],
+      "image_sha256": [
+        "e9d0014af5804104284dece364cc19ec4461ac2cc6c470638b56f74af726607c"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 3,
+        "character": 4,
+        "visual_storytelling": 4,
+        "originality": 4
+      },
+      "quality_total_out_of_20": 15,
+      "quality_medal": "Silver",
+      "adaptation_score_out_of_5": 5,
+      "adaptation_medal": "Gold",
+      "premise": "A sea arrival and trapped treasure introduce Funny Girl before an immediate family sparring match.",
+      "strongest_moment": "The final whip exchange establishes her capability through action rather than a biography.",
+      "weakness": "The long-lost-sister revelation arrives abruptly and receives little emotional or comic development.",
+      "adaptation_pitch": "Funny Girl as a whip/reach fighter; a temple stage with treasure-triggered boulders.",
+      "review_note": "Strong roster discovery. Relationship details need surrounding-story review before canon consolidation.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 253,
+      "title": "The Mall Haul",
+      "book_id": 7,
+      "archive_record_ids": [
+        271
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/253_the_mall_haul.png"
+      ],
+      "image_sha256": [
+        "5fdedaa584d1d9110f794e4072820ed9316b4bc2397525244b53e59a954e30cd"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 5,
+        "character": 4,
+        "visual_storytelling": 4,
+        "originality": 4
+      },
+      "quality_total_out_of_20": 17,
+      "quality_medal": "Gold",
+      "adaptation_score_out_of_5": 4,
+      "adaptation_medal": "Gold",
+      "premise": "A shopping trip escalates through an aquarium incident into an unstoppable sales pitch.",
+      "strongest_moment": "The salesman continues the same question through increasingly drastic attempts to stop him.",
+      "weakness": "Some early shopping business can be trimmed to get to the repeating-salesman sequence sooner.",
+      "adaptation_pitch": "A mall stage with a persistent salesman hazard, or a self-contained animated short.",
+      "review_note": "The repeated line becomes the organizing joke, giving the chaos a clear structure.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 270,
+      "title": "Slop Buffet",
+      "book_id": 7,
+      "archive_record_ids": [
+        292
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/270_slop_buffet.png"
+      ],
+      "image_sha256": [
+        "649b863722719536edee3edbef2357cab796302c112485ce5ed443fa5d3fea97"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 3,
+        "character": 4,
+        "visual_storytelling": 4,
+        "originality": 4
+      },
+      "quality_total_out_of_20": 15,
+      "quality_medal": "Silver",
+      "adaptation_score_out_of_5": 5,
+      "adaptation_medal": "Gold",
+      "premise": "A buffet order becomes a food fight, an RPG-style team action and a disastrous identity reveal.",
+      "strongest_moment": "Target summons Junior, whose butter attack literalizes the battle-command format.",
+      "weakness": "The late reveal adds a new joke direction after the food fight has already established a strong premise.",
+      "adaptation_pitch": "Junior assist attack, butter ammunition, and a restaurant arena with escalating food hazards.",
+      "review_note": "Excellent combat material; the full page is less focused than its strongest middle sequence.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 289,
+      "title": "The Hobo Revolt",
+      "book_id": 8,
+      "archive_record_ids": [
+        307
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/289_the_hobo_revolt.png"
+      ],
+      "image_sha256": [
+        "936d7e5be366501749011ce1618c2732e6e6bae5543eecfada40c33804ee912c"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 3,
+        "character": 4,
+        "visual_storytelling": 4,
+        "originality": 3
+      },
+      "quality_total_out_of_20": 14,
+      "quality_medal": "Silver",
+      "adaptation_score_out_of_5": 4,
+      "adaptation_medal": "Gold",
+      "premise": "An attack on the FG house meets excessive defenses while Junior struggles with a text adventure.",
+      "strongest_moment": "The supposedly simple text game traps Junior in a repeated failed flask command.",
+      "weakness": "The political framing is thin; the sharper joke is the contrast between the emergency and Junior's distraction.",
+      "adaptation_pitch": "A home-defense arena with an absurdly excessive satellite special; Junior has a distracted idle gag.",
+      "review_note": "The text-adventure joke uses recognizable existing comedy vocabulary, so originality is moderated.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 310,
+      "title": "The Russian Bear Factory",
+      "book_id": 8,
+      "archive_record_ids": [
+        328
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/310_the_russian_bear_factory.png"
+      ],
+      "image_sha256": [
+        "dca87eaf76ba17e4f7190ea092214037fbceaa6e101a8e49840a7da41aec2652"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 4,
+        "character": 5,
+        "visual_storytelling": 4,
+        "originality": 4
+      },
+      "quality_total_out_of_20": 17,
+      "quality_medal": "Gold",
+      "adaptation_score_out_of_5": 4,
+      "adaptation_medal": "Gold",
+      "premise": "Target dismisses Junior's obvious destination, then presents that same discovery as his own.",
+      "strongest_moment": "Junior's flat response exposes the confident leader's incompetence without stopping the scene.",
+      "weakness": "The assembled-bear reveal is a setup for the next installment, rather than a complete final payoff.",
+      "adaptation_pitch": "An assembly-line bear-factory stage, with the sign gag retained in a brief opening scene.",
+      "review_note": "The Target/Junior dynamic is stronger than the borrowed brand-parody premise.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    },
+    {
+      "comic_number": 319,
+      "title": "Theme Park",
+      "book_id": 8,
+      "archive_record_ids": [
+        337
+      ],
+      "image_paths": [
+        "/home/adamyoung/src/funnyguycomics/static/comics/319_theme_park.png"
+      ],
+      "image_sha256": [
+        "2f5dc6c9c3240be7547279a07c1bb0d94852f919e3b60d8614ef6c1b9657a355"
+      ],
+      "archive_metadata_path": "/home/adamyoung/src/funnyguycomics/data/comics.json",
+      "review_basis": "Full published page image and existing archive transcript; neighboring installments not reviewed",
+      "scores": {
+        "humor": 3,
+        "character": 5,
+        "visual_storytelling": 4,
+        "originality": 3
+      },
+      "quality_total_out_of_20": 15,
+      "quality_medal": "Silver",
+      "adaptation_score_out_of_5": 5,
+      "adaptation_medal": "Gold",
+      "premise": "A supposed theme-park rescue becomes a fighting arena, with both teams introduced before battle.",
+      "strongest_moment": "FG admits the rescue may just be something to do; the roster then gets individualized introductions.",
+      "weakness": "The theme-park premise is abandoned quickly, and introductions occupy more space than the actual fight.",
+      "adaptation_pitch": "Use as the primary FG Fighter roster/introduction reference; prototype Razor's spike-cannon exchange.",
+      "review_note": "Gold adaptation value does not automatically make the whole comic Gold. The page ends mid-battle.",
+      "transcript_status": "partial; image used for assessment",
+      "confidence": "high",
+      "status": "provisional_editorial_pilot",
+      "reviewer": "Codex",
+      "user_quality_override": null,
+      "user_adaptation_override": null,
+      "user_notes": null
+    }
+  ]
+}

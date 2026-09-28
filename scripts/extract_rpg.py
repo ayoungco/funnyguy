@@ -6,6 +6,7 @@ import collections
 import csv
 import hashlib
 import json
+import os
 import re
 from pathlib import Path
 import struct
@@ -341,10 +342,20 @@ def main():
     # Search historical references by basename; retain all candidates after flattening.
     legacy = collections.defaultdict(list)
     if args.assets.is_dir():
-        for p in sorted(args.assets.rglob('*')):
-            if p.is_file():
+        for directory, dirs, files in os.walk(args.assets):
+            dirs[:] = sorted(n for n in dirs if n not in {'Trash','.Trash','.git','.agents','.codex'})
+            for name in sorted(files):
+                p = Path(directory)/name
                 legacy[p.name.casefold()].append(p.as_posix())
     write(out/'legacy_asset_index.json',dict(legacy))
+    imported = collections.defaultdict(list)
+    for manifest_path in sorted((ROOT/'references/imports').glob('*-manifest.json')):
+        for entry in json.loads(manifest_path.read_text()).get('files',[]):
+            destination = ROOT/entry['repo_path']
+            if destination.is_file():
+                imported[Path(entry['source']).name.casefold()].append(str(destination))
+    def candidates_for(name):
+        return sorted(set(legacy.get(name.casefold(),[])+imported.get(name.casefold(),[])))
     historical = []
     old_manifest = ROOT/'references/legacy_text/asset_manifest_before_flattening.csv'
     if old_manifest.exists():
@@ -352,7 +363,7 @@ def main():
             for row in csv.DictReader(f):
                 if row['source'] != 'legacy_dump':
                     continue
-                candidates = legacy.get(Path(row['path']).name.casefold(),[])
+                candidates = candidates_for(Path(row['path']).name)
                 historical.append({'document':old_manifest.relative_to(ROOT).as_posix(),
                     'historical_reference':row['path'],'candidates':candidates,
                     'status':'unique_basename_candidate' if len(candidates)==1 else 'ambiguous' if candidates else 'unresolved'})
@@ -360,7 +371,7 @@ def main():
         for doc in sorted((ROOT/folder).rglob('*.md')):
             for old in sorted(set(re.findall(r"/mnt/creative/funnyguy/[^`\n]+",doc.read_text(errors='replace')))):
                 basename = Path(old.rstrip('/')).name
-                candidates = legacy.get(basename.casefold(),[])
+                candidates = candidates_for(basename)
                 historical.append({'document':doc.relative_to(ROOT).as_posix(),'historical_reference':old,
                                    'candidates':candidates,'status':'unique_basename_candidate' if len(candidates)==1 else
                                    'ambiguous' if candidates else 'unresolved'})

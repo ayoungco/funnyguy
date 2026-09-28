@@ -1,5 +1,11 @@
 # Legacy text material — full copies
 
+**2026-09-27 update:** [hdd_2026 imports](../imports/hdd-2026-09-27-catalog.md)
+now preserve the native documents and searchable text, including the franchise
+contracts/business documents previously excluded below. The earlier scope notes
+remain historical. Original asset-drive files were moved to recoverable trash
+after verified repository copies; see [methods and restore instructions](../../docs/asset-import.md).
+
 Full-text copies of the small, plain-text/lore documents from
 `/mnt/creative/funnyguy/Documents/`, pulled into git so this repo has
 durable, versioned, full-fidelity access to the actual source text —

@@ -1,0 +1,199 @@
+// replaces null and 0 with SQL NULL
+// post .csv import. nulls must be string "NULL"
+
+UPDATE `The Funny Guy Comix` SET number = NULL WHERE number = 0; 
+UPDATE `The Funny Guy Comix` SET page = NULL WHERE page = 0; 
+
+UPDATE `The Funny Guy Comix` SET summary = NULL WHERE extra = "NULL"; 
+UPDATE `The Funny Guy Comix` SET authors = NULL WHERE authors = "NULL"; 
+UPDATE `The Funny Guy Comix` SET code = NULL WHERE code = 0;
+UPDATE `The Funny Guy Comix` SET extendedtransc = NULL WHERE extendedtransc = "NULL";
+
+// UTF-8 characters. screw microsoft.
+// hell yeah. works
+UPDATE `The Funny Guy Comix` SET `transcript` = REPLACE(`transcript`, 0xE280A6, '...');
+
+update [table_name] set [field_name] = replace([field_name],'[string_to_find]','[string_to_replace]');
+
+- 1/27/2011
+Switching from full transcript to basic transcript
+
+-2/19
+Field delimiter |
+Tag delimiter ; ,
+
+Hornet Rattesnake
+Funny Guy Goes to spain exploring the modern transportation industry
+
+Possible limit of the medium... only the edge of the page offers the timing and suspense for randomness, etc
+
+0054 needs penises edited out of it
+
+0061 ultimate funny guy
+
+0070 "Read back!"
+
+0079 F.G. Enternal -> Eternal Funny Guy
+
+idea -> anarchtyca
+
+my packback!
+
+are you ever going to put your arm down? 
+no, I'm an anime stock character. oh, cool.
+
+**************do not make the funny guys akin to stan and kyle
+
+*** the reason the later comics feel less like funny guy is the lack of focus -> needs moar potty-p, evil scientist, funnytown, etc.
+
+*** Junior's teachers modeled after real teachers
+*** Junior high?
+
+school songs I hate you you hate me
+
+*** after real students
+
+frank szymansky -> koven
+
+evil scientist has to resurrect funny guy by reverting him to hyper/master/super f.g. e.g IT'S ALIVE
+
+frankenstein references
+
+Metal Funny Guy never bashes any type of music but will parody hipsters/progheads
+
+window lickers day care
+
+0097 laziness needs fixed
+
+0157 remove names
+
+0152 comic 27 reference (butt burger)
+
+muffin squishing
+
+0115 boxes need fixed
+
+-> girl parody stuck up girls
+
+0104
+
+Laine/Keziah/Lia (blonde, short hair) 
+
+anti-anti monster potion war of the monsters type of thing
+
+KEY: A, A, B / X, X, X, Y
+ex. rody walker -> quotes: website, website, random dude
+
+A house parody character? timothy shack
+
+---------------------------------
+Elemental/Funny Guy is the primary protagonist of the Funny Guy series, and has gone through the most change out of all of the characters, due to his numerous evolutions. 
+
+Target Funny Guy
+
+Razor/Metal Funny Guy -> originally known as Sharpeye, or Sharp Funny Guy
+
+Dude appeared in the first and second comics but has
+
+Auxy Moron A. Moron Auxi-Moron, Oxymoron, Oxy-Moron are all competing companies that A. Moron has started, to release his genius but impractical products.
+
+He had to constantly change the company's name to avoid lawsuits, but keep it generally the same so his aging grandmother, who raised him, could still send him letters.
+
+Jack Audio "Jackie" his reluctant counterpart, is a cynical sound engineering guy that works for Auxy Moron and films his commercials and telethons.
+
+Potty-P is a bartender from Funny Guy's hometown. They have been friends since they met early in the series, when Funny Guy impressed him with his eating skills. They have been at odds occasionally due to Funny Guy's occasional disregard for Potty-P's property. He runs a "Disco Club" that rarely hosts discos at all. One time he experimented with a "Spa" extension in an attempt to attract more customers, but his questionable menu was still enough to drive away everyone but Funny Guy, enjoying the oddly-named foods, which are actually quite tasty. 
+
+Junior is the youngest of the Funny Guy brotherhood. Originally having a lisp and a problem with biting people, he has since overcome these issues. He is known to cause destruction when left unsupervised. He attends the Gas Town Elementary School. 
+
+"Brother" was a comrade of the Funny Guy brothers during the Koven Wars. A man of colossal stature, he often was called upon by saying "Oh, Brother!" He would then show up to squish whoever was harassing the FGs.
+
+Repair Man is a former enemy of the Funny Guys, minion of Koven, reduced to a minor annoyance in the FG universe. He often teams up with Serious Man when he is around to try and attack the Funny Guys, but otherwise he lives in trash cans and improvised housing. 
+
+Koven is the second enemy of Funny Guy, deemed enough of a threat that the Evil Scientist even joined Funny Guy's side. His companion, the "monkey", is his adopted son. [Now has a mowhawk]
+
+Chinese guy is a messed up guy living in china with a son that speaks a gibberish language... he is shunned by his community. He is actually from Russia.
+
+"Bolwer" Guy/Bowler Guy - I... I don't even know. Maybe it's best we forget about him.
+
+*****************
+
+Sir Disciprine is a sensei from deep in Chinese woodlands. Not much is known about him, but he may be planning something. Rumored to be connected to Serious Man.
+
+The Evil Scientist is a scientist with megalomaniacal intentions, his greatest plan of all time being to put gold inside cheap safety scissors used in the local elementary school, thereby making them actually somewhat valuable. 
+
+?transcript=1
+
+Abolish "to be continued"
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Do audio reviews?
+
+0117 mention of comic number
+0104 Enferno
+
+X- unreleased
+
+redo the boxes
+
+Remove numbering, focus on titles
+
+2 - "The Best Of Classic Funny Guy" Identifier
+
+1 - <meta name="robots" content="noindex">
+
+Mindstorm
+
+MARK THE COMICS WITH THIS DESIGNATION
+
+THE BEST OF FUNNY GUY
+pretentious! helvetica!
+
+technology guy from pokemon, the fat guy in the first town
+THE WORST OF FUNNY GUY
+hand drawn (by repair man) old-Horror style
+
+pixelations
+
+use drawings/sketches to add some flavor to the history
+
+------------------------
+
+RSS FEED for news posts comics and etc
+
+/* Notes
+UPDATE `The Funny Guy Comix` SET number = NULL WHERE number = 0;# MySQL returned an empty result set (i.e. zero rows).
+ 
+UPDATE `The Funny Guy Comix` SET page = NULL WHERE page = 0;# MySQL returned an empty result set (i.e. zero rows).
+ 
+UPDATE `The Funny Guy Comix` SET summary = NULL WHERE summary = "NULL";# Affected rows: 338
+ 
+UPDATE `The Funny Guy Comix` SET authors = NULL WHERE authors = "NULL";# Affected rows: 113
+ 
+UPDATE `The Funny Guy Comix` SET code = NULL WHERE code = 0;# Affected rows: 268
+
+UPDATE `The Funny Guy Comix` SET extendedtransc = NULL WHERE extendedtransc = "NULL";# Affected rows: 329
+*/
+
+--------------------------------
+
+12/9/2015
+
+Need to replace LF (\n) with <br>, using CF (\r) before importing exported .csv from FGComics.ods file
+
+Turns out <br> is HTML5 compliant
+
+CREATE TABLE `FGComics`.`Collections` (
+  `ID` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+  `Title` VARCHAR(128) NULL,
+  `Sequence` SMALLINT NULL,
+  `Series` TINYINT NULL,
+  `RangeMin` INT NULL,
+  `RangeMax` INT NULL,
+  `Parent` INT UNSIGNED NULL,
+  `Cover` VARCHAR(256) NULL,
+  `BackCover` VARCHAR(256) NULL,
+  UNIQUE INDEX `ID_UNIQUE` (`ID` ASC),
+  PRIMARY KEY (`ID`))
+ENGINE = MyISAM;

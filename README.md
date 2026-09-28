@@ -4,6 +4,21 @@ This is the home for the Funny Guy franchise: shared canon, extracted game data,
 asset catalogs, creative tools, and future games. The original RPG and comic
 archive remain in their sibling repositories.
 
+## Comic ratings pilot
+
+[Read the 20-comic editorial pilot](docs/editorial/comic-ratings-pilot.md), covering
+all eight books with separate comic-quality and adaptation medals. Ratings are
+provisional pending creator calibration; the remaining archive is unscored.
+[Structured ratings and override fields](data/editorial/comic-ratings-pilot.json)
+preserve evidence and original-page references.
+
+## Imported source documents and reference art
+
+[Browse 35 source documents and 28 small reference images](references/imports/hdd-2026-09-27-catalog.md),
+including searchable text, handwritten character sheets, and card-game sketches.
+[Import methods and recovery instructions](docs/asset-import.md) document the verified
+move of the asset-drive originals into recoverable trash.
+
 ## RPG extraction
 
 The original RPG is now exported into reusable JSON and searchable text under
@@ -76,11 +91,11 @@ point.
 
 ## Asset discovery
 
-`scripts/discover_assets.py` walks the three source locations
-(`../funnyguycomics`, `../funnyguyrpg`, `/mnt/hdd/assets`)
+`scripts/discover_assets.py` walks the franchise reference images and three external source locations
+(`assets/reference`, `../funnyguycomics`, `../funnyguyrpg`, `/mnt/hdd/assets`)
 and writes `references/asset_manifest.csv` — path, size, mtime, extension,
 and an `origin` guess (`original-comic`, `rpg-unreviewed`, `stock-rpgmaker`,
-`legacy-unsorted`, or `canonical` for the handful of files already named in
+`legacy-unsorted`, `franchise-reference`, or `canonical` for the handful of files already named in
 `references/characters.md`). It only reads file metadata, never opens or
 hashes files, to keep discovery lightweight.
 

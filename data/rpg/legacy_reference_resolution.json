@@ -3,7 +3,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/Element.PNG",
     "candidates": [
-      "/mnt/hdd/assets/art/Element.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Element.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -11,7 +11,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/Evilscientist.PNG",
     "candidates": [
-      "/mnt/hdd/assets/art/Evilscientist.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Evilscientist.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -27,7 +27,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/Junior.PNG",
     "candidates": [
-      "/mnt/hdd/assets/art/Junior.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Junior.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -35,7 +35,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/Olympian.PNG",
     "candidates": [
-      "/mnt/hdd/assets/art/Olympian.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Olympian.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -43,7 +43,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/RM_stick.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/RM_stick.gif"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/RM_stick.gif"
     ],
     "status": "unique_basename_candidate"
   },
@@ -51,7 +51,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/Razor.PNG",
     "candidates": [
-      "/mnt/hdd/assets/art/Razor.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Razor.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -59,7 +59,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/Repairman.PNG",
     "candidates": [
-      "/mnt/hdd/assets/art/Repairman.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Repairman.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -67,7 +67,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/Seriousman.PNG",
     "candidates": [
-      "/mnt/hdd/assets/art/Seriousman.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Seriousman.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -75,7 +75,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/Target.PNG",
     "candidates": [
-      "/mnt/hdd/assets/art/Target.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Target.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -83,7 +83,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/Timet.PNG",
     "candidates": [
-      "/mnt/hdd/assets/art/Timet.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Timet.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -91,7 +91,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/element_stick.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/element_stick.gif"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/element_stick.gif"
     ],
     "status": "unique_basename_candidate"
   },
@@ -99,7 +99,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/evilsci_stick.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/evilsci_stick.gif"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/evilsci_stick.gif"
     ],
     "status": "unique_basename_candidate"
   },
@@ -107,7 +107,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/jr_stick.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/jr_stick.gif"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/jr_stick.gif"
     ],
     "status": "unique_basename_candidate"
   },
@@ -115,7 +115,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/koven.PNG",
     "candidates": [
-      "/mnt/hdd/assets/art/koven.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/koven.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -123,7 +123,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/koven_stick.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/koven_stick.gif"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/koven_stick.gif"
     ],
     "status": "unique_basename_candidate"
   },
@@ -179,7 +179,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/olymp_stick.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/olymp_stick.gif"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/olymp_stick.gif"
     ],
     "status": "unique_basename_candidate"
   },
@@ -203,7 +203,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/pottyp.PNG",
     "candidates": [
-      "/mnt/hdd/assets/art/pottyp.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/pottyp.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -211,7 +211,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/pottyp_stick.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/pottyp_stick.gif"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/pottyp_stick.gif"
     ],
     "status": "unique_basename_candidate"
   },
@@ -219,7 +219,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/razor_stick.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/razor_stick.gif"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/razor_stick.gif"
     ],
     "status": "unique_basename_candidate"
   },
@@ -227,7 +227,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/sm_stick.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/sm_stick.gif"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/sm_stick.gif"
     ],
     "status": "unique_basename_candidate"
   },
@@ -235,7 +235,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/target_stick.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/target_stick.gif"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/target_stick.gif"
     ],
     "status": "unique_basename_candidate"
   },
@@ -243,7 +243,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Art/timet_stick.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/timet_stick.gif"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/timet_stick.gif"
     ],
     "status": "unique_basename_candidate"
   },
@@ -859,7 +859,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Card Game/Card Game scan_2005_05_07.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/Card Game/Card Game scan_2005_05_07.gif"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Card Game/Card Game scan_2005_05_07.gif"
     ],
     "status": "unique_basename_candidate"
   },
@@ -867,7 +867,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Card Game/Scan272, March 07, 2005.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/Card Game/Scan272, March 07, 2005.gif",
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Card Game/Scan272, March 07, 2005.gif",
       "/mnt/hdd/assets/art/Scan272, March 07, 2005.gif"
     ],
     "status": "ambiguous"
@@ -876,7 +876,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Card Game/Scan273, March 07, 2005.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/Card Game/Scan273, March 07, 2005.gif",
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Card Game/Scan273, March 07, 2005.gif",
       "/mnt/hdd/assets/art/Scan273, March 07, 2005.gif"
     ],
     "status": "ambiguous"
@@ -885,7 +885,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Card Game/Scan274, March 07, 2005.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/Card Game/Scan274, March 07, 2005.gif",
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Card Game/Scan274, March 07, 2005.gif",
       "/mnt/hdd/assets/art/Scan274, March 07, 2005.gif"
     ],
     "status": "ambiguous"
@@ -894,7 +894,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Card Game/Scan275, March 07, 2005.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/Card Game/Scan275, March 07, 2005.gif",
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Card Game/Scan275, March 07, 2005.gif",
       "/mnt/hdd/assets/art/Scan275, March 07, 2005.gif"
     ],
     "status": "ambiguous"
@@ -903,7 +903,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Card Game/Scan280, March 07, 2005.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/Card Game/Scan280, March 07, 2005.gif",
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Card Game/Scan280, March 07, 2005.gif",
       "/mnt/hdd/assets/art/Scan280, March 07, 2005.gif"
     ],
     "status": "ambiguous"
@@ -2408,7 +2408,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "RPG_RT/BattleCharSet/JUNIOR.png",
     "candidates": [
-      "/mnt/hdd/assets/art/Junior.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Junior.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -2446,7 +2446,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "RPG_RT/BattleCharSet/TARGET.png",
     "candidates": [
-      "/mnt/hdd/assets/art/Target.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Target.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -2460,7 +2460,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "RPG_RT/BattleCharSet/TIMET.png",
     "candidates": [
-      "/mnt/hdd/assets/art/Timet.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Timet.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -3418,7 +3418,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "RPG_RT/Monster/KOVEN.png",
     "candidates": [
-      "/mnt/hdd/assets/art/koven.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/koven.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -3490,7 +3490,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "RPG_RT/Monster/REPAIRMAN.png",
     "candidates": [
-      "/mnt/hdd/assets/art/Repairman.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Repairman.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -3510,7 +3510,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "RPG_RT/Monster/SERIOUSMAN.png",
     "candidates": [
-      "/mnt/hdd/assets/art/Seriousman.PNG"
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Seriousman.PNG"
     ],
     "status": "unique_basename_candidate"
   },
@@ -8870,7 +8870,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Scans/Scan272, March 07, 2005.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/Card Game/Scan272, March 07, 2005.gif",
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Card Game/Scan272, March 07, 2005.gif",
       "/mnt/hdd/assets/art/Scan272, March 07, 2005.gif"
     ],
     "status": "ambiguous"
@@ -8879,7 +8879,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Scans/Scan273, March 07, 2005.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/Card Game/Scan273, March 07, 2005.gif",
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Card Game/Scan273, March 07, 2005.gif",
       "/mnt/hdd/assets/art/Scan273, March 07, 2005.gif"
     ],
     "status": "ambiguous"
@@ -8888,7 +8888,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Scans/Scan274, March 07, 2005.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/Card Game/Scan274, March 07, 2005.gif",
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Card Game/Scan274, March 07, 2005.gif",
       "/mnt/hdd/assets/art/Scan274, March 07, 2005.gif"
     ],
     "status": "ambiguous"
@@ -8897,7 +8897,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Scans/Scan275, March 07, 2005.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/Card Game/Scan275, March 07, 2005.gif",
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Card Game/Scan275, March 07, 2005.gif",
       "/mnt/hdd/assets/art/Scan275, March 07, 2005.gif"
     ],
     "status": "ambiguous"
@@ -8906,7 +8906,7 @@
     "document": "references/legacy_text/asset_manifest_before_flattening.csv",
     "historical_reference": "Scans/Scan280, March 07, 2005.gif",
     "candidates": [
-      "/mnt/hdd/assets/art/Card Game/Scan280, March 07, 2005.gif",
+      "/home/adamyoung/src/funnyguy/assets/reference/hdd/art/Card Game/Scan280, March 07, 2005.gif",
       "/mnt/hdd/assets/art/Scan280, March 07, 2005.gif"
     ],
     "status": "ambiguous"

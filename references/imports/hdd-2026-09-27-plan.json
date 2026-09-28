@@ -1,0 +1,266 @@
+{
+  "batch": "hdd-2026-09-27",
+  "source_root": "/mnt/hdd/assets",
+  "trash_root": "/mnt/hdd/assets/Trash/funnyguy-import-2026-09-27",
+  "files": [
+    {
+      "source": "322.txt",
+      "kind": "document"
+    },
+    {
+      "source": "325.txt",
+      "kind": "document"
+    },
+    {
+      "source": "Assimilation Document 2.doc",
+      "kind": "document"
+    },
+    {
+      "source": "Character Bios 2012.odt",
+      "kind": "document"
+    },
+    {
+      "source": "FGCOMICS.docx",
+      "kind": "document"
+    },
+    {
+      "source": "FGComics Character Bios.docx",
+      "kind": "document"
+    },
+    {
+      "source": "FGComics Copyright Ownership.docx",
+      "kind": "document"
+    },
+    {
+      "source": "FGComics History.odt",
+      "kind": "document"
+    },
+    {
+      "source": "FGComics News (2005).txt",
+      "kind": "document"
+    },
+    {
+      "source": "FGComics Notebook.docx",
+      "kind": "document"
+    },
+    {
+      "source": "FGOAC History.docx",
+      "kind": "document"
+    },
+    {
+      "source": "FGOAC History.odt",
+      "kind": "document"
+    },
+    {
+      "source": "Funny Guy Contract FINAL 2.doc",
+      "kind": "document"
+    },
+    {
+      "source": "Funny Guy Property Contract.doc",
+      "kind": "document"
+    },
+    {
+      "source": "Funny Guy Return Policy [VOID] 2.doc",
+      "kind": "document"
+    },
+    {
+      "source": "Funny Guy Return Policy.doc",
+      "kind": "document"
+    },
+    {
+      "source": "Ideas_Notes.docx",
+      "kind": "document"
+    },
+    {
+      "source": "Miscellaneous Information 2012.odt",
+      "kind": "document"
+    },
+    {
+      "source": "New 2012 Contract.doc",
+      "kind": "document"
+    },
+    {
+      "source": "fgcomics_Collections.sql",
+      "kind": "document"
+    },
+    {
+      "source": "ideas.txt",
+      "kind": "document"
+    },
+    {
+      "source": "rpg/FGRPG Packet Agreement 2.doc",
+      "kind": "document"
+    },
+    {
+      "source": "rpg/FGRPG letter to Steve 2.doc",
+      "kind": "document"
+    },
+    {
+      "source": "fgcomics.com Database Backups/7-19-2012_1809_DB_STRUCTURE.sql",
+      "kind": "document"
+    },
+    {
+      "source": "fgcomics.com Database Backups/Add BookID Column to Comics.sql",
+      "kind": "document"
+    },
+    {
+      "source": "fgcomics.com Database Backups/Collections_temp.csv",
+      "kind": "document"
+    },
+    {
+      "source": "fgcomics.com Database Backups/Comics.old.sql",
+      "kind": "document"
+    },
+    {
+      "source": "fgcomics.com Database Backups/CreateComicsTable.sql",
+      "kind": "document"
+    },
+    {
+      "source": "fgcomics.com Database Backups/Database Development Notes.txt",
+      "kind": "document"
+    },
+    {
+      "source": "fgcomics.com Database Backups/HTML Encoded Transcripts and Titles 7-19-2012_1653.sql",
+      "kind": "document"
+    },
+    {
+      "source": "fgcomics.com Database Backups/IPOWER-The Funny Guy Comix.sql",
+      "kind": "document"
+    },
+    {
+      "source": "fgcomics.com Database Backups/Import CSV - Collections.sql",
+      "kind": "document"
+    },
+    {
+      "source": "fgcomics.com Database Backups/Import CSV.sql",
+      "kind": "document"
+    },
+    {
+      "source": "fgcomics.com Database Backups/Moving Values Between Matching Tables.sql",
+      "kind": "document"
+    },
+    {
+      "source": "art/ideas.txt",
+      "kind": "document"
+    },
+    {
+      "source": "art/Element.PNG",
+      "kind": "image"
+    },
+    {
+      "source": "art/Junior.PNG",
+      "kind": "image"
+    },
+    {
+      "source": "art/Olympian.PNG",
+      "kind": "image"
+    },
+    {
+      "source": "art/Razor.PNG",
+      "kind": "image"
+    },
+    {
+      "source": "art/Repairman.PNG",
+      "kind": "image"
+    },
+    {
+      "source": "art/Seriousman.PNG",
+      "kind": "image"
+    },
+    {
+      "source": "art/Target.PNG",
+      "kind": "image"
+    },
+    {
+      "source": "art/Timet.PNG",
+      "kind": "image"
+    },
+    {
+      "source": "art/Evilscientist.PNG",
+      "kind": "image"
+    },
+    {
+      "source": "art/koven.PNG",
+      "kind": "image"
+    },
+    {
+      "source": "art/pottyp.PNG",
+      "kind": "image"
+    },
+    {
+      "source": "art/element_stick.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/jr_stick.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/olymp_stick.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/razor_stick.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/RM_stick.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/sm_stick.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/target_stick.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/timet_stick.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/evilsci_stick.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/koven_stick.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/pottyp_stick.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/Card Game/Card Game scan_2005_05_07.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/Card Game/Scan272, March 07, 2005.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/Card Game/Scan273, March 07, 2005.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/Card Game/Scan274, March 07, 2005.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/Card Game/Scan275, March 07, 2005.gif",
+      "kind": "image"
+    },
+    {
+      "source": "art/Card Game/Scan280, March 07, 2005.gif",
+      "kind": "image"
+    }
+  ],
+  "excluded": [
+    "Unrelated Super Family / Powerteam transcripts and media",
+    "Generic Joint Ownership of Copyright Agreement.doc template",
+    "Off-topic news junk.txt blog snippet",
+    "Personal email, third-party reference PDFs, fonts, spreadsheets, large artwork, website ZIP and other archive containers",
+    "Image-only PDFs and handwriting OCR: separate future transcription pass"
+  ]
+}

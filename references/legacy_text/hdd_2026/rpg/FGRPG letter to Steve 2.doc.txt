@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+
+
+To the Vice President,
+
+      Well, you gave me a press packet a while back, now it’s my turn to
+give you one! I have enclosed items to help you get up to speed, and a list
+of things you should do as well. You’ll find official character images, the
+official logos, idea paper, past (secret) comic books, the one and only
+“Target’s Email Intro,” company wallpaper, official comics paper, and…Are
+you ready for this? The Funny Guy RPG full version (v. 0.91… it’s still
+beta)!!! You’ll find that I working incredibly hard on it the past few
+weeks. Game facts and figures:
+
+      • 10 full worlds
+            o Funnytown
+            o Laugh Jungle
+            o Sunburn Desert
+            o Gorge Canyon
+            o Ice Mountains
+            o Humotacia
+            o West Jungle
+            o Humortopica
+            o Temple of Power
+            o Satellite Cannon
+      • A custom “Quest Menu” that allows players to teach the FGs skills,
+        read Funny Guy’s journal, enter a password to activate Cheats (I’ll
+        explain later), and organize the FGs’ lineup (a special feature I
+        programmed to allow the player to have 2 FGs in “storage,” since
+        RM2K3 only allows four party members at once.
+      • Cheats
+            o Sprite changes (Will change back if FG evolves)
+                  ▪ Santa
+                  ▪ Ghetto
+                  ▪ Ghetto Mario
+            o “Mega” status conditions
+                  ▪ Invince (Invincibility)
+                  ▪ Slawter (Phil suggested this…)
+                  ▪ Hyper (Speed +)
+            o The BATTLE (You and me. I’ll have to have you over sometime
+              so we can take the picture. Bring weapons.)
+            o Password-protected (Password unique to every game
+              distributed)
+      • Awesome battle animations
+      • Non-RTP Humorless Characters
+      • Custom Battle and Field Sprites
+
+      You should be critical about the game; I am COUNTING ON YOU TO TEST
+      it.
+It should be challenging, but not incredibly hard. If you notice any
+glitches, or things you don’t like, compile them into a report so I can
+amend the copy I have as needed. On Grand Theft Hobo matters: I don’t
+recommend you use RPG Maker XP for it. No one on the Internet has been able
+to hack it yet, which prevents us from putting our own logo in the
+executable. Otherwise, keep going. Here’s the priority list for you:
+
+   1) TEST FGRPG AND REPORT ON IT BY SATURDAY, MAY 14!
+   2) Finish those comics I gave you! Otherwise, return them to me!
+   3) Make some storyline for Funny Guy Comic #300: The Revenge of the
+      Evilies!
+   4) Grand Theft Hobo, Grand Theft Hobo: Lice City, Grand Theft Hobo: Sand
+      Upanus
+
+      Now that that’s over, let me give you some more data on playing the
+FGRPG. The installer should work! It should put a shortcut on the desktop,
+a shortcut in the start menu under “FGComics Games,” and of course run
+properly. Controls:
+
+
+      • Any number key should open the Quest Menu. DO NOT TURN ON THE QUEST
+        MENU WHEN AN EVENT IS RUNNING.
+      • Escape opens main menu
+      • Arrow keys for movement
+      • Enter/Spacebar for action
+
+
+      And some additional stuff: Password for Cheats is 1234567. DON’T CHEAT
+BY USING THE MEGA STATUS CONDITIONS. I want accurate test results. You can,
+however, change FG’s sprite in the cheats. The ONLY time the sprite should
+change back is during an evolution. Otherwise, please note in your report.
+It would help to scratch notes while playing (what I do), and then
+letterize them later. Good luck, man!
+
+
+
+
+                                              Sincerely,
+
+
+                                              ____________________
+                                              Adam Young, President
+-----------------------
+[pic]
+
+
+
+                        Funny Guy Comics Corporation
+
+                              472 Highland Road
+                             Red Lion, PA 17356
+                            Adam Young, President
+                              www.fgcomics.com
+                            adamyoung@suscom.net

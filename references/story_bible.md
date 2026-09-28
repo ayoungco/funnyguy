@@ -48,6 +48,23 @@ The whole thing runs on real schoolyard history treated as continuity:
 - The RPG (`../funnyguyrpg`) was the creator's solo junior-high project;
   v1.0.4 shipped in 2005.
 
+## Continuity and RPG development context
+
+Creator clarification, 2026-09-28: the comics and RPG are **different timelines**.
+Do not reconcile their events, transformations, or character histories into one
+chronology. Shared names and concepts do not establish identical continuity.
+
+The RPG was early junior-high development work. The creator identifies substantial
+borrowed assets from *Devil Hunter: Seeker of Power* and describes the game as
+inheriting JRPG, *Final Fantasy*, and *Kingdom Hearts* influences through that lineage.
+This is creator-provided development context, not an asset-by-asset provenance audit.
+
+The creator is particularly proud of the snow level and city area. The currently
+deployed game's opening is difficult for new players to understand and represents
+the earliest, least mature part of its design, creating a barrier to the later work.
+Any future onboarding revision should take that progression into account; no
+specific redesign has yet been approved or implemented.
+
 ## Setting: Funnyland
 
 From `Miscellaneous Information 2012.odt`, in full, because it's short

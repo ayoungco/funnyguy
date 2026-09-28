@@ -1,0 +1,9 @@
+LOAD DATA LOCAL INFILE 'G:/Adam/FGComics/Website/database/export.csv' 
+	INTO TABLE FGComics.Comics FIELDS TERMINATED BY '|' lines terminated by '\n'
+    -- Put the numeric fields in user variables (names prefixed by @)
+    ( ComicID, ComicNumber, @PageNumber, Filename, Title, Transcript, Summary, 
+		Authors, @Code, FullTranscript, DatePublished
+    ) 
+    -- Now check for empty strings and set the numeric columns to null if they're found
+    set PageNumber = if(@PageNumber="", null, @PageNumber),
+        Code = if(@Code="", null, @Code);
