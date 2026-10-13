@@ -8,7 +8,7 @@ authors: ["Oliver"]
 transcript: |
   Finally, I've been hunting this one all DAY! Where did you get to little buddy
 pages:
-  - file: "306_halo_237.png"
+  - file: "306_halo_237.webp"
     page: 0
     width: 900
     height: 1184

@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Aaargh! Lemme out! Wild Amnimal Jr. SCRATCH Rawgg Slash Chop You poke it! I poked it last time! Poink Chomp Slash Oww Censored Rawgg s-scratch Sss
 pages:
-  - file: "284_the_breakout.png"
+  - file: "284_the_breakout.webp"
     page: 0
     width: 900
     height: 1183

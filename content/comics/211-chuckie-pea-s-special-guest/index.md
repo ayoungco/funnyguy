@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   Vroom Later
 pages:
-  - file: "211_chuckie_peas_special_guest.png"
+  - file: "211_chuckie_peas_special_guest.webp"
     page: 0
     width: 900
     height: 949

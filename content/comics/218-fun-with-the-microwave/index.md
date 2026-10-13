@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Beerta beerta BOOM! Huh? Beez My power is your- Zeet Victory! Teezat zrut Ulggh Meanwhile
 pages:
-  - file: "218_fun_with_the_microwave.png"
+  - file: "218_fun_with_the_microwave.webp"
     page: 0
     width: 900
     height: 1149

@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   A long time ago in a school far, far away
 pages:
-  - file: "058_the_origin_of_funny_guy.png"
+  - file: "058_the_origin_of_funny_guy.webp"
     page: 0
     width: 900
     height: 297

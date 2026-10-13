@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Collision Hey! You got rubber on my egg sandwich! Hey! You got egg sandwich on my rubber! Yum! ChomP! Poogue! It's an Egg McLion! Bleagh! Gasp! Thud thud Tssch! Tired of robbers breaking into your home? Then get
 pages:
-  - file: "276_fg_greatest_hits_humormercials.png"
+  - file: "276_fg_greatest_hits_humormercials.webp"
     page: 0
     width: 900
     height: 1397

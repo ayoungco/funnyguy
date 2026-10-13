@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   I'll take the buffet. Are you zure? Duh. Follow me, zen. Later
 pages:
-  - file: "270_slop_buffet.png"
+  - file: "270_slop_buffet.webp"
     page: 0
     width: 900
     height: 1185

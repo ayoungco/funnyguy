@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   Jr.! Where's my gas Super Soaker? I'm usin' it ta put out fireworks! Oh, okay. Wait a second
 pages:
-  - file: "197_flamboyant.png"
+  - file: "197_flamboyant.webp"
     page: 0
     width: 900
     height: 1393

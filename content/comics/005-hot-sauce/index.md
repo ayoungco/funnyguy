@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   That hot sauce gave me a hot butt. Hot sauce makes your butt on fire No wonder... AAAAA! Screeeeech! NO! Plasma Nitro Haleghluja! Potty-P's Disco Club Not again! The End
 pages:
-  - file: "005_hot_sauce.png"
+  - file: "005_hot_sauce.webp"
     page: 0
     width: 900
     height: 1331

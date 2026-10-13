@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Are you hiccuping? Me swallowed a beeper Well that isn't new
 pages:
-  - file: "089_do_not_swallow.png"
+  - file: "089_do_not_swallow.webp"
     page: 0
     width: 900
     height: 848

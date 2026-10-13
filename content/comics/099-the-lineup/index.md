@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Let's take a gas stop! Land Bridge City GAS STATION Later
 pages:
-  - file: "099_the_lineup.png"
+  - file: "099_the_lineup.webp"
     page: 0
     width: 900
     height: 1146

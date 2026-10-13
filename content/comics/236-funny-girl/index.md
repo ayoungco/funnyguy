@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   The open sea
 pages:
-  - file: "236_funny_girl.png"
+  - file: "236_funny_girl.webp"
     page: 0
     width: 900
     height: 1355

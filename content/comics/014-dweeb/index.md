@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Why did you hit me on the head? I thought you were a pokemon. Are you blind?! Yes! Then you're a D-W-E-E-B. What? DWEEB! I guess he is deaf too! The End
 pages:
-  - file: "014_dweeb.png"
+  - file: "014_dweeb.webp"
     page: 0
     width: 900
     height: 1735

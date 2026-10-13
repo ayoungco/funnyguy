@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Jawbreaker! KA-BOOM! Owchies Repair Man? Moon You got 5 minutes
 pages:
-  - file: "056_bomb_bash.png"
+  - file: "056_bomb_bash.webp"
     page: 0
     width: 900
     height: 1181

@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Hi! Ca'mon, laugh! 
 pages:
-  - file: "059_not_funny_world.png"
+  - file: "059_not_funny_world.webp"
     page: 0
     width: 900
     height: 573

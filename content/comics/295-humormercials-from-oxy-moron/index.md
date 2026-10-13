@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Hey folks! How ya doin'? APPLAUSE zzz flop zzz Uh, yeah, umm
 pages:
-  - file: "295_humormercials_from_oxymoron.png"
+  - file: "295_humormercials_from_oxymoron.webp"
     page: 0
     width: 900
     height: 1184

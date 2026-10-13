@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Transform to Super Funny Guy! Werr
 pages:
-  - file: "153_cheap_choppers_3.png"
+  - file: "153_cheap_choppers_3.webp"
     page: 0
     width: 900
     height: 1135

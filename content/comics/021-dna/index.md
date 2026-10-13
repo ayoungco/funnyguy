@@ -8,7 +8,7 @@ authors: ["Adam", "Pat"]
 transcript: |
   I gotta get to Potty-P's Boing! Slam! I'm here! HI! Want some Poo Cake? New! 'Course! Munch
 pages:
-  - file: "021_dna.png"
+  - file: "021_dna.webp"
     page: 0
     width: 900
     height: 965

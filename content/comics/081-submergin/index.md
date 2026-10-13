@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   I'll destroy ye wiva me stick. My h-honey s-stick! Flamethrower! Waaaa! Yeah! Zapper! Zap! Zerp! Sss
 pages:
-  - file: "081_submergin.png"
+  - file: "081_submergin.webp"
     page: 0
     width: 900
     height: 1184

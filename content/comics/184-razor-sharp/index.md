@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Wthwthwth Swooth Scythe Smack Spike whirlwind! Poke sheeth slash pwo coupon schlorp swish Look on the back! What? To be continued
 pages:
-  - file: "184_razor_sharp.png"
+  - file: "184_razor_sharp.webp"
     page: 0
     width: 900
     height: 640

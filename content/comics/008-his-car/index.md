@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Ahh... that went well... My car... Pt pt pt BOOM! Ahhh!!! Piece of junk! Kick Yeeeooww!!! The End
 pages:
-  - file: "008_his_car.png"
+  - file: "008_his_car.webp"
     page: 0
     width: 900
     height: 1633

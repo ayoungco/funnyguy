@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Thud-thud-thuud-thuud Later
 pages:
-  - file: "191_the_hermit_of_the_hills.png"
+  - file: "191_the_hermit_of_the_hills.webp"
     page: 0
     width: 900
     height: 959

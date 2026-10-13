@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Let's stay here for the night! Creeeak
 pages:
-  - file: "273_takin_the_stairs.png"
+  - file: "273_takin_the_stairs.webp"
     page: 0
     width: 900
     height: 1184

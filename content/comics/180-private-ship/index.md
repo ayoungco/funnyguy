@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   You get all this for four easy payments of $21,654 and 99c! Plus 300 dollars shipping and handling. AAA! Captain Captain's gotta go down with his ship!!! But
 pages:
-  - file: "180_private_ship.png"
+  - file: "180_private_ship.webp"
     page: 0
     width: 900
     height: 1177

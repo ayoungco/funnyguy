@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Crack We need some new stuff! Even the fish're bored. To the mall! Later
 pages:
-  - file: "253_the_mall_haul.png"
+  - file: "253_the_mall_haul.webp"
     page: 0
     width: 900
     height: 1102

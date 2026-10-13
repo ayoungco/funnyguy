@@ -8,7 +8,7 @@ authors: ["Adam", "Josh", "Steve"]
 transcript: |
   Sky Attack! POW! You really think you can hit me? Lock on! Miss Slam! Spike! Little help here? Should I, guys? Sure If you insist
 pages:
-  - file: "106_sharp_objects.png"
+  - file: "106_sharp_objects.webp"
     page: 0
     width: 900
     height: 1152

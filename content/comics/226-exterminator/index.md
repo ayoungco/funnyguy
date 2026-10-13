@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Outside I'll get you! Kratatatata kak kak kak kak kak Kraktata Neer neer neer! You've mocked me for the last time! Meet Mr. Death! And meet his twin! Boom boom Funnyland Yes! Abyss You missed! Escape! I'll take ya! No ya don't! I'll get ya! Arm cannons! Duck! Surrender! Never! gulp Mutate! poof! New FG Alert Super Insectoid Jr.! Eat goop! goosh Die! Ha! Revenge! To be continued
 pages:
-  - file: "226_exterminator.png"
+  - file: "226_exterminator.webp"
     page: 0
     width: 900
     height: 1359

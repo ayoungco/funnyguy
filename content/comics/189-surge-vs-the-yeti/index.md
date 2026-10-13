@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Zzzz
 pages:
-  - file: "189_surge_vs_the_yeti.png"
+  - file: "189_surge_vs_the_yeti.webp"
     page: 0
     width: 900
     height: 1107

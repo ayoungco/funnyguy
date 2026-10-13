@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Zap! HELP! I'll help, I have
 pages:
-  - file: "094_blind_horses.png"
+  - file: "094_blind_horses.webp"
     page: 0
     width: 900
     height: 1182

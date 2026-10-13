@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   I'm hungry A hot dog? STREACH! EKANS! Mommy! EKANS! CRACK!!! EK! Hello! What planet am I on? Earth Earth to Funny Guy! Hey, Fishead! I'm Misty! Wow! Hey! I'll take that! The End
 pages:
-  - file: "003_hungry.png"
+  - file: "003_hungry.webp"
     page: 0
     width: 900
     height: 1589

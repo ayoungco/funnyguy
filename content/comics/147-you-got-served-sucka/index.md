@@ -9,7 +9,7 @@ summary: "Inspired by a gym class I had."
 transcript: |
   Tennis! Elemental Funny Guy vs. Repair Man Repair Man's serve! Look look Serve what? THE TENNIS BALL! Oh! Here is your tennis ball! Nono, not like that! Like this! Pock Here it comes! Wham pock Guess I got him! Um, Mr. Evil Spack crack Ooo
 pages:
-  - file: "147_you_got_served_sucka.png"
+  - file: "147_you_got_served_sucka.webp"
     page: 0
     width: 900
     height: 1131

@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Rip SLAM! Later
 pages:
-  - file: "165_er.png"
+  - file: "165_er.webp"
     page: 0
     width: 900
     height: 1186

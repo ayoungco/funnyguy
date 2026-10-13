@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Gear 1 Gear 6 Brmmm! Later
 pages:
-  - file: "164_saving_repair_man.png"
+  - file: "164_saving_repair_man.webp"
     page: 0
     width: 900
     height: 1205

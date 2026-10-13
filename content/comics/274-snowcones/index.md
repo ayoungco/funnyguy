@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   gin! Schwll Pat Flop Rumb Dig! Leap Wham Soosh! A job well done! Or so you think, Target. Serious Man! Sword of Snow! Saber of Ice! Yarrr! Shatter sush Splat Jr.!?!?!?!?! Icicle Gun! Phoooo! Chuck x100! Shink Snowcones! Slurp Mine's lemon-flavored! What's yours? Uhhh... Chocolate! Sss... Hey, cool! Snowcones! What flavor? Chocolate! Lemon! Uhh... I think I'm gonna be sick. To be continued! 
 pages:
-  - file: "274_snowcones.png"
+  - file: "274_snowcones.webp"
     page: 0
     width: 900
     height: 1194

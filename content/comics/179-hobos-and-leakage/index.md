@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Boon! Boon! Fragile toss Sheew OW! Crack That's gonna hurt in the morning
 pages:
-  - file: "179_hobos_and_leakage.png"
+  - file: "179_hobos_and_leakage.webp"
     page: 0
     width: 900
     height: 1151

@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   BAROOM Ye-haww Uhhh
 pages:
-  - file: "129_the_adventure_begins.png"
+  - file: "129_the_adventure_begins.webp"
     page: 0
     width: 900
     height: 1141

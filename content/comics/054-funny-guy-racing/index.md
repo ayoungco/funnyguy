@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Green flag! Over boost! 700 MPH! Yeah! FINISH Oh, yeah! 1 2 3 The End
 pages:
-  - file: "054_funny_guy_racing.png"
+  - file: "054_funny_guy_racing.webp"
     page: 0
     width: 900
     height: 379

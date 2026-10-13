@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Flamethrower droids! Swassshh tish My ship! Later
 pages:
-  - file: "219_low_altitude_combat.png"
+  - file: "219_low_altitude_combat.webp"
     page: 0
     width: 900
     height: 1140

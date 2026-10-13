@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   Winter's here! Let's go get the tree! Screech Bob's Trees Meanwhile
 pages:
-  - file: "161_christmas_twig.png"
+  - file: "161_christmas_twig.webp"
     page: 0
     width: 900
     height: 1137

@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Hornet Man Wasp King ping Whoa! Thud swipe slash sching Die FG! Bzzzzzzzzzzzzzzzzzzzzzzz
 pages:
-  - file: "246_wasp_war.png"
+  - file: "246_wasp_war.webp"
     page: 0
     width: 900
     height: 1177

@@ -8,7 +8,7 @@ authors: ["Oliver"]
 transcript: |
   C'mon Jr., let's go play some baseball Oh Jr., pitch the ball! crack THE END! 
 pages:
-  - file: "308_dinger.png"
+  - file: "308_dinger.webp"
     page: 0
     width: 900
     height: 435

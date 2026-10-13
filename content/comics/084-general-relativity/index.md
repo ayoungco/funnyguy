@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Rainbow Aaa! FG Backpack Yeah! They went to the top of a big building
 pages:
-  - file: "084_general_relativity.png"
+  - file: "084_general_relativity.webp"
     page: 0
     width: 900
     height: 483

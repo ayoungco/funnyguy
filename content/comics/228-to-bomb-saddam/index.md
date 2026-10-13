@@ -9,7 +9,7 @@ summary: "Looking back, this comic and 229 are far too political for my taste. D
 transcript: |
   GO! Slime! Huh? Ring FG's watch Time to bomb Saddam Time to bomb Saddam! Clank Meanwhile
 pages:
-  - file: "228_to_bomb_saddam.png"
+  - file: "228_to_bomb_saddam.webp"
     page: 0
     width: 900
     height: 1147

@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Throw Boom! Ha! You missed me! Plumb BOOM! Sss
 pages:
-  - file: "080_gadgets.png"
+  - file: "080_gadgets.webp"
     page: 0
     width: 900
     height: 1115

@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   Yellow stuff! O
 pages:
-  - file: "233_retaliation.png"
+  - file: "233_retaliation.webp"
     page: 0
     width: 900
     height: 1110

@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Transform! Kafock kerfock New FG Ultimate Target! Battle! Target used Camera-guided Missile! Annihilation! That's a keeper. Bug Boy used Pincer! Clamp! Damage! Drop weapons! Plasma saber! Yarr! Huww
 pages:
-  - file: "227_bug_boys_barrage.png"
+  - file: "227_bug_boys_barrage.webp"
     page: 0
     width: 900
     height: 1253

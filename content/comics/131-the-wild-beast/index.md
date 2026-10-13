@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Vroom Park Let the wild beast loose! Pang Boom Bash Shlam Snatch Get your teddies ready, maggots. Warp To be continued
 pages:
-  - file: "131_the_wild_beast.png"
+  - file: "131_the_wild_beast.webp"
     page: 0
     width: 900
     height: 479

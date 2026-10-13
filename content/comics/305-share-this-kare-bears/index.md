@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Hybrid Hammer! Bong! Dissolve! Meanwhile
 pages:
-  - file: "305_share_this_kare_bears.png"
+  - file: "305_share_this_kare_bears.webp"
     page: 0
     width: 900
     height: 1200

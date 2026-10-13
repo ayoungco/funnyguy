@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Let's go on a road trip! But where to? Hmm
 pages:
-  - file: "256_mobile_home.png"
+  - file: "256_mobile_home.webp"
     page: 0
     width: 900
     height: 1183

@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   Fwoosh! Skrak Whew! Whoa! Finally! RM House Oh, that went well! SMASH! HONK! Later
 pages:
-  - file: "159_road_rash.png"
+  - file: "159_road_rash.webp"
     page: 0
     width: 900
     height: 1133

@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Bye Target! I'm going ta school! Yeah, whatever. Bus! CMG Hop Shove Hop Bob is a Bad seat I'm hungry! Hmm
 pages:
-  - file: "247_show_n_tell.png"
+  - file: "247_show_n_tell.webp"
     page: 0
     width: 900
     height: 1179

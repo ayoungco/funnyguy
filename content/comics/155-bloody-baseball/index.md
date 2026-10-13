@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Fart Speed! Fart Look out, dude! Spack Gulp Mmm
 pages:
-  - file: "155_bloody_baseball.png"
+  - file: "155_bloody_baseball.webp"
     page: 0
     width: 900
     height: 1186

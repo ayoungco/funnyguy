@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Die, Rebel. Beer Huh? BOOF flop Score one for the boys back home! Yours truly Daw, I hate this game Scotty Battlefront SUGA! Hmm, I wonder Let's play Silent Hill! NO! Net's play lightsabres! NO! Let's play C4s and M16s! Lightsabers!!! C4s! Hi
 pages:
-  - file: "303_bday_bash.png"
+  - file: "303_bday_bash.webp"
     page: 0
     width: 900
     height: 1167

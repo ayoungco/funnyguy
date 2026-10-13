@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   rummmble Looks like it's gonna rain
 pages:
-  - file: "265_meatloaf_crunch.png"
+  - file: "265_meatloaf_crunch.webp"
     page: 0
     width: 900
     height: 1167

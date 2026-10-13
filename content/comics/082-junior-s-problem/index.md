@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Fungus Force Field! Junior! Hop hop Later
 pages:
-  - file: "082_juniors_problem.png"
+  - file: "082_juniors_problem.webp"
     page: 0
     width: 900
     height: 1098

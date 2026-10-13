@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Walk the plank! Sploosh! Tug Moby Dork is mine! Snap Waahh! Help me! I can't swim! Waaah! 3 ft. Man, what a baby he is
 pages:
-  - file: "060_arr_matey.png"
+  - file: "060_arr_matey.webp"
     page: 0
     width: 900
     height: 1102

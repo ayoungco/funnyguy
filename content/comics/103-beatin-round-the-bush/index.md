@@ -8,7 +8,7 @@ authors: ["Adam", "Josh"]
 transcript: |
   Hahahaha! Crack! Crack! There he is, laughing as usual. Haha-cough-haha-cough
 pages:
-  - file: "103_beatin_round_the_bush.png"
+  - file: "103_beatin_round_the_bush.webp"
     page: 0
     width: 900
     height: 1109

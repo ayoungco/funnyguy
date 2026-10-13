@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   Ne ner da de da-daaa
 pages:
-  - file: "176_air_war.png"
+  - file: "176_air_war.webp"
     page: 0
     width: 900
     height: 1177

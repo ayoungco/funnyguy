@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   The torture has ended! You locked us in! Let's go home, guys! Later
 pages:
-  - file: "111_bustin_out.png"
+  - file: "111_bustin_out.webp"
     page: 0
     width: 900
     height: 1147

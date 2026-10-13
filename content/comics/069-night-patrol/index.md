@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Tip-toe Let's see what's in the fridge
 pages:
-  - file: "069_night_patrol.png"
+  - file: "069_night_patrol.webp"
     page: 0
     width: 900
     height: 1392

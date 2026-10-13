@@ -8,7 +8,7 @@ authors: ["Adam", "Josh"]
 transcript: |
   POW! Much much much later
 pages:
-  - file: "109_outnumbered.png"
+  - file: "109_outnumbered.webp"
     page: 0
     width: 900
     height: 689

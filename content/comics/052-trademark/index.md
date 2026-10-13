@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   FG That's not our trademark! Snap! Camera That's our trademark! Camptown Races! Ready.. Set... Go!!! Yehaww! Ben's My homemade meals smell great! They're awfully good. Crash! AAA! They were falling... Yes! Stops Falling Stuff Bang bang Missile Auxi Moron Lemme try! Okay. RR-R KA-BOOM! What?!? Master Funny Guy is evolving? Master Funny Guy to Superior Funny Guy! I said I'd be back! You'll never beat me! F.G. Powering Up Punch Fire Blast! Hot! Hot! Hot! Clash! Yes! Squash The End
 pages:
-  - file: "052_trademark.png"
+  - file: "052_trademark.webp"
     page: 0
     width: 900
     height: 1184

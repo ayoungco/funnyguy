@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
    Chop! Dig dig
 pages:
-  - file: "061_the_wish_tree.png"
+  - file: "061_the_wish_tree.webp"
     page: 0
     width: 900
     height: 943

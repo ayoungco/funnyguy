@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   I got to get dressed! LATER
 pages:
-  - file: "037_they_meet_again.png"
+  - file: "037_they_meet_again.webp"
     page: 0
     width: 900
     height: 442

@@ -8,7 +8,7 @@ authors: ["Oliver"]
 transcript: |
   Kare Bear Fun! Aha ha ha HA chk chk I know
 pages:
-  - file: "307_kare_bear_fun.png"
+  - file: "307_kare_bear_fun.webp"
     page: 0
     width: 900
     height: 539

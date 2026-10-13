@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Reer! Hisss spit Brummmzzzz! "Old Faithful" Boom! Sss
 pages:
-  - file: "271_old_faithful.png"
+  - file: "271_old_faithful.webp"
     page: 0
     width: 900
     height: 1182

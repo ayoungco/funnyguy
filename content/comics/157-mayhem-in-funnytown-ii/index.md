@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Uh, duh
 pages:
-  - file: "157_mayhem_in_funnytown_ii.png"
+  - file: "157_mayhem_in_funnytown_ii.webp"
     page: 0
     width: 900
     height: 1207

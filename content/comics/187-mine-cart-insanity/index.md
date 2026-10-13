@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   And I'm desperate enough to believe ya. Later
 pages:
-  - file: "187_mine_cart_insanity.png"
+  - file: "187_mine_cart_insanity.webp"
     page: 0
     width: 900
     height: 1176

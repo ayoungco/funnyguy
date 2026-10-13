@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Razor, can you watch Junior? Sure I'm going to Potty-P's! yeah! Potty-P's Spa and Disco Club Hmm
 pages:
-  - file: "076_he_doesnt_like_that_song.png"
+  - file: "076_he_doesnt_like_that_song.webp"
     page: 0
     width: 900
     height: 1181

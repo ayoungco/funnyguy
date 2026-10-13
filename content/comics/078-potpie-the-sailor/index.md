@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   It
 pages:
-  - file: "078_potpie_the_sailor.png"
+  - file: "078_potpie_the_sailor.webp"
     page: 0
     width: 900
     height: 1180

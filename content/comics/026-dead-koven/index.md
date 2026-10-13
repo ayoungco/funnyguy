@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   I need to get to the top of the forest! BOING! Splat! Got Duct Tape? Where am I? At the lab
 pages:
-  - file: "026_dead_koven.png"
+  - file: "026_dead_koven.webp"
     page: 0
     width: 900
     height: 1075

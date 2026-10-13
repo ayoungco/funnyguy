@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   This comic is Special Edition. Assembled from shorts written by Steve. Razor Funny Guy Speed Racer! !st! !st Last Speed Racer Can I get the car? Which one? Uncontinued
 pages:
-  - file: "144_snippets.png"
+  - file: "144_snippets.webp"
     page: 0
     width: 900
     height: 1244

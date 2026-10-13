@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   6 PRESS ZOOM! Later
 pages:
-  - file: "166_community_service.png"
+  - file: "166_community_service.webp"
     page: 0
     width: 900
     height: 1039

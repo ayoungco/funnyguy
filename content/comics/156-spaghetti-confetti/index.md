@@ -8,7 +8,7 @@ authors: ["Adam", "Pat"]
 transcript: |
   I gotta get dressed! ? Spaghetti Confetti Day! Free Cheap Choppers Inside Spaghetti! Cheap Choppers! Yes! FART!! BAND! Yes, I'm up! NO! Come da papa! KA-BOOB Ha, ha
 pages:
-  - file: "156_spaghetti_confetti.png"
+  - file: "156_spaghetti_confetti.webp"
     page: 0
     width: 900
     height: 896

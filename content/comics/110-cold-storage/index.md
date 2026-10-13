@@ -8,7 +8,7 @@ authors: ["Josh", "Adam"]
 transcript: |
   It's another Ice Age! I can tell it! W-w-we m-must t-take c-c-cover! Repair Man, what the heck are you doing? I rock spark Drawing myself. OOO! Later
 pages:
-  - file: "110_cold_storage.png"
+  - file: "110_cold_storage.webp"
     page: 0
     width: 900
     height: 882

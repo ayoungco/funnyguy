@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Oh, boy! We're next! This is the best day
 pages:
-  - file: "057_rollercoaster.png"
+  - file: "057_rollercoaster.webp"
     page: 0
     width: 900
     height: 709

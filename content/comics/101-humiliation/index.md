@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Stick Attack! You cads! Who you callin' cads?!?! Smaka smaka Whirl whirl Mommy Wham! Hey! OPEN Football-Making Shop Hammer
 pages:
-  - file: "101_humiliation.png"
+  - file: "101_humiliation.webp"
     page: 0
     width: 900
     height: 1155

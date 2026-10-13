@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Time to change the channel! Click Huh? Click click click click click Ba-Kroooow! Later
 pages:
-  - file: "229_justice_fg_style.png"
+  - file: "229_justice_fg_style.webp"
     page: 0
     width: 900
     height: 1163

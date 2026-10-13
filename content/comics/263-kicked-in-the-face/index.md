@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Boing POOM! Yaeh! Yaeh? What's yaeh? I dunno. Un-transform! Crank Chikow! Vroom Getting' dark. Better camp 'ere. Later
 pages:
-  - file: "263_kicked_in_the_face.png"
+  - file: "263_kicked_in_the_face.webp"
     page: 0
     width: 900
     height: 1194

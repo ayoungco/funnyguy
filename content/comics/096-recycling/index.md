@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Wehc
 pages:
-  - file: "096_recycling.png"
+  - file: "096_recycling.webp"
     page: 0
     width: 900
     height: 1048

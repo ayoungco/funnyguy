@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   We
 pages:
-  - file: "163_yield_to_spedestrians.png"
+  - file: "163_yield_to_spedestrians.webp"
     page: 0
     width: 900
     height: 1204

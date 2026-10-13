@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   And now a word from Auxi-Moron! CHOMP If you like images of Junior devouring things that can't be right
 pages:
-  - file: "173_an_epic_legacy.png"
+  - file: "173_an_epic_legacy.webp"
     page: 0
     width: 900
     height: 1151

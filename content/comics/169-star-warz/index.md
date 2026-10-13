@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   Blyblyblybly Star Wars Episode II Funny Guy Style Episode II ATTACK OF THE CLONES Blah blah blah yap blah dribble blah
 pages:
-  - file: "169_star_warz.png"
+  - file: "169_star_warz.webp"
     page: 0
     width: 900
     height: 1265

@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Sweet! Plasma Phaser Rifle Hostage Beer Boof Power Setting Kill Teleport Liberated! Hmm
 pages:
-  - file: "298_tuo_part_2.png"
+  - file: "298_tuo_part_2.webp"
     page: 0
     width: 900
     height: 1182

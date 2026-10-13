@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   C'mon Jr.! Let's go! Coming! Gotta take the TV! Later
 pages:
-  - file: "223_beach_campin.png"
+  - file: "223_beach_campin.webp"
     page: 0
     width: 900
     height: 1182

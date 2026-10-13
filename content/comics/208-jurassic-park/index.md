@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   Let's take a hike, Cowboy! Through Jurassic Park! Later
 pages:
-  - file: "208_jurassic_park.png"
+  - file: "208_jurassic_park.webp"
     page: 0
     width: 900
     height: 1183

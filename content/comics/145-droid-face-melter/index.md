@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   Sack Later
 pages:
-  - file: "145_droid_face_melter.png"
+  - file: "145_droid_face_melter.webp"
     page: 0
     width: 900
     height: 1159

@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Splat Butter Skoosht Bacon 100% fat EXPIRE 1516 Stick Later
 pages:
-  - file: "162_lard_cake.png"
+  - file: "162_lard_cake.webp"
     page: 0
     width: 900
     height: 512

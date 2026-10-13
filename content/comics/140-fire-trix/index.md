@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Fireworks Attack! Ha
 pages:
-  - file: "140_fire_trix.png"
+  - file: "140_fire_trix.webp"
     page: 0
     width: 900
     height: 1141

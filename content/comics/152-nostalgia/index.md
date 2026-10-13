@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Uncle Fred! Uncle Fred! Phoop! Come on out! Fly! Uncle Fred needs food! ZOOM Pook! Ow! I'm gonna take a walk. Be good, Jr.! Potty-P! Hmm
 pages:
-  - file: "152_nostalgia.png"
+  - file: "152_nostalgia.webp"
     page: 0
     width: 900
     height: 1023

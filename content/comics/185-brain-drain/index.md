@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   The Funny Guys were sucked into a warp portal! ? Halt! I am Gondor! Well, Gondor, how about some deodorant? I tried that! Wedgie! Now I shall sap your
 pages:
-  - file: "185_brain_drain.png"
+  - file: "185_brain_drain.webp"
     page: 0
     width: 900
     height: 1366

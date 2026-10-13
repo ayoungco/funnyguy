@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Spash spash spash Battle! Target used Sword of Sunburn! Beer Yar! Kwahara Owzers! Scratcha scratcha Dang. Jr. used Great Underwater Explosion bwop Hiya! It's Street Fighter! Street Fighter used Freeze Kick! Ka-freeze! Aw, man. Street Fighter used Ya-Think! Ya think ya think ya think ya think ya think ya think... Street Fighter used Great Flop! Crak! Yar! Whama whama whama Kik I win! C'mon guys! Let's go get something to eat!
 pages:
-  - file: "268_fight_water_with_water.png"
+  - file: "268_fight_water_with_water.webp"
     page: 0
     width: 900
     height: 1183

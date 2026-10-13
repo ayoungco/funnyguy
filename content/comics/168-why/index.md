@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   Repair Man turned into a hobo! WHY?! Bopbopbopbopbop Dump WHY!?! Eggs Plot! Why!? Why?!? Swing
 pages:
-  - file: "168_why.png"
+  - file: "168_why.webp"
     page: 0
     width: 900
     height: 1210

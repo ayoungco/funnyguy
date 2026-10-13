@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Sssh A great day for a vacation! 6 hours later
 pages:
-  - file: "212_beach_day.png"
+  - file: "212_beach_day.webp"
     page: 0
     width: 900
     height: 1109

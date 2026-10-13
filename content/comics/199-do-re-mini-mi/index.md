@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   Where we begin, the Evilies created an enemy for Jr., a chocolate fueled Mini-Mi Good Evil chocolate Kids shouldn't have chocolate! Snatch Chomp Mmph! Mmph! C'mon! Let's go get some chocolate! Vroom At the candy store
 pages:
-  - file: "199_doreminimi.png"
+  - file: "199_doreminimi.webp"
     page: 0
     width: 900
     height: 1180

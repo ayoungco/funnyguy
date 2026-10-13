@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   Leaving the stratosphere Looks like you could use destruction
 pages:
-  - file: "217_space_wars.png"
+  - file: "217_space_wars.webp"
     page: 0
     width: 900
     height: 1397

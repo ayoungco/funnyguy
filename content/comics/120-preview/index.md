@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   All right, listen up! I'm going to go investigate S. Man's abandoned facility. If I press this button, come immediately! OK Later! What is that? Smells like Repair Man! AA! This comic is a preview of the new adventure! The End
 pages:
-  - file: "120_preview.png"
+  - file: "120_preview.webp"
     page: 0
     width: 900
     height: 648

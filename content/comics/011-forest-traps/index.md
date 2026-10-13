@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Ahh... a great day...Grrr... Get me down you... Bang! Fart FART KA-BOOM! Dead leaves Wood FART HEELLLPP! (3 ft.) The End
 pages:
-  - file: "011_forest_traps.png"
+  - file: "011_forest_traps.webp"
     page: 0
     width: 900
     height: 1761

@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   That was a stupid car. Potty-P's Disco Club Closed I wonder what's going on? Hello? Employees Only Please Don't Come In Hmm... Ahhh!!! Shake it out! Big butt, so what! Snap! Crack! The End
 pages:
-  - file: "009_employees_only.png"
+  - file: "009_employees_only.webp"
     page: 0
     width: 900
     height: 1526

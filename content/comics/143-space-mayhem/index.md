@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   Lunch Break! This astronaut food isn't so bad! Uh, that's toothpaste Jr. Can I play with that? No. This? No. Ooo
 pages:
-  - file: "143_space_mayhem.png"
+  - file: "143_space_mayhem.webp"
     page: 0
     width: 900
     height: 1207

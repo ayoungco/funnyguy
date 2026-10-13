@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Round 1 Good Elemental Funny Guy Razor Funny Guy Xtreme Funny Guy Potty-P Auxi-Moron Funny Guy Junior and Timetravel Funny Guy Leprechaun Funny Guy Olympian Funny Guy The MONKEY The "Evil" Scientist Chop-Chop Funny Guy Sock-Em Funny Guy Ninja Funny Guy Patriotic Funny Guy Target Funny Guy Psychic Funny Guy Evil Serious MAN Repair Man Man Man Man I rock KOVEN Mr. Evil Mr. It Bowler Guy (Drumroll please) btbtbtbtbtbtbtbtbt... LET THE COUNTDOWN BEGIN!!!! 10! 9! 8! 7! 6! 5! 4! 3! 2! 1!!!!!!!!!!!!!!!!! DING! Let the battle begin!! TO BE CONTINUED!
 pages:
-  - file: "132_battle_introductions.png"
+  - file: "132_battle_introductions.webp"
     page: 0
     width: 900
     height: 638

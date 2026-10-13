@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   It's Gibbrsh! Performed by the new hot rapper
 pages:
-  - file: "279_gibbrsh.png"
+  - file: "279_gibbrsh.webp"
     page: 0
     width: 900
     height: 1346

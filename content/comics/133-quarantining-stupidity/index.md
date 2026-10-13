@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   PANG! Toss BOOM! You know what S. Man? What? You don' look so good! Gulp Later
 pages:
-  - file: "133_quarantining_stupidity.png"
+  - file: "133_quarantining_stupidity.webp"
     page: 0
     width: 900
     height: 1138

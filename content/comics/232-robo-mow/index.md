@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Phew! We need a new Robo Mower! Purchase! Next day
 pages:
-  - file: "232_robo_mow.png"
+  - file: "232_robo_mow.webp"
     page: 0
     width: 900
     height: 1103

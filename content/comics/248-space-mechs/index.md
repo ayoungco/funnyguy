@@ -7,11 +7,11 @@ series_id: 1
 transcript: |
   Beginning final sweep of FG Metropolis. View from starfighter looks okay
 pages:
-  - file: "248_space_mechs.png"
+  - file: "248_space_mechs.webp"
     page: 1
     width: 900
     height: 1332
-  - file: "248_space_mechs_pg2.png"
+  - file: "248_space_mechs_pg2.webp"
     page: 2
     width: 900
     height: 997

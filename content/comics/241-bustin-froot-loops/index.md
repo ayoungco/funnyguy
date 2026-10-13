@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   rrrrrrrrrrrrwww Boom rww screee Boof clatch BPLANG thud You idiot! Where's your license? Chlap Do you hav one? Yeah! See? Pop Toocan Sam Froot Loops "I follow my nose!" VOID Where's you get this? Moof foof froop fos munch munch Unmuffled 'the fruit loop box!' Toocan Sam... snap Smarts! That's me! shred rip tear Glue Gun glue gun Smear whoo license parts The End
 pages:
-  - file: "241_bustin_froot_loops.png"
+  - file: "241_bustin_froot_loops.webp"
     page: 0
     width: 900
     height: 1355

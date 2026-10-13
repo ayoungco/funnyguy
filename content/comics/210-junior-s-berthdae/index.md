@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Guess what day it is?! Boing Lock you in your bedroom day. Lock No
 pages:
-  - file: "210_juniors_berthdae.png"
+  - file: "210_juniors_berthdae.webp"
     page: 0
     width: 900
     height: 1184

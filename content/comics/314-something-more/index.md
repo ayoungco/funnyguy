@@ -8,7 +8,7 @@ authors: ["Oliver"]
 transcript: |
   One day, while Target was playing PS2
 pages:
-  - file: "314_something_more.png"
+  - file: "314_something_more.webp"
     page: 0
     width: 900
     height: 1050

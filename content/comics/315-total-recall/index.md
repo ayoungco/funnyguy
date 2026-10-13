@@ -8,7 +8,7 @@ authors: ["Oliver"]
 transcript: |
   Boof! GUTZ! Cotton Puffy! No! Yes! No! Go away! Ahh! Ahhh! LATER
 pages:
-  - file: "315_total_recall.png"
+  - file: "315_total_recall.webp"
     page: 0
     width: 900
     height: 953

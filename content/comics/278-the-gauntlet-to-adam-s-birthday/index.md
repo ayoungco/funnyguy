@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Bang! Screeee Come to Adam's Birthday! This message will self-destruct in 15 seconds? Grasp Hold still! Shove biff thud Whoosh Later
 pages:
-  - file: "278_the_gauntlet_to_adams_birthday.png"
+  - file: "278_the_gauntlet_to_adams_birthday.webp"
     page: 0
     width: 900
     height: 1060

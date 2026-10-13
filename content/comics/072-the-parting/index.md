@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   We gotta leave
 pages:
-  - file: "072_the_parting.png"
+  - file: "072_the_parting.webp"
     page: 0
     width: 900
     height: 1180

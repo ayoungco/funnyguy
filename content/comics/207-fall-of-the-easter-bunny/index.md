@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   The Bunny's Tree! Tweety Later
 pages:
-  - file: "207_fall_of_the_easter_bunny.png"
+  - file: "207_fall_of_the_easter_bunny.webp"
     page: 0
     width: 900
     height: 1181

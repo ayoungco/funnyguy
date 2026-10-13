@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   We're moving to the Jungle, Junior. Later
 pages:
-  - file: "075_movin.png"
+  - file: "075_movin.webp"
     page: 0
     width: 900
     height: 375

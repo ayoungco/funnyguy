@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Bzat! Later
 pages:
-  - file: "105_wrath_of_the_elements.png"
+  - file: "105_wrath_of_the_elements.webp"
     page: 0
     width: 900
     height: 1182

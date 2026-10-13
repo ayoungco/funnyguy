@@ -6,7 +6,7 @@ book_id: 6
 series_id: 1
 authors: ["Adam"]
 pages:
-  - file: "202_halitosis.png"
+  - file: "202_halitosis.webp"
     page: 0
     width: 900
     height: 1181

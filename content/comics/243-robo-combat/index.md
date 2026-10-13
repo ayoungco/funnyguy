@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   bzzzz kram Krrrr Sizz ready to giv up Jr.!? NEVER! Kili- Brow! Plang krakkaka Kwahara! Wa
 pages:
-  - file: "243_robo_combat.png"
+  - file: "243_robo_combat.webp"
     page: 0
     width: 900
     height: 1554

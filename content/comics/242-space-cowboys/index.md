@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Yeeha! Uh oh! Repair Man, what're you going? Breaking the law of gravity! Flop Alright buster, you're busted! 
 pages:
-  - file: "242_space_cowboys.png"
+  - file: "242_space_cowboys.webp"
     page: 0
     width: 900
     height: 1021

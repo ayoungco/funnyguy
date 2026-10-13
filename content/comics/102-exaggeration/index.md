@@ -8,7 +8,7 @@ authors: ["Adam", "Josh"]
 transcript: |
   We'll be back soon! We'd better tell Inferno. Hey bro! Yeah? Serious Man's back. Be right over. Later
 pages:
-  - file: "102_exaggeration.png"
+  - file: "102_exaggeration.webp"
     page: 0
     width: 900
     height: 1132

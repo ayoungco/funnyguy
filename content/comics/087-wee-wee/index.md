@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Repair Man and Funny Guy were camping Gotta go! Go back to sleep! Repair Man kept asking
 pages:
-  - file: "087_wee_wee.png"
+  - file: "087_wee_wee.webp"
     page: 0
     width: 900
     height: 662

@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Mornin' Target! Cavity Crunch ? What are you doing this time, Jr
 pages:
-  - file: "252_free_cheap_junk.png"
+  - file: "252_free_cheap_junk.webp"
     page: 0
     width: 900
     height: 1106

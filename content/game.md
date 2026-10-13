@@ -10,7 +10,7 @@ title: "The Funny Guy RPG"
 
 <p>You've heard us talkin' about it... here it is. Built on the RPG Maker 2003 engine for maximum novelty value and coolness, this is a game you won't want to miss. Even if you have no idea what an RPG is, I have no doubt you'll enjoy yourself. It pokes fun at classic RPGs like Final Fantasy,  and even other RPG Maker 2003 games. Help Funny Guy find his brothers and team up against the hordes of Humorless and their elite masters... the Evilies themselves! </p> 
 
-<a class="button" href="/fgrpg/fgrpg-1.0.4-win.zip">Download for Windows<br /><span class="sub">23.6 MB .zip</span></a>
+<p class="button">Windows download coming soon<br /><span class="sub">being moved to a release</span></p>
 
 <h2>Game Controls</h2>
 <p align="center">Well you can't play a game if you don't know the controls! So here they are, in all their glory:</p>

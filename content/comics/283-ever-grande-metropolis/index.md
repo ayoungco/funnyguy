@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Look on front! Warp Thud Where in the name of humormercials are me? They're the ones. Get'm. Chk chk Kazzt I believe you don't know who we are
 pages:
-  - file: "283_ever_grande_metropolis.png"
+  - file: "283_ever_grande_metropolis.webp"
     page: 0
     width: 900
     height: 1178

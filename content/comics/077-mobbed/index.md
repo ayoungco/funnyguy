@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Serious Man Torture Buildin Just like old times
 pages:
-  - file: "077_mobbed.png"
+  - file: "077_mobbed.webp"
     page: 0
     width: 900
     height: 1183

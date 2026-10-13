@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Repair Man! You only have to answer two more questions to get the prize of your choice! Question 52: What is 2+2? Uhhhhhh
 pages:
-  - file: "174_investment.png"
+  - file: "174_investment.webp"
     page: 0
     width: 900
     height: 1182

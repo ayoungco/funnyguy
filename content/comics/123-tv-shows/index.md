@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Time 2 skate! Whoosh SLAM! Hokey ding-dong! Shzloom Next Day
 pages:
-  - file: "123_tv_shows.png"
+  - file: "123_tv_shows.webp"
     page: 0
     width: 900
     height: 1175

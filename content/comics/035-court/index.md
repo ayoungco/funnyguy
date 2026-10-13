@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   I am Judge Poopy. Koven BOOOO! And Funny Guy YAAAY! Order in the court! Crack Funny Guy has
 pages:
-  - file: "035_court.png"
+  - file: "035_court.webp"
     page: 0
     width: 900
     height: 1175

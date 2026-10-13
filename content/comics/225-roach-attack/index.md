@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   Ladybug! Snatch Clamp You'll be my new pet! Element, can I keep him? Sure
 pages:
-  - file: "225_roach_attack.png"
+  - file: "225_roach_attack.webp"
     page: 0
     width: 900
     height: 1289

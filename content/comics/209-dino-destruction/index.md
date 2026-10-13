@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Launch Tofu Ice Cream! Ice cream scoop Snap whizz Splat sluurp smack smack Kawt! (gag) Have mercy! Later
 pages:
-  - file: "209_dino_destruction.png"
+  - file: "209_dino_destruction.webp"
     page: 0
     width: 900
     height: 849

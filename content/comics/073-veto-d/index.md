@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Uh-oh! Junior! I'm going out to battle! Cut Tea? Sure! How many lumps? Oh, 3 or 4
 pages:
-  - file: "073_vetod.png"
+  - file: "073_vetod.webp"
     page: 0
     width: 900
     height: 1181

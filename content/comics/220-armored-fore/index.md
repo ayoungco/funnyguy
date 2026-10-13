@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   So, we meet again, Junior! I'll win dis time! GO! Yam Cannon! YAMS Sloshity Zakk Nooooooo!! Noooooooo!! NOOOOO!!!! My precious Karasawa! It's fried! Zik zap tzak Well, time for Plan B
 pages:
-  - file: "220_armored_fore.png"
+  - file: "220_armored_fore.webp"
     page: 0
     width: 900
     height: 1154

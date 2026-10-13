@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Tonite! Dunkin' Funny Guy vs. Repair Man he bought tickets! NO! Catch SLAM! Grap ZOOM Beeee! He walked, he traveled, he took too many steps! Cheerleaders To be continued
 pages:
-  - file: "113_first_quarter.png"
+  - file: "113_first_quarter.webp"
     page: 0
     width: 900
     height: 532

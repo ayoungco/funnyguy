@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Let the wild beast loose! Yee-haw! Ooo!!! BOOM! Owies! Carrot The trap for the beast! ?! Sniff
 pages:
-  - file: "097_laziness.png"
+  - file: "097_laziness.webp"
     page: 0
     width: 900
     height: 1153

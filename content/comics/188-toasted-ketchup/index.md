@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Boom Fighter 2 has lifted off! Over. Tst Boom!  Fighter 3, ready! Over. Tst Boom! Kranng Enemy fighters, straight ahead. Over. Tst Eject. Tst Shoop Fusion!!! Fooooshhh!! Zearrrrw! Boom! Boom! Boom! Later
 pages:
-  - file: "188_toasted_ketchup.png"
+  - file: "188_toasted_ketchup.webp"
     page: 0
     width: 900
     height: 1179

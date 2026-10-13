@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Ooo! Breakfast! MUD screw
 pages:
-  - file: "098_owned.png"
+  - file: "098_owned.webp"
     page: 0
     width: 900
     height: 1157

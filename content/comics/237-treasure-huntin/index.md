@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   See ya'll mates, I'm goin' treasure huntin'! Later
 pages:
-  - file: "237_treasure_huntin.png"
+  - file: "237_treasure_huntin.webp"
     page: 0
     width: 900
     height: 576

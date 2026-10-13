@@ -6,7 +6,7 @@ book_id: 8
 series_id: 1
 authors: ["Oliver"]
 pages:
-  - file: "312_interrogation.png"
+  - file: "312_interrogation.webp"
     page: 0
     width: 900
     height: 1185

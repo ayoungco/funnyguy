@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Bzzt! I've got a present
 pages:
-  - file: "079_apple_grenades.png"
+  - file: "079_apple_grenades.webp"
     page: 0
     width: 900
     height: 1180

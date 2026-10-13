@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Man, it's HOT! What was that? Diglett OWWW! MOMMY! ? Hey! Oh, it's REALLY HOT! FAR AWAY
 pages:
-  - file: "029_groundhog_day.png"
+  - file: "029_groundhog_day.webp"
     page: 0
     width: 900
     height: 868

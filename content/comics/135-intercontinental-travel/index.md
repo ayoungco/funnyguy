@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Help! Konk! Ooo
 pages:
-  - file: "135_intercontinental_travel.png"
+  - file: "135_intercontinental_travel.webp"
     page: 0
     width: 900
     height: 1141

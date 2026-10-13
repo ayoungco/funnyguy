@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Collision! Hey! You got mustard in my oatmeal! Hey! You got oatmeal in my mustard! Tastes good! It's the new cereal
 pages:
-  - file: "296_humormercials_from_oxymoron_part_2.png"
+  - file: "296_humormercials_from_oxymoron_part_2.webp"
     page: 0
     width: 900
     height: 1186

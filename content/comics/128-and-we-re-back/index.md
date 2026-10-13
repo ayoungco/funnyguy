@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Slam Boing Uh-oh
 pages:
-  - file: "128_and_were_back.png"
+  - file: "128_and_were_back.webp"
     page: 0
     width: 900
     height: 1140

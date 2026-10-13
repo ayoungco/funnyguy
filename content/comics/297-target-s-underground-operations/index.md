@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   Mission #1 Briefing: A mine excavating explosive minerals has been invaded by lawless
 pages:
-  - file: "297_targets_underground_operations.png"
+  - file: "297_targets_underground_operations.webp"
     page: 0
     width: 900
     height: 1184

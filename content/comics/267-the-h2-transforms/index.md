@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Aaa! Click Chif Popsh Ching Choof Chof Swong Chew Pofk Flip HUMMER Choof yea! H2 Look! Fwoshers Yaa! Eat fist! Zoom Shove Wooose Thooom! Rumba rumba Waa! Snif snif What a baby. Chof Plasma Saber! Bzzt Yarr! Swosh Kawiffle Grrrr
 pages:
-  - file: "267_the_h2_transforms.png"
+  - file: "267_the_h2_transforms.webp"
     page: 0
     width: 900
     height: 1191

@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   ? It's Ice Cream Day! FG VAN Bob's Cheap Ice Cream 50 Served Oh, no! NEW! Swirl Click Ssslurp! Eee tug!!! Eee pull!!! Uh oh! He'll get brainfreeze eventually
 pages:
-  - file: "083_ice_kweem.png"
+  - file: "083_ice_kweem.webp"
     page: 0
     width: 900
     height: 1395

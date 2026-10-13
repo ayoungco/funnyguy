@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Now approaching battle arena
 pages:
-  - file: "215_vendatta_arena.png"
+  - file: "215_vendatta_arena.webp"
     page: 0
     width: 900
     height: 731

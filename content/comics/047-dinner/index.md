@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Sharp! Time for dinner! FART Mmm... Pee Soda and Vomit Pizza! My specialty! 5 mins. Later... That was good! Yep! Hey, we haven't seen Potty-P! Let's go visit him in Potty-P World next! The End
 pages:
-  - file: "047_dinner.png"
+  - file: "047_dinner.webp"
     page: 0
     width: 900
     height: 540

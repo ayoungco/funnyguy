@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   SLAM! Funny Guy Wins!!! - The End -
 pages:
-  - file: "119_second_half.png"
+  - file: "119_second_half.webp"
     page: 0
     width: 900
     height: 479

@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   NO To be continued
 pages:
-  - file: "115_second_quarter.png"
+  - file: "115_second_quarter.webp"
     page: 0
     width: 900
     height: 211

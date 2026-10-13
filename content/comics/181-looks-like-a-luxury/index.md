@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Swipe Sword! Fire Large Missile! Pershew Jr.'s "A.C." BOOM! Vertical missiles! Wwoosh Later
 pages:
-  - file: "181_looks_like_a_luxury.png"
+  - file: "181_looks_like_a_luxury.webp"
     page: 0
     width: 900
     height: 1146

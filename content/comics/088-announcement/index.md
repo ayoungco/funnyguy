@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Hi kids! Before we start the 89th comic I want to tell you that the reason the comics are so small is because we're eager to start the 3rd book! But
 pages:
-  - file: "088_announcement.png"
+  - file: "088_announcement.webp"
     page: 0
     width: 900
     height: 205

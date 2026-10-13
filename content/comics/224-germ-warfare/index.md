@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Oh no! Jr.'s sick! What'll we do? Cannonball! Sploosh Achoo! Bid Brother! I'm really sick! O, kay
 pages:
-  - file: "224_germ_warfare.png"
+  - file: "224_germ_warfare.webp"
     page: 0
     width: 900
     height: 1348

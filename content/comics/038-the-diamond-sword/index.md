@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Clash! Yes! Meanwhile
 pages:
-  - file: "038_the_diamond_sword.png"
+  - file: "038_the_diamond_sword.webp"
     page: 0
     width: 900
     height: 1182

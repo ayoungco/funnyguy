@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Later
 pages:
-  - file: "244_me_want_honeycomb.png"
+  - file: "244_me_want_honeycomb.webp"
     page: 0
     width: 900
     height: 1179

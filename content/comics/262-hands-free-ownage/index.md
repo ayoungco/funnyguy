@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Hothead TimeT Leprechaun Illusion Junior vs. Go! TimeT used pause! Zerk Illusion used illusion! Twangle KOOM! Let's go. Shing stir stir Land o' Ponds Yaaaa! Butter butter butter Flop flop flop Whoo
 pages:
-  - file: "262_hands_free_ownage.png"
+  - file: "262_hands_free_ownage.webp"
     page: 0
     width: 900
     height: 1152

@@ -8,11 +8,11 @@ authors: ["Adam", "Steve"]
 transcript: |
   Welcome to the "Survivor" challenge! This year, our contestants are going to Repair Man's "house" to see if they can
 pages:
-  - file: "239_survivor_trashcan.png"
+  - file: "239_survivor_trashcan.webp"
     page: 1
     width: 900
     height: 1204
-  - file: "239_survivor_trashcan_pg2.png"
+  - file: "239_survivor_trashcan_pg2.webp"
     page: 2
     width: 900
     height: 1372

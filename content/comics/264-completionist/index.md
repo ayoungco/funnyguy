@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Change weapon! Boofgutzer Ka-chink Megaboofgutzer Start! Where are you
 pages:
-  - file: "264_completionist.png"
+  - file: "264_completionist.webp"
     page: 0
     width: 900
     height: 1162

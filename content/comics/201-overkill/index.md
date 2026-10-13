@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Roger, Target. Tst Shom swat fring pop pop Lock x2! Krong x2! Opening Over Boost Thrusters. Tst Now linking
 pages:
-  - file: "201_overkill.png"
+  - file: "201_overkill.webp"
     page: 0
     width: 900
     height: 1182

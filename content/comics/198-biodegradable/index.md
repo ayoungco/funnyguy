@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Ooahh! Ooahh! I'll save you! Gursh ping That was gas, wasn't it. Apparently, yes. Suddenly
 pages:
-  - file: "198_biodegradable.png"
+  - file: "198_biodegradable.webp"
     page: 0
     width: 900
     height: 1187

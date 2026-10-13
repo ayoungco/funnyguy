@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   Sss
 pages:
-  - file: "261_a_challenger_appears.png"
+  - file: "261_a_challenger_appears.webp"
     page: 0
     width: 900
     height: 1157

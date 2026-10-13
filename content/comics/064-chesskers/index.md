@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Hmm
 pages:
-  - file: "064_chesskers.png"
+  - file: "064_chesskers.webp"
     page: 0
     width: 900
     height: 1518

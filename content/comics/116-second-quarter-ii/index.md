@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   How does he do that? Yeah! DUNK! Later
 pages:
-  - file: "116_second_quarter_ii.png"
+  - file: "116_second_quarter_ii.webp"
     page: 0
     width: 900
     height: 642

@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   Jab Later
 pages:
-  - file: "138_awkwardness.png"
+  - file: "138_awkwardness.webp"
     page: 0
     width: 900
     height: 828

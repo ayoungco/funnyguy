@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   Oxymoron broadcasting live from
 pages:
-  - file: "193_telethon.png"
+  - file: "193_telethon.webp"
     page: 0
     width: 900
     height: 1182

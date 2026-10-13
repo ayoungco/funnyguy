@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Super Fungus Force Field! Bzzt! Where am I!? Hollywood. Ooo! Britney Spears! PANG! Scrape
 pages:
-  - file: "139_dna_paint.png"
+  - file: "139_dna_paint.webp"
     page: 0
     width: 900
     height: 1100

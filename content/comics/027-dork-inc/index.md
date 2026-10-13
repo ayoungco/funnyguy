@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   You fell in a hole! Koven He killed up the hole
 pages:
-  - file: "027_dork_inc.png"
+  - file: "027_dork_inc.webp"
     page: 0
     width: 900
     height: 444

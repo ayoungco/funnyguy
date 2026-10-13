@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Sorcerer F.G. vs. Debbie Eggs. DIE! Eggs. Fire
 pages:
-  - file: "254_egg_battle.png"
+  - file: "254_egg_battle.webp"
     page: 0
     width: 900
     height: 1180

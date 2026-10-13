@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   Ding! Ka-pow! That's gotta hurt Owchie Zoom! Oh, Brother! Help me, mommy. SHLAM Repair Man Mama had a baby and its head popped off! Back to boxing! Comet punch! Zzomm!!! Kranch! Fire Punch! Krom! Ice P-punch! Kreem! Annoying Punch! Shrink scramble scramble Punch punck punch punck To be continued!
 pages:
-  - file: "148_boxing_match.png"
+  - file: "148_boxing_match.webp"
     page: 0
     width: 900
     height: 823

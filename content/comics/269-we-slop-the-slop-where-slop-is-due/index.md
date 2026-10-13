@@ -9,7 +9,7 @@ summary: "The \"Ya Think\" attack is something from Soul Calibur, a combo that H
 transcript: |
   Let's eat there! Ze Chinese Buffet Later
 pages:
-  - file: "269_we_slop_the_slop_where_slop_is_due.png"
+  - file: "269_we_slop_the_slop_where_slop_is_due.webp"
     page: 0
     width: 900
     height: 1183

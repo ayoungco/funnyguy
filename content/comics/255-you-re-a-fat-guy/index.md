@@ -8,7 +8,7 @@ authors: ["Steve", "Adam"]
 transcript: |
   To the tune of Bob the Builder
 pages:
-  - file: "255_youre_a_fat_guy.png"
+  - file: "255_youre_a_fat_guy.webp"
     page: 0
     width: 900
     height: 1368

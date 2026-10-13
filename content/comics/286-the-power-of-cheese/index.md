@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Huphuphuphup
 pages:
-  - file: "286_the_power_of_cheese.png"
+  - file: "286_the_power_of_cheese.webp"
     page: 0
     width: 900
     height: 1181

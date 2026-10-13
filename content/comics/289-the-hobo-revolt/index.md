@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   (Crickets) The cannons are ready! Fire at will. Squirrel Thiwoosh Light Spark Choow Meanwhile
 pages:
-  - file: "289_the_hobo_revolt.png"
+  - file: "289_the_hobo_revolt.webp"
     page: 0
     width: 900
     height: 1178

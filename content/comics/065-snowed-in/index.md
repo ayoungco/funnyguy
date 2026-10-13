@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Oh my
 pages:
-  - file: "065_snowed_in.png"
+  - file: "065_snowed_in.webp"
     page: 0
     width: 900
     height: 1602

@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Hey Tub-a-Lard! Plubblublub Yum
 pages:
-  - file: "158_the_repair_man_experiment.png"
+  - file: "158_the_repair_man_experiment.webp"
     page: 0
     width: 900
     height: 1181

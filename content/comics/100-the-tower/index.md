@@ -8,7 +8,7 @@ authors: ["Josh", "Adam"]
 transcript: |
   There's 1 boss for everyone. Potty-P POW! Everybody loves Bubba! Scary face They battled all the bosses! Well, except for one
 pages:
-  - file: "100_the_tower.png"
+  - file: "100_the_tower.webp"
     page: 0
     width: 900
     height: 1174

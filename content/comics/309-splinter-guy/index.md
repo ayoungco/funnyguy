@@ -8,7 +8,7 @@ authors: ["Oliver"]
 transcript: |
   Jr.! Where are you Jr.? Jr.? Jr.? Are you back there Jr.? Ahhh! YA! yes, direct hit! Jr., you're a dead man! Uh-oh. Huh? Now where did he go? THE END
 pages:
-  - file: "309_splinter_guy.png"
+  - file: "309_splinter_guy.webp"
     page: 0
     width: 900
     height: 424

@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   2-nite at 5:00: Dunkin' Funny Guy vs. Repair Man! I'll buy tickets for me n' Razor! At 5:00
 pages:
-  - file: "093_basketball_game.png"
+  - file: "093_basketball_game.webp"
     page: 0
     width: 900
     height: 1180

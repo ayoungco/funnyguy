@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Yellow snow! Chomp! Auxi-Moron Chocolate Spray Ssss
 pages:
-  - file: "033_yellow_snow.png"
+  - file: "033_yellow_snow.webp"
     page: 0
     width: 900
     height: 1183

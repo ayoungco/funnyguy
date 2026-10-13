@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Woosh There's Humortopica. Tst Deploying landing gear. Tst Chew FG Touchdown!!! Bup bom Later
 pages:
-  - file: "290_preparation.png"
+  - file: "290_preparation.webp"
     page: 0
     width: 900
     height: 1181

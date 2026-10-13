@@ -8,7 +8,7 @@ authors: ["Adam", "Pat"]
 transcript: |
   Ahh
 pages:
-  - file: "019_gas.png"
+  - file: "019_gas.webp"
     page: 0
     width: 900
     height: 803

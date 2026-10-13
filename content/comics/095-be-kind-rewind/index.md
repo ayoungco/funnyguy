@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   The crowd is starting to tire of him! No! ? Grrr
 pages:
-  - file: "095_be_kind_rewind.png"
+  - file: "095_be_kind_rewind.webp"
     page: 0
     width: 900
     height: 1184

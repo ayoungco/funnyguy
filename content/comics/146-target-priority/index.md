@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Meanwhile
 pages:
-  - file: "146_target_priority.png"
+  - file: "146_target_priority.webp"
     page: 0
     width: 900
     height: 1156

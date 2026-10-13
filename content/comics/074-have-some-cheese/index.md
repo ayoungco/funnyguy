@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Fungus Force Field! Bounce Dash! Bounce Fungus Force Field! ZAP! ZAP! Here we go
 pages:
-  - file: "074_have_some_cheese.png"
+  - file: "074_have_some_cheese.webp"
     page: 0
     width: 900
     height: 1004

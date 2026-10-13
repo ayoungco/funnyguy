@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Let's go Mountain Climbin' Later
 pages:
-  - file: "251_mountain_climbing.png"
+  - file: "251_mountain_climbing.webp"
     page: 0
     width: 900
     height: 1106

@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   Super! Particle Accelerator! Koom-Patakarak! You may have destroyed all evil, but now I reamin
 pages:
-  - file: "142_ultimate_stupidity.png"
+  - file: "142_ultimate_stupidity.webp"
     page: 0
     width: 900
     height: 1196

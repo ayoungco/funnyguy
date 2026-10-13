@@ -9,7 +9,7 @@ summary: "I think I was REALLY hungry when I made this comic. Also, for those in
 transcript: |
   Italian Dance! Dadadaluuudadaluuudadada Atsamana, atsamana, atsamana for you
 pages:
-  - file: "112_food.png"
+  - file: "112_food.webp"
     page: 0
     width: 900
     height: 1151

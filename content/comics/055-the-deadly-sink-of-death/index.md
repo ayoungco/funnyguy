@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Once, there was a guy working at a hair company
 pages:
-  - file: "055_the_deadly_sink_of_death.png"
+  - file: "055_the_deadly_sink_of_death.webp"
     page: 0
     width: 900
     height: 1180

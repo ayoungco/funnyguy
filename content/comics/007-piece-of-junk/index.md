@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Snap! BIG BUTT SO WHAT Piece of junk! Junk! Junk!! Junk!!! BONK! BANG! Fix'd! The End
 pages:
-  - file: "007_piece_of_junk.png"
+  - file: "007_piece_of_junk.webp"
     page: 0
     width: 900
     height: 1585

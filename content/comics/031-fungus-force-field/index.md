@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Now to kill Koven! I can't get it out! Let me help you
 pages:
-  - file: "031_fungus_force_field.png"
+  - file: "031_fungus_force_field.webp"
     page: 0
     width: 900
     height: 1255

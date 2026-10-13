@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   I'm going on an adventure. Yes! It's Cave-man! *Science Alert* Cave-man evolved from Repair Man See fig. A Figure A The desert! ! Snoopy! Piece of Junk! Whoosh! The dutch are attacking! Hunga dinga dergen! Later
 pages:
-  - file: "091_into_the_desert.png"
+  - file: "091_into_the_desert.webp"
     page: 0
     width: 900
     height: 1106

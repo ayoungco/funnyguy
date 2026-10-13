@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   ADVISORY 
 pages:
-  - file: "282_rambulls.png"
+  - file: "282_rambulls.webp"
     page: 0
     width: 900
     height: 1090

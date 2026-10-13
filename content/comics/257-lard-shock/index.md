@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Lardy Items Hmm
 pages:
-  - file: "257_lard_shock.png"
+  - file: "257_lard_shock.webp"
     page: 0
     width: 900
     height: 1185

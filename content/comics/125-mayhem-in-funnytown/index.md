@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Let's get a new car! Weasly Ford Lookit that car! Let's buy it! That Excursion is not for sale! I am Osama bin Laden Eeew! Unmentionables! So whad'ja do? He said his name was er
 pages:
-  - file: "125_mayhem_in_funnytown.png"
+  - file: "125_mayhem_in_funnytown.webp"
     page: 0
     width: 900
     height: 1100

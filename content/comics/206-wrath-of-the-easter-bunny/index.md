@@ -9,7 +9,7 @@ summary: "We realize about halfway through making this comic that neither of us 
 transcript: |
   It's Easter, Jr.! Go to bed! Okay, whatever. Is Jr. asleep? Wait for it, wait for it
 pages:
-  - file: "206_wrath_of_the_easter_bunny.png"
+  - file: "206_wrath_of_the_easter_bunny.webp"
     page: 0
     width: 900
     height: 1181

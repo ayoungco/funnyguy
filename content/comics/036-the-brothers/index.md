@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Your pits stink! They do? Sniff sniff Potty-P's Hi! Why do my pits stink? Cause you eat pizza! Poo-Paint! Add to your collection of: Cheap Choppers Pee Pencils Crap Crayons Poo-Paint! A line! 2 hours Yeah! Now I have
 pages:
-  - file: "036_the_brothers.png"
+  - file: "036_the_brothers.webp"
     page: 0
     width: 900
     height: 1180

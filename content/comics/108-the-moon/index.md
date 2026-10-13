@@ -8,7 +8,7 @@ authors: ["Adam", "Josh"]
 transcript: |
   Fungus Force Field! Hey! AAA! Fart Boom Supernova! Let's take this battle to the moon! Real Funny Guy To be continued
 pages:
-  - file: "108_the_moon.png"
+  - file: "108_the_moon.webp"
     page: 0
     width: 900
     height: 477

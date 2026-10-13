@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Rar! Chomp Leap Thanks Junior! Stop where you are! Chk chk Dreeee
 pages:
-  - file: "285_jrs_secret_weapon.png"
+  - file: "285_jrs_secret_weapon.webp"
     page: 0
     width: 900
     height: 1184

@@ -8,7 +8,7 @@ authors: ["Adam", "Steve"]
 transcript: |
   (Back of H2) Let's put dis in! Care Bear Club Click Tsscht AAA! Who needs a Care Bear Club? We do! Chorus Scary clubs
 pages:
-  - file: "258_care_bear_clubs.png"
+  - file: "258_care_bear_clubs.webp"
     page: 0
     width: 900
     height: 1185

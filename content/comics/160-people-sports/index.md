@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   zzzz
 pages:
-  - file: "160_people_sports.png"
+  - file: "160_people_sports.webp"
     page: 0
     width: 900
     height: 1033

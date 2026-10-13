@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Potty-P's Disco Club Crack! BANG! Funny Guy Doll Real guy) Piece of Junk! Throw Bang! You dweeb! The End
 pages:
-  - file: "012_tree_troubles.png"
+  - file: "012_tree_troubles.webp"
     page: 0
     width: 900
     height: 1423

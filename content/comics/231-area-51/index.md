@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Huh? In other news, aliens have taken over Area 51, Nevada
 pages:
-  - file: "231_area_51.png"
+  - file: "231_area_51.webp"
     page: 0
     width: 900
     height: 1185

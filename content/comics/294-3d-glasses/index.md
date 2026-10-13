@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Chlam On, Element, Slick, Razor
 pages:
-  - file: "294_3d_glasses.png"
+  - file: "294_3d_glasses.webp"
     page: 0
     width: 900
     height: 1215

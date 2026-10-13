@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   Wham Spring is here! The sun is shining
 pages:
-  - file: "288_weed_destruction.png"
+  - file: "288_weed_destruction.webp"
     page: 0
     width: 900
     height: 1183

@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   This apology is the same as last time... But for the third book, not the second one. New, full page comics will be back beginning with comic 121! To be continued
 pages:
-  - file: "117_announcement_ii.png"
+  - file: "117_announcement_ii.webp"
     page: 0
     width: 900
     height: 203

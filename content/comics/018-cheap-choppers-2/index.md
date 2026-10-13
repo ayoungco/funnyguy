@@ -9,7 +9,7 @@ summary: "I had to point out the Evil Scientist in the first frame because reade
 transcript: |
   I'm toast dude! Evil Scientist But I'm not out! Flip What is this? Bag o' Stuff This Christmas Tree is too little. Huh? Where are my Cheap Choppers? My Cheap Choppers! How can I go to bed without them?! Now we'll see who gets picked last in baseball! Fart Is it just me or is the ground shaking? Crack! Slam! You dork! Bonk! Whoops! Slam Potty-P Closed Moved to Wedgie Town This is the way to get there Fart Bonk! Yes! Wedgie Town Potty-P Free Choppers Yes! Bye! Free Choppers To Funnytown! AAAH! Welcome Chopper Fans Evil Lab! Scientists No farting Fart You farted, weak glass! Welcome Funny Guy Fans! Super Funny Guy! The End
 pages:
-  - file: "018_cheap_choppers_2.png"
+  - file: "018_cheap_choppers_2.webp"
     page: 0
     width: 900
     height: 982

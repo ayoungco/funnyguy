@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Cook cook Ssss
 pages:
-  - file: "150_scrambled_eggs.png"
+  - file: "150_scrambled_eggs.webp"
     page: 0
     width: 900
     height: 832

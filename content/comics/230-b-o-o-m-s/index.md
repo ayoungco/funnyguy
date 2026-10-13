@@ -8,7 +8,7 @@ authors: ["Steve"]
 transcript: |
   Welcome to
 pages:
-  - file: "230_booms.png"
+  - file: "230_booms.webp"
     page: 0
     width: 900
     height: 1181

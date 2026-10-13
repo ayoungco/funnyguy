@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Huh? Razor Pop Weird Zerp Razor Funny Guy Scythe Funny Guy! Weird Huh? Hair gel Later
 pages:
-  - file: "171_updates_are_available.png"
+  - file: "171_updates_are_available.webp"
     page: 0
     width: 900
     height: 1211

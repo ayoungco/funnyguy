@@ -7,7 +7,7 @@ series_id: 1
 transcript: |
   This year, no one's getting my dog food recipe! Bleah!! Scrub scrub Wait
 pages:
-  - file: "068_new_pets.png"
+  - file: "068_new_pets.webp"
     page: 0
     width: 900
     height: 1181

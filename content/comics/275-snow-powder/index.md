@@ -8,7 +8,7 @@ authors: ["Adam"]
 transcript: |
   Surrdender, Jr.! Never! Phow Boing Collision! Grrrrrrrrrrrr
 pages:
-  - file: "275_snow_powder.png"
+  - file: "275_snow_powder.webp"
     page: 0
     width: 900
     height: 1200
