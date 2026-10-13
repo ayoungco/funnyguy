@@ -23,7 +23,15 @@ tx=list(recs(f,'phpbb_posts_text')); L=[len(r.get('post_text','')) for r in tx];
 u=list(recs(f,'phpbb_users')); print(' users',len(u),'with avatar',sum(1 for r in u if r.get('user_avatar')),'posts>100',sum(1 for r in u if int(r.get('user_posts','0'))>100))
 print(' top post counts',sorted((int(r.get('user_posts','0')) for r in u),reverse=True)[:8])
 g=f'{B}/old dbs/fgcomics_forums.sql'
-hdr=[l for l in open(g,encoding='latin-1') if l.startswith('-- ')][:6]; print(hdr)
-IP=list(recs(g,'ibf_posts')); print('IPB posts',len(IP),rng([r.get('post_date','') for r in IP]), 'topics',len(list(recs(g,'ibf_topics'))),'members',len(list(recs(g,'ibf_members'))),'forums',[(r.get('name','')[:30]) for r in recs(g,'ibf_forums')])
-print(' by year',sorted(collections.Counter(d(r['post_date'])[:4] for r in IP if r.get('post_date','').isdigit()).items()))
-print(' attachments',len(list(recs(g,'ibf_attachments'))),'pms',len(list(recs(g,'ibf_message_text'))))
+t=open(g,encoding='latin-1').read()
+def icols(tab):
+    m=re.search(r"CREATE TABLE `?"+tab+r"`? \((.*?)\n\) ",t,re.S); return [re.match(r"\s*`(\w+)`",l).group(1) for l in m.group(1).split('\n') if re.match(r"\s*`\w+`",l)]
+def irows(tab):
+    c=icols(tab)
+    for m in re.finditer(r"INSERT INTO `?"+tab+r"`? VALUES ?\((.*)\);\n",t):
+        v=[a if a!='' else b for a,b in Q.findall(m.group(1))]
+        if len(v)==len(c): yield dict(zip(c,v))
+IP=list(irows('ibf_posts')); ts=[int(r['post_date']) for r in IP if r['post_date'].isdigit()]
+print('IPB posts',len(IP),d(min(ts)),'->',d(max(ts)),'topics',len(list(irows('ibf_topics'))),'members',len(list(irows('ibf_members'))),'pms',len(list(irows('ibf_message_text'))))
+print(' forums',[(r['name'][:28],r['posts']) for r in irows('ibf_forums')])
+print(' by month',sorted(collections.Counter(d(x)[:7] for x in ts).items()))

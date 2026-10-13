@@ -56,6 +56,6 @@ with an opt-out.
 
 ## Reproduce
 
-`forum_phpbb_stats.py` (this directory) prints the counts above from an
-unpacked backup: `python3 -I forum_phpbb_stats.py "<unzipped>/_OFFLINE/backups"`.
+`forum_stats.py` (this directory) prints the counts above from an
+unpacked backup: `python3 -I forum_stats.py "<unzipped>/_OFFLINE/backups"`.
 It reads files only and prints aggregates.
