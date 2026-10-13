@@ -59,3 +59,16 @@ with an opt-out.
 `forum_stats.py` (this directory) prints the counts above from an
 unpacked backup: `python3 -I forum_stats.py "<unzipped>/_OFFLINE/backups"`.
 It reads files only and prints aggregates.
+
+## Normalized database
+
+`forum_normalize.py` merges both boards into one SQLite file with `forums`,
+`topics` and `posts` (source, ids, author name, timestamp, subject, raw body).
+It deliberately omits private messages, IPs, emails and password hashes. The
+output lives outside the repo at `~/fgcomics-originals/forum/forum.sqlite`.
+
+Result: phpBB 4,512 posts / 221 topics / 20 authors; IPB 4,123 posts / 189
+topics / 20 authors; no orphan posts and no empty bodies. Gotcha: some phpBB
+posts contain raw newlines, so the dump must be parsed by statement, not by line.
+Bodies are still raw (BBCode and IPB HTML with `<#EMO_DIR#>` smilies); the
+rendering step is next.
