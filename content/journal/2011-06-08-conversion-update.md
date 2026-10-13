@@ -1,0 +1,6 @@
+---
+title: "Conversion Update"
+date: 2011-06-08T18:12:36
+---
+
+<p>Here&#39;s an update on my current situation for those who are on the edge of their seats. :) Practically everything we had before the conversion is back up, plus the addition of Steve&#39;s &lt;i&gt;Kare Bear War&lt;/i&gt; comic book. Right now I am working on linking/integrating the home page and the forum with each other, so that you may use your forum controls freely throughout the site. Neat, huh? Once I am done with that, I&#39;ll move on to the big one, which is [b]comic/cartoon uploading exclusively for members.[/b] Eventually, we will have Trusted Members, who will be allowed to upload games and movies to the server. But what about that vacant, desolate section of the site, the Sagas section, for information on comic characters? We had that up at one time, when we were FGOAC (Ahh, good times), and kind of left the idea rot as we normally do to our good ideas. Luckily, being the packrat that I am, I saved the original FGOAC character bios from certain destruction on FreeHostz.com (FreeHostz was [b]hacked[/b] not too long ago :O ). Once I have the biography data as well as the character pictures I painstakingly drew and traced back in 6th grade in our database, I shall begin working my magic.  &br; &br;Have a safe and happy Christmas Vacation everyone&#33; ^_^</p>
