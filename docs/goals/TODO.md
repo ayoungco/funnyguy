@@ -1,6 +1,6 @@
 # Franchise TODO
 
-Moved from funnyguycomics/TODO.md (that repo is now publishing-only).
+Moved from funnyguycomics/TODO.md (that repo is being absorbed here; see docs/progress.md 2026-10-14).
 
 - [ ] Rescan the original comics on a flatbed at maximum resolution. The old scans are ~20 years old; the binder of originals in vinyl sleeves is still around. See `../ideas/rescans.md`.
 - [ ] Unify working graphics assets, including the .PSDs (lots of useful layers) and the original scans.

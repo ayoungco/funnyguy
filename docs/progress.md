@@ -2,6 +2,14 @@
 
 Running narrative of work on this project. Newest entries at the top.
 
+## 2026-10-14 — Consolidation: this repo becomes the authority; publish-only rule dropped
+
+**Decision:** supersedes the 2026-09-24 role split. `funnyguy` is the single
+authority repo for the whole series. The comics site, RPG, 2006 site, 2004
+FGOAC site, and forum resurrection live here (landing zone `repo/`, history
+preserved) and artifacts are deployed from this repo. `funnyguycomics` is no
+longer "publishing-only".
+
 ## 2026-09-24 — Repo roles split: funnyguy is the factory, comics is publishing-only
 
 **Decision:** all workflow/"factory" work for the whole franchise (rescans,
