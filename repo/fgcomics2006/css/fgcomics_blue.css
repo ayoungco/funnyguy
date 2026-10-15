@@ -1,0 +1,461 @@
+/*
+ _______ _______ _______            _               ______  _              
+(_______|_______|_______)          (_)             (____  \| |             
+ _____   _   ___ _       ___  ____  _  ____  ___    ____)  ) | _   _ _____ 
+|  ___) | | (_  | |     / _ \|    \| |/ ___)/___)  |  __  (| || | | | ___ |
+| |     | |___) | |____| |_| | | | | ( (___|___ |  | |__)  ) || |_| | ____|
+|_|      \_____/ \______)___/|_|_|_|_|\____|___/   |______/ \_)____/|_____)
+                                  
+ _______        _       _____ _         _           
+|__   __|      | |     / ____| |       | |          
+   | | _____  _| |_   | (___ | |_ _   _| | ___  ___ 
+   | |/ _ \ \/ / __|   \___ \| __| | | | |/ _ \/ __|
+   | |  __/>  <| |_    ____) | |_| |_| | |  __/\__ \
+   |_|\___/_/\_\\__|  |_____/ \__|\__, |_|\___||___/
+                                   __/ |            
+                                  |___/             
+*/
+
+/* Tag mods */
+a:link { font-family:Verdana, Arial, Helvetica, sans-serif; color:#3366CC; text-decoration: none; }
+a:visited { font-family:Verdana, Arial, Helvetica, sans-serif; color:#3366CC; text-decoration: none; }
+a:hover { font-family:Verdana, Arial, Helvetica, sans-serif; color:#3366FF; text-decoration: underline; }
+
+a.image:link { font-family:Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF; text-decoration: none; }
+a.image:visited { font-family:Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF; text-decoration: none; }
+a.image:hover { font-family:Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF; text-decoration: none; }
+
+/* Copyright link styles */
+a.copyrightlink:link { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; text-decoration: none; font-weight: lighter; color:#002449; letter-spacing:-1px; }
+a.copyrightlink:visited { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; text-decoration: none; font-weight: lighter; color:#002449; letter-spacing:-1px; }
+a.copyrightlink:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; text-decoration: underline; font-weight: lighter; color:#004182; letter-spacing:-1px; }
+
+/* Side links */
+a.mainlinks { font-family:Arial; font-size:13px; text-decoration: none; font-weight: bold; color:#002449; }
+a.mainlinks:hover { color : #002449; text-decoration : underline; }
+
+/* Text on SkinChanger */
+.skinchangerText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+/* News headline */
+.headline {
+	color: #002449;
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 18px;
+}
+
+/* Default text type [REMEMBER TO APPLY] */
+.textDefault {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #666666;
+}
+
+/* Copyright text on bottom page */
+.copyright {
+	text-align: center;
+	vertical-align: middle;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color:#666666;
+	letter-spacing: -1px;
+	line-height: 13px;
+}
+
+/* Side links 
+a.mainlinks { font-family:Arial; font-size:13px; text-decoration: none; font-weight: bold; color:#002449; }
+a.mainlinks:hover { color : #002449; text-decoration : underline; }
+
+/*
+ _                             _       _____  _____ _____ 
+| |                           | |     / ____|/ ____/ ____|
+| |     __ _ _   _  ___  _   _| |_   | |    | (___| (___  
+| |    / _` | | | |/ _ \| | | | __|  | |     \___ \\___ \ 
+| |___| (_| | |_| | (_) | |_| | |_   | |____ ____) |___) |
+|______\__,_|\__, |\___/ \__,_|\__|   \_____|_____/_____/ 
+              __/ |                                       
+             |___/        
+*/                                
+
+/* Little groove on side menu, use as a divider */
+.menuGroove {  
+  display: block;
+  width: 150px;
+  height: 8px;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-size: 10px;
+  background: url(../images/layout/groove.gif);
+}
+
+/* Left portion of top edge */
+.topBarLeft {
+  display: block;
+  width: 160px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background: url(../images/layout/topbar_left.gif);
+} 
+
+/* Left portion of bottom edge */
+.bottomBarLeft {
+  display: block;
+  width: 160px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background: url(../images/layout/btmbar_left.gif);
+} 
+
+/* Logo div tag class */
+.logo {   
+  display: block;
+  width: 300px;
+  height: 130px;
+  background: url(../images/layout/blue/logo.jpg); 
+}
+
+body {
+    background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+/* Top bar background image */
+.barBackground {
+	background-image: url(../images/layout/topbar_mid.gif);
+}
+
+/* Bottom bar background image */
+.barBackground2 {
+	background-image: url(../images/layout/btmbar_mid.gif);
+}
+
+/* Browser-wide main links spacing (CSS bottom margin) */
+.mainlinks_margin {
+	margin: 0 0 3px 0;
+}
+
+/* Header table background */
+.headBackground {
+	background-image: url(../images/layout/blue/head_background.gif);
+	background-repeat: repeat-x;
+}
+
+/* Submenu background color */
+.submenuColor {
+	background-color: #D6D6D6;
+}
+
+/* Top inside curve */
+.layoutCurve {   
+  display: block;
+  width: 160px;
+  height: 31px;
+  background-repeat: no-repeat;
+  background: url(../images/layout/curve3.gif); 
+}
+
+/* Bottom inside curve */
+.layoutCurve2 {   
+  display: block;
+  width: 160px;
+  height: 31px;
+  background: url(../images/layout/curve4.gif); 
+}
+
+/* Gradient that fades main menu into content area */
+.contentGrad {
+	background-image: url(../images/layout/gradient.gif);
+	background-repeat: repeat-x;
+}
+
+/*
+ _   _             _             _   _             
+| \ | |           (_)           | | (_)            
+|  \| | __ ___   ___  __ _  __ _| |_ _  ___  _ __  
+| . ` |/ _` \ \ / / |/ _` |/ _` | __| |/ _ \| '_ \ 
+| |\  | (_| |\ V /| | (_| | (_| | |_| | (_) | | | |
+|_| \_|\__,_| \_/ |_|\__, |\__,_|\__|_|\___/|_| |_|
+                      __/ |                        
+                     |___/                         
+*/
+
+/* MAIN NAVIGATION BUTTON: HOME */
+a.mainlinks_home {
+  background: url(../images/layout/blue/home_blue.gif) 0 0 no-repeat;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_home:hover {
+  background-position: -130px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_home:active {
+  background-position: -260px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+   
+/* MAIN NAVIGATION BUTTON: SAGAS */
+a.mainlinks_sagas {
+  background: url(../images/layout/blue/sagas_blue.gif) 0 0 no-repeat;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_sagas:hover {
+  background-position: -130px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_sagas:active {
+  background-position: -260px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+   
+/* MAIN NAVIGATION BUTTON: GAMES */
+a.mainlinks_games {
+  background: url(../images/layout/blue/games_blue.gif) 0 0 no-repeat;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_games:hover {
+  background-position: -130px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_games:active {
+  background-position: -260px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+   
+/* MAIN NAVIGATION BUTTON: TOONS & ECOMICS */
+a.mainlinks_toons {
+  background: url(../images/layout/blue/toons_blue.gif) 0 0 no-repeat;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_toons:hover {
+  background-position: -130px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_toons:active {
+  background-position: -260px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+   
+/* MAIN NAVIGATION BUTTON: FORUMS */
+a.mainlinks_forums {
+  background: url(../images/layout/blue/forums_blue.gif) 0 0 no-repeat;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_forums:hover {
+  background-position: -130px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+a.mainlinks_forums:active {
+  background-position: -260px 0;
+  display: block;
+  width: 130px; 
+  height: 25px;
+  text-decoration: none;
+   }
+   
+/*
+ ______                            _____  _____ _____ 
+|  ____|                          / ____|/ ____/ ____|
+| |__ ___  _ __ _   _ _ __ ___   | |    | (___| (___  
+|  __/ _ \| '__| | | | '_ ` _ \  | |     \___ \\___ \ 
+| | | (_) | |  | |_| | | | | | | | |____ ____) |___) |
+|_|  \___/|_|   \__,_|_| |_| |_|  \_____|_____/_____/ 
+
+*/
+
+/* General font families for common tags */
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif; }
+a:link,a:active,a:visited { color : #002449; }
+a:hover		{ text-decoration: underline; color : #004182; }
+hr	{ height: 0px; border: solid #000000 0px; border-top-width: 1px;}
+
+/* This is the border line & background colour round the entire page */
+.bodyline	{ background-color: #FFFFFF; border: 1px #98AAB1 solid; }
+
+/* This is the outline round the main forum tables */
+.forumline	{ background-color: #FFFFFF; border: 2px #006699 solid; }
+
+/* Main table cell colours and backgrounds */
+td.row1	{ background-color: #EFEFEF; }
+td.row2	{ background-color: #DEE3E7; }
+td.row3	{ background-color: #D1D7DC; }
+
+/*
+  This is for the table cell above the Topics, Post & Last posts on the index.php page
+  By default this is the fading out gradiated silver background.
+  However, you could replace this with a bitmap specific for each forum
+*/
+td.rowpic {
+		background-color: #FFFFFF;
+		background-image: url(../images/cellpic1.gif);
+		background-repeat: repeat;
+}
+
+/* Header cells - the blue and silver gradient backgrounds */
+th	{
+	color: #CEE4FF; font-size: 11px; font-weight : bold; 
+	background-color: #006699;
+	height: 25px;
+	background-image: url(../images/cellpic3.gif);
+}
+
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
+			background-image: url(../images/cellpic1.gif);
+			background-color: #D1D7DC; border: #FFFFFF; border-style: solid; height: 28px;
+}
+
+/*
+  Setting additional nice inner borders for the main table cells.
+  The names indicate which sides the border will be on.
+  Don't worry if you don't understand this, just ignore it :-)
+*/
+td.cat,td.catHead,td.catBottom {
+	height: 29px;
+	border-width: 0px 0px 0px 0px;
+}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
+	font-weight: bold; border: #FFFFFF; border-style: solid; height: 28px;
+}
+td.row3Right,td.spaceRow {
+	background-color: #D1D7DC; border: #FFFFFF; border-style: solid;
+}
+
+th.thHead,td.catHead { font-size: 12px; border-width: 1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow	 { border-width: 0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right	 { border-width: 0px 1px 0px 0px; }
+th.thLeft,td.catLeft	  { border-width: 0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width: 0px 1px 1px 1px; }
+th.thTop	 { border-width: 1px 0px 0px 0px; }
+th.thCornerL { border-width: 1px 0px 0px 1px; }
+th.thCornerR { border-width: 1px 1px 0px 0px; }
+
+/* The largest text used in the index page title and toptic title etc. */
+.maintitle	{
+	font-weight: bold; font-size: 22px; font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none; line-height : 120%; color : #000000;
+}
+
+/* General text */
+.gen { font-size : 12px; }
+.genmed { font-size : 11px; }
+.gensmall { font-size : 10px; }
+.gen,.genmed,.gensmall { color : #000000; }
+a.gen,a.genmed,a.gensmall { color: #006699; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover	{ color: #DD6900; text-decoration: underline; }
+
+/* The register, login, search etc on the side of the page */
+.mainmenu		{ font-size : 11px; color : #002449; }
+a.mainmenu		{ text-decoration: none; color : #002449; }
+a.mainmenu:hover{ text-decoration: underline; color : #004182; }
+
+.mainmenu_small		{ font-size : 10px; line-height: 10px; letter-spacing: -1px; color : #002449; }
+a.mainmenu_small		{ text-decoration: none; color : #002449;  }
+a.mainmenu_small:hover{ text-decoration: underline; color : #004182; }
+
+/* Forum category titles */
+.cattitle		{ font-weight: bold; font-size: 12px ; letter-spacing: 1px; color : #006699}
+a.cattitle		{ text-decoration: none; color : #006699; }
+a.cattitle:hover{ text-decoration: underline; }
+
+/* Forum title: Text and link to the forums used in: index.php */
+.forumlink		{ font-weight: bold; font-size: 12px; color : #006699; }
+a.forumlink 	{ text-decoration: none; color : #006699; }
+a.forumlink:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Used for the navigation text, (Page 1,2,3 etc) and the navigation bar when in a forum */
+.nav			{ font-weight: bold; font-size: 11px; color : #000000;}
+a.nav			{ text-decoration: none; color : #006699; }
+a.nav:hover		{ text-decoration: underline; }
+
+/* titles for the topics: could specify viewed link colour too */
+.topictitle,h1,h2	{ font-weight: bold; font-size: 11px; color : #000000; }
+a.topictitle:link   { text-decoration: none; color : #006699; }
+a.topictitle:visited { text-decoration: none; color : #5493B4; }
+a.topictitle:hover	{ text-decoration: underline; color : #DD6900; }
+
+/* Name of poster in viewmsg.php and viewtopic.php and other places */
+.name			{ font-size : 11px; color : #000000;}
+
+/* Location, number of posts, post date etc */
+.postdetails		{ font-size : 10px; color : #000000; }
+
+/* The content of the posts (body of text) */
+.postbody { font-size : 12px; line-height: 18px}
+a.postlink:link	{ text-decoration: none; color : #006699 }
+a.postlink:visited { text-decoration: none; color : #5493B4; }
+a.postlink:hover { text-decoration: underline; color : #DD6900}
+
+/* Quote & Code blocks */
+.code { 
+	font-family: Courier, 'Courier New', sans-serif; font-size: 11px; color: #006600;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #444444; line-height: 125%;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+/* Copyright and bottom info */
+.copyright		{ font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #444444; letter-spacing: -1px;}
+a.copyright		{ color: #444444; text-decoration: none;}
+a.copyright:hover { color: #000000; text-decoration: underline;}
+
+/* This is the line in the posting page which shows the rollover
+  help line. This is actually a text box, but if set to be the same
+  colour as the background no one will know ;)
+*/
+.helpline { background-color: #DEE3E7; border-style: none; }
+
+/* Import the fancy styles for IE only (NS4.x doesn't use the @import function) */
+@import url("templates/Elemental/formIE.css"); 
