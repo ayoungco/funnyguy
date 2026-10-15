@@ -6,4 +6,4 @@ public/
 *.sqlite
 *.sqlite3
 *.sql
-!data/fgcomics.sql
+!source/fgcomics.sql

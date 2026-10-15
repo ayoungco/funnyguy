@@ -8,6 +8,8 @@
     {{ with resources.Get "css/site.css" | minify | fingerprint }}
       <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
     {{ end }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .Permalink }}">{{ end }}
     <link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
   </head>
   <body>

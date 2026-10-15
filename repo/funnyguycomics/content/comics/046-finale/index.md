@@ -11,6 +11,8 @@ pages:
     page: 0
     width: 900
     height: 367
+aliases:
+  - "/46/"
 ---
 
 **Transcript**

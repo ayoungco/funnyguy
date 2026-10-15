@@ -16,6 +16,10 @@ pages:
     page: 2
     width: 900
     height: 1372
+aliases:
+  - "/239/"
+  - "/239/1/"
+  - "/239/2/"
 ---
 
 **Transcript**

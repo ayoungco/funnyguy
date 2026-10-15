@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <div class="container">
+    <div class="panel" style="background:url('{{ "img/nofun.jpg" | relURL }}') no-repeat top right; min-height:600px;">
+      <h1>404 Error!</h1>
+      <p>That comic isn't here. It may never have been.</p>
+      <a href="{{ "random/" | relURL }}"><h3>Care for a random comic?</h3></a>
+      <a href="{{ "" | relURL }}"><h3>Go back to the latest</h3></a>
+    </div>
+  </div>
+{{ end }}

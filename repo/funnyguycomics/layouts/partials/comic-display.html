@@ -8,12 +8,12 @@
       <div class="comic-meta__details">By {{ delimit . ", " " & " }}</div>
     {{ end }}
   </div>
-  {{ range sort .Params.pages "page" }}
+  {{ range $i, $p := sort .Params.pages "page" }}
     <div class="comic-image">
       {{ if gt (len $.Params.pages) 1 }}
-        <div class="comic-meta__details">Page {{ add .page 1 }}</div>
+        <div class="comic-meta__details">Page {{ add $i 1 }}</div>
       {{ end }}
-      <img src="{{ (printf "comics/%s" .file) | relURL }}" alt="{{ $.Title }}">
+      <img src="{{ (printf "comics/%s" $p.file) | relURL }}" alt="{{ $.Title }}">
     </div>
   {{ end }}
   {{ with .Params.transcript }}

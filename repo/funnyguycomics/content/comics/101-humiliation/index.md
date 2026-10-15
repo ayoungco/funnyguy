@@ -12,6 +12,8 @@ pages:
     page: 0
     width: 900
     height: 1155
+aliases:
+  - "/101/"
 ---
 
 **Transcript**

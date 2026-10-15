@@ -12,6 +12,8 @@ pages:
     page: 0
     width: 900
     height: 1209
+aliases:
+  - "/22/"
 ---
 
 **Transcript**

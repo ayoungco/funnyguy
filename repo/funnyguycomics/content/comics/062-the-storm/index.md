@@ -19,6 +19,11 @@ pages:
     page: 3
     width: 900
     height: 939
+aliases:
+  - "/62/"
+  - "/62/1/"
+  - "/62/2/"
+  - "/62/3/"
 ---
 
 **Transcript**

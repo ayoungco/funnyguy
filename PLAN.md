@@ -14,7 +14,7 @@ Decision log: `docs/progress.md` (2026-10-14). Detail docs: `docs/forums/`, `rep
 - [x] 1. Drop "publish-only" rule for comics
 - [x] 2. Import fgoac, fgcomics2006, funnyguyrpg, funnyguycomics into `repo/` with history
 - [x] 3. Catalog forum/site PSDs (`docs/forums/psd-template-catalog.md`)
-- [ ] 4. Reconcile local `~/src/fgcomics` (325 uncommitted edits) against `repo/funnyguycomics`; then retire clones
+- [x] 4. Reconcile local `~/src/fgcomics` (325 uncommitted edits) against `repo/funnyguycomics`; then retire clones
 - [ ] 5. Extract PSD layers (psd-tools venv): `dispersion_condensed`, `header_preliminary`, `new_design`
 - [ ] 6. Build phpBB 3.3 styles per era (2005 notebook header; 2006 dispersion chrome)
 - [ ] 7. Forum data: normalize dumps (done in comics repo), strip PMs/emails/IPs/hashes, import via phpBB convertor (2005) + custom (IPB 2006)

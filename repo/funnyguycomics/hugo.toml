@@ -1,5 +1,6 @@
-baseURL = 'https://www.funnyguycomics.com/'
+baseURL = 'https://www.fgcomics.com/'
 languageCode = 'en-us'
+enableRobotsTXT = true
 title = 'Funny Guy Comics'
 summaryLength = 70
 
@@ -15,6 +16,9 @@ siteDescription = 'Stick-figure comics about Funny Guy, his friends, and their a
   defaultMarkdownHandler = 'goldmark'
   [markup.goldmark.renderer]
     unsafe = true
+
+[outputFormats.RSS]
+  baseName = 'rss'
 
 [outputs]
   home = ['HTML', 'RSS']
