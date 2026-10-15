@@ -41,6 +41,8 @@ share and folder layout that no longer exists. Use the current
 instead of reconstructing old paths. New generated media belongs in `output/`;
 shared, reproducible data and methods belong in `data/` and `docs/`.
 
+> **Plan:** see [PLAN.md](PLAN.md). The sibling repos below now live under `repo/`.
+
 ## Related repos
 
 - [`../funnyguycomics`](../funnyguycomics) — Hugo archive of the original
