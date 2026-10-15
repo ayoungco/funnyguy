@@ -1,0 +1,427 @@
+@font-face {
+  font-family: "FunnyGuy";
+  src: url("/fonts/fgcomics.ttf") format("truetype");
+  font-display: swap;
+}
+
+:root {
+  color-scheme: light;
+  --fgc-red: #c00;
+  --fgc-red-dark: #900;
+  --fgc-black: #000;
+  --fgc-cream: #fffdf6;
+  --fgc-footer-brown: #442508;
+  --fgc-border: rgba(0, 0, 0, 0.12);
+  --fgc-page-max: 990px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-y: scroll;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: "FunnyGuy", "Cantarell", "Trebuchet MS", sans-serif;
+  background: var(--fgc-cream) url("/img/bg.webp") repeat;
+  background-attachment: fixed;
+  color: #1d1b1b;
+  letter-spacing: 1px;
+  font-size: 18px;
+  line-height: 1.5;
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  border: 0;
+  max-width: 100%;
+}
+
+a {
+  color: var(--fgc-red);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ---- Header ---- */
+
+#header {
+  background-image: url("/img/header_bg.webp");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: clamp(96px, 18vw, 176px);
+  text-align: center;
+  padding-top: clamp(0.5rem, 2vw, 1rem);
+}
+
+#logo {
+  display: block;
+  background-image: url("/img/logo_small.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: clamp(64px, 12vw, 124px);
+  width: min(90%, 600px);
+  margin: 0 auto;
+}
+
+.main-nav ul {
+  list-style: none;
+  margin: 0.5rem auto 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem;
+  max-width: var(--fgc-page-max);
+}
+
+.main-nav a {
+  display: inline-block;
+  border-radius: 6px;
+  background-color: var(--fgc-black);
+  color: #fff;
+  text-decoration: none;
+  font-size: clamp(0.9rem, 2vw, 1.3rem);
+  letter-spacing: 2px;
+  padding: 0.4rem 0.8rem 0.25rem;
+}
+
+.main-nav a:hover {
+  background-color: var(--fgc-red);
+  color: #fff;
+  text-decoration: none;
+}
+
+/* ---- Page body ---- */
+
+#page {
+  background-image: url("/img/nawful/pg_bg.png");
+  background-repeat: repeat-y;
+  background-position: center;
+  max-width: var(--fgc-page-max);
+  margin: 0 auto;
+  padding: 0 clamp(0.75rem, 3vw, 1rem);
+}
+
+main {
+  flex: 1;
+  padding: clamp(1rem, 3vw, 2rem) 0;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.panel {
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid var(--fgc-border);
+  border-radius: 10px;
+  padding: clamp(1rem, 3vw, 1.75rem);
+}
+
+.panel h1 {
+  margin-top: 0;
+  color: var(--fgc-red);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.panel + .comic-navigation,
+.panel + .comic-wrapper {
+  margin-top: 1.5rem;
+}
+
+/* ---- Comic display ---- */
+
+.comic-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
+.comic-meta {
+  text-align: center;
+  display: grid;
+  gap: 0.3rem;
+  justify-items: center;
+}
+
+.comic-meta__title {
+  font-size: clamp(1.5rem, 2vw + 1rem, 2.2rem);
+  letter-spacing: 2px;
+  color: var(--fgc-red-dark);
+}
+
+.comic-meta__details {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.comic-image {
+  width: 100%;
+  text-align: center;
+}
+
+.comic-image img {
+  display: inline-block;
+  height: auto;
+  border: 1px solid var(--fgc-border);
+  background: #fff;
+}
+
+.transcript-block {
+  margin-top: 1rem;
+  padding: clamp(0.75rem, 2vw, 1.25rem);
+  background: #ffc;
+  color: #333;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  width: 100%;
+}
+
+.transcript-block h2 {
+  margin-top: 0;
+  font-size: 1rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--fgc-red-dark);
+}
+
+/* ---- Comic navigation (responsive replacement for the old fixed-width sprite nav) ---- */
+
+.comic-navigation {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  justify-content: center;
+  width: 100%;
+}
+
+.comic-navigation a,
+.comic-navigation span {
+  flex: 1 1 auto;
+  min-width: 4.5rem;
+  text-align: center;
+  padding: 0.6rem 0.9rem;
+  border-radius: 6px;
+  background-color: var(--fgc-black);
+  color: #fff;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+}
+
+.comic-navigation a:hover {
+  background-color: var(--fgc-red);
+  text-decoration: none;
+}
+
+.comic-navigation span {
+  opacity: 0.35;
+}
+
+/* ---- Archive / listing ---- */
+
+.archive-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.archive-card {
+  padding: 1rem;
+  border: 1px solid var(--fgc-border);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.85);
+  display: grid;
+  gap: 0.6rem;
+}
+
+.archive-card h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  color: var(--fgc-red-dark);
+}
+
+.archive-links {
+  display: grid;
+  gap: 0.15rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+/* ---- Footer ---- */
+
+footer {
+  background-color: var(--fgc-footer-brown);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.15)), url("/img/nawful/footer.webp");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  margin-top: 3rem;
+  color: #fff;
+}
+
+#footer-layer {
+  max-width: var(--fgc-page-max);
+  margin: 0 auto;
+  padding: clamp(1rem, 4vw, 2.5rem) 1rem 1.5rem;
+  font-size: 0.9rem;
+}
+
+footer ul {
+  list-style: none;
+  margin: 0 0 1rem;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem;
+}
+
+footer ul a {
+  display: inline-block;
+  border-radius: 6px;
+  background-color: var(--fgc-black);
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 1.5px;
+  padding: 0.4rem 0.8rem 0.25rem;
+}
+
+footer ul a:hover {
+  background-color: var(--fgc-red);
+}
+
+footer a {
+  color: #fc9;
+}
+
+.bottomtext {
+  max-width: 46rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.copyright {
+  color: #fc9;
+  font-size: 0.85rem;
+  margin-top: 0.75rem;
+}
+
+/* ---- Legacy content-page utility classes (used by raw HTML in history.md / game.md) ---- */
+
+.content {
+  padding: 0 0.5rem;
+}
+
+.legible p,
+.legible ul {
+  font-family: "Cantarell", sans-serif;
+  letter-spacing: 0.5px;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.floatleftimg {
+  float: left;
+  margin: 0 1.25rem 0.75rem 0;
+  max-width: 45%;
+  height: auto;
+}
+
+.floatrightimg {
+  float: right;
+  margin: 0 0 0.75rem 1.25rem;
+  max-width: 45%;
+  height: auto;
+}
+
+.button {
+  display: inline-block;
+  background-color: var(--fgc-red-dark);
+  color: #fff;
+  font-weight: bold;
+  padding: 0.6rem;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: var(--fgc-red);
+  text-decoration: none;
+}
+
+.button .sub {
+  font-size: 0.8rem;
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+.table-scroll {
+  overflow-x: auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 100%;
+}
+
+table th,
+table td {
+  padding: 0.5rem 0.7rem;
+  border: 1px solid var(--fgc-border);
+  text-align: left;
+}
+
+@media (max-width: 700px) {
+  body {
+    font-size: 16px;
+  }
+  .main-nav a {
+    font-size: 0.85rem;
+    padding: 0.35rem 0.6rem 0.25rem;
+  }
+  .floatleftimg,
+  .floatrightimg {
+    float: none;
+    display: block;
+    max-width: 100%;
+    margin: 0 auto 0.75rem;
+  }
+  .comic-navigation a,
+  .comic-navigation span {
+    flex: 1 1 calc(33% - 0.4rem);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .main-nav a,
+  .comic-navigation a,
+  footer ul a {
+    transition: background-color 0.15s ease;
+  }
+}

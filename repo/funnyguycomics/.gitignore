@@ -1,0 +1,9 @@
+/vendor/*
+.DS_Store
+public/
+
+# forum data stays out of the public repo
+*.sqlite
+*.sqlite3
+*.sql
+!data/fgcomics.sql

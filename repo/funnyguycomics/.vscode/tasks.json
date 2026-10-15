@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Hugo: serve archive",
+      "type": "shell",
+      "command": "hugo server",
+      "group": "build",
+      "problemMatcher": []
+    }
+  ]
+}

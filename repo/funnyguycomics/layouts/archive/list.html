@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <div class="container">
+    <div class="panel" style="margin-bottom: 2rem;">
+      <h1>{{ .Title }}</h1>
+      {{ with .Content }}{{ . }}{{ end }}
+    </div>
+    <div class="archive-grid">
+      {{ $collections := sort site.Data.collections "sequence" "desc" }}
+      {{ $comics := where .Site.RegularPages "Section" "comics" }}
+      {{ range $collections }}
+        <article class="archive-card">
+          <h3>Book {{ .sequence }}: {{ .title }} ({{ .range_min }}–{{ .range_max }})</h3>
+          {{ with .description }}<p>{{ . }}</p>{{ end }}
+          <div class="archive-links">
+            {{ $byBook := sort (where $comics "Params.book_id" "eq" .id) "Params.comic_number" }}
+            {{ range $byBook }}
+              <a href="{{ .RelPermalink }}">#{{ printf "%03d" (.Params.comic_number | int) }} · {{ .Title }}</a>
+            {{ end }}
+          </div>
+        </article>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

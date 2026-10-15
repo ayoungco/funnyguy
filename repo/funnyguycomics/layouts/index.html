@@ -1,0 +1,11 @@
+{{ define "main" }}
+  {{ $latest := index (last 1 (sort (where .Site.RegularPages "Section" "comics") "Params.comic_number")) 0 }}
+  <div class="container">
+    <div class="panel" style="margin-bottom: 2rem;">
+      <h1>Latest Comic</h1>
+      <p>Explore the full archive of {{ len (where .Site.RegularPages "Section" "comics") }} comics created between 2000 and 2005.</p>
+    </div>
+    {{ partial "comic-navigation.html" $latest }}
+    {{ partial "comic-display.html" $latest }}
+  </div>
+{{ end }}
