@@ -1,0 +1,10 @@
+/* Dispersion: FGComics II chrome, rebuilt from dispersion_condensed.psd (2x -> 953px wide). */
+body{margin:0;background:#8a8a8a url(img/bggrad.png) repeat-x;font:13px Verdana,sans-serif;color:#222}
+#wrap{width:953px;margin:0 auto;padding-top:20px}
+#header{height:141px;background:url(img/header.png) no-repeat;position:relative}
+#header .logo{position:absolute;left:0;top:-10px}
+#nav{position:absolute;left:199px;top:107px;height:83px;width:703px;margin:-60px 0 0}
+#nav a{font:bold 15px "Comic Sans MS",cursive;margin-right:34px;text-decoration:none}
+#nav .blog{color:#e33}#nav .stuff{color:#e83}#nav .forum{color:#ec3}#nav .about{color:#3b3}#nav .submit{color:#35c}
+#page{background:url(img/page.png) repeat-y;padding:20px 40px;min-height:600px}
+#footer{height:85px;background:url(img/footer.png) no-repeat;color:#ccc;text-align:center;padding-top:30px}

@@ -15,10 +15,10 @@ Decision log: `docs/progress.md` (2026-10-14). Detail docs: `docs/forums/`, `rep
 - [x] 2. Import fgoac, fgcomics2006, funnyguyrpg, funnyguycomics into `repo/` with history
 - [x] 3. Catalog forum/site PSDs (`docs/forums/psd-template-catalog.md`)
 - [x] 4. Reconcile local `~/src/fgcomics` (325 uncommitted edits) against `repo/funnyguycomics`; then retire clones
-- [ ] 5. Extract PSD layers (psd-tools venv): `dispersion_condensed`, `header_preliminary`, `new_design`
-- [ ] 6. Build phpBB 3.3 styles per era (2005 notebook header; 2006 dispersion chrome)
+- [x] 5. Extract PSD layers (psd-tools venv): `dispersion_condensed`, `header_preliminary`, `new_design`
+- [ ] 6. Build phpBB 3.3 styles per era — dispersion chrome prototyped in `repo/forums/styles/dispersion/`; 2005 notebook header + phpBB3 wrapping remain
 - [ ] 7. Forum data: normalize dumps (done in comics repo), strip PMs/emails/IPs/hashes, import via phpBB convertor (2005) + custom (IPB 2006)
-- [ ] 8. Wayback: CDX inventory -> `archive/wayback/manifest.csv`; fetch captures of fgcomics.com/funnyguycomics.com; per-era route manifests
+- [ ] 8. (in progress; CDX API 429s, `archive/wayback/cdx_inventory.py` retries with long backoff) Wayback: CDX inventory -> `archive/wayback/manifest.csv`; fetch captures of fgcomics.com/funnyguycomics.com; per-era route manifests
 - [ ] 9. Deploy from this repo: repoint infra `static_site` to `repo/funnyguycomics`; apex/funnyguycomics.com -> www 301
 - [ ] 10. Archive old GitHub repos (`fgcomics`, and others after verifying) with pointer README
 - [ ] 11. Update README "Related repos" and portfolio docs in `../ayoung.co`
