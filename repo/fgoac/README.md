@@ -2,10 +2,10 @@
 
 The source for the FGOAC (Funny Guy Organized Association of Comics) website —
 the first site Adam Young ever built, in Macromedia Dreamweaver MX 2004, for
-his [funnyguycomics](https://github.com/ayoungco/funnyguycomics) FGOAC-era
+his [funnyguycomics](../funnyguycomics/) FGOAC-era
 webcomic. It's the successor to the original fgcomics.com incarnation
 (`fgcomics2006`) after the FGCI → FGOAC rename described in
-[`funnyguycomics`'s history page](https://github.com/ayoungco/funnyguycomics/blob/main/content/history.md).
+[`funnyguycomics`'s history page](../funnyguycomics/content/history.md).
 
 Static HTML pages (character bios, a store, a FAQ, comic pages, forums
 link-out, FGRPG game promotion) wired together by a Flash-based nav bar. No
