@@ -20,7 +20,7 @@ set -euo pipefail
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 GAME_DIR="$REPO_ROOT/game"
 WEB_DIR="$REPO_ROOT/web"
-DIST_DIR="$REPO_ROOT/dist/web"
+DIST_DIR="${DIST_DIR:-$REPO_ROOT/dist/web}"
 GAME_DIST_DIR="$DIST_DIR/games/default"
 PLAYER_REQUIRED=(
   "index.html"

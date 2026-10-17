@@ -5,8 +5,43 @@ This repo now holds a Hugo-powered static archive of the original Funny Guy Comi
 ## Getting started
 
 - `hugo server` – live preview at <http://localhost:1313> using the Hugo source in this repo.
-- `hugo --minify -d <dir>` – builds the site into `<dir>`. Build outside the repo (e.g. `/tmp/fgb`); `public/` is a stale, gitignored 2025 build of the old PHP site and must never be deployed.
+- `hugo --minify -d <dir>` – builds the comics site alone into `<dir>`. For the deployable site (with the game) use `scripts/build-site.sh` below.
 - Static assets live under `static/` (comics, images, fonts, downloads). All comic markdown lives in `content/comics/` with metadata generated from `fgcomics.sql`.
+
+## Build and deploy
+
+`scripts/build-site.sh [OUT]` (from the `funnyguy` repo root) builds the whole of
+www.fgcomics.com: the Hugo site plus the browser-playable FGRPG at `/game/play/`
+(EasyRPG web player from `repo/funnyguyrpg/web/`, game files from
+`repo/funnyguyrpg/game/`, `index.json` regenerated each build). Default `OUT` is
+`repo/funnyguycomics/public/` (gitignored). No PHP, no database.
+
+Forge (`divine-winter`), repo `ayoungco/funnyguy`, push-to-deploy, web directory `/public`:
+
+```sh
+$CREATE_RELEASE()
+cd $FORGE_RELEASE_DIRECTORY
+scripts/build-site.sh public
+$ACTIVATE_RELEASE()
+```
+
+Needs `hugo` (extended not required) on the server. Nginx additions for the site:
+
+```nginx
+# EasyRPG needs cross-origin isolation; keep it off the rest of the site.
+location /game/play/ {
+    add_header Cross-Origin-Opener-Policy same-origin always;
+    add_header Cross-Origin-Embedder-Policy require-corp always;
+    try_files $uri $uri/ =404;
+}
+# Old PNG comic URLs now serve WebP.
+location ~ ^/comics/(.+)\.png$ { try_files /comics/$1.webp =404; }
+```
+
+`/game/play` 301s to `/game/play/` (nginx does this for directories); the player
+resolves `games/default/` relative to the page, so the trailing slash matters.
+Both fgcomics.com and funnyguycomics.com point at this one site; canonical links
+name `www.fgcomics.com`.
 
 ## Data provenance
 
