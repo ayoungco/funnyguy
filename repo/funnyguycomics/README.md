@@ -21,13 +21,19 @@ Forge (`divine-winter`), repo `ayoungco/funnyguy`, push-to-deploy, web directory
 ```sh
 $CREATE_RELEASE()
 cd $FORGE_RELEASE_DIRECTORY
+export PATH="$HOME/.local/bin:$PATH"
 scripts/build-site.sh public
 $ACTIVATE_RELEASE()
 ```
 
-Needs `hugo` (extended not required) on the server. Nginx additions for the site:
+Needs `hugo` (extended not required). On divine-winter it is 0.162.1 in
+`~forge/.local/bin`. The Forge site's nginx replaces the PHP defaults:
+`location / { try_files $uri $uri/ =404; }`, `error_page 404 /404.html;`, no
+fastcgi block, plus:
 
 ```nginx
+# Archived .php pages are static HTML files now.
+location ~ \.php$ { default_type text/html; types { } try_files $uri =404; }
 # EasyRPG needs cross-origin isolation; keep it off the rest of the site.
 location /game/play/ {
     add_header Cross-Origin-Opener-Policy same-origin always;
