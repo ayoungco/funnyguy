@@ -1,0 +1,13 @@
+fgcomics.com early 90
+fgcomics.com late 443
+funnyguycomics.com early 0
+funnyguycomics.com retry in 90 s: HTTP Error 503: Service Unavailable
+funnyguycomics.com late 13
+funnyguy.com early 4467
+funnyguy.com late 739
+fgoac.com early 0
+fgoac.com retry in 90 s: HTTP Error 503: Service Unavailable
+fgoac.com retry in 180 s: HTTP Error 503: Service Unavailable
+fgoac.com retry in 360 s: HTTP Error 503: Service Unavailable
+fgoac.com late 0
+done 5667
