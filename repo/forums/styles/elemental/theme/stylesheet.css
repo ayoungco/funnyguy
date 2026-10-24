@@ -1,0 +1,49 @@
+/*  Elemental for phpBB3 -- FGComics' 2005 board look (blue/orange, cellpic gradients)
+    Child of prosilver: only colours and header/category backgrounds change.
+    Green and Red are children of this style that override the --el-* variables and images. */
+@import url("../../prosilver/theme/stylesheet.css");
+
+:root {
+	--el-link: #006699;
+	--el-hover: #DD6900;
+	--el-vlink: #5493B4;
+	--el-dark: #002449;
+	--el-head-text: #FFA34F;
+	--el-head: #006699;
+	--el-line: #98AAB1;
+	--el-bg: #E5E5E5;
+	--el-row1: #EFEFEF;
+	--el-row2: #DEE3E7;
+	--el-row3: #D1D7DC;
+}
+
+html, body { color: #000; background-color: var(--el-bg); }
+.wrap { background-color: #FFF; border-color: var(--el-line); }
+a { color: var(--el-link); }
+a:visited { color: var(--el-vlink); }
+a:hover { color: var(--el-hover); }
+h1, h2, h3 { color: var(--el-dark); }
+
+.headerbar, .forumbg, .forabg {
+	background-color: var(--el-head);
+	background-image: url("./images/cellpic3.gif");
+	background-repeat: repeat-x;
+	color: var(--el-head-text);
+}
+.headerbar h1, .headerbar p, .headerbar a { color: #FFF; }
+.forumbg .header, .forabg .header, .forumbg .header dt, .forabg .header dt,
+.forumbg .header dd, .forabg .header dd, .forumbg .header a, .forabg .header a,
+.forumbg .header span, .forabg .header span, table.table1 thead th, th a { color: var(--el-head-text); }
+.forumbg .header a:hover, .forabg .header a:hover, th a:hover { color: #FFF; }
+
+.navbar { background-color: var(--el-row3); background-image: url("./images/cellpic1.gif"); background-repeat: repeat-x; }
+.panel { background-color: var(--el-row2); color: #000; }
+.bg1, ul.zebra-list li:nth-child(odd), table.zebra-list tr:nth-child(odd) td { background-color: var(--el-row1); }
+.bg2, ul.zebra-list li:nth-child(even), table.zebra-list tr:nth-child(even) td { background-color: var(--el-row2); }
+.bg3 { background-color: var(--el-row3); }
+li.row { border-top-color: #FFF; border-bottom-color: var(--el-line); }
+li.row:hover { background-color: #FAFAFA; }
+li.row strong, .postbody, .content { color: #000; }
+.copyright { color: #806C59; }
+a.forumtitle, a.topictitle { color: var(--el-link); }
+a.forumtitle:hover, a.topictitle:hover { color: var(--el-hover); }
