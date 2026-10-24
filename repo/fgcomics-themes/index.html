@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FGComics Theme Archive</title>
+<link rel="stylesheet" href="base.css"><link id="theme" rel="stylesheet" href="">
+</head><body>
+<div id="switcher"><label>Theme <select id="pick"></select></label><button id="rand" type="button">Random</button><span id="meta"></span></div>
+<div id="wrap">
+  <div id="header"><div id="nav"><a href="#">Home</a><a href="#">The Comix</a><a href="#">Forums</a><a href="#">About</a></div></div>
+  <div id="content">
+    <h1>Latest comic</h1>
+    <div class="comic">[ comic image goes here ]</div>
+    <div class="cols">
+      <div><h2>News</h2><p>Placeholder text for the news column. This page is a mockup of an unreleased FGComics design, rebuilt from its original Photoshop comp.</p></div>
+      <div><h2>Links</h2><p><a href="#">Archive</a><br><a href="#">Extra Stuff</a><br><a href="#">History</a></p></div>
+    </div>
+  </div>
+  <div id="footer"></div>
+  <div id="bar">Copyright &copy; 2005 FGComics.com</div>
+</div>
+<script src="themes.js"></script>
+<script>
+const link = document.getElementById("theme"), pick = document.getElementById("pick"), meta = document.getElementById("meta");
+THEMES.forEach(t => pick.add(new Option(t.name, t.id)));
+function apply(id, save) {
+  const t = THEMES.find(x => x.id === id) || THEMES[0];
+  link.href = "themes/" + t.id + "/theme.css"; pick.value = t.id;
+  meta.textContent = t.era + " · " + t.source;
+  history.replaceState(null, "", "#" + t.id);
+  if (save) try { localStorage.setItem("fgtheme", t.id); } catch (e) {}
+}
+pick.onchange = () => apply(pick.value, true);
+document.getElementById("rand").onclick = () => {
+  const others = THEMES.filter(t => t.id !== pick.value);
+  apply(others[Math.floor(Math.random() * others.length)].id, true);
+};
+let start = location.hash.slice(1);
+try { start = start || localStorage.getItem("fgtheme"); } catch (e) {}
+apply(start || THEMES[Math.floor(Math.random() * THEMES.length)].id, false);
+</script>
+</body></html>

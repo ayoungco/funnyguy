@@ -1,0 +1,23 @@
+/* Shared layout for the 2005 "New Concept" chrome (700px column). A theme's theme.css
+   supplies --header, --footer, --footer-h, the nav pill box, text colors and bar. */
+* { box-sizing: border-box; }
+html { background: var(--page, #464646); }
+body { margin: 0; font: 13px/1.5 Verdana, Arial, sans-serif; color: var(--text, #ddd); }
+#wrap { width: 700px; margin: 0 auto; background: #464646; }
+#header { position: relative; height: 266px; background: var(--header) no-repeat top left; }
+#nav { position: absolute; top: var(--pill-top); left: var(--pill-left); width: var(--pill-width); height: 28px;
+  display: flex; justify-content: space-around; align-items: center; }
+#nav a { color: var(--nav, #1a1a1a); font-weight: bold; text-decoration: none; text-shadow: 0 1px 0 rgba(255,255,255,.7); }
+#nav a:hover { color: var(--accent); }
+#content { padding: 4px 28px 24px; min-height: 300px; }
+#content h1, #content h2 { color: var(--accent); font-size: 17px; margin: 18px 0 6px; }
+#content a { color: var(--accent); }
+.comic { height: 240px; border: 2px dashed #777; display: grid; place-items: center; color: #999; background: #3a3a3a; }
+.cols { display: flex; gap: 18px; }
+.cols > div { flex: 1; }
+#footer { height: var(--footer-h); background: var(--footer) no-repeat top left; }
+#bar { background: #333; color: #ddd; text-align: center; font-size: 11px; padding: 6px; display: var(--bar, none); }
+#switcher { position: fixed; top: 8px; left: 8px; z-index: 9; background: rgba(0,0,0,.8); color: #eee; padding: 6px 8px;
+  font: 12px Verdana, sans-serif; border-radius: 4px; display: flex; gap: 6px; align-items: center; }
+#switcher select, #switcher button { font: inherit; }
+@media (max-width: 720px) { #wrap { width: 100%; } #header, #footer { background-size: auto 100%; background-position: top center; } }

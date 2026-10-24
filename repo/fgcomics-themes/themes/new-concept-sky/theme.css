@@ -1,0 +1,3 @@
+/* 2005-11 "New Concept" sky-blue (New Concept.psd). Banner says "New layout coming soon..." */
+:root { --header: url(themes/new-concept-sky/img/header.png); --footer: url(themes/new-concept-sky/img/footer.png); --footer-h: 86px;
+  --pill-top: 185px; --pill-left: 87px; --pill-width: 526px; --accent: #8fc3e8; --bar: block; }
