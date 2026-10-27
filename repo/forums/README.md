@@ -11,7 +11,7 @@ See `PLAN.md`, `docs/forums/psd-template-catalog.md`.
 - Dev-only credentials: admin / `devadmin-change-me`, DB root `devonly-not-a-secret`. Never reuse for production.
 - `dev/phpBB3/` is the unpacked release (gitignored). The installer dir is removed after install, VigLink extension disabled.
 - Fresh start: `dev.sh reset && dev.sh up && dev.sh install`. Email is disabled, so reclaim emails need a local mail catcher (mailpit) before testing.
-- Private data lives at `/mnt/hdd/funnyguy/forum/forum_private.sqlite` (see `docs/forums/reclaim-database.md`); the dev DB will hold emails and PMs once imported, so keep it local.
+- Private data lives at `/mnt/hdd/projects/funnyguy/forum/forum_private.sqlite` (see `docs/forums/reclaim-database.md`); the dev DB will hold emails and PMs once imported, so keep it local.
 
 ### Elemental style (board default)
 

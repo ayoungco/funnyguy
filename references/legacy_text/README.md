@@ -104,7 +104,7 @@ after this copy — that's the point.
 
 ## hdd_import/
 
-Text pulled from `/mnt/hdd/funnyguy` (a second legacy dump): FGRPG help
+Text pulled from `/mnt/hdd/projects/funnyguy` (a second legacy dump): FGRPG help
 file, in-game guide pages (`rpg_guide/`), RPG Maker text-code and
 obfuscation notes, the FGRPG ad copy (author email redacted), the old
 forum rules, and `future_steam_release.md` (Steam redistribution research).

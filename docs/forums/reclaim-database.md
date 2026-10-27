@@ -1,6 +1,6 @@
 # Private reclaim database (2026-10-23)
 Built by `scripts/forum_reclaim_build.py` from the raw phpBB2 (Dec 2005) and IPB (Jan 2007) dumps into
-`/mnt/hdd/funnyguy/forum/forum_private.sqlite` (mode 600, **contains emails and PMs: never commit, never publish**).
+`/mnt/hdd/projects/funnyguy/forum/forum_private.sqlite` (mode 600, **contains emails and PMs: never commit, never publish**).
 Rebuild: unzip the two dumps from `FGComics - Website.zip` (`_OFFLINE/backups/`) to a scratch dir, run the script, delete the scratch dir (raw dumps hold hashes, IPs and PMs).
 
 ## Policy (decided with the owner)

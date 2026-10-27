@@ -51,7 +51,7 @@ FGComics: dispersion (2006), notebook header (2005-06), masthead gray banner, ne
 Other sites by you: Evil Scientist, Revenge/Hamlet, AAYM machine shop (Aura_1).
 
 ## Triage update 2026-10-23 — drive reorganized; 190 PSDs now in `/mnt/hdd/graphics/`
-**Path change:** `/mnt/hdd/assets/*` moved up to `/mnt/hdd/*` (e.g. `/mnt/hdd/funnyguy/FGComics - Website.zip`, `/mnt/hdd/graphics/*.psd`). Older docs citing `/mnt/hdd/assets` are stale. Full sweep of `/mnt/hdd/graphics` (258 PSDs incl. subfolders): `scripts/psd_contact_sheet.py`; layer export: `scripts/psd_layers.py` (needs `psd-tools` in a venv). Outputs in `output/psd_layers/<name>/` (gitignored): `composite.png`, `layers.json`, per-layer PNGs.
+**Path change:** `/mnt/hdd/assets/*` moved up to `/mnt/hdd/*` (e.g. `/mnt/hdd/projects/funnyguy/FGComics - Website.zip`, `/mnt/hdd/graphics/*.psd`). Older docs citing `/mnt/hdd/assets` are stale. Full sweep of `/mnt/hdd/graphics` (258 PSDs incl. subfolders): `scripts/psd_contact_sheet.py`; layer export: `scripts/psd_layers.py` (needs `psd-tools` in a venv). Outputs in `output/psd_layers/<name>/` (gitignored): `composite.png`, `layers.json`, per-layer PNGs.
 
 **New real FGComics comps found (all have live layers, extracted):**
 | PSD | Size | What it is |
@@ -65,7 +65,7 @@ The matching `New Concept (Small/Post) Buttons.psd` in the zip are dated 2005-11
 
 **Dropped:** `new_design.psd` is a 2011 blank white canvas with no layers (122 KB), not a comp. Remove it from the "needs extraction" list.
 **Also layered and extracted:** `dispersion_condensed` (31 layers), `header_preliminary` (2), `masthead` (8).
-**Other drive finds:** `7dzyne-design.psd` (brand logo, not a layout), `ayoung.co`/AYOUNG.CO and AA Young & Co "Fact No." graphics (ayoung.co brand), Flash sources (`header.fla`, `korea2.fla` etc. in `/mnt/hdd/graphics`, `Lucky Animals.fla` in `/mnt/hdd/funnyguy`) still unreviewed.
+**Other drive finds:** `7dzyne-design.psd` (brand logo, not a layout), `ayoung.co`/AYOUNG.CO and AA Young & Co "Fact No." graphics (ayoung.co brand), Flash sources (`header.fla`, `korea2.fla` etc. in `/mnt/hdd/graphics`, `Lucky Animals.fla` in `/mnt/hdd/projects/funnyguy`) still unreviewed.
 
 ### Revised FGComics theme list (PLAN step 15)
 1. Notebook header (2005-06, hand-lettered)  2. New Concept blue / green / sky / navy (late 2005; one chrome, four colorways = natural switcher demo)  3. OUTSIDEBOX purple tab  4. Dispersion (FGComics II, 2006)  5. Masthead gray banner.
